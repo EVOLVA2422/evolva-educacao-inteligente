@@ -13,7 +13,7 @@ body {
     align-items: center;
 }
 
-/* WALLPAPER */
+/* WALLPAPER - Gradiente suave (pode ser substituído por uma imagem) */
 body::before {
     content: "";
     position: fixed;
@@ -25,7 +25,35 @@ body::before {
     z-index: -2;
 }
 
+/* Opção com imagem (descomente e substitua a URL pela sua imagem) */
+/*
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('https://exemplo.com/sua-imagem.jpg') no-repeat center center fixed;
+    background-size: cover;
+    z-index: -2;
+}
+*/
+
+/* Overlay escuro para melhor contraste */
 body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+
+/* Logo no wallpaper (opcional, se quiser uma marca d'água) */
+body::before {
     content: "EVOLVA";
     position: fixed;
     top: 50%;
@@ -33,7 +61,7 @@ body::after {
     transform: translate(-50%, -50%);
     font-size: 15vw;
     font-weight: 900;
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.05);
     white-space: nowrap;
     text-transform: uppercase;
     letter-spacing: 20px;
@@ -42,38 +70,26 @@ body::after {
     animation: pulseLogo 4s ease-in-out infinite;
 }
 
-.wallpaper-subtitle {
-    position: fixed;
-    top: 65%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 2vw;
-    color: rgba(255, 255, 255, 0.08);
-    white-space: nowrap;
-    letter-spacing: 5px;
-    z-index: -1;
-    pointer-events: none;
-    font-weight: 300;
-}
-
 @keyframes pulseLogo {
-    0%, 100% { opacity: 0.1; transform: translate(-50%, -50%) scale(1); }
-    50% { opacity: 0.15; transform: translate(-50%, -50%) scale(1.02); }
+    0%, 100% { opacity: 0.05; transform: translate(-50%, -50%) scale(1); }
+    50% { opacity: 0.1; transform: translate(-50%, -50%) scale(1.02); }
 }
 
+/* Grid decorativo */
 .grid-overlay {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
-                      linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+    background-image: 
+        linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
     background-size: 50px 50px;
     z-index: -1;
 }
 
-/* TELA DE LOGIN */
+/* ========== TELA DE LOGIN ========== */
 .container {
     width: 100%;
     max-width: 400px;
@@ -93,20 +109,23 @@ body::after {
     font-weight: 900;
     letter-spacing: 4px;
     text-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    margin-bottom: 5px;
 }
 
 .small-logo p {
     color: rgba(255,255,255,0.9);
     font-size: 16px;
     letter-spacing: 2px;
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.3);
 }
 
 .form-card {
-    background: rgba(255,255,255,0.95);
+    background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(10px);
     border-radius: 20px;
     padding: 40px;
     box-shadow: 0 15px 35px rgba(0,0,0,0.3);
+    border: 1px solid rgba(255,255,255,0.2);
 }
 
 .tabs {
@@ -128,14 +147,6 @@ body::after {
 .tab.active {
     color: #667eea;
     border-bottom: 2px solid #667eea;
-}
-
-.form {
-    display: none;
-}
-
-.form.active {
-    display: block;
 }
 
 .form-group {
@@ -192,6 +203,10 @@ body::after {
     font-size: 14px;
 }
 
+.forgot-password a:hover {
+    text-decoration: underline;
+}
+
 .message {
     padding: 10px;
     border-radius: 5px;
@@ -211,7 +226,7 @@ body::after {
     border: 1px solid #cfc;
 }
 
-/* DASHBOARD */
+/* ========== DASHBOARD ========== */
 .dashboard {
     width: 100%;
     max-width: 1400px;
@@ -226,7 +241,8 @@ body::after {
 }
 
 .dashboard-header {
-    background: white;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
     border-radius: 20px;
     padding: 20px 30px;
     margin-bottom: 30px;
@@ -234,6 +250,7 @@ body::after {
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    border: 1px solid rgba(255,255,255,0.2);
 }
 
 .user-info {
@@ -253,6 +270,7 @@ body::after {
     color: white;
     font-size: 28px;
     font-weight: bold;
+    box-shadow: 0 5px 15px rgba(102,126,234,0.3);
 }
 
 .user-details h2 {
@@ -275,6 +293,7 @@ body::after {
     cursor: pointer;
     font-weight: 600;
     transition: all 0.3s;
+    box-shadow: 0 5px 15px rgba(244,67,54,0.3);
 }
 
 .logout-btn:hover {
@@ -289,6 +308,7 @@ body::after {
     margin-bottom: 40px;
     color: white;
     box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    text-align: center;
 }
 
 .welcome-section h1 {
@@ -301,7 +321,7 @@ body::after {
     opacity: 0.9;
 }
 
-/* DISCIPLINAS */
+/* Cards das disciplinas */
 .disciplinas-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -310,23 +330,36 @@ body::after {
 }
 
 .disciplina-card {
-    background: white;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
     border-radius: 20px;
     padding: 30px;
     text-align: center;
     cursor: pointer;
     transition: all 0.3s;
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    border: 1px solid rgba(255,255,255,0.2);
+    position: relative;
+    overflow: hidden;
 }
+
+.disciplina-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+}
+
+.disciplina-card.portugues::before { background: #4CAF50; }
+.disciplina-card.matematica::before { background: #FF9800; }
+.disciplina-card.ingles::before { background: #2196F3; }
 
 .disciplina-card:hover {
     transform: translateY(-10px);
     box-shadow: 0 20px 30px rgba(0,0,0,0.2);
 }
-
-.disciplina-card.portugues { border-bottom: 5px solid #4CAF50; }
-.disciplina-card.matematica { border-bottom: 5px solid #FF9800; }
-.disciplina-card.ingles { border-bottom: 5px solid #2196F3; }
 
 .disciplina-icon {
     font-size: 64px;
@@ -334,7 +367,7 @@ body::after {
 }
 
 .disciplina-card h2 {
-    font-size: 32px;
+    font-size: 28px;
     margin-bottom: 10px;
 }
 
@@ -344,9 +377,10 @@ body::after {
 
 .disciplina-card p {
     color: #666;
-    font-size: 16px;
+    font-size: 14px;
 }
 
+/* Níveis */
 .niveis-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -355,13 +389,15 @@ body::after {
 }
 
 .nivel-card {
-    background: white;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
     border-radius: 20px;
     padding: 30px 20px;
     text-align: center;
     cursor: pointer;
     transition: all 0.3s;
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    border: 1px solid rgba(255,255,255,0.2);
     position: relative;
     overflow: hidden;
 }
@@ -376,7 +412,7 @@ body::after {
     position: absolute;
     top: 0;
     left: 0;
-    right: 0;
+    width: 100%;
     height: 5px;
 }
 
@@ -405,12 +441,15 @@ body::after {
     font-size: 14px;
 }
 
+/* Matérias */
 .materias-section {
-    background: white;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
     border-radius: 20px;
     padding: 30px;
     margin-bottom: 30px;
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    border: 1px solid rgba(255,255,255,0.2);
 }
 
 .materias-header {
@@ -448,11 +487,12 @@ body::after {
     transition: all 0.3s;
     border-left: 4px solid;
     cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.05);
 }
 
 .materia-item:hover {
     transform: translateX(10px);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 
 .materia-item h4 {
@@ -477,301 +517,16 @@ body::after {
     color: #333;
 }
 
-/* ESTILOS PARA AULAS E EXERCÍCIOS */
-.aula-container {
-    background: white;
-    border-radius: 20px;
-    padding: 40px;
-    margin-top: 30px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-}
-
-.back-btn {
-    background: #667eea;
-    color: white;
-    border: none;
-    padding: 12px 25px;
-    border-radius: 10px;
-    cursor: pointer;
-    font-weight: 600;
-    margin-bottom: 20px;
-    transition: all 0.3s;
-}
-
-.back-btn:hover {
-    background: #5a67d8;
-    transform: translateX(-5px);
-}
-
-.aula-content {
-    margin-top: 20px;
-}
-
-.aula-content h2 {
-    color: #333;
-    font-size: 32px;
-    margin-bottom: 20px;
-}
-
-.aula-content h3 {
-    color: #667eea;
-    font-size: 24px;
-    margin: 25px 0 15px;
-}
-
-.aula-content p {
-    color: #444;
-    font-size: 16px;
-    line-height: 1.8;
-    margin-bottom: 15px;
-}
-
-.exemplo-box {
-    background: #f0f4ff;
-    border-left: 4px solid #667eea;
-    padding: 20px;
-    border-radius: 10px;
-    margin: 20px 0;
-}
-
-.exemplo-box strong {
-    color: #667eea;
-    display: block;
-    margin-bottom: 10px;
-}
-
-.lista {
-    margin: 15px 0;
-    padding-left: 20px;
-}
-
-.lista li {
-    margin-bottom: 10px;
-    color: #444;
-}
-
-/* EXERCÍCIOS */
-.exercicios-section {
-    margin-top: 40px;
-    padding: 30px;
-    background: #f8f9fa;
-    border-radius: 15px;
-    border: 2px solid #e0e0e0;
-}
-
-.exercicios-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 30px;
-    flex-wrap: wrap;
-    gap: 15px;
-}
-
-.exercicios-header h3 {
-    color: #667eea;
-    font-size: 24px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-.progress-bar {
-    width: 200px;
-    height: 10px;
-    background: #e0e0e0;
-    border-radius: 5px;
-    overflow: hidden;
-}
-
-.progress-fill {
-    height: 100%;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    transition: width 0.3s;
-}
-
-.navegacao-exercicios {
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    margin: 30px 0;
-    flex-wrap: wrap;
-}
-
-.btn-nav {
-    background: #667eea;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 25px;
-    cursor: pointer;
-    font-weight: 600;
-    transition: all 0.3s;
-}
-
-.btn-nav:hover {
-    background: #5a67d8;
-    transform: translateY(-2px);
-}
-
-.btn-nav:disabled {
-    background: #ccc;
-    cursor: not-allowed;
-    transform: none;
-}
-
-.pagina-indicador {
-    font-size: 18px;
-    font-weight: 600;
-    color: #667eea;
-    padding: 10px 20px;
-    background: white;
-    border-radius: 25px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-.questoes-container {
-    min-height: 400px;
-}
-
-.questao {
-    background: white;
-    border-radius: 12px;
-    padding: 25px;
-    margin-bottom: 25px;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.05);
-    display: none;
-}
-
-.questao.ativa {
-    display: block;
-}
-
-.questao p {
-    font-size: 18px;
-    color: #333;
-    margin-bottom: 15px;
-    font-weight: 500;
-}
-
-.opcoes {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    margin: 15px 0;
-}
-
-.opcao {
-    display: flex;
-    align-items: center;
-    padding: 12px 15px;
-    background: #f8f9fa;
-    border: 2px solid #e0e0e0;
-    border-radius: 10px;
-    cursor: pointer;
-    transition: all 0.2s;
-}
-
-.opcao:hover {
-    background: #e3f2fd;
-    border-color: #667eea;
-}
-
-.opcao input[type="radio"] {
-    margin-right: 15px;
-    width: 18px;
-    height: 18px;
-    cursor: pointer;
-}
-
-.opcao label {
-    flex: 1;
-    cursor: pointer;
-    font-size: 16px;
-    color: #444;
-}
-
-.opcao.correta {
-    background: #c8e6c9;
-    border-color: #4CAF50;
-}
-
-.opcao.incorreta {
-    background: #ffcdd2;
-    border-color: #f44336;
-}
-
-.feedback {
-    margin-top: 15px;
-    padding: 12px;
-    border-radius: 8px;
-    font-weight: 500;
-    display: none;
-}
-
-.feedback.correto {
-    background: #c8e6c9;
-    color: #2e7d32;
-    display: block;
-}
-
-.feedback.incorreto {
-    background: #ffcdd2;
-    color: #c62828;
-    display: block;
-}
-
-.resultado-exercicio {
-    text-align: center;
-    padding: 30px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    border-radius: 12px;
-    margin-top: 30px;
-    font-size: 24px;
-    font-weight: 600;
-}
-
-.btn-exercicio {
-    background: #667eea;
-    color: white;
-    border: none;
-    padding: 12px 30px;
-    border-radius: 25px;
-    cursor: pointer;
-    font-size: 16px;
-    font-weight: 600;
-    margin: 5px;
-    transition: all 0.3s;
-}
-
-.btn-exercicio:hover {
-    background: #5a67d8;
-    transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(102,126,234,0.3);
-}
-
-.btn-exercicio.secondary {
-    background: #6c757d;
-}
-
-.btn-exercicio.secondary:hover {
-    background: #5a6268;
-}
-
+/* ========== RESPONSIVIDADE ========== */
 @media (max-width: 1024px) {
-    .disciplinas-container {
-        grid-template-columns: repeat(2, 1fr);
-    }
+    .disciplinas-container,
     .niveis-container {
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
 @media (max-width: 768px) {
-    .disciplinas-container {
-        grid-template-columns: 1fr;
-    }
+    .disciplinas-container,
     .niveis-container {
         grid-template-columns: 1fr;
     }
@@ -787,11 +542,6 @@ body::after {
     }
     
     .materias-header {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .exercicios-header {
         flex-direction: column;
         text-align: center;
     }
