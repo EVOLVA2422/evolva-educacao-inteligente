@@ -1,1 +1,367 @@
-
+{
+  "materia": "Regra de Três",
+  "nivel": 2,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Se 3 cadernos custam R$ 15,00, quanto custam 5 cadernos?",
+      "opcoes": [
+        "a) R$ 25,00",
+        "b) R$ 20,00",
+        "c) R$ 30,00",
+        "d) R$ 18,00"
+      ],
+      "correta": 0,
+      "explicacao": "3/15 = 5/x → 3x = 75 → x = 25."
+    },
+    {
+      "id": 2,
+      "pergunta": "Um carro percorre 240 km com 20 litros. Quantos litros gasta para percorrer 360 km?",
+      "opcoes": [
+        "a) 30",
+        "b) 25",
+        "c) 35",
+        "d) 40"
+      ],
+      "correta": 0,
+      "explicacao": "240/20 = 360/x → 240x = 7200 → x = 30."
+    },
+    {
+      "id": 3,
+      "pergunta": "Se 8 operários constroem um muro em 12 dias, quantos dias levariam 6 operários?",
+      "opcoes": [
+        "a) 16",
+        "b) 9",
+        "c) 14",
+        "d) 18"
+      ],
+      "correta": 0,
+      "explicacao": "8 × 12 = 6 × x → 96 = 6x → x = 16 (inversa)."
+    },
+    {
+      "id": 4,
+      "pergunta": "Uma torneira enche um tanque em 5 horas. Quanto tempo levarão 2 torneiras iguais?",
+      "opcoes": [
+        "a) 2,5 h",
+        "b) 3 h",
+        "c) 4 h",
+        "d) 10 h"
+      ],
+      "correta": 0,
+      "explicacao": "1 × 5 = 2 × x → x = 2,5 (inversa)."
+    },
+    {
+      "id": 5,
+      "pergunta": "Com 10 kg de farinha, faço 15 pães. Quantos pães faço com 16 kg?",
+      "opcoes": [
+        "a) 24",
+        "b) 20",
+        "c) 18",
+        "d) 30"
+      ],
+      "correta": 0,
+      "explicacao": "10/15 = 16/x → 10x = 240 → x = 24."
+    },
+    {
+      "id": 6,
+      "pergunta": "Um trem percorre 300 km em 4 horas. Mantendo a velocidade, quanto tempo leva para percorrer 450 km?",
+      "opcoes": [
+        "a) 6 h",
+        "b) 5 h",
+        "c) 7 h",
+        "d) 8 h"
+      ],
+      "correta": 0,
+      "explicacao": "300/4 = 450/x → 300x = 1800 → x = 6."
+    },
+    {
+      "id": 7,
+      "pergunta": "Para pintar uma parede de 30 m², usam-se 4 litros de tinta. Quantos litros para pintar 75 m²?",
+      "opcoes": [
+        "a) 10",
+        "b) 8",
+        "c) 12",
+        "d) 9"
+      ],
+      "correta": 0,
+      "explicacao": "30/4 = 75/x → 30x = 300 → x = 10."
+    },
+    {
+      "id": 8,
+      "pergunta": "Um atleta corre 15 km em 1 hora e 30 minutos. Quanto tempo leva para correr 25 km?",
+      "opcoes": [
+        "a) 2,5 h",
+        "b) 2 h",
+        "c) 3 h",
+        "d) 2,2 h"
+      ],
+      "correta": 0,
+      "explicacao": "1,5 h → 15 km; 15/1,5 = 25/x → 15x = 37,5 → x = 2,5 h."
+    },
+    {
+      "id": 9,
+      "pergunta": "Se 3 máquinas produzem 1200 peças em 4 dias, quantas peças produzem 5 máquinas em 3 dias?",
+      "opcoes": [
+        "a) 1500",
+        "b) 1200",
+        "c) 1800",
+        "d) 2000"
+      ],
+      "correta": 0,
+      "explicacao": "3 × 4 = 12 máquina-dia → 1200 peças. 5 × 3 = 15 máquina-dia → (1200/12)×15 = 100×15 = 1500."
+    },
+    {
+      "id": 10,
+      "pergunta": "Um livro de 200 páginas é lido em 5 dias, lendo 40 páginas por dia. Se ler 50 páginas por dia, em quantos dias lê?",
+      "opcoes": [
+        "a) 4",
+        "b) 3",
+        "c) 5",
+        "d) 6"
+      ],
+      "correta": 0,
+      "explicacao": "200 páginas; 40 p/d → 5 d; 50 p/d → 200/50 = 4 dias."
+    },
+    {
+      "id": 11,
+      "pergunta": "Se 6 kg de café custam R$ 72,00, quanto custam 4 kg?",
+      "opcoes": [
+        "a) R$ 48,00",
+        "b) R$ 42,00",
+        "c) R$ 50,00",
+        "d) R$ 60,00"
+      ],
+      "correta": 0,
+      "explicacao": "6/72 = 4/x → 6x = 288 → x = 48."
+    },
+    {
+      "id": 12,
+      "pergunta": "Um carro consome 1 litro a cada 12 km. Quantos litros gasta em uma viagem de 300 km?",
+      "opcoes": [
+        "a) 25",
+        "b) 20",
+        "c) 30",
+        "d) 35"
+      ],
+      "correta": 0,
+      "explicacao": "12 km → 1 L; 300 km → 300/12 = 25 L."
+    },
+    {
+      "id": 13,
+      "pergunta": "Para construir uma casa, 4 pedreiros levam 60 dias. Quantos dias levariam 6 pedreiros?",
+      "opcoes": [
+        "a) 40",
+        "b) 45",
+        "c) 50",
+        "d) 30"
+      ],
+      "correta": 0,
+      "explicacao": "4 × 60 = 6 × x → 240 = 6x → x = 40 (inversa)."
+    },
+    {
+      "id": 14,
+      "pergunta": "Com 15 litros de leite, produzem-se 5 kg de queijo. Quantos litros para 8 kg?",
+      "opcoes": [
+        "a) 24",
+        "b) 20",
+        "c) 18",
+        "d) 22"
+      ],
+      "correta": 0,
+      "explicacao": "15/5 = x/8 → 5x = 120 → x = 24."
+    },
+    {
+      "id": 15,
+      "pergunta": "Uma fábrica produz 500 peças em 8 horas. Quantas horas para produzir 1250 peças?",
+      "opcoes": [
+        "a) 20",
+        "b) 16",
+        "c) 18",
+        "d) 15"
+      ],
+      "correta": 0,
+      "explicacao": "500/8 = 1250/x → 500x = 10000 → x = 20."
+    },
+    {
+      "id": 16,
+      "pergunta": "Se 7 metros de tecido custam R$ 84,00, quanto custam 5 metros?",
+      "opcoes": [
+        "a) R$ 60,00",
+        "b) R$ 50,00",
+        "c) R$ 70,00",
+        "d) R$ 65,00"
+      ],
+      "correta": 0,
+      "explicacao": "7/84 = 5/x → 7x = 420 → x = 60."
+    },
+    {
+      "id": 17,
+      "pergunta": "Um ônibus percorre 240 km em 3 horas. Qual a distância percorrida em 5 horas?",
+      "opcoes": [
+        "a) 400 km",
+        "b) 360 km",
+        "c) 420 km",
+        "d) 380 km"
+      ],
+      "correta": 0,
+      "explicacao": "240/3 = 80 km/h; 80 × 5 = 400 km."
+    },
+    {
+      "id": 18,
+      "pergunta": "Para abrir uma vala, 10 trabalhadores levam 8 dias. Quantos dias levariam 16 trabalhadores?",
+      "opcoes": [
+        "a) 5",
+        "b) 4",
+        "c) 6",
+        "d) 7"
+      ],
+      "correta": 0,
+      "explicacao": "10 × 8 = 16 × x → 80 = 16x → x = 5 (inversa)."
+    },
+    {
+      "id": 19,
+      "pergunta": "Uma impressora imprime 30 páginas por minuto. Quantas páginas imprime em 2 horas e 30 minutos?",
+      "opcoes": [
+        "a) 4500",
+        "b) 4000",
+        "c) 5000",
+        "d) 4200"
+      ],
+      "correta": 0,
+      "explicacao": "2h30 = 150 min; 30 × 150 = 4500."
+    },
+    {
+      "id": 20,
+      "pergunta": "Se 8 kg de arroz servem 16 pessoas, quantos kg servem 20 pessoas?",
+      "opcoes": [
+        "a) 10",
+        "b) 12",
+        "c) 8",
+        "d) 15"
+      ],
+      "correta": 0,
+      "explicacao": "8/16 = x/20 → 16x = 160 → x = 10."
+    },
+    {
+      "id": 21,
+      "pergunta": "Um ciclista percorre 120 km em 3 horas. Quanto tempo leva para percorrer 200 km?",
+      "opcoes": [
+        "a) 5 h",
+        "b) 4 h",
+        "c) 6 h",
+        "d) 5,5 h"
+      ],
+      "correta": 0,
+      "explicacao": "120/3 = 200/x → 120x = 600 → x = 5."
+    },
+    {
+      "id": 22,
+      "pergunta": "Uma torneira enche uma piscina em 10 horas. Quanto tempo levam 4 torneiras iguais?",
+      "opcoes": [
+        "a) 2,5 h",
+        "b) 4 h",
+        "c) 5 h",
+        "d) 3 h"
+      ],
+      "correta": 0,
+      "explicacao": "1 × 10 = 4 × x → x = 2,5 (inversa)."
+    },
+    {
+      "id": 23,
+      "pergunta": "Com 12 operários, uma obra fica pronta em 30 dias. Com 15 operários, em quantos dias fica?",
+      "opcoes": [
+        "a) 24",
+        "b) 25",
+        "c) 20",
+        "d) 22"
+      ],
+      "correta": 0,
+      "explicacao": "12 × 30 = 15 × x → 360 = 15x → x = 24."
+    },
+    {
+      "id": 24,
+      "pergunta": "Um automóvel gasta 8 litros para percorrer 100 km. Quantos litros gasta para percorrer 250 km?",
+      "opcoes": [
+        "a) 20",
+        "b) 18",
+        "c) 22",
+        "d) 16"
+      ],
+      "correta": 0,
+      "explicacao": "8/100 = x/250 → 100x = 2000 → x = 20."
+    },
+    {
+      "id": 25,
+      "pergunta": "Para fazer 60 brigadeiros, usam-se 200 g de leite condensado. Quantos gramas para 90 brigadeiros?",
+      "opcoes": [
+        "a) 300",
+        "b) 250",
+        "c) 350",
+        "d) 400"
+      ],
+      "correta": 0,
+      "explicacao": "60/200 = 90/x → 60x = 18000 → x = 300."
+    },
+    {
+      "id": 26,
+      "pergunta": "Um texto é digitado em 8 minutos, a uma velocidade de 60 palavras por minuto. Em quantos minutos seria digitado a 80 palavras por minuto?",
+      "opcoes": [
+        "a) 6",
+        "b) 5",
+        "c) 7",
+        "d) 4"
+      ],
+      "correta": 0,
+      "explicacao": "8 × 60 = x × 80 → 480 = 80x → x = 6."
+    },
+    {
+      "id": 27,
+      "pergunta": "Uma torneira despeja 30 litros por minuto e enche um tanque em 2 horas. Se a vazão fosse 40 litros por minuto, em quanto tempo encheria?",
+      "opcoes": [
+        "a) 1,5 h",
+        "b) 1 h",
+        "c) 1,2 h",
+        "d) 1,8 h"
+      ],
+      "correta": 0,
+      "explicacao": "30 × 120 min = 3600 litros; 3600/40 = 90 min = 1,5 h."
+    },
+    {
+      "id": 28,
+      "pergunta": "Se 5 metros de tecido custam R$ 40,00, quanto custam 9 metros?",
+      "opcoes": [
+        "a) R$ 72,00",
+        "b) R$ 64,00",
+        "c) R$ 80,00",
+        "d) R$ 90,00"
+      ],
+      "correta": 0,
+      "explicacao": "5/40 = 9/x → 5x = 360 → x = 72."
+    },
+    {
+      "id": 29,
+      "pergunta": "Uma gráfica imprime 2000 livros em 5 dias com 4 máquinas. Quantos dias seriam necessários com 5 máquinas para imprimir 3000 livros?",
+      "opcoes": [
+        "a) 6",
+        "b) 5",
+        "c) 7",
+        "d) 8"
+      ],
+      "correta": 0,
+      "explicacao": "2000 livros em 5 dias com 4 máquinas → 2000/(4×5) = 100 livros por máquina-dia. Para 3000 livros com 5 máquinas: 3000/(5×100) = 3000/500 = 6 dias."
+    },
+    {
+      "id": 30,
+      "pergunta": "Uma torneira enche um tanque em 3 horas. Outra torneira enche o mesmo tanque em 4 horas. Juntas, em quanto tempo enchem?",
+      "opcoes": [
+        "a) 1,714 h",
+        "b) 1,5 h",
+        "c) 2 h",
+        "d) 1,2 h"
+      ],
+      "correta": 0,
+      "explicacao": "1/3 + 1/4 = 7/12; tempo = 12/7 ≈ 1,714 h."
+    }
+  ]
+}
