@@ -1,1 +1,367 @@
-
+{
+  "materia": "Potenciação",
+  "nivel": 3,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Quanto é 2³?",
+      "opcoes": [
+        "a) 6",
+        "b) 8",
+        "c) 9",
+        "d) 10"
+      ],
+      "correta": 1,
+      "explicacao": "2³ = 2 × 2 × 2 = 8."
+    },
+    {
+      "id": 2,
+      "pergunta": "Quanto é 3²?",
+      "opcoes": [
+        "a) 6",
+        "b) 8",
+        "c) 9",
+        "d) 12"
+      ],
+      "correta": 2,
+      "explicacao": "3² = 3 × 3 = 9."
+    },
+    {
+      "id": 3,
+      "pergunta": "Quanto é 5⁰?",
+      "opcoes": [
+        "a) 0",
+        "b) 1",
+        "c) 5",
+        "d) 10"
+      ],
+      "correta": 1,
+      "explicacao": "Qualquer número elevado a 0 é igual a 1."
+    },
+    {
+      "id": 4,
+      "pergunta": "Quanto é 10¹?",
+      "opcoes": [
+        "a) 0",
+        "b) 1",
+        "c) 10",
+        "d) 100"
+      ],
+      "correta": 2,
+      "explicacao": "Qualquer número elevado a 1 é ele mesmo."
+    },
+    {
+      "id": 5,
+      "pergunta": "Quanto é 4²?",
+      "opcoes": [
+        "a) 8",
+        "b) 12",
+        "c) 16",
+        "d) 20"
+      ],
+      "correta": 2,
+      "explicacao": "4² = 4 × 4 = 16."
+    },
+    {
+      "id": 6,
+      "pergunta": "Quanto é 2⁴?",
+      "opcoes": [
+        "a) 8",
+        "b) 12",
+        "c) 16",
+        "d) 32"
+      ],
+      "correta": 2,
+      "explicacao": "2⁴ = 2 × 2 × 2 × 2 = 16."
+    },
+    {
+      "id": 7,
+      "pergunta": "Quanto é 3³?",
+      "opcoes": [
+        "a) 9",
+        "b) 18",
+        "c) 27",
+        "d) 36"
+      ],
+      "correta": 2,
+      "explicacao": "3³ = 3 × 3 × 3 = 27."
+    },
+    {
+      "id": 8,
+      "pergunta": "Quanto é 6²?",
+      "opcoes": [
+        "a) 12",
+        "b) 24",
+        "c) 36",
+        "d) 48"
+      ],
+      "correta": 2,
+      "explicacao": "6² = 6 × 6 = 36."
+    },
+    {
+      "id": 9,
+      "pergunta": "Quanto é 1⁵?",
+      "opcoes": [
+        "a) 1",
+        "b) 5",
+        "c) 10",
+        "d) 0"
+      ],
+      "correta": 0,
+      "explicacao": "1 elevado a qualquer potência é 1."
+    },
+    {
+      "id": 10,
+      "pergunta": "Quanto é 7²?",
+      "opcoes": [
+        "a) 14",
+        "b) 42",
+        "c) 49",
+        "d) 56"
+      ],
+      "correta": 2,
+      "explicacao": "7² = 7 × 7 = 49."
+    },
+    {
+      "id": 11,
+      "pergunta": "Quanto é 2⁵?",
+      "opcoes": [
+        "a) 16",
+        "b) 24",
+        "c) 32",
+        "d) 64"
+      ],
+      "correta": 2,
+      "explicacao": "2⁵ = 2 × 2 × 2 × 2 × 2 = 32."
+    },
+    {
+      "id": 12,
+      "pergunta": "Quanto é 8²?",
+      "opcoes": [
+        "a) 16",
+        "b) 64",
+        "c) 56",
+        "d) 72"
+      ],
+      "correta": 1,
+      "explicacao": "8² = 8 × 8 = 64."
+    },
+    {
+      "id": 13,
+      "pergunta": "Quanto é 9²?",
+      "opcoes": [
+        "a) 18",
+        "b) 81",
+        "c) 72",
+        "d) 90"
+      ],
+      "correta": 1,
+      "explicacao": "9² = 9 × 9 = 81."
+    },
+    {
+      "id": 14,
+      "pergunta": "Quanto é 10²?",
+      "opcoes": [
+        "a) 20",
+        "b) 100",
+        "c) 200",
+        "d) 1.000"
+      ],
+      "correta": 1,
+      "explicacao": "10² = 10 × 10 = 100."
+    },
+    {
+      "id": 15,
+      "pergunta": "Quanto é 3⁴?",
+      "opcoes": [
+        "a) 27",
+        "b) 54",
+        "c) 81",
+        "d) 108"
+      ],
+      "correta": 2,
+      "explicacao": "3⁴ = 3 × 3 × 3 × 3 = 81."
+    },
+    {
+      "id": 16,
+      "pergunta": "Quanto é 4³?",
+      "opcoes": [
+        "a) 16",
+        "b) 32",
+        "c) 64",
+        "d) 128"
+      ],
+      "correta": 2,
+      "explicacao": "4³ = 4 × 4 × 4 = 64."
+    },
+    {
+      "id": 17,
+      "pergunta": "Quanto é 5³?",
+      "opcoes": [
+        "a) 25",
+        "b) 50",
+        "c) 75",
+        "d) 125"
+      ],
+      "correta": 3,
+      "explicacao": "5³ = 5 × 5 × 5 = 125."
+    },
+    {
+      "id": 18,
+      "pergunta": "Quanto é 6³?",
+      "opcoes": [
+        "a) 36",
+        "b) 72",
+        "c) 108",
+        "d) 216"
+      ],
+      "correta": 3,
+      "explicacao": "6³ = 6 × 6 × 6 = 216."
+    },
+    {
+      "id": 19,
+      "pergunta": "Quanto é 0²?",
+      "opcoes": [
+        "a) 0",
+        "b) 1",
+        "c) 2",
+        "d) indefinido"
+      ],
+      "correta": 0,
+      "explicacao": "0² = 0 × 0 = 0."
+    },
+    {
+      "id": 20,
+      "pergunta": "Qual é o valor de 2⁴ + 3²?",
+      "opcoes": [
+        "a) 16",
+        "b) 20",
+        "c) 24",
+        "d) 25"
+      ],
+      "correta": 3,
+      "explicacao": "2⁴ = 16; 3² = 9; 16 + 9 = 25."
+    },
+    {
+      "id": 21,
+      "pergunta": "Qual é o valor de 4² - 2³?",
+      "opcoes": [
+        "a) 8",
+        "b) 10",
+        "c) 12",
+        "d) 14"
+      ],
+      "correta": 0,
+      "explicacao": "4² = 16; 2³ = 8; 16 - 8 = 8."
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual é o valor de 5² × 2?",
+      "opcoes": [
+        "a) 25",
+        "b) 50",
+        "c) 75",
+        "d) 100"
+      ],
+      "correta": 1,
+      "explicacao": "5² = 25; 25 × 2 = 50."
+    },
+    {
+      "id": 23,
+      "pergunta": "Qual é o valor de 3³ ÷ 3?",
+      "opcoes": [
+        "a) 3",
+        "b) 6",
+        "c) 9",
+        "d) 27"
+      ],
+      "correta": 2,
+      "explicacao": "3³ = 27; 27 ÷ 3 = 9."
+    },
+    {
+      "id": 24,
+      "pergunta": "Quanto é 10³?",
+      "opcoes": [
+        "a) 100",
+        "b) 1.000",
+        "c) 10.000",
+        "d) 100.000"
+      ],
+      "correta": 1,
+      "explicacao": "10³ = 10 × 10 × 10 = 1.000."
+    },
+    {
+      "id": 25,
+      "pergunta": "Quanto é 2⁶?",
+      "opcoes": [
+        "a) 32",
+        "b) 48",
+        "c) 64",
+        "d) 128"
+      ],
+      "correta": 2,
+      "explicacao": "2⁶ = 2 × 2 × 2 × 2 × 2 × 2 = 64."
+    },
+    {
+      "id": 26,
+      "pergunta": "Quanto é 7² - 5²?",
+      "opcoes": [
+        "a) 24",
+        "b) 34",
+        "c) 44",
+        "d) 54"
+      ],
+      "correta": 0,
+      "explicacao": "7² = 49; 5² = 25; 49 - 25 = 24."
+    },
+    {
+      "id": 27,
+      "pergunta": "Quanto é 3² + 4²?",
+      "opcoes": [
+        "a) 7",
+        "b) 12",
+        "c) 25",
+        "d) 49"
+      ],
+      "correta": 2,
+      "explicacao": "3² = 9; 4² = 16; 9 + 16 = 25."
+    },
+    {
+      "id": 28,
+      "pergunta": "Qual é o valor de 2⁵ ÷ 2²?",
+      "opcoes": [
+        "a) 4",
+        "b) 6",
+        "c) 8",
+        "d) 16"
+      ],
+      "correta": 2,
+      "explicacao": "2⁵ = 32; 2² = 4; 32 ÷ 4 = 8."
+    },
+    {
+      "id": 29,
+      "pergunta": "Quanto é 8² ÷ 4?",
+      "opcoes": [
+        "a) 12",
+        "b) 14",
+        "c) 16",
+        "d) 18"
+      ],
+      "correta": 2,
+      "explicacao": "8² = 64; 64 ÷ 4 = 16."
+    },
+    {
+      "id": 30,
+      "pergunta": "Quanto é 9² - 3³?",
+      "opcoes": [
+        "a) 54",
+        "b) 56",
+        "c) 58",
+        "d) 60"
+      ],
+      "correta": 0,
+      "explicacao": "9² = 81; 3³ = 27; 81 - 27 = 54."
+    }
+  ]
+}
