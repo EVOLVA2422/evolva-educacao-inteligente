@@ -1,1 +1,367 @@
-
+{
+  "materia": "Período Composto",
+  "nivel": 3,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "No período 'Estudou muito, mas não passou', a oração 'mas não passou' é:",
+      "opcoes": [
+        "a) coordenada sindética adversativa",
+        "b) coordenada assindética",
+        "c) subordinada adverbial concessiva",
+        "d) subordinada substantiva"
+      ],
+      "correta": 0,
+      "explicacao": "'mas' é conjunção adversativa."
+    },
+    {
+      "id": 2,
+      "pergunta": "Em 'Falei que iria viajar', a oração 'que iria viajar' é:",
+      "opcoes": [
+        "a) subordinada substantiva objetiva direta",
+        "b) subordinada adjetiva",
+        "c) subordinada adverbial causal",
+        "d) coordenada sindética"
+      ],
+      "correta": 0,
+      "explicacao": "Funciona como objeto direto do verbo 'falei'."
+    },
+    {
+      "id": 3,
+      "pergunta": "Assinale o período composto por coordenação:",
+      "opcoes": [
+        "a) Comprei o livro que você recomendou.",
+        "b) Quando cheguei, ele já havia saído.",
+        "c) Estudei muito, portanto passarei.",
+        "d) É necessário que você estude."
+      ],
+      "correta": 2,
+      "explicacao": "'portanto' liga orações coordenadas conclusivas."
+    },
+    {
+      "id": 4,
+      "pergunta": "Na frase 'O aluno que estuda passa', a oração 'que estuda' é:",
+      "opcoes": [
+        "a) subordinada substantiva",
+        "b) subordinada adjetiva restritiva",
+        "c) subordinada adverbial condicional",
+        "d) coordenada explicativa"
+      ],
+      "correta": 1,
+      "explicacao": "Refere-se a 'aluno', restringindo seu sentido."
+    },
+    {
+      "id": 5,
+      "pergunta": "Em 'Como não estudou, foi reprovado', a oração 'Como não estudou' é:",
+      "opcoes": [
+        "a) subordinada adverbial causal",
+        "b) subordinada adverbial concessiva",
+        "c) subordinada adverbial temporal",
+        "d) coordenada explicativa"
+      ],
+      "correta": 0,
+      "explicacao": "'Como' = porque, indica causa."
+    },
+    {
+      "id": 6,
+      "pergunta": "Assinale a oração subordinada substantiva subjetiva:",
+      "opcoes": [
+        "a) É importante que você estude.",
+        "b) Quero que você estude.",
+        "c) Tenho certeza de que ele virá.",
+        "d) O problema é que não temos tempo."
+      ],
+      "correta": 0,
+      "explicacao": "Exerce função de sujeito do verbo 'é'."
+    },
+    {
+      "id": 7,
+      "pergunta": "No período 'Se chover, não sairemos', a oração 'Se chover' é:",
+      "opcoes": [
+        "a) subordinada adverbial condicional",
+        "b) subordinada adverbial temporal",
+        "c) coordenada sindética alternativa",
+        "d) subordinada substantiva"
+      ],
+      "correta": 0,
+      "explicacao": "Indica condição para a oração principal."
+    },
+    {
+      "id": 8,
+      "pergunta": "Em 'Ele falou tão alto que todos ouviram', a oração 'que todos ouviram' é:",
+      "opcoes": [
+        "a) subordinada adverbial consecutiva",
+        "b) subordinada adverbial comparativa",
+        "c) subordinada substantiva",
+        "d) coordenada sindética"
+      ],
+      "correta": 0,
+      "explicacao": "Indica a consequência da ação."
+    },
+    {
+      "id": 9,
+      "pergunta": "Assinale a oração coordenada sindética explicativa:",
+      "opcoes": [
+        "a) Não fui à festa, pois estava doente.",
+        "b) Estudei muito, porém não passei.",
+        "c) Ou você estuda, ou não passa.",
+        "d) Comprei livros e cadernos."
+      ],
+      "correta": 0,
+      "explicacao": "'pois' explicativo = porque."
+    },
+    {
+      "id": 10,
+      "pergunta": "Na frase 'A verdade é que ninguém sabia', a oração 'que ninguém sabia' é:",
+      "opcoes": [
+        "a) subordinada substantiva predicativa",
+        "b) subordinada adjetiva",
+        "c) subordinada adverbial",
+        "d) coordenada"
+      ],
+      "correta": 0,
+      "explicacao": "Funciona como predicativo do sujeito 'verdade'."
+    },
+    {
+      "id": 11,
+      "pergunta": "Em 'Chegamos quando a festa já tinha acabado', a oração 'quando a festa já tinha acabado' é:",
+      "opcoes": [
+        "a) subordinada adverbial temporal",
+        "b) subordinada adjetiva",
+        "c) coordenada sindética",
+        "d) subordinada substantiva"
+      ],
+      "correta": 0,
+      "explicacao": "'quando' indica tempo."
+    },
+    {
+      "id": 12,
+      "pergunta": "Assinale a oração subordinada adverbial concessiva:",
+      "opcoes": [
+        "a) Embora estivesse cansado, estudou.",
+        "b) Estudou tanto que passou.",
+        "c) Se estudar, passará.",
+        "d) Quando estudou, passou."
+      ],
+      "correta": 0,
+      "explicacao": "'Embora' indica concessão (fato contrário)."
+    },
+    {
+      "id": 13,
+      "pergunta": "No período 'Espero que você volte logo', a oração principal é:",
+      "opcoes": [
+        "a) Espero",
+        "b) que você volte logo",
+        "c) você volte logo",
+        "d) não há principal"
+      ],
+      "correta": 0,
+      "explicacao": "'Espero' é o verbo da oração principal."
+    },
+    {
+      "id": 14,
+      "pergunta": "Em 'Fez tudo conforme havíamos combinado', a oração 'conforme havíamos combinado' é:",
+      "opcoes": [
+        "a) subordinada adverbial conformativa",
+        "b) subordinada adverbial comparativa",
+        "c) coordenada sindética",
+        "d) subordinada substantiva"
+      ],
+      "correta": 0,
+      "explicacao": "'conforme' indica conformidade."
+    },
+    {
+      "id": 15,
+      "pergunta": "Assinale a opção com oração coordenada sindética alternativa:",
+      "opcoes": [
+        "a) Estuda, pois amanhã é prova.",
+        "b) Ora estuda, ora descansa.",
+        "c) Estuda, mas não aprende.",
+        "d) Estuda e trabalha."
+      ],
+      "correta": 1,
+      "explicacao": "'ora... ora' indica alternância."
+    },
+    {
+      "id": 16,
+      "pergunta": "Na frase 'O livro que comprei é interessante', a oração 'que comprei' é:",
+      "opcoes": [
+        "a) subordinada adjetiva explicativa",
+        "b) subordinada adjetiva restritiva",
+        "c) subordinada substantiva",
+        "d) coordenada"
+      ],
+      "correta": 1,
+      "explicacao": "Restringe o sentido de 'livro'."
+    },
+    {
+      "id": 17,
+      "pergunta": "Em 'Falou tanto que ficou rouco', a segunda oração expressa:",
+      "opcoes": [
+        "a) causa",
+        "b) consequência",
+        "c) condição",
+        "d) finalidade"
+      ],
+      "correta": 1,
+      "explicacao": "Consequência do fato de falar tanto."
+    },
+    {
+      "id": 18,
+      "pergunta": "Assinale a oração subordinada substantiva completiva nominal:",
+      "opcoes": [
+        "a) Tenho medo de que ele se machuque.",
+        "b) É importante que você estude.",
+        "c) Espero que você venha.",
+        "d) O fato é que não sei."
+      ],
+      "correta": 0,
+      "explicacao": "Completa o nome 'medo'."
+    },
+    {
+      "id": 19,
+      "pergunta": "No período 'Quanto mais estudo, mais aprendo', a primeira oração é:",
+      "opcoes": [
+        "a) subordinada adverbial proporcional",
+        "b) coordenada sindética",
+        "c) subordinada adverbial comparativa",
+        "d) subordinada substantiva"
+      ],
+      "correta": 0,
+      "explicacao": "'quanto mais... mais' indica proporção."
+    },
+    {
+      "id": 20,
+      "pergunta": "Em 'Apesar de ter chovido, fomos à praia', a oração reduzida 'ter chovido' equivale a:",
+      "opcoes": [
+        "a) embora chovesse",
+        "b) porque choveu",
+        "c) quando choveu",
+        "d) se chovesse"
+      ],
+      "correta": 0,
+      "explicacao": "Ideia de concessão."
+    },
+    {
+      "id": 21,
+      "pergunta": "Assinale o período com oração subordinada adverbial final:",
+      "opcoes": [
+        "a) Estudei para que pudesse passar.",
+        "b) Estudei tanto que passei.",
+        "c) Se estudar, passará.",
+        "d) Quando estudei, passei."
+      ],
+      "correta": 0,
+      "explicacao": "'para que' indica finalidade."
+    },
+    {
+      "id": 22,
+      "pergunta": "Na frase 'Ele falou que viria, mas não veio', as orações são respectivamente:",
+      "opcoes": [
+        "a) principal, subordinada, coordenada",
+        "b) principal, coordenada, subordinada",
+        "c) coordenada, coordenada, coordenada",
+        "d) subordinada, principal, coordenada"
+      ],
+      "correta": 0,
+      "explicacao": "'falou' (principal), 'que viria' (subord. substantiva), 'mas não veio' (coord. adversativa)."
+    },
+    {
+      "id": 23,
+      "pergunta": "Em 'Chegando o verão, viajaremos', a oração reduzida 'Chegando o verão' equivale a:",
+      "opcoes": [
+        "a) Quando o verão chegar",
+        "b) Embora o verão chegue",
+        "c) Se o verão chegar",
+        "d) Como o verão chegou"
+      ],
+      "correta": 0,
+      "explicacao": "Indica tempo (futuro)."
+    },
+    {
+      "id": 24,
+      "pergunta": "Assinale a opção em que a oração destacada é subordinada adverbial comparativa:",
+      "opcoes": [
+        "a) Ele estuda **como** o irmão.",
+        "b) Falou **como** se soubesse tudo.",
+        "c) Agiu **conforme** foi orientado.",
+        "d) Chegou **quando** todos dormiam."
+      ],
+      "correta": 0,
+      "explicacao": "Comparação com o irmão."
+    },
+    {
+      "id": 25,
+      "pergunta": "No período 'Ela é tão inteligente quanto o pai', a oração 'quanto o pai' é:",
+      "opcoes": [
+        "a) subordinada adverbial comparativa",
+        "b) coordenada sindética",
+        "c) subordinada substantiva",
+        "d) oração reduzida"
+      ],
+      "correta": 0,
+      "explicacao": "Estabelece comparação."
+    },
+    {
+      "id": 26,
+      "pergunta": "Em 'Não só estudou, mas também trabalhou', as orações são:",
+      "opcoes": [
+        "a) coordenadas sindéticas aditivas",
+        "b) subordinadas",
+        "c) coordenadas assindéticas",
+        "d) principal e subordinada"
+      ],
+      "correta": 0,
+      "explicacao": "'não só... mas também' são conjunções aditivas."
+    },
+    {
+      "id": 27,
+      "pergunta": "Assinale a alternativa com oração subordinada substantiva apositiva:",
+      "opcoes": [
+        "a) Só quero uma coisa: que você seja feliz.",
+        "b) Espero que você volte.",
+        "c) É necessário que estudes.",
+        "d) Tenho certeza de que virá."
+      ],
+      "correta": 0,
+      "explicacao": "A oração explica 'uma coisa' (aposto)."
+    },
+    {
+      "id": 28,
+      "pergunta": "Na frase 'Fez tudo por querer ajudar', a oração 'por querer ajudar' é:",
+      "opcoes": [
+        "a) subordinada adverbial causal reduzida",
+        "b) subordinada adverbial final reduzida",
+        "c) subordinada substantiva reduzida",
+        "d) coordenada reduzida"
+      ],
+      "correta": 1,
+      "explicacao": "'por' + infinitivo indica finalidade (para ajudar)."
+    },
+    {
+      "id": 29,
+      "pergunta": "Em 'Ela falou que estudaria, embora estivesse cansada', o período tem:",
+      "opcoes": [
+        "a) 2 orações",
+        "b) 3 orações",
+        "c) 4 orações",
+        "d) 1 oração"
+      ],
+      "correta": 1,
+      "explicacao": "3 orações: principal (falou), subord. substantiva (que estudaria), subord. concessiva (embora estivesse cansada)."
+    },
+    {
+      "id": 30,
+      "pergunta": "Assinale a frase com oração coordenada assindética:",
+      "opcoes": [
+        "a) Chegou, viu, venceu.",
+        "b) Chegou e venceu.",
+        "c) Chegou, mas perdeu.",
+        "d) Chegou quando todos saíram."
+      ],
+      "correta": 0,
+      "explicacao": "Orações justapostas sem conjunção."
+    }
+  ]
+}
