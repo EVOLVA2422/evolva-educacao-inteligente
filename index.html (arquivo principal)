@@ -1,1 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EVOLVA - Educação Inteligente</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <div class="wallpaper-subtitle">— Educação Inteligente —</div>
+    <div class="grid-overlay"></div>
 
+    <!-- TELA DE LOGIN -->
+    <div class="container" id="authContainer">
+        <div class="small-logo">
+            <h1>EVOLVA</h1>
+            <p>— Educação Inteligente —</p>
+        </div>
+
+        <div class="form-card">
+            <div class="tabs">
+                <div class="tab active" onclick="switchTab('login')">Entrar</div>
+                <div class="tab" onclick="switchTab('register')">Cadastrar</div>
+            </div>
+
+            <div class="message" id="message"></div>
+
+            <!-- FORMULÁRIO DE LOGIN -->
+            <div class="form active" id="loginForm">
+                <div class="form-group">
+                    <label>E-mail</label>
+                    <input type="email" id="loginEmail" placeholder="Digite seu e-mail" value="admin@evolva.com">
+                </div>
+                <div class="form-group">
+                    <label>Senha</label>
+                    <input type="password" id="loginPassword" placeholder="Digite sua senha" value="123456">
+                </div>
+                <div class="forgot-password">
+                    <a href="#" onclick="showForgotPassword()">Esqueceu a senha?</a>
+                </div>
+                <button class="btn" onclick="login()">Entrar</button>
+            </div>
+
+            <!-- FORMULÁRIO DE CADASTRO -->
+            <div class="form" id="registerForm">
+                <div class="form-group">
+                    <label>Nome completo</label>
+                    <input type="text" id="regName" placeholder="Seu nome">
+                </div>
+                <div class="form-group">
+                    <label>E-mail</label>
+                    <input type="email" id="regEmail" placeholder="seu@email.com">
+                </div>
+                <div class="form-group">
+                    <label>Senha</label>
+                    <input type="password" id="regPassword" placeholder="Crie uma senha (mínimo 6 caracteres)">
+                </div>
+                <div class="form-group">
+                    <label>Confirmar senha</label>
+                    <input type="password" id="regConfirmPassword" placeholder="Confirme sua senha">
+                </div>
+                <button class="btn" onclick="register()">Cadastrar</button>
+            </div>
+
+            <!-- FORMULÁRIO DE RECUPERAR SENHA -->
+            <div class="form" id="forgotForm">
+                <div class="form-group">
+                    <label>E-mail cadastrado</label>
+                    <input type="email" id="forgotEmail" placeholder="Digite seu e-mail">
+                </div>
+                <button class="btn" onclick="resetPassword()">Enviar instruções</button>
+                <div style="text-align: center; margin-top: 15px;">
+                    <a href="#" onclick="switchTab('login')">Voltar para login</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- DASHBOARD -->
+    <div class="dashboard" id="dashboard">
+        <div class="dashboard-header">
+            <div class="user-info">
+                <div class="user-avatar" id="userAvatar">U</div>
+                <div class="user-details">
+                    <h2 id="userName">Carregando...</h2>
+                    <p id="userEmail">carregando@email.com</p>
+                </div>
+            </div>
+            <button class="logout-btn" onclick="logout()">Sair</button>
+        </div>
+
+        <div class="welcome-section">
+            <h1 id="welcomeUser">Bem-vindo(a) ao EVOLVA!</h1>
+            <p>Escolha uma disciplina e comece a aprender</p>
+        </div>
+
+        <!-- DISCIPLINAS -->
+        <div class="disciplinas-container">
+            <div class="disciplina-card portugues" onclick="mostrarDisciplina('portugues')">
+                <div class="disciplina-icon">📚</div>
+                <h2>Português</h2>
+                <p>Gramática, redação, literatura e interpretação</p>
+            </div>
+            <div class="disciplina-card matematica" onclick="mostrarDisciplina('matematica')">
+                <div class="disciplina-icon">🧮</div>
+                <h2>Matemática</h2>
+                <p>Números, operações, álgebra, geometria</p>
+            </div>
+            <div class="disciplina-card ingles" onclick="mostrarDisciplina('ingles')">
+                <div class="disciplina-icon">🌎</div>
+                <h2>Inglês</h2>
+                <p>Grammar, vocabulary, conversation, interpretation</p>
+            </div>
+        </div>
+
+        <!-- ÁREA DE CONTEÚDO -->
+        <div id="conteudoArea"></div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
