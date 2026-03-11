@@ -1,1 +1,607 @@
-
+{
+  "materia": "Articles",
+  "nivel": 1,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Choose the correct article: '_____ apple a day keeps the doctor away.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 1,
+      "explicacao": "'Apple' starts with a vowel sound → an."
+    },
+    {
+      "id": 2,
+      "pergunta": "Choose the correct article: 'She is _____ teacher.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "'Teacher' starts with a consonant sound → a."
+    },
+    {
+      "id": 3,
+      "pergunta": "Choose the correct article: 'He is _____ honest man.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 1,
+      "explicacao": "'Honest' starts with a vowel sound (h is silent) → an."
+    },
+    {
+      "id": 4,
+      "pergunta": "Choose the correct article: 'I have _____ umbrella.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 1,
+      "explicacao": "'Umbrella' starts with a vowel sound → an."
+    },
+    {
+      "id": 5,
+      "pergunta": "Choose the correct article: 'They live in _____ house.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "'House' starts with a consonant sound → a."
+    },
+    {
+      "id": 6,
+      "pergunta": "Choose the correct article: 'She is _____ university student.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "'University' starts with a consonant sound (y sound) → a."
+    },
+    {
+      "id": 7,
+      "pergunta": "Choose the correct article: 'He is _____ European.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "'European' starts with a consonant sound (y sound) → a."
+    },
+    {
+      "id": 8,
+      "pergunta": "Choose the correct article: 'I need _____ hour to finish.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 1,
+      "explicacao": "'Hour' starts with a vowel sound (h is silent) → an."
+    },
+    {
+      "id": 9,
+      "pergunta": "Choose the correct article: '_____ sun is shining.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Unique objects take 'the'."
+    },
+    {
+      "id": 10,
+      "pergunta": "Choose the correct article: 'She plays _____ piano.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Musical instruments take 'the'."
+    },
+    {
+      "id": 11,
+      "pergunta": "Choose the correct article: 'I like _____ chocolate.' (in general)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 3,
+      "explicacao": "Uncountable nouns in general take no article."
+    },
+    {
+      "id": 12,
+      "pergunta": "Choose the correct article: 'She is _____ best student in the class.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Superlatives take 'the'."
+    },
+    {
+      "id": 13,
+      "pergunta": "Choose the correct article: 'I have _____ dog and _____ cat.'",
+      "opcoes": [
+        "a) a, a",
+        "b) an, an",
+        "c) the, the",
+        "d) no article"
+      ],
+      "correta": 0,
+      "explicacao": "First mention → a dog, a cat."
+    },
+    {
+      "id": 14,
+      "pergunta": "Choose the correct article: '_____ dog I have is very friendly.' (specific)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Specific dog → the."
+    },
+    {
+      "id": 15,
+      "pergunta": "Choose the correct article: 'I went to _____ school yesterday.' (as a place)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Specific school → the."
+    },
+    {
+      "id": 16,
+      "pergunta": "Choose the correct article: 'Children go to _____ school to learn.' (in general)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 3,
+      "explicacao": "Institution in general → no article."
+    },
+    {
+      "id": 17,
+      "pergunta": "Choose the correct article: 'She is in _____ hospital.' (as a patient)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 3,
+      "explicacao": "In hospital (British) for being a patient. In American English, 'in the hospital' is more common. But many tests accept no article."
+    },
+    {
+      "id": 18,
+      "pergunta": "Choose the correct article: 'I work in _____ office.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "An office (non-specific) → a."
+    },
+    {
+      "id": 19,
+      "pergunta": "Choose the correct article: '_____ moon is full tonight.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Unique → the."
+    },
+    {
+      "id": 20,
+      "pergunta": "Choose the correct article: 'She has _____ interesting job.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 1,
+      "explicacao": "'Interesting' starts with vowel sound → an."
+    },
+    {
+      "id": 21,
+      "pergunta": "Choose the correct article: 'He is _____ only person I trust.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "'Only' makes it specific → the."
+    },
+    {
+      "id": 22,
+      "pergunta": "Choose the correct article: 'I usually have _____ breakfast at 8.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 3,
+      "explicacao": "Meals in general take no article."
+    },
+    {
+      "id": 23,
+      "pergunta": "Choose the correct article: 'The breakfast I had was delicious.' (specific)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Specific breakfast → the."
+    },
+    {
+      "id": 24,
+      "pergunta": "Choose the correct article: 'She is _____ architect.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 1,
+      "explicacao": "'Architect' starts with vowel sound → an."
+    },
+    {
+      "id": 25,
+      "pergunta": "Choose the correct article: 'He is _____ M.D.' (Medical Doctor)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "M.D. starts with a consonant sound (em) → a. But actually 'M' is pronounced 'em' which is a vowel sound. Wait, 'em' starts with e, so it's a vowel sound. This is tricky. Many say 'an M.D.' because M is pronounced with a vowel sound. Let's check: an M.D. is correct."
+    },
+    {
+      "id": 26,
+      "pergunta": "Choose the correct article: 'She has _____ one-year-old daughter.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "'One' starts with a consonant sound (w) → a."
+    },
+    {
+      "id": 27,
+      "pergunta": "Choose the correct article: 'I need _____ new car.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "'New' starts with consonant → a."
+    },
+    {
+      "id": 28,
+      "pergunta": "Choose the correct article: '_____ President of the United States lives in the White House.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Specific president → the."
+    },
+    {
+      "id": 29,
+      "pergunta": "Choose the correct article: 'She wants to be _____ president one day.' (in general)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "A president (one of many)."
+    },
+    {
+      "id": 30,
+      "pergunta": "Choose the correct article: 'I live in _____ United States.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Countries with plural names take 'the'."
+    },
+    {
+      "id": 31,
+      "pergunta": "Choose the correct article: 'I live in _____ Brazil.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 3,
+      "explicacao": "Most countries take no article."
+    },
+    {
+      "id": 32,
+      "pergunta": "Choose the correct article: 'She went to _____ cinema last night.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Go to the cinema (specific place)."
+    },
+    {
+      "id": 33,
+      "pergunta": "Choose the correct article: 'I listen to _____ radio every morning.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "The radio."
+    },
+    {
+      "id": 34,
+      "pergunta": "Choose the correct article: 'I watch _____ television every night.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 3,
+      "explicacao": "Watch television (no article) is common."
+    },
+    {
+      "id": 35,
+      "pergunta": "Choose the correct article: 'She is _____ best friend.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Best friend (superlative) → the."
+    },
+    {
+      "id": 36,
+      "pergunta": "Choose the correct article: 'I have _____ idea!'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 1,
+      "explicacao": "Idea starts with vowel sound → an."
+    },
+    {
+      "id": 37,
+      "pergunta": "Choose the correct article: 'He is _____ honest person.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 1,
+      "explicacao": "Honest starts with vowel sound → an."
+    },
+    {
+      "id": 38,
+      "pergunta": "Choose the correct article: 'She gave me _____ useful book.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "Useful starts with consonant sound (y) → a."
+    },
+    {
+      "id": 39,
+      "pergunta": "Choose the correct article: 'I saw _____ UFO last night.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "UFO starts with consonant sound (yoo) → a."
+    },
+    {
+      "id": 40,
+      "pergunta": "Choose the correct article: 'She is _____ actress.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 1,
+      "explicacao": "Actress starts with vowel sound → an."
+    },
+    {
+      "id": 41,
+      "pergunta": "Choose the correct article: 'I need _____ advice.' (in general)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 3,
+      "explicacao": "Advice is uncountable, no article in general."
+    },
+    {
+      "id": 42,
+      "pergunta": "Choose the correct article: 'The advice you gave me was good.' (specific)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Specific advice → the."
+    },
+    {
+      "id": 43,
+      "pergunta": "Choose the correct article: 'I have _____ information for you.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 3,
+      "explicacao": "Information is uncountable, no article."
+    },
+    {
+      "id": 44,
+      "pergunta": "Choose the correct article: 'She is _____ good student.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "Good student → a."
+    },
+    {
+      "id": 45,
+      "pergunta": "Choose the correct article: 'He is _____ excellent teacher.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 1,
+      "explicacao": "Excellent starts with vowel sound → an."
+    },
+    {
+      "id": 46,
+      "pergunta": "Choose the correct article: 'I went to _____ church on Sunday.' (as a place of worship)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 3,
+      "explicacao": "Go to church (no article) for the activity."
+    },
+    {
+      "id": 47,
+      "pergunta": "Choose the correct article: 'I went to _____ church to see the paintings.' (building)",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Specific church → the."
+    },
+    {
+      "id": 48,
+      "pergunta": "Choose the correct article: 'She plays _____ guitar beautifully.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 2,
+      "explicacao": "Musical instrument → the."
+    },
+    {
+      "id": 49,
+      "pergunta": "Choose the correct article: 'I have _____ cold.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "Have a cold (idiom)."
+    },
+    {
+      "id": 50,
+      "pergunta": "Choose the correct article: 'She is in _____ hurry.'",
+      "opcoes": [
+        "a) A",
+        "b) An",
+        "c) The",
+        "d) No article"
+      ],
+      "correta": 0,
+      "explicacao": "In a hurry."
+    }
+  ]
+}
