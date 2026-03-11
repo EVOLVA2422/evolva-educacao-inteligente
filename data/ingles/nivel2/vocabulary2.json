@@ -1,1 +1,607 @@
-
+{
+  "materia": "Intermediate Vocabulary",
+  "nivel": 2,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "What is the opposite of 'expensive'?",
+      "opcoes": [
+        "a) cheap",
+        "b) costly",
+        "c) valuable",
+        "d) pricey"
+      ],
+      "correta": 0,
+      "explicacao": "'Cheap' means low in price."
+    },
+    {
+      "id": 2,
+      "pergunta": "A person who travels to work by car, bus, or train is a _____.",
+      "opcoes": [
+        "a) tourist",
+        "b) commuter",
+        "c) passenger",
+        "d) driver"
+      ],
+      "correta": 1,
+      "explicacao": "A commuter travels regularly to and from work."
+    },
+    {
+      "id": 3,
+      "pergunta": "What do you call the money you receive for work?",
+      "opcoes": [
+        "a) fee",
+        "b) salary",
+        "c) price",
+        "d) cost"
+      ],
+      "correta": 1,
+      "explicacao": "Salary is regular payment from employment."
+    },
+    {
+      "id": 4,
+      "pergunta": "If you don't know the meaning of a word, you should look it up in a _____.",
+      "opcoes": [
+        "a) dictionary",
+        "b) encyclopedia",
+        "c) atlas",
+        "d) thesaurus"
+      ],
+      "correta": 0,
+      "explicacao": "A dictionary gives definitions of words."
+    },
+    {
+      "id": 5,
+      "pergunta": "A place where you can borrow books is a _____.",
+      "opcoes": [
+        "a) bookstore",
+        "b) library",
+        "c) newsagent",
+        "d) stationery shop"
+      ],
+      "correta": 1,
+      "explicacao": "A library lends books for free."
+    },
+    {
+      "id": 6,
+      "pergunta": "What do you call the food you buy at a restaurant and take home?",
+      "opcoes": [
+        "a) fast food",
+        "b) takeaway",
+        "c) delivery",
+        "d) leftovers"
+      ],
+      "correta": 1,
+      "explicacao": "Takeaway (or takeout) is food you take away."
+    },
+    {
+      "id": 7,
+      "pergunta": "The opposite of 'full' is _____.",
+      "opcoes": [
+        "a) empty",
+        "b) vacant",
+        "c) hollow",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "All can be opposites depending on context."
+    },
+    {
+      "id": 8,
+      "pergunta": "A person who doesn't eat meat is a _____.",
+      "opcoes": [
+        "a) vegan",
+        "b) vegetarian",
+        "c) carnivore",
+        "d) omnivore"
+      ],
+      "correta": 1,
+      "explicacao": "Vegetarians don't eat meat; vegans avoid all animal products."
+    },
+    {
+      "id": 9,
+      "pergunta": "If you are very tired, you might say you are _____.",
+      "opcoes": [
+        "a) exhausted",
+        "b) energetic",
+        "c) lively",
+        "d) refreshed"
+      ],
+      "correta": 0,
+      "explicacao": "Exhausted means extremely tired."
+    },
+    {
+      "id": 10,
+      "pergunta": "What is the opposite of 'increase'?",
+      "opcoes": [
+        "a) raise",
+        "b) rise",
+        "c) decrease",
+        "d) grow"
+      ],
+      "correta": 2,
+      "explicacao": "Decrease means to become smaller."
+    },
+    {
+      "id": 11,
+      "pergunta": "A synonym for 'quick' is _____.",
+      "opcoes": [
+        "a) slow",
+        "b) fast",
+        "c) late",
+        "d) early"
+      ],
+      "correta": 1,
+      "explicacao": "Fast is a synonym for quick."
+    },
+    {
+      "id": 12,
+      "pergunta": "What do you call a large shop where you can buy food and other things?",
+      "opcoes": [
+        "a) market",
+        "b) supermarket",
+        "c) boutique",
+        "d) kiosk"
+      ],
+      "correta": 1,
+      "explicacao": "A supermarket is a large self-service store."
+    },
+    {
+      "id": 13,
+      "pergunta": "If you are not sure about something, you are _____.",
+      "opcoes": [
+        "a) certain",
+        "b) unsure",
+        "c) definite",
+        "d) positive"
+      ],
+      "correta": 1,
+      "explicacao": "Unsure means not certain."
+    },
+    {
+      "id": 14,
+      "pergunta": "The day before today is _____.",
+      "opcoes": [
+        "a) tomorrow",
+        "b) yesterday",
+        "c) today",
+        "d) tonight"
+      ],
+      "correta": 1,
+      "explicacao": "Yesterday is the day before today."
+    },
+    {
+      "id": 15,
+      "pergunta": "What is the opposite of 'arrive'?",
+      "opcoes": [
+        "a) come",
+        "b) reach",
+        "c) depart",
+        "d) enter"
+      ],
+      "correta": 2,
+      "explicacao": "Depart means to leave."
+    },
+    {
+      "id": 16,
+      "pergunta": "A person who flies a plane is a _____.",
+      "opcoes": [
+        "a) pilot",
+        "b) driver",
+        "c) captain",
+        "d) conductor"
+      ],
+      "correta": 0,
+      "explicacao": "A pilot flies an aircraft."
+    },
+    {
+      "id": 17,
+      "pergunta": "What do you call the money you pay to rent an apartment?",
+      "opcoes": [
+        "a) fee",
+        "b) rent",
+        "c) mortgage",
+        "d) deposit"
+      ],
+      "correta": 1,
+      "explicacao": "Rent is the payment for temporary use of property."
+    },
+    {
+      "id": 18,
+      "pergunta": "If you like something very much, you _____ it.",
+      "opcoes": [
+        "a) dislike",
+        "b) love",
+        "c) hate",
+        "d) ignore"
+      ],
+      "correta": 1,
+      "explicacao": "Love is a strong positive feeling."
+    },
+    {
+      "id": 19,
+      "pergunta": "A synonym for 'happy' is _____.",
+      "opcoes": [
+        "a) sad",
+        "b) joyful",
+        "c) angry",
+        "d) tired"
+      ],
+      "correta": 1,
+      "explicacao": "Joyful means full of joy, similar to happy."
+    },
+    {
+      "id": 20,
+      "pergunta": "What is the opposite of 'hot'?",
+      "opcoes": [
+        "a) warm",
+        "b) cold",
+        "c) cool",
+        "d) freezing"
+      ],
+      "correta": 1,
+      "explicacao": "Cold is the opposite of hot."
+    },
+    {
+      "id": 21,
+      "pergunta": "A place where you can see paintings and sculptures is a _____.",
+      "opcoes": [
+        "a) museum",
+        "b) gallery",
+        "c) theater",
+        "d) cinema"
+      ],
+      "correta": 1,
+      "explicacao": "An art gallery displays works of art."
+    },
+    {
+      "id": 22,
+      "pergunta": "If you want to buy something, you need enough _____.",
+      "opcoes": [
+        "a) time",
+        "b) money",
+        "c) space",
+        "d) energy"
+      ],
+      "correta": 1,
+      "explicacao": "Money is needed to purchase things."
+    },
+    {
+      "id": 23,
+      "pergunta": "A person who teaches students is a _____.",
+      "opcoes": [
+        "a) doctor",
+        "b) teacher",
+        "c) lawyer",
+        "d) engineer"
+      ],
+      "correta": 1,
+      "explicacao": "A teacher works in education."
+    },
+    {
+      "id": 24,
+      "pergunta": "What do you call a journey by sea?",
+      "opcoes": [
+        "a) flight",
+        "b) voyage",
+        "c) trip",
+        "d) tour"
+      ],
+      "correta": 1,
+      "explicacao": "A voyage is a long journey by sea."
+    },
+    {
+      "id": 25,
+      "pergunta": "The opposite of 'begin' is _____.",
+      "opcoes": [
+        "a) start",
+        "b) commence",
+        "c) finish",
+        "d) continue"
+      ],
+      "correta": 2,
+      "explicacao": "Finish means to end."
+    },
+    {
+      "id": 26,
+      "pergunta": "If something is very big, it is _____.",
+      "opcoes": [
+        "a) small",
+        "b) tiny",
+        "c) huge",
+        "d) little"
+      ],
+      "correta": 2,
+      "explicacao": "Huge means very large."
+    },
+    {
+      "id": 27,
+      "pergunta": "What do you call a place where you can stay when traveling?",
+      "opcoes": [
+        "a) hotel",
+        "b) house",
+        "c) office",
+        "d) factory"
+      ],
+      "correta": 0,
+      "explicacao": "A hotel provides accommodation for travelers."
+    },
+    {
+      "id": 28,
+      "pergunta": "A synonym for 'intelligent' is _____.",
+      "opcoes": [
+        "a) clever",
+        "b) stupid",
+        "c) lazy",
+        "d) slow"
+      ],
+      "correta": 0,
+      "explicacao": "Clever means intelligent."
+    },
+    {
+      "id": 29,
+      "pergunta": "The opposite of 'laugh' is _____.",
+      "opcoes": [
+        "a) smile",
+        "b) cry",
+        "c) giggle",
+        "d) chuckle"
+      ],
+      "correta": 1,
+      "explicacao": "Cry is the opposite of laugh."
+    },
+    {
+      "id": 30,
+      "pergunta": "What do you call a person who works in an office?",
+      "opcoes": [
+        "a) worker",
+        "b) clerk",
+        "c) officer",
+        "d) employee"
+      ],
+      "correta": 1,
+      "explicacao": "A clerk is an office worker, but 'employee' is more general."
+    },
+    {
+      "id": 31,
+      "pergunta": "If you have a lot of work to do, you are _____.",
+      "opcoes": [
+        "a) free",
+        "b) busy",
+        "c) idle",
+        "d) relaxed"
+      ],
+      "correta": 1,
+      "explicacao": "Busy means having a lot to do."
+    },
+    {
+      "id": 32,
+      "pergunta": "What is the opposite of 'rich'?",
+      "opcoes": [
+        "a) wealthy",
+        "b) affluent",
+        "c) poor",
+        "d) prosperous"
+      ],
+      "correta": 2,
+      "explicacao": "Poor means having little money."
+    },
+    {
+      "id": 33,
+      "pergunta": "A person who buys something is a _____.",
+      "opcoes": [
+        "a) seller",
+        "b) buyer",
+        "c) customer",
+        "d) both B and C"
+      ],
+      "correta": 3,
+      "explicacao": "Buyer and customer both refer to someone who purchases."
+    },
+    {
+      "id": 34,
+      "pergunta": "What do you call a piece of paper that shows you paid?",
+      "opcoes": [
+        "a) receipt",
+        "b) recipe",
+        "c) bill",
+        "d) invoice"
+      ],
+      "correta": 0,
+      "explicacao": "A receipt is proof of payment."
+    },
+    {
+      "id": 35,
+      "pergunta": "The opposite of 'old' is _____.",
+      "opcoes": [
+        "a) ancient",
+        "b) elderly",
+        "c) new",
+        "d) antique"
+      ],
+      "correta": 2,
+      "explicacao": "New is the opposite of old."
+    },
+    {
+      "id": 36,
+      "pergunta": "If you don't have enough money, you are _____.",
+      "opcoes": [
+        "a) rich",
+        "b) broke",
+        "c) wealthy",
+        "d) affluent"
+      ],
+      "correta": 1,
+      "explicacao": "Broke (slang) means having no money."
+    },
+    {
+      "id": 37,
+      "pergunta": "A synonym for 'difficult' is _____.",
+      "opcoes": [
+        "a) easy",
+        "b) hard",
+        "c) simple",
+        "d) effortless"
+      ],
+      "correta": 1,
+      "explicacao": "Hard can mean difficult."
+    },
+    {
+      "id": 38,
+      "pergunta": "What do you call the thing you use to open a door?",
+      "opcoes": [
+        "a) lock",
+        "b) key",
+        "c) handle",
+        "d) knob"
+      ],
+      "correta": 1,
+      "explicacao": "A key opens a lock."
+    },
+    {
+      "id": 39,
+      "pergunta": "The opposite of 'clean' is _____.",
+      "opcoes": [
+        "a) tidy",
+        "b) neat",
+        "c) dirty",
+        "d) fresh"
+      ],
+      "correta": 2,
+      "explicacao": "Dirty is the opposite of clean."
+    },
+    {
+      "id": 40,
+      "pergunta": "If you don't understand something, you are _____.",
+      "opcoes": [
+        "a) clear",
+        "b) confused",
+        "c) certain",
+        "d) sure"
+      ],
+      "correta": 1,
+      "explicacao": "Confused means not understanding."
+    },
+    {
+      "id": 41,
+      "pergunta": "What do you call a person who treats sick people?",
+      "opcoes": [
+        "a) teacher",
+        "b) doctor",
+        "c) lawyer",
+        "d) engineer"
+      ],
+      "correta": 1,
+      "explicacao": "A doctor provides medical care."
+    },
+    {
+      "id": 42,
+      "pergunta": "A synonym for 'beautiful' is _____.",
+      "opcoes": [
+        "a) ugly",
+        "b) pretty",
+        "c) plain",
+        "d) dull"
+      ],
+      "correta": 1,
+      "explicacao": "Pretty means attractive."
+    },
+    {
+      "id": 43,
+      "pergunta": "The opposite of 'push' is _____.",
+      "opcoes": [
+        "a) pull",
+        "b) shove",
+        "c) press",
+        "d) force"
+      ],
+      "correta": 0,
+      "explicacao": "Pull is the opposite of push."
+    },
+    {
+      "id": 44,
+      "pergunta": "What do you call the meal you eat in the evening?",
+      "opcoes": [
+        "a) breakfast",
+        "b) lunch",
+        "c) dinner",
+        "d) snack"
+      ],
+      "correta": 2,
+      "explicacao": "Dinner is the evening meal."
+    },
+    {
+      "id": 45,
+      "pergunta": "If something is not heavy, it is _____.",
+      "opcoes": [
+        "a) light",
+        "b) heavy",
+        "c) weighty",
+        "d) massive"
+      ],
+      "correta": 0,
+      "explicacao": "Light means not heavy."
+    },
+    {
+      "id": 46,
+      "pergunta": "A person who works in a shop and helps customers is a _____.",
+      "opcoes": [
+        "a) manager",
+        "b) shop assistant",
+        "c) cashier",
+        "d) customer"
+      ],
+      "correta": 1,
+      "explicacao": "A shop assistant serves customers."
+    },
+    {
+      "id": 47,
+      "pergunta": "The opposite of 'far' is _____.",
+      "opcoes": [
+        "a) distant",
+        "b) near",
+        "c) remote",
+        "d) faraway"
+      ],
+      "correta": 1,
+      "explicacao": "Near means close."
+    },
+    {
+      "id": 48,
+      "pergunta": "What do you call a large room or building where meetings are held?",
+      "opcoes": [
+        "a) hall",
+        "b) auditorium",
+        "c) conference room",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "All can be used."
+    },
+    {
+      "id": 49,
+      "pergunta": "If you are not feeling well, you are _____.",
+      "opcoes": [
+        "a) healthy",
+        "b) ill",
+        "c) fit",
+        "d) strong"
+      ],
+      "correta": 1,
+      "explicacao": "Ill means sick."
+    },
+    {
+      "id": 50,
+      "pergunta": "A synonym for 'fast' is _____.",
+      "opcoes": [
+        "a) slow",
+        "b) quick",
+        "c) late",
+        "d) early"
+      ],
+      "correta": 1,
+      "explicacao": "Quick means fast."
+    }
+  ]
+}
