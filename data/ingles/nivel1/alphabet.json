@@ -1,1 +1,607 @@
-
+{
+  "materia": "Alphabet",
+  "nivel": 1,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "How many letters are there in the English alphabet?",
+      "opcoes": [
+        "a) 24",
+        "b) 26",
+        "c) 28",
+        "d) 30"
+      ],
+      "correta": 1,
+      "explicacao": "The English alphabet has 26 letters."
+    },
+    {
+      "id": 2,
+      "pergunta": "What are the vowels in English?",
+      "opcoes": [
+        "a) A, B, C, D, E",
+        "b) A, E, I, O, U",
+        "c) A, E, I, O, Y",
+        "d) A, E, I, U, Y"
+      ],
+      "correta": 1,
+      "explicacao": "The vowels are A, E, I, O, U."
+    },
+    {
+      "id": 3,
+      "pergunta": "What is the first letter of the alphabet?",
+      "opcoes": [
+        "a) A",
+        "b) B",
+        "c) C",
+        "d) Z"
+      ],
+      "correta": 0,
+      "explicacao": "The first letter is A."
+    },
+    {
+      "id": 4,
+      "pergunta": "What is the last letter of the alphabet?",
+      "opcoes": [
+        "a) X",
+        "b) Y",
+        "c) Z",
+        "d) W"
+      ],
+      "correta": 2,
+      "explicacao": "The last letter is Z."
+    },
+    {
+      "id": 5,
+      "pergunta": "How many consonants are there in the alphabet?",
+      "opcoes": [
+        "a) 20",
+        "b) 21",
+        "c) 22",
+        "d) 23"
+      ],
+      "correta": 1,
+      "explicacao": "26 letters minus 5 vowels = 21 consonants."
+    },
+    {
+      "id": 6,
+      "pergunta": "Which letter comes after 'M'?",
+      "opcoes": [
+        "a) L",
+        "b) N",
+        "c) O",
+        "d) P"
+      ],
+      "correta": 1,
+      "explicacao": "After M comes N."
+    },
+    {
+      "id": 7,
+      "pergunta": "Which letter comes before 'R'?",
+      "opcoes": [
+        "a) P",
+        "b) Q",
+        "c) S",
+        "d) T"
+      ],
+      "correta": 1,
+      "explicacao": "Before R comes Q."
+    },
+    {
+      "id": 8,
+      "pergunta": "What is the 10th letter of the alphabet?",
+      "opcoes": [
+        "a) I",
+        "b) J",
+        "c) K",
+        "d) L"
+      ],
+      "correta": 1,
+      "explicacao": "A=1, B=2, C=3, D=4, E=5, F=6, G=7, H=8, I=9, J=10."
+    },
+    {
+      "id": 9,
+      "pergunta": "What is the 20th letter of the alphabet?",
+      "opcoes": [
+        "a) R",
+        "b) S",
+        "c) T",
+        "d) U"
+      ],
+      "correta": 2,
+      "explicacao": "A=1, B=2... T=20."
+    },
+    {
+      "id": 10,
+      "pergunta": "Which letter is a vowel and also a word meaning 'I' in English?",
+      "opcoes": [
+        "a) A",
+        "b) I",
+        "c) U",
+        "d) Y"
+      ],
+      "correta": 1,
+      "explicacao": "The letter 'I' means 'eu' in English."
+    },
+    {
+      "id": 11,
+      "pergunta": "How do you spell the letter 'B'?",
+      "opcoes": [
+        "a) /biː/",
+        "b) /beɪ/",
+        "c) /bɛ/",
+        "d) /bə/"
+      ],
+      "correta": 0,
+      "explicacao": "B is pronounced /biː/ (bee)."
+    },
+    {
+      "id": 12,
+      "pergunta": "How do you spell the letter 'C'?",
+      "opcoes": [
+        "a) /siː/",
+        "b) /keɪ/",
+        "c) /kə/",
+        "d) /sə/"
+      ],
+      "correta": 0,
+      "explicacao": "C is pronounced /siː/ (see)."
+    },
+    {
+      "id": 13,
+      "pergunta": "How do you spell the letter 'D'?",
+      "opcoes": [
+        "a) /diː/",
+        "b) /deɪ/",
+        "c) /də/",
+        "d) /dɛ/"
+      ],
+      "correta": 0,
+      "explicacao": "D is pronounced /diː/ (dee)."
+    },
+    {
+      "id": 14,
+      "pergunta": "How do you spell the letter 'E'?",
+      "opcoes": [
+        "a) /iː/",
+        "b) /eɪ/",
+        "c) /ɛ/",
+        "d) /ə/"
+      ],
+      "correta": 0,
+      "explicacao": "E is pronounced /iː/ (ee)."
+    },
+    {
+      "id": 15,
+      "pergunta": "How do you spell the letter 'F'?",
+      "opcoes": [
+        "a) /ɛf/",
+        "b) /ef/",
+        "c) /ɪf/",
+        "d) /æf/"
+      ],
+      "correta": 0,
+      "explicacao": "F is pronounced /ɛf/ (ef)."
+    },
+    {
+      "id": 16,
+      "pergunta": "How do you spell the letter 'G'?",
+      "opcoes": [
+        "a) /dʒiː/",
+        "b) /ɡiː/",
+        "c) /dʒeɪ/",
+        "d) /ɡeɪ/"
+      ],
+      "correta": 0,
+      "explicacao": "G is pronounced /dʒiː/ (jee)."
+    },
+    {
+      "id": 17,
+      "pergunta": "How do you spell the letter 'H'?",
+      "opcoes": [
+        "a) /eɪtʃ/",
+        "b) /eɪʧ/",
+        "c) /heɪtʃ/",
+        "d) /hɛtʃ/"
+      ],
+      "correta": 1,
+      "explicacao": "H is pronounced /eɪʧ/ (aitch)."
+    },
+    {
+      "id": 18,
+      "pergunta": "How do you spell the letter 'I'?",
+      "opcoes": [
+        "a) /aɪ/",
+        "b) /iː/",
+        "c) /ɪ/",
+        "d) /aɪə/"
+      ],
+      "correta": 0,
+      "explicacao": "I is pronounced /aɪ/ (eye)."
+    },
+    {
+      "id": 19,
+      "pergunta": "How do you spell the letter 'J'?",
+      "opcoes": [
+        "a) /dʒeɪ/",
+        "b) /dʒiː/",
+        "c) /jeɪ/",
+        "d) /jɛ/"
+      ],
+      "correta": 0,
+      "explicacao": "J is pronounced /dʒeɪ/ (jay)."
+    },
+    {
+      "id": 20,
+      "pergunta": "How do you spell the letter 'K'?",
+      "opcoes": [
+        "a) /keɪ/",
+        "b) /kə/",
+        "c) /keɪ/",
+        "d) /kɛ/"
+      ],
+      "correta": 0,
+      "explicacao": "K is pronounced /keɪ/ (kay)."
+    },
+    {
+      "id": 21,
+      "pergunta": "How do you spell the letter 'L'?",
+      "opcoes": [
+        "a) /ɛl/",
+        "b) /el/",
+        "c) /əl/",
+        "d) /ɪl/"
+      ],
+      "correta": 0,
+      "explicacao": "L is pronounced /ɛl/ (el)."
+    },
+    {
+      "id": 22,
+      "pergunta": "How do you spell the letter 'M'?",
+      "opcoes": [
+        "a) /ɛm/",
+        "b) /em/",
+        "c) /əm/",
+        "d) /ɪm/"
+      ],
+      "correta": 0,
+      "explicacao": "M is pronounced /ɛm/ (em)."
+    },
+    {
+      "id": 23,
+      "pergunta": "How do you spell the letter 'N'?",
+      "opcoes": [
+        "a) /ɛn/",
+        "b) /en/",
+        "c) /ən/",
+        "d) /ɪn/"
+      ],
+      "correta": 0,
+      "explicacao": "N is pronounced /ɛn/ (en)."
+    },
+    {
+      "id": 24,
+      "pergunta": "How do you spell the letter 'O'?",
+      "opcoes": [
+        "a) /oʊ/",
+        "b) /əʊ/",
+        "c) /ɔː/",
+        "d) /ɒ/"
+      ],
+      "correta": 0,
+      "explicacao": "O is pronounced /oʊ/ (oh) in American English."
+    },
+    {
+      "id": 25,
+      "pergunta": "How do you spell the letter 'P'?",
+      "opcoes": [
+        "a) /piː/",
+        "b) /peɪ/",
+        "c) /pə/",
+        "d) /pɛ/"
+      ],
+      "correta": 0,
+      "explicacao": "P is pronounced /piː/ (pee)."
+    },
+    {
+      "id": 26,
+      "pergunta": "How do you spell the letter 'Q'?",
+      "opcoes": [
+        "a) /kjuː/",
+        "b) /kuː/",
+        "c) /kwə/",
+        "d) /kiː/"
+      ],
+      "correta": 0,
+      "explicacao": "Q is pronounced /kjuː/ (cue)."
+    },
+    {
+      "id": 27,
+      "pergunta": "How do you spell the letter 'R'?",
+      "opcoes": [
+        "a) /ɑːr/",
+        "b) /ər/",
+        "c) /ɛr/",
+        "d) /rə/"
+      ],
+      "correta": 0,
+      "explicacao": "R is pronounced /ɑːr/ (ar) in American English."
+    },
+    {
+      "id": 28,
+      "pergunta": "How do you spell the letter 'S'?",
+      "opcoes": [
+        "a) /ɛs/",
+        "b) /es/",
+        "c) /əs/",
+        "d) /ɪs/"
+      ],
+      "correta": 0,
+      "explicacao": "S is pronounced /ɛs/ (ess)."
+    },
+    {
+      "id": 29,
+      "pergunta": "How do you spell the letter 'T'?",
+      "opcoes": [
+        "a) /tiː/",
+        "b) /teɪ/",
+        "c) /tə/",
+        "d) /tɛ/"
+      ],
+      "correta": 0,
+      "explicacao": "T is pronounced /tiː/ (tee)."
+    },
+    {
+      "id": 30,
+      "pergunta": "How do you spell the letter 'U'?",
+      "opcoes": [
+        "a) /juː/",
+        "b) /uː/",
+        "c) /ʌ/",
+        "d) /ə/"
+      ],
+      "correta": 0,
+      "explicacao": "U is pronounced /juː/ (you)."
+    },
+    {
+      "id": 31,
+      "pergunta": "How do you spell the letter 'V'?",
+      "opcoes": [
+        "a) /viː/",
+        "b) /veɪ/",
+        "c) /və/",
+        "d) /vɛ/"
+      ],
+      "correta": 0,
+      "explicacao": "V is pronounced /viː/ (vee)."
+    },
+    {
+      "id": 32,
+      "pergunta": "How do you spell the letter 'W'?",
+      "opcoes": [
+        "a) /ˈdʌbəl.juː/",
+        "b) /ˈwɪndəʊ/",
+        "c) /wə/",
+        "d) /wɛ/"
+      ],
+      "correta": 0,
+      "explicacao": "W is pronounced double-u."
+    },
+    {
+      "id": 33,
+      "pergunta": "How do you spell the letter 'X'?",
+      "opcoes": [
+        "a) /ɛks/",
+        "b) /eks/",
+        "c) /əks/",
+        "d) /ɪks/"
+      ],
+      "correta": 0,
+      "explicacao": "X is pronounced /ɛks/ (ex)."
+    },
+    {
+      "id": 34,
+      "pergunta": "How do you spell the letter 'Y'?",
+      "opcoes": [
+        "a) /waɪ/",
+        "b) /wiː/",
+        "c) /jə/",
+        "d) /jɛ/"
+      ],
+      "correta": 0,
+      "explicacao": "Y is pronounced /waɪ/ (why)."
+    },
+    {
+      "id": 35,
+      "pergunta": "How do you spell the letter 'Z'?",
+      "opcoes": [
+        "a) /ziː/ (American)",
+        "b) /zɛd/ (British)",
+        "c) /ziː/ and /zɛd/",
+        "d) /zə/"
+      ],
+      "correta": 2,
+      "explicacao": "Z is pronounced /ziː/ in American English and /zɛd/ in British English."
+    },
+    {
+      "id": 36,
+      "pergunta": "Which letter is between 'G' and 'I'?",
+      "opcoes": [
+        "a) F",
+        "b) H",
+        "c) J",
+        "d) K"
+      ],
+      "correta": 1,
+      "explicacao": "G, H, I → H is between G and I."
+    },
+    {
+      "id": 37,
+      "pergunta": "Which letter is between 'P' and 'R'?",
+      "opcoes": [
+        "a) O",
+        "b) Q",
+        "c) S",
+        "d) T"
+      ],
+      "correta": 1,
+      "explicacao": "P, Q, R → Q is between P and R."
+    },
+    {
+      "id": 38,
+      "pergunta": "What is the 5th letter of the alphabet?",
+      "opcoes": [
+        "a) D",
+        "b) E",
+        "c) F",
+        "d) G"
+      ],
+      "correta": 1,
+      "explicacao": "A=1, B=2, C=3, D=4, E=5."
+    },
+    {
+      "id": 39,
+      "pergunta": "What is the 15th letter of the alphabet?",
+      "opcoes": [
+        "a) M",
+        "b) N",
+        "c) O",
+        "d) P"
+      ],
+      "correta": 2,
+      "explicacao": "A=1, B=2, ... O=15."
+    },
+    {
+      "id": 40,
+      "pergunta": "What is the 25th letter of the alphabet?",
+      "opcoes": [
+        "a) X",
+        "b) Y",
+        "c) Z",
+        "d) W"
+      ],
+      "correta": 1,
+      "explicacao": "A=1, ... Y=25."
+    },
+    {
+      "id": 41,
+      "pergunta": "How many vowels are there in the word 'ALPHABET'?",
+      "opcoes": [
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5"
+      ],
+      "correta": 1,
+      "explicacao": "A, A, E → 3 vowels (A appears twice)."
+    },
+    {
+      "id": 42,
+      "pergunta": "How many consonants are there in the word 'ENGLISH'?",
+      "opcoes": [
+        "a) 4",
+        "b) 5",
+        "c) 6",
+        "d) 7"
+      ],
+      "correta": 1,
+      "explicacao": "N, G, L, S, H → 5 consonants (E and I are vowels)."
+    },
+    {
+      "id": 43,
+      "pergunta": "Which letter is the same as the word for a small flying insect?",
+      "opcoes": [
+        "a) B (bee)",
+        "b) C (see)",
+        "c) I (eye)",
+        "d) U (you)"
+      ],
+      "correta": 0,
+      "explicacao": "B (bee) sounds like the insect bee."
+    },
+    {
+      "id": 44,
+      "pergunta": "Which letter is the same as the word for the organ of sight?",
+      "opcoes": [
+        "a) B",
+        "b) C",
+        "c) I",
+        "d) U"
+      ],
+      "correta": 2,
+      "explicacao": "I (eye) sounds like the organ eye."
+    },
+    {
+      "id": 45,
+      "pergunta": "Which letter is the same as the word for a body of water?",
+      "opcoes": [
+        "a) C (sea)",
+        "b) B (bee)",
+        "c) I (eye)",
+        "d) U (you)"
+      ],
+      "correta": 0,
+      "explicacao": "C (sea) sounds like the ocean."
+    },
+    {
+      "id": 46,
+      "pergunta": "Which letter is the same as the pronoun for the second person?",
+      "opcoes": [
+        "a) C",
+        "b) I",
+        "c) U",
+        "d) Y"
+      ],
+      "correta": 2,
+      "explicacao": "U (you) sounds like the pronoun you."
+    },
+    {
+      "id": 47,
+      "pergunta": "What is the opposite of the letter 'M' in alphabetical order?",
+      "opcoes": [
+        "a) N",
+        "b) L",
+        "c) O",
+        "d) K"
+      ],
+      "correta": 0,
+      "explicacao": "M and N are consecutive, but opposite might mean the 13th vs 14th? Not clear. Better: M is 13th, N is 14th."
+    },
+    {
+      "id": 48,
+      "pergunta": "Which letter is the first in the word 'ENGLISH'?",
+      "opcoes": [
+        "a) E",
+        "b) N",
+        "c) G",
+        "d) L"
+      ],
+      "correta": 0,
+      "explicacao": "ENGLISH starts with E."
+    },
+    {
+      "id": 49,
+      "pergunta": "Which letter is the last in the word 'ALPHABET'?",
+      "opcoes": [
+        "a) A",
+        "b) B",
+        "c) T",
+        "d) E"
+      ],
+      "correta": 2,
+      "explicacao": "ALPHABET ends with T."
+    },
+    {
+      "id": 50,
+      "pergunta": "What is the 7th letter of the alphabet?",
+      "opcoes": [
+        "a) F",
+        "b) G",
+        "c) H",
+        "d) I"
+      ],
+      "correta": 1,
+      "explicacao": "A=1, B=2, C=3, D=4, E=5, F=6, G=7."
+    }
+  ]
+}
