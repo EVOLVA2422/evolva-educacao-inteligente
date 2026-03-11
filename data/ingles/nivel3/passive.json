@@ -1,1 +1,607 @@
-
+{
+  "materia": "Passive Voice",
+  "nivel": 3,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Change to passive: 'Shakespeare wrote Hamlet.'",
+      "opcoes": [
+        "a) Hamlet was wrote by Shakespeare.",
+        "b) Hamlet was written by Shakespeare.",
+        "c) Hamlet written by Shakespeare.",
+        "d) Hamlet is written by Shakespeare."
+      ],
+      "correta": 1,
+      "explicacao": "Passive: object + was/were + past participle."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete: 'English _____ all over the world.'",
+      "opcoes": [
+        "a) is spoken",
+        "b) is spoke",
+        "c) are spoken",
+        "d) is speak"
+      ],
+      "correta": 0,
+      "explicacao": "Present simple passive: is/are + past participle."
+    },
+    {
+      "id": 3,
+      "pergunta": "Change to passive: 'They are building a new hospital.'",
+      "opcoes": [
+        "a) A new hospital is being built.",
+        "b) A new hospital is built.",
+        "c) A new hospital is building.",
+        "d) A new hospital being built."
+      ],
+      "correta": 0,
+      "explicacao": "Present continuous passive: is/are + being + past participle."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete: 'The letter _____ yesterday.'",
+      "opcoes": [
+        "a) was sent",
+        "b) is sent",
+        "c) sent",
+        "d) was send"
+      ],
+      "correta": 0,
+      "explicacao": "Past simple passive: was/were + past participle."
+    },
+    {
+      "id": 5,
+      "pergunta": "Change to passive: 'Someone has stolen my car.'",
+      "opcoes": [
+        "a) My car has been stolen.",
+        "b) My car was stolen.",
+        "c) My car is stolen.",
+        "d) My car have been stolen."
+      ],
+      "correta": 0,
+      "explicacao": "Present perfect passive: has/have + been + past participle."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'The room _____ every day.'",
+      "opcoes": [
+        "a) is cleaned",
+        "b) is clean",
+        "c) cleans",
+        "d) is cleaning"
+      ],
+      "correta": 0,
+      "explicacao": "Present simple passive: is cleaned."
+    },
+    {
+      "id": 7,
+      "pergunta": "Change to passive: 'They will finish the work tomorrow.'",
+      "opcoes": [
+        "a) The work will be finished tomorrow.",
+        "b) The work will finish tomorrow.",
+        "c) The work is finished tomorrow.",
+        "d) The work will be finish tomorrow."
+      ],
+      "correta": 0,
+      "explicacao": "Future passive: will + be + past participle."
+    },
+    {
+      "id": 8,
+      "pergunta": "Complete: 'When I arrived, the food _____ already cooked.'",
+      "opcoes": [
+        "a) had been",
+        "b) was",
+        "c) has been",
+        "d) is"
+      ],
+      "correta": 0,
+      "explicacao": "Past perfect passive: had been + past participle."
+    },
+    {
+      "id": 9,
+      "pergunta": "Change to passive: 'They are going to open a new store.'",
+      "opcoes": [
+        "a) A new store is going to be opened.",
+        "b) A new store is going to open.",
+        "c) A new store will be opened.",
+        "d) A new store is opened."
+      ],
+      "correta": 0,
+      "explicacao": "Future with 'going to' passive: is going to be + past participle."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'This house _____ in 1990.'",
+      "opcoes": [
+        "a) was built",
+        "b) is built",
+        "c) built",
+        "d) has been built"
+      ],
+      "correta": 0,
+      "explicacao": "Past simple passive with specific time."
+    },
+    {
+      "id": 11,
+      "pergunta": "Change to passive: 'People speak Portuguese in Brazil.'",
+      "opcoes": [
+        "a) Portuguese is spoken in Brazil.",
+        "b) Portuguese are spoken in Brazil.",
+        "c) Portuguese speaks in Brazil.",
+        "d) Portuguese is speak in Brazil."
+      ],
+      "correta": 0,
+      "explicacao": "Present simple passive."
+    },
+    {
+      "id": 12,
+      "pergunta": "Complete: 'The problem _____ now.'",
+      "opcoes": [
+        "a) is being discussed",
+        "b) is discussed",
+        "c) discusses",
+        "d) is discussing"
+      ],
+      "correta": 0,
+      "explicacao": "Present continuous passive: is being discussed."
+    },
+    {
+      "id": 13,
+      "pergunta": "Change to passive: 'They had finished the project.'",
+      "opcoes": [
+        "a) The project had been finished.",
+        "b) The project was finished.",
+        "c) The project has been finished.",
+        "d) The project had finished."
+      ],
+      "correta": 0,
+      "explicacao": "Past perfect passive."
+    },
+    {
+      "id": 14,
+      "pergunta": "Complete: 'The cake _____ by my mother.'",
+      "opcoes": [
+        "a) was made",
+        "b) is made",
+        "c) made",
+        "d) has made"
+      ],
+      "correta": 0,
+      "explicacao": "Past simple passive."
+    },
+    {
+      "id": 15,
+      "pergunta": "Change to passive: 'They will have completed the bridge by next year.'",
+      "opcoes": [
+        "a) The bridge will have been completed by next year.",
+        "b) The bridge will be completed by next year.",
+        "c) The bridge will have completed by next year.",
+        "d) The bridge is completed by next year."
+      ],
+      "correta": 0,
+      "explicacao": "Future perfect passive: will have been + past participle."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: 'This song _____ on the radio a lot.'",
+      "opcoes": [
+        "a) is played",
+        "b) plays",
+        "c) is playing",
+        "d) has played"
+      ],
+      "correta": 0,
+      "explicacao": "Present simple passive."
+    },
+    {
+      "id": 17,
+      "pergunta": "Change to passive: 'They were painting the house when I arrived.'",
+      "opcoes": [
+        "a) The house was being painted when I arrived.",
+        "b) The house was painted when I arrived.",
+        "c) The house was painting when I arrived.",
+        "d) The house is being painted when I arrived."
+      ],
+      "correta": 0,
+      "explicacao": "Past continuous passive: was/were being + past participle."
+    },
+    {
+      "id": 18,
+      "pergunta": "Complete: 'The letter _____ written yet.'",
+      "opcoes": [
+        "a) hasn't been",
+        "b) wasn't",
+        "c) isn't",
+        "d) hasn't"
+      ],
+      "correta": 0,
+      "explicacao": "Present perfect negative passive."
+    },
+    {
+      "id": 19,
+      "pergunta": "Change to passive: 'Someone should clean this room.'",
+      "opcoes": [
+        "a) This room should be cleaned.",
+        "b) This room should clean.",
+        "c) This room is should be cleaned.",
+        "d) This room should been cleaned."
+      ],
+      "correta": 0,
+      "explicacao": "Modal passive: modal + be + past participle."
+    },
+    {
+      "id": 20,
+      "pergunta": "Complete: 'The car _____ serviced regularly.'",
+      "opcoes": [
+        "a) must be",
+        "b) must",
+        "c) must have",
+        "d) must been"
+      ],
+      "correta": 0,
+      "explicacao": "Modal passive: must be serviced."
+    },
+    {
+      "id": 21,
+      "pergunta": "Change to passive: 'They are going to invite everyone.'",
+      "opcoes": [
+        "a) Everyone is going to be invited.",
+        "b) Everyone is going to invite.",
+        "c) Everyone will be invited.",
+        "d) Everyone is invited."
+      ],
+      "correta": 0,
+      "explicacao": "'Going to' passive."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'I hope the package _____ by Friday.'",
+      "opcoes": [
+        "a) will be delivered",
+        "b) will deliver",
+        "c) is delivered",
+        "d) has been delivered"
+      ],
+      "correta": 0,
+      "explicacao": "Future passive."
+    },
+    {
+      "id": 23,
+      "pergunta": "Change to passive: 'They have offered him a new job.'",
+      "opcoes": [
+        "a) He has been offered a new job.",
+        "b) A new job has been offered to him.",
+        "c) Both are correct.",
+        "d) He has offered a new job."
+      ],
+      "correta": 2,
+      "explicacao": "Verbs with two objects can have two passives."
+    },
+    {
+      "id": 24,
+      "pergunta": "Complete: 'The results _____ announced tomorrow.'",
+      "opcoes": [
+        "a) will be",
+        "b) are",
+        "c) have been",
+        "d) were"
+      ],
+      "correta": 0,
+      "explicacao": "Future passive."
+    },
+    {
+      "id": 25,
+      "pergunta": "Change to passive: 'They were interviewing her for the job.'",
+      "opcoes": [
+        "a) She was being interviewed for the job.",
+        "b) She was interviewed for the job.",
+        "c) She is being interviewed for the job.",
+        "d) She had been interviewed for the job."
+      ],
+      "correta": 0,
+      "explicacao": "Past continuous passive."
+    },
+    {
+      "id": 26,
+      "pergunta": "Complete: 'The old building _____ down next year.'",
+      "opcoes": [
+        "a) will be knocked",
+        "b) will knock",
+        "c) is knocked",
+        "d) has been knocked"
+      ],
+      "correta": 0,
+      "explicacao": "Future passive."
+    },
+    {
+      "id": 27,
+      "pergunta": "Change to passive: 'People don't use this road very often.'",
+      "opcoes": [
+        "a) This road isn't used very often.",
+        "b) This road doesn't used very often.",
+        "c) This road isn't use very often.",
+        "d) This road is not use very often."
+      ],
+      "correta": 0,
+      "explicacao": "Present simple negative passive."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'By the time we arrived, the decision _____ made.'",
+      "opcoes": [
+        "a) had been",
+        "b) was",
+        "c) has been",
+        "d) is"
+      ],
+      "correta": 0,
+      "explicacao": "Past perfect passive."
+    },
+    {
+      "id": 29,
+      "pergunta": "Change to passive: 'You must pay the bill on time.'",
+      "opcoes": [
+        "a) The bill must be paid on time.",
+        "b) The bill must pay on time.",
+        "c) The bill is must paid on time.",
+        "d) The bill must been paid on time."
+      ],
+      "correta": 0,
+      "explicacao": "Modal passive."
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: 'The film _____ based on a true story.'",
+      "opcoes": [
+        "a) is",
+        "b) was",
+        "c) has been",
+        "d) all are possible depending on context"
+      ],
+      "correta": 3,
+      "explicacao": "Could be present or past. Most common: is based (present passive)."
+    },
+    {
+      "id": 31,
+      "pergunta": "Change to passive: 'They are going to build a new airport.'",
+      "opcoes": [
+        "a) A new airport is going to be built.",
+        "b) A new airport is going to build.",
+        "c) A new airport will be built.",
+        "d) A new airport is built."
+      ],
+      "correta": 0,
+      "explicacao": "'Going to' passive."
+    },
+    {
+      "id": 32,
+      "pergunta": "Complete: 'The documents _____ signed yet.'",
+      "opcoes": [
+        "a) haven't been",
+        "b) weren't",
+        "c) aren't",
+        "d) haven't"
+      ],
+      "correta": 0,
+      "explicacao": "Present perfect negative passive."
+    },
+    {
+      "id": 33,
+      "pergunta": "Change to passive: 'Someone will meet you at the airport.'",
+      "opcoes": [
+        "a) You will be met at the airport.",
+        "b) You will meet at the airport.",
+        "c) You will been met at the airport.",
+        "d) You are met at the airport."
+      ],
+      "correta": 0,
+      "explicacao": "Future passive."
+    },
+    {
+      "id": 34,
+      "pergunta": "Complete: 'This room _____ every day.'",
+      "opcoes": [
+        "a) is cleaned",
+        "b) cleans",
+        "c) is cleaning",
+        "d) has cleaned"
+      ],
+      "correta": 0,
+      "explicacao": "Present simple passive."
+    },
+    {
+      "id": 35,
+      "pergunta": "Change to passive: 'They had already discussed the issue.'",
+      "opcoes": [
+        "a) The issue had already been discussed.",
+        "b) The issue was already discussed.",
+        "c) The issue has already been discussed.",
+        "d) The issue had already discussed."
+      ],
+      "correta": 0,
+      "explicacao": "Past perfect passive."
+    },
+    {
+      "id": 36,
+      "pergunta": "Complete: 'The bridge _____ at the moment.'",
+      "opcoes": [
+        "a) is being repaired",
+        "b) is repaired",
+        "c) repairs",
+        "d) has been repaired"
+      ],
+      "correta": 0,
+      "explicacao": "Present continuous passive."
+    },
+    {
+      "id": 37,
+      "pergunta": "Change to passive: 'They should have informed us earlier.'",
+      "opcoes": [
+        "a) We should have been informed earlier.",
+        "b) We should be informed earlier.",
+        "c) We should have informed earlier.",
+        "d) We should been informed earlier."
+      ],
+      "correta": 0,
+      "explicacao": "Modal perfect passive: should have been + past participle."
+    },
+    {
+      "id": 38,
+      "pergunta": "Complete: 'The game _____ postponed due to rain.'",
+      "opcoes": [
+        "a) was",
+        "b) is",
+        "c) has been",
+        "d) all possible"
+      ],
+      "correta": 3,
+      "explicacao": "Depends on context. Most common: was postponed."
+    },
+    {
+      "id": 39,
+      "pergunta": "Change to passive: 'People consider him a genius.'",
+      "opcoes": [
+        "a) He is considered a genius.",
+        "b) He is being considered a genius.",
+        "c) He was considered a genius.",
+        "d) He has been considered a genius."
+      ],
+      "correta": 0,
+      "explicacao": "Present simple passive with 'consider'."
+    },
+    {
+      "id": 40,
+      "pergunta": "Complete: 'The report _____ by the end of the day.'",
+      "opcoes": [
+        "a) will be finished",
+        "b) will finish",
+        "c) is finished",
+        "d) has been finished"
+      ],
+      "correta": 0,
+      "explicacao": "Future passive."
+    },
+    {
+      "id": 41,
+      "pergunta": "Change to passive: 'They are watching the suspect.'",
+      "opcoes": [
+        "a) The suspect is being watched.",
+        "b) The suspect is watched.",
+        "c) The suspect was being watched.",
+        "d) The suspect has been watched."
+      ],
+      "correta": 0,
+      "explicacao": "Present continuous passive."
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: 'The cake _____ into three layers.'",
+      "opcoes": [
+        "a) was divided",
+        "b) divided",
+        "c) is dividing",
+        "d) has divided"
+      ],
+      "correta": 0,
+      "explicacao": "Past simple passive."
+    },
+    {
+      "id": 43,
+      "pergunta": "Change to passive: 'They had not invited her.'",
+      "opcoes": [
+        "a) She had not been invited.",
+        "b) She was not invited.",
+        "c) She has not been invited.",
+        "d) She had not invited."
+      ],
+      "correta": 0,
+      "explicacao": "Past perfect passive negative."
+    },
+    {
+      "id": 44,
+      "pergunta": "Complete: 'The results _____ until next week.'",
+      "opcoes": [
+        "a) won't be announced",
+        "b) won't announce",
+        "c) aren't announced",
+        "d) haven't been announced"
+      ],
+      "correta": 0,
+      "explicacao": "Future passive negative."
+    },
+    {
+      "id": 45,
+      "pergunta": "Change to passive: 'Someone must have taken it.'",
+      "opcoes": [
+        "a) It must have been taken.",
+        "b) It must be taken.",
+        "c) It must have taken.",
+        "d) It must been taken."
+      ],
+      "correta": 0,
+      "explicacao": "Modal perfect passive."
+    },
+    {
+      "id": 46,
+      "pergunta": "Complete: 'The children _____ to school by bus.'",
+      "opcoes": [
+        "a) are taken",
+        "b) take",
+        "c) are taking",
+        "d) have taken"
+      ],
+      "correta": 0,
+      "explicacao": "Present simple passive."
+    },
+    {
+      "id": 47,
+      "pergunta": "Change to passive: 'They will have finished the project by Monday.'",
+      "opcoes": [
+        "a) The project will have been finished by Monday.",
+        "b) The project will be finished by Monday.",
+        "c) The project will have finished by Monday.",
+        "d) The project is finished by Monday."
+      ],
+      "correta": 0,
+      "explicacao": "Future perfect passive."
+    },
+    {
+      "id": 48,
+      "pergunta": "Complete: 'The documents _____ by the manager.'",
+      "opcoes": [
+        "a) must be signed",
+        "b) must sign",
+        "c) must have signed",
+        "d) must been signed"
+      ],
+      "correta": 0,
+      "explicacao": "Modal passive."
+    },
+    {
+      "id": 49,
+      "pergunta": "Change to passive: 'They were cleaning the house when I arrived.'",
+      "opcoes": [
+        "a) The house was being cleaned when I arrived.",
+        "b) The house was cleaned when I arrived.",
+        "c) The house was cleaning when I arrived.",
+        "d) The house had been cleaned when I arrived."
+      ],
+      "correta": 0,
+      "explicacao": "Past continuous passive."
+    },
+    {
+      "id": 50,
+      "pergunta": "Complete: 'I hope the problem _____ soon.'",
+      "opcoes": [
+        "a) will be solved",
+        "b) will solve",
+        "c) is solved",
+        "d) has been solved"
+      ],
+      "correta": 0,
+      "explicacao": "Future passive."
+    }
+  ]
+}
