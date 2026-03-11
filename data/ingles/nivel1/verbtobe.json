@@ -1,1 +1,607 @@
-
+{
+  "materia": "Verb to Be",
+  "nivel": 1,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Complete: 'I _____ a student.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 0,
+      "explicacao": "I am a student."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete: 'She _____ a teacher.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "She is a teacher."
+    },
+    {
+      "id": 3,
+      "pergunta": "Complete: 'They _____ happy.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "They are happy."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete: 'He _____ my brother.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "He is my brother."
+    },
+    {
+      "id": 5,
+      "pergunta": "Complete: 'We _____ at home.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "We are at home."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'You _____ my friend.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "You are my friend."
+    },
+    {
+      "id": 7,
+      "pergunta": "Complete: 'It _____ a cat.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "It is a cat."
+    },
+    {
+      "id": 8,
+      "pergunta": "Choose the correct negative form: 'I _____ tired.'",
+      "opcoes": [
+        "a) am not",
+        "b) is not",
+        "c) are not",
+        "d) not am"
+      ],
+      "correta": 0,
+      "explicacao": "I am not tired."
+    },
+    {
+      "id": 9,
+      "pergunta": "Choose the correct negative: 'She _____ at school.'",
+      "opcoes": [
+        "a) am not",
+        "b) is not",
+        "c) are not",
+        "d) not is"
+      ],
+      "correta": 1,
+      "explicacao": "She is not (isn't) at school."
+    },
+    {
+      "id": 10,
+      "pergunta": "Choose the correct negative: 'They _____ Brazilian.'",
+      "opcoes": [
+        "a) am not",
+        "b) is not",
+        "c) are not",
+        "d) not are"
+      ],
+      "correta": 2,
+      "explicacao": "They are not (aren't) Brazilian."
+    },
+    {
+      "id": 11,
+      "pergunta": "Choose the correct question: '_____ you a student?'",
+      "opcoes": [
+        "a) Am",
+        "b) Is",
+        "c) Are",
+        "d) Be"
+      ],
+      "correta": 2,
+      "explicacao": "Are you a student?"
+    },
+    {
+      "id": 12,
+      "pergunta": "Choose the correct question: '_____ she your sister?'",
+      "opcoes": [
+        "a) Am",
+        "b) Is",
+        "c) Are",
+        "d) Be"
+      ],
+      "correta": 1,
+      "explicacao": "Is she your sister?"
+    },
+    {
+      "id": 13,
+      "pergunta": "Choose the correct question: '_____ I late?'",
+      "opcoes": [
+        "a) Am",
+        "b) Is",
+        "c) Are",
+        "d) Be"
+      ],
+      "correta": 0,
+      "explicacao": "Am I late?"
+    },
+    {
+      "id": 14,
+      "pergunta": "Choose the correct question: '_____ they from Brazil?'",
+      "opcoes": [
+        "a) Am",
+        "b) Is",
+        "c) Are",
+        "d) Be"
+      ],
+      "correta": 2,
+      "explicacao": "Are they from Brazil?"
+    },
+    {
+      "id": 15,
+      "pergunta": "Choose the correct short answer: 'Are you a teacher?' - 'Yes, _____'",
+      "opcoes": [
+        "a) I am",
+        "b) you are",
+        "c) I'm",
+        "d) I is"
+      ],
+      "correta": 0,
+      "explicacao": "Yes, I am."
+    },
+    {
+      "id": 16,
+      "pergunta": "Choose the correct short answer: 'Is he your brother?' - 'No, _____'",
+      "opcoes": [
+        "a) he isn't",
+        "b) he not",
+        "c) he is not",
+        "d) he aren't"
+      ],
+      "correta": 0,
+      "explicacao": "No, he isn't."
+    },
+    {
+      "id": 17,
+      "pergunta": "Choose the correct short answer: 'Are they happy?' - 'Yes, _____'",
+      "opcoes": [
+        "a) they are",
+        "b) they're",
+        "c) they is",
+        "d) they am"
+      ],
+      "correta": 0,
+      "explicacao": "Yes, they are."
+    },
+    {
+      "id": 18,
+      "pergunta": "Complete with the contracted form: 'She _____ (is not) here.'",
+      "opcoes": [
+        "a) isn't",
+        "b) aren't",
+        "c) am not",
+        "d) not is"
+      ],
+      "correta": 0,
+      "explicacao": "She isn't here."
+    },
+    {
+      "id": 19,
+      "pergunta": "Complete with the contracted form: 'I _____ (am not) ready.'",
+      "opcoes": [
+        "a) aren't",
+        "b) isn't",
+        "c) I'm not",
+        "d) not am"
+      ],
+      "correta": 2,
+      "explicacao": "I'm not ready."
+    },
+    {
+      "id": 20,
+      "pergunta": "Complete with the contracted form: 'They _____ (are not) at home.'",
+      "opcoes": [
+        "a) isn't",
+        "b) aren't",
+        "c) not are",
+        "d) they're not"
+      ],
+      "correta": 1,
+      "explicacao": "They aren't at home."
+    },
+    {
+      "id": 21,
+      "pergunta": "Choose the correct form: 'The books _____ on the table.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "The books (plural) are on the table."
+    },
+    {
+      "id": 22,
+      "pergunta": "Choose the correct form: 'My mother _____ a doctor.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "My mother (singular) is a doctor."
+    },
+    {
+      "id": 23,
+      "pergunta": "Choose the correct form: 'I and my friend _____ students.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "I and my friend = we (plural) → are."
+    },
+    {
+      "id": 24,
+      "pergunta": "Choose the correct form: 'The dog _____ in the garden.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "The dog (singular) is in the garden."
+    },
+    {
+      "id": 25,
+      "pergunta": "Choose the correct form: 'You and I _____ friends.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "You and I = we → are."
+    },
+    {
+      "id": 26,
+      "pergunta": "Choose the correct negative: 'He _____ a student. He's a teacher.'",
+      "opcoes": [
+        "a) am not",
+        "b) isn't",
+        "c) aren't",
+        "d) not is"
+      ],
+      "correta": 1,
+      "explicacao": "He isn't a student."
+    },
+    {
+      "id": 27,
+      "pergunta": "Choose the correct negative: 'We _____ late. We're on time.'",
+      "opcoes": [
+        "a) isn't",
+        "b) aren't",
+        "c) am not",
+        "d) not are"
+      ],
+      "correta": 1,
+      "explicacao": "We aren't late."
+    },
+    {
+      "id": 28,
+      "pergunta": "Choose the correct question: '_____ your parents at home?'",
+      "opcoes": [
+        "a) Is",
+        "b) Are",
+        "c) Am",
+        "d) Be"
+      ],
+      "correta": 1,
+      "explicacao": "Parents (plural) → Are your parents at home?"
+    },
+    {
+      "id": 29,
+      "pergunta": "Choose the correct question: '_____ your brother a doctor?'",
+      "opcoes": [
+        "a) Is",
+        "b) Are",
+        "c) Am",
+        "d) Be"
+      ],
+      "correta": 0,
+      "explicacao": "Brother (singular) → Is your brother a doctor?"
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: 'Where _____ you from?'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "Where are you from?"
+    },
+    {
+      "id": 31,
+      "pergunta": "Complete: 'How old _____ your sister?'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "How old is your sister?"
+    },
+    {
+      "id": 32,
+      "pergunta": "Complete: 'What _____ your name?'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "What is your name?"
+    },
+    {
+      "id": 33,
+      "pergunta": "Complete: 'My name _____ John.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "My name is John."
+    },
+    {
+      "id": 34,
+      "pergunta": "Complete: 'We _____ from Brazil.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "We are from Brazil."
+    },
+    {
+      "id": 35,
+      "pergunta": "Choose the correct short answer: 'Is she a teacher?' - 'Yes, _____'",
+      "opcoes": [
+        "a) she is",
+        "b) she's",
+        "c) she is",
+        "d) she are"
+      ],
+      "correta": 0,
+      "explicacao": "Yes, she is."
+    },
+    {
+      "id": 36,
+      "pergunta": "Choose the correct short answer: 'Are you tired?' - 'No, _____'",
+      "opcoes": [
+        "a) I'm not",
+        "b) I not",
+        "c) I aren't",
+        "d) I isn't"
+      ],
+      "correta": 0,
+      "explicacao": "No, I'm not."
+    },
+    {
+      "id": 37,
+      "pergunta": "Choose the correct short answer: 'Is it a cat?' - 'Yes, _____'",
+      "opcoes": [
+        "a) it is",
+        "b) it's",
+        "c) it are",
+        "d) it am"
+      ],
+      "correta": 0,
+      "explicacao": "Yes, it is."
+    },
+    {
+      "id": 38,
+      "pergunta": "Choose the correct short answer: 'Are they your friends?' - 'Yes, _____'",
+      "opcoes": [
+        "a) they are",
+        "b) they're",
+        "c) they are",
+        "d) they is"
+      ],
+      "correta": 0,
+      "explicacao": "Yes, they are."
+    },
+    {
+      "id": 39,
+      "pergunta": "Complete: 'There _____ a book on the table.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "There is a book."
+    },
+    {
+      "id": 40,
+      "pergunta": "Complete: 'There _____ many students in the class.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "There are many students."
+    },
+    {
+      "id": 41,
+      "pergunta": "Complete: '_____ there a problem?'",
+      "opcoes": [
+        "a) Is",
+        "b) Are",
+        "c) Am",
+        "d) Be"
+      ],
+      "correta": 0,
+      "explicacao": "Is there a problem?"
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: '_____ there any questions?'",
+      "opcoes": [
+        "a) Is",
+        "b) Are",
+        "c) Am",
+        "d) Be"
+      ],
+      "correta": 1,
+      "explicacao": "Are there any questions?"
+    },
+    {
+      "id": 43,
+      "pergunta": "Choose the correct form: 'The news _____ good.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "'News' is uncountable and takes singular verb: The news is good."
+    },
+    {
+      "id": 44,
+      "pergunta": "Choose the correct form: 'Mathematics _____ my favorite subject.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "Mathematics (though plural in form) is usually singular."
+    },
+    {
+      "id": 45,
+      "pergunta": "Choose the correct form: 'My glasses _____ on the table.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "Glasses (plural) are on the table."
+    },
+    {
+      "id": 46,
+      "pergunta": "Complete with the contracted form: 'We _____ (are not) ready.'",
+      "opcoes": [
+        "a) we're not",
+        "b) we aren't",
+        "c) we not",
+        "d) both a and b"
+      ],
+      "correta": 3,
+      "explicacao": "Both 'we're not' and 'we aren't' are correct."
+    },
+    {
+      "id": 47,
+      "pergunta": "Complete: 'What _____ your favorite color?'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "What is your favorite color?"
+    },
+    {
+      "id": 48,
+      "pergunta": "Complete: 'Why _____ you sad?'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "Why are you sad?"
+    },
+    {
+      "id": 49,
+      "pergunta": "Complete: 'How much _____ these shoes?'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 2,
+      "explicacao": "How much are these shoes? (plural)"
+    },
+    {
+      "id": 50,
+      "pergunta": "Complete: 'The weather _____ beautiful today.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "The weather is beautiful."
+    }
+  ]
+}
