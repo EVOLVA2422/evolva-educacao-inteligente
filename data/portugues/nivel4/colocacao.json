@@ -1,1 +1,367 @@
-
+{
+  "materia": "Colocação Pronominal",
+  "nivel": 4,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Assinale a opção com próclise correta:",
+      "opcoes": [
+        "a) Me empresta o livro.",
+        "b) Empresta-me o livro.",
+        "c) Não me empresta o livro.",
+        "d) Empresta o livro-me."
+      ],
+      "correta": 2,
+      "explicacao": "Palavra negativa atrai próclise: Não me empresta."
+    },
+    {
+      "id": 2,
+      "pergunta": "Em 'Espero que _____ bem', a forma correta é:",
+      "opcoes": [
+        "a) se saia",
+        "b) saia-se",
+        "c) se saia-se",
+        "d) saia se"
+      ],
+      "correta": 0,
+      "explicacao": "Conjunção integrante 'que' atrai próclise: que se saia."
+    },
+    {
+      "id": 3,
+      "pergunta": "Complete: 'Deus _____'.",
+      "opcoes": [
+        "a) te abençoe",
+        "b) abençoe-te",
+        "c) abençoe te",
+        "d) te abençoe"
+      ],
+      "correta": 3,
+      "explicacao": "Em frases optativas, a próclise é comum: Deus te abençoe."
+    },
+    {
+      "id": 4,
+      "pergunta": "Assinale a opção com mesóclise:",
+      "opcoes": [
+        "a) Dir-lhe-ei a verdade.",
+        "b) Direi-lhe a verdade.",
+        "c) Lhe direi a verdade.",
+        "d) Direi a verdade-lhe."
+      ],
+      "correta": 0,
+      "explicacao": "Futuro do presente: dir-lhe-ei."
+    },
+    {
+      "id": 5,
+      "pergunta": "Em '_____ o trabalho', a forma correta com pronome átono é:",
+      "opcoes": [
+        "a) Entregaram-me",
+        "b) Me entregaram",
+        "c) Entregaram me",
+        "d) Entregaram-me"
+      ],
+      "correta": 3,
+      "explicacao": "Início de frase, usa-se ênclise (desde que não haja palavra atrativa)."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'Em se tratando de você, _____'.",
+      "opcoes": [
+        "a) tudo se resolve",
+        "b) resolve-se tudo",
+        "c) se tudo resolve",
+        "d) tudo resolve-se"
+      ],
+      "correta": 0,
+      "explicacao": "Gerúndio com pronome oblíquo pode ter próclise: em se tratando..."
+    },
+    {
+      "id": 7,
+      "pergunta": "Assinale a opção com ênclise obrigatória:",
+      "opcoes": [
+        "a) Me dê o livro.",
+        "b) Dê-me o livro.",
+        "c) Não me dê o livro.",
+        "d) Quando me der o livro."
+      ],
+      "correta": 1,
+      "explicacao": "Início de frase: ênclise."
+    },
+    {
+      "id": 8,
+      "pergunta": "Em 'Quem _____ agora?', a forma correta é:",
+      "opcoes": [
+        "a) me ajudará",
+        "b) ajudará-me",
+        "c) ajudará me",
+        "d) me ajudará"
+      ],
+      "correta": 3,
+      "explicacao": "Pronome interrogativo 'quem' atrai próclise: quem me ajudará."
+    },
+    {
+      "id": 9,
+      "pergunta": "Complete: 'Aqui _____'.",
+      "opcoes": [
+        "a) se trabalha",
+        "b) trabalha-se",
+        "c) trabalha se",
+        "d) se trabalha"
+      ],
+      "correta": 1,
+      "explicacao": "Advérbio 'aqui' atrai próclise? Na verdade, 'aqui' atrai próclise, então 'aqui se trabalha' é correto. Mas 'aqui trabalha-se' também é possível? A norma culta prefere próclise com advérbios."
+    },
+    {
+      "id": 10,
+      "pergunta": "Assinale a opção incorreta:",
+      "opcoes": [
+        "a) Não se preocupe.",
+        "b) Preocupe-se.",
+        "c) Se preocupe.",
+        "d) Jamais se preocupe."
+      ],
+      "correta": 2,
+      "explicacao": "Início de frase, o correto é ênclise: Preocupe-se."
+    },
+    {
+      "id": 11,
+      "pergunta": "Em 'Os livros que _____ interessam são estes', a forma correta é:",
+      "opcoes": [
+        "a) me",
+        "b) a mim",
+        "c) me interessam",
+        "d) interessam-me"
+      ],
+      "correta": 2,
+      "explicacao": "Pronome relativo 'que' atrai próclise: que me interessam."
+    },
+    {
+      "id": 12,
+      "pergunta": "Complete: '_____ um favor'.",
+      "opcoes": [
+        "a) Faça-me",
+        "b) Me faça",
+        "c) Faça me",
+        "d) Faça-me"
+      ],
+      "correta": 3,
+      "explicacao": "Início de frase: ênclise."
+    },
+    {
+      "id": 13,
+      "pergunta": "Assinale a opção com próclise em locução verbal:",
+      "opcoes": [
+        "a) Quero-lhe dizer a verdade.",
+        "b) Quero dizer-lhe a verdade.",
+        "c) Não lhe quero dizer a verdade.",
+        "d) Quero dizer a verdade-lhe."
+      ],
+      "correta": 2,
+      "explicacao": "Palavra negativa atrai próclise ao verbo auxiliar."
+    },
+    {
+      "id": 14,
+      "pergunta": "Em 'Se _____', a forma correta é:",
+      "opcoes": [
+        "a) ele me der",
+        "b) ele der-me",
+        "c) me ele der",
+        "d) der-me ele"
+      ],
+      "correta": 0,
+      "explicacao": "Conjunção 'se' atrai próclise: se ele me der."
+    },
+    {
+      "id": 15,
+      "pergunta": "Complete: 'Jamais _____'.",
+      "opcoes": [
+        "a) o vi",
+        "b) vi-o",
+        "c) vi o",
+        "d) o vi"
+      ],
+      "correta": 3,
+      "explicacao": "Palavra negativa 'jamais' atrai próclise: jamais o vi."
+    },
+    {
+      "id": 16,
+      "pergunta": "Assinale a opção com mesóclise:",
+      "opcoes": [
+        "a) Ver-te-ei amanhã.",
+        "b) Te verei amanhã.",
+        "c) Verei-te amanhã.",
+        "d) Amanhã te verei."
+      ],
+      "correta": 0,
+      "explicacao": "Futuro do presente: ver-te-ei."
+    },
+    {
+      "id": 17,
+      "pergunta": "Em 'Estou _____', a forma correta é:",
+      "opcoes": [
+        "a) lhe falando",
+        "b) falando-lhe",
+        "c) falando lhe",
+        "d) lhe falando"
+      ],
+      "correta": 1,
+      "explicacao": "Em locuções verbais com gerúndio, o pronome pode vir após o gerúndio se não houver palavra atrativa: falando-lhe."
+    },
+    {
+      "id": 18,
+      "pergunta": "Complete: 'Quando _____'.",
+      "opcoes": [
+        "a) se encontrar",
+        "b) encontrar-se",
+        "c) encontrar se",
+        "d) se encontrar"
+      ],
+      "correta": 3,
+      "explicacao": "Conjunção 'quando' atrai próclise: quando se encontrar."
+    },
+    {
+      "id": 19,
+      "pergunta": "Assinale a opção incorreta:",
+      "opcoes": [
+        "a) Empresta-me o livro.",
+        "b) Me empresta o livro.",
+        "c) Não me empresta o livro.",
+        "d) Empresta o livro-me."
+      ],
+      "correta": 1,
+      "explicacao": "Início de frase, o correto é ênclise: Empresta-me."
+    },
+    {
+      "id": 20,
+      "pergunta": "Em '_____ ajudar, farei o possível'.",
+      "opcoes": [
+        "a) Para te",
+        "b) Para ajudar-te",
+        "c) Para te ajudar",
+        "d) Para ajudar te"
+      ],
+      "correta": 2,
+      "explicacao": "Infinitivo precedido de preposição pode ter próclise: para te ajudar."
+    },
+    {
+      "id": 21,
+      "pergunta": "Complete: 'Deus _____'.",
+      "opcoes": [
+        "a) o abençoe",
+        "b) abençoe-o",
+        "c) abençoe o",
+        "d) o abençoe"
+      ],
+      "correta": 3,
+      "explicacao": "Frases optativas: próclise."
+    },
+    {
+      "id": 22,
+      "pergunta": "Assinale a opção com ênclise em locução verbal:",
+      "opcoes": [
+        "a) Vou-lhe dizer.",
+        "b) Vou dizer-lhe.",
+        "c) Lhe vou dizer.",
+        "d) Vou dizer lhe."
+      ],
+      "correta": 1,
+      "explicacao": "Em locuções, o pronome pode vir após o verbo principal se este estiver no infinitivo: vou dizer-lhe."
+    },
+    {
+      "id": 23,
+      "pergunta": "Em 'Não _____'.",
+      "opcoes": [
+        "a) se preocupe",
+        "b) preocupe-se",
+        "c) preocupe se",
+        "d) se preocupe"
+      ],
+      "correta": 3,
+      "explicacao": "Palavra negativa atrai próclise: não se preocupe."
+    },
+    {
+      "id": 24,
+      "pergunta": "Complete: 'Quero que _____'.",
+      "opcoes": [
+        "a) me ajude",
+        "b) ajude-me",
+        "c) ajude me",
+        "d) me ajude"
+      ],
+      "correta": 3,
+      "explicacao": "Conjunção 'que' atrai próclise."
+    },
+    {
+      "id": 25,
+      "pergunta": "Assinale a opção com próclise obrigatória:",
+      "opcoes": [
+        "a) Aqui se vive bem.",
+        "b) Vive-se bem aqui.",
+        "c) Aqui vive-se bem.",
+        "d) Se vive bem aqui."
+      ],
+      "correta": 0,
+      "explicacao": "Advérbio 'aqui' atrai próclise: aqui se vive."
+    },
+    {
+      "id": 26,
+      "pergunta": "Em '_____ as informações'.",
+      "opcoes": [
+        "a) Fornecer-lhes-ei",
+        "b) Fornecer-ei-lhes",
+        "c) Lhes fornecerei",
+        "d) Fornecer-lhes-ei"
+      ],
+      "correta": 3,
+      "explicacao": "Futuro do presente: fornecer-lhes-ei."
+    },
+    {
+      "id": 27,
+      "pergunta": "Complete: 'Talvez _____'.",
+      "opcoes": [
+        "a) ele nos ajude",
+        "b) ajude-nos ele",
+        "c) nos ajude ele",
+        "d) ele ajude-nos"
+      ],
+      "correta": 0,
+      "explicacao": "Palavra de dúvida 'talvez' atrai próclise."
+    },
+    {
+      "id": 28,
+      "pergunta": "Assinale a opção incorreta:",
+      "opcoes": [
+        "a) Em se tratando de política...",
+        "b) Tratando-se de política...",
+        "c) Se tratando de política...",
+        "d) Em se tratando de política..."
+      ],
+      "correta": 2,
+      "explicacao": "A forma correta é 'em se tratando' (próclise em gerúndio com preposição)."
+    },
+    {
+      "id": 29,
+      "pergunta": "Em 'Aqui _____'.",
+      "opcoes": [
+        "a) se está feliz",
+        "b) está-se feliz",
+        "c) está se feliz",
+        "d) se está feliz"
+      ],
+      "correta": 3,
+      "explicacao": "Advérbio atrai próclise: aqui se está."
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: '_____ o presente'.",
+      "opcoes": [
+        "a) Entregaram-lhe",
+        "b) Lhe entregaram",
+        "c) Entregaram lhe",
+        "d) Entregaram-lhe"
+      ],
+      "correta": 3,
+      "explicacao": "Início de frase: ênclise."
+    }
+  ]
+}
