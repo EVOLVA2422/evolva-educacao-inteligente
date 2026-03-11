@@ -1,1 +1,127 @@
-
+{
+  "materia": "Pontuação Básica",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Qual pontuação deve ser usada no final de uma pergunta?",
+      "opcoes": [
+        "a) .",
+        "b) !",
+        "c) ?",
+        "d) ,"
+      ],
+      "correta": 2,
+      "explicacao": "Ponto de interrogação (?) é usado em perguntas."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete com a pontuação correta: 'Que dia lindo __'",
+      "opcoes": [
+        "a) .",
+        "b) !",
+        "c) ?",
+        "d) ,"
+      ],
+      "correta": 1,
+      "explicacao": "Ponto de exclamação (!) indica emoção, admiração."
+    },
+    {
+      "id": 3,
+      "pergunta": "Para separar itens em uma lista, usamos:",
+      "opcoes": [
+        "a) ponto final",
+        "b) vírgula",
+        "c) ponto e vírgula",
+        "d) dois pontos"
+      ],
+      "correta": 1,
+      "explicacao": "Vírgula separa elementos em uma lista."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual pontuação indica o fim de uma frase declarativa?",
+      "opcoes": [
+        "a) .",
+        "b) !",
+        "c) ?",
+        "d) ,"
+      ],
+      "correta": 0,
+      "explicacao": "Ponto final (.) encerra frases declarativas."
+    },
+    {
+      "id": 5,
+      "pergunta": "Na frase 'João Maria e Pedro foram à praia', falta:",
+      "opcoes": [
+        "a) ponto final",
+        "b) vírgula depois de João",
+        "c) vírgula depois de Maria",
+        "d) ponto e vírgula"
+      ],
+      "correta": 2,
+      "explicacao": "Deve-se usar vírgula para separar os elementos: João, Maria e Pedro."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'Preciso comprar: pão leite e ovos'. Faltam:",
+      "opcoes": [
+        "a) vírgulas depois de pão e leite",
+        "b) ponto final",
+        "c) ponto de exclamação",
+        "d) ponto de interrogação"
+      ],
+      "correta": 0,
+      "explicacao": "Deve ser: pão, leite e ovos."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual pontuação usamos antes de uma citação?",
+      "opcoes": [
+        "a) vírgula",
+        "b) dois pontos",
+        "c) ponto e vírgula",
+        "d) travessão"
+      ],
+      "correta": 1,
+      "explicacao": "Dois pontos introduzem uma citação ou explicação."
+    },
+    {
+      "id": 8,
+      "pergunta": "Na frase 'Maria a diretora chegou', para isolar o aposto usamos:",
+      "opcoes": [
+        "a) vírgulas",
+        "b) travessões",
+        "c) parênteses",
+        "d) dois pontos"
+      ],
+      "correta": 0,
+      "explicacao": "Aposto deve vir entre vírgulas: Maria, a diretora, chegou."
+    },
+    {
+      "id": 9,
+      "pergunta": "Complete com a pontuação correta: 'Você já comeu __'",
+      "opcoes": [
+        "a) .",
+        "b) !",
+        "c) ?",
+        "d) ,"
+      ],
+      "correta": 2,
+      "explicacao": "É uma pergunta, portanto usa-se ?"
+    },
+    {
+      "id": 10,
+      "pergunta": "Para indicar uma pausa maior que a vírgula, usamos:",
+      "opcoes": [
+        "a) ponto final",
+        "b) ponto e vírgula",
+        "c) dois pontos",
+        "d) travessão"
+      ],
+      "correta": 1,
+      "explicacao": "Ponto e vírgula (;) indica pausa maior que a vírgula."
+    }
+  ]
+}
