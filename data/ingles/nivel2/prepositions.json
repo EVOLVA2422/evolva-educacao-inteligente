@@ -1,1 +1,607 @@
-
+{
+  "materia": "Prepositions",
+  "nivel": 2,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Complete: 'I usually get up _____ 7 am.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) for"
+      ],
+      "correta": 2,
+      "explicacao": "We use 'at' for specific times."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete: 'She was born _____ July.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) since"
+      ],
+      "correta": 0,
+      "explicacao": "We use 'in' for months and years."
+    },
+    {
+      "id": 3,
+      "pergunta": "Complete: 'I'll see you _____ Monday.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) for"
+      ],
+      "correta": 1,
+      "explicacao": "We use 'on' for days of the week."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete: 'He lives _____ São Paulo.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) to"
+      ],
+      "correta": 0,
+      "explicacao": "We use 'in' for cities and countries."
+    },
+    {
+      "id": 5,
+      "pergunta": "Complete: 'The book is _____ the table.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) under"
+      ],
+      "correta": 1,
+      "explicacao": "'On' indicates surface."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'I'm going _____ the cinema tonight.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) to"
+      ],
+      "correta": 3,
+      "explicacao": "We use 'to' for movement/direction."
+    },
+    {
+      "id": 7,
+      "pergunta": "Complete: 'She's been waiting _____ two hours.'",
+      "opcoes": [
+        "a) since",
+        "b) for",
+        "c) during",
+        "d) in"
+      ],
+      "correta": 1,
+      "explicacao": "'For' is used for a duration of time."
+    },
+    {
+      "id": 8,
+      "pergunta": "Complete: 'I've lived here _____ 2010.'",
+      "opcoes": [
+        "a) since",
+        "b) for",
+        "c) during",
+        "d) in"
+      ],
+      "correta": 0,
+      "explicacao": "'Since' is used for a starting point in time."
+    },
+    {
+      "id": 9,
+      "pergunta": "Complete: 'The cat is hiding _____ the bed.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) under",
+        "d) above"
+      ],
+      "correta": 2,
+      "explicacao": "'Under' means below something."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'I'll be there _____ 10 minutes.'",
+      "opcoes": [
+        "a) since",
+        "b) for",
+        "c) in",
+        "d) at"
+      ],
+      "correta": 2,
+      "explicacao": "'In' + time period means after that time."
+    },
+    {
+      "id": 11,
+      "pergunta": "Complete: 'She's interested _____ learning Spanish.'",
+      "opcoes": [
+        "a) for",
+        "b) in",
+        "c) on",
+        "d) about"
+      ],
+      "correta": 1,
+      "explicacao": "Interested in + noun/gerund."
+    },
+    {
+      "id": 12,
+      "pergunta": "Complete: 'I'm afraid _____ spiders.'",
+      "opcoes": [
+        "a) of",
+        "b) from",
+        "c) with",
+        "d) about"
+      ],
+      "correta": 0,
+      "explicacao": "Afraid of something."
+    },
+    {
+      "id": 13,
+      "pergunta": "Complete: 'He's very good _____ math.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) with"
+      ],
+      "correta": 2,
+      "explicacao": "Good at something."
+    },
+    {
+      "id": 14,
+      "pergunta": "Complete: 'I'm waiting _____ the bus.'",
+      "opcoes": [
+        "a) for",
+        "b) to",
+        "c) on",
+        "d) in"
+      ],
+      "correta": 0,
+      "explicacao": "Wait for someone/something."
+    },
+    {
+      "id": 15,
+      "pergunta": "Complete: 'She's married _____ a doctor.'",
+      "opcoes": [
+        "a) with",
+        "b) to",
+        "c) for",
+        "d) in"
+      ],
+      "correta": 1,
+      "explicacao": "Married to someone."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: 'I'll see you _____ Christmas.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) for"
+      ],
+      "correta": 2,
+      "explicacao": "At Christmas (festive period). On Christmas Day (specific day)."
+    },
+    {
+      "id": 17,
+      "pergunta": "Complete: 'The meeting is _____ Friday morning.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) for"
+      ],
+      "correta": 1,
+      "explicacao": "On + specific part of a day."
+    },
+    {
+      "id": 18,
+      "pergunta": "Complete: 'I usually go to bed _____ night.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) by"
+      ],
+      "correta": 2,
+      "explicacao": "At night (exception)."
+    },
+    {
+      "id": 19,
+      "pergunta": "Complete: 'She's _____ home now.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) to"
+      ],
+      "correta": 2,
+      "explicacao": "At home (fixed expression)."
+    },
+    {
+      "id": 20,
+      "pergunta": "Complete: 'I'm going _____ holiday next week.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) for"
+      ],
+      "correta": 1,
+      "explicacao": "On holiday."
+    },
+    {
+      "id": 21,
+      "pergunta": "Complete: 'The picture is _____ the wall.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) by"
+      ],
+      "correta": 1,
+      "explicacao": "On the wall (surface)."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'There's a mirror _____ the wall.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) against"
+      ],
+      "correta": 1,
+      "explicacao": "On the wall (hanging)."
+    },
+    {
+      "id": 23,
+      "pergunta": "Complete: 'She's _____ work right now.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) to"
+      ],
+      "correta": 2,
+      "explicacao": "At work."
+    },
+    {
+      "id": 24,
+      "pergunta": "Complete: 'I'll finish the report _____ Friday.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) by",
+        "d) until"
+      ],
+      "correta": 2,
+      "explicacao": "'By' means on or before that day."
+    },
+    {
+      "id": 25,
+      "pergunta": "Complete: 'The shop is open _____ 9 am to 6 pm.'",
+      "opcoes": [
+        "a) since",
+        "b) for",
+        "c) from",
+        "d) between"
+      ],
+      "correta": 2,
+      "explicacao": "From... to... indicates a range."
+    },
+    {
+      "id": 26,
+      "pergunta": "Complete: 'I'll wait _____ you finish.'",
+      "opcoes": [
+        "a) for",
+        "b) until",
+        "c) by",
+        "d) to"
+      ],
+      "correta": 1,
+      "explicacao": "'Until' means up to that point in time."
+    },
+    {
+      "id": 27,
+      "pergunta": "Complete: 'She's very kind _____ everyone.'",
+      "opcoes": [
+        "a) with",
+        "b) to",
+        "c) for",
+        "d) at"
+      ],
+      "correta": 1,
+      "explicacao": "Kind to someone."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'I'm not interested _____ politics.'",
+      "opcoes": [
+        "a) for",
+        "b) in",
+        "c) about",
+        "d) with"
+      ],
+      "correta": 1,
+      "explicacao": "Interested in."
+    },
+    {
+      "id": 29,
+      "pergunta": "Complete: 'He's responsible _____ the project.'",
+      "opcoes": [
+        "a) for",
+        "b) of",
+        "c) with",
+        "d) to"
+      ],
+      "correta": 0,
+      "explicacao": "Responsible for."
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: 'I'm sorry _____ being late.'",
+      "opcoes": [
+        "a) for",
+        "b) about",
+        "c) with",
+        "d) of"
+      ],
+      "correta": 0,
+      "explicacao": "Sorry for something you did."
+    },
+    {
+      "id": 31,
+      "pergunta": "Complete: 'She's thinking _____ moving to another city.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) about",
+        "d) of"
+      ],
+      "correta": 2,
+      "explicacao": "Think about (consider) / Think of (have an opinion)."
+    },
+    {
+      "id": 32,
+      "pergunta": "Complete: 'I'm looking forward _____ seeing you.'",
+      "opcoes": [
+        "a) for",
+        "b) to",
+        "c) at",
+        "d) in"
+      ],
+      "correta": 1,
+      "explicacao": "Look forward to + gerund."
+    },
+    {
+      "id": 33,
+      "pergunta": "Complete: 'She's worried _____ her exams.'",
+      "opcoes": [
+        "a) for",
+        "b) about",
+        "c) with",
+        "d) of"
+      ],
+      "correta": 1,
+      "explicacao": "Worried about."
+    },
+    {
+      "id": 34,
+      "pergunta": "Complete: 'I'm tired _____ waiting.'",
+      "opcoes": [
+        "a) for",
+        "b) of",
+        "c) with",
+        "d) about"
+      ],
+      "correta": 1,
+      "explicacao": "Tired of (fed up with)."
+    },
+    {
+      "id": 35,
+      "pergunta": "Complete: 'She's married _____ him.'",
+      "opcoes": [
+        "a) with",
+        "b) to",
+        "c) for",
+        "d) of"
+      ],
+      "correta": 1,
+      "explicacao": "Married to."
+    },
+    {
+      "id": 36,
+      "pergunta": "Complete: 'He's different _____ his brother.'",
+      "opcoes": [
+        "a) than",
+        "b) to",
+        "c) from",
+        "d) with"
+      ],
+      "correta": 2,
+      "explicacao": "Different from (or different to in British English)."
+    },
+    {
+      "id": 37,
+      "pergunta": "Complete: 'I agree _____ you.'",
+      "opcoes": [
+        "a) with",
+        "b) to",
+        "c) for",
+        "d) on"
+      ],
+      "correta": 0,
+      "explicacao": "Agree with someone."
+    },
+    {
+      "id": 38,
+      "pergunta": "Complete: 'We agreed _____ a price.'",
+      "opcoes": [
+        "a) with",
+        "b) to",
+        "c) on",
+        "d) for"
+      ],
+      "correta": 2,
+      "explicacao": "Agree on a topic/price."
+    },
+    {
+      "id": 39,
+      "pergunta": "Complete: 'She insisted _____ coming with us.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) for",
+        "d) about"
+      ],
+      "correta": 1,
+      "explicacao": "Insist on + gerund."
+    },
+    {
+      "id": 40,
+      "pergunta": "Complete: 'He's very good _____ playing the guitar.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) with"
+      ],
+      "correta": 2,
+      "explicacao": "Good at + gerund."
+    },
+    {
+      "id": 41,
+      "pergunta": "Complete: 'I'm not very keen _____ spicy food.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) for",
+        "d) about"
+      ],
+      "correta": 1,
+      "explicacao": "Keen on (interested in)."
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: 'She's very excited _____ her trip.'",
+      "opcoes": [
+        "a) for",
+        "b) about",
+        "c) with",
+        "d) of"
+      ],
+      "correta": 1,
+      "explicacao": "Excited about."
+    },
+    {
+      "id": 43,
+      "pergunta": "Complete: 'I'm not very good _____ remembering names.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) at",
+        "d) with"
+      ],
+      "correta": 2,
+      "explicacao": "Good at + gerund."
+    },
+    {
+      "id": 44,
+      "pergunta": "Complete: 'He's interested _____ learning French.'",
+      "opcoes": [
+        "a) for",
+        "b) in",
+        "c) on",
+        "d) about"
+      ],
+      "correta": 1,
+      "explicacao": "Interested in + gerund."
+    },
+    {
+      "id": 45,
+      "pergunta": "Complete: 'She's afraid _____ flying.'",
+      "opcoes": [
+        "a) for",
+        "b) of",
+        "c) with",
+        "d) about"
+      ],
+      "correta": 1,
+      "explicacao": "Afraid of + gerund."
+    },
+    {
+      "id": 46,
+      "pergunta": "Complete: 'I'm thinking _____ going to bed early.'",
+      "opcoes": [
+        "a) in",
+        "b) on",
+        "c) about",
+        "d) of"
+      ],
+      "correta": 2,
+      "explicacao": "Think about (consider)."
+    },
+    {
+      "id": 47,
+      "pergunta": "Complete: 'She apologized _____ being late.'",
+      "opcoes": [
+        "a) for",
+        "b) about",
+        "c) with",
+        "d) of"
+      ],
+      "correta": 0,
+      "explicacao": "Apologize for."
+    },
+    {
+      "id": 48,
+      "pergunta": "Complete: 'He blamed me _____ the mistake.'",
+      "opcoes": [
+        "a) for",
+        "b) about",
+        "c) with",
+        "d) of"
+      ],
+      "correta": 0,
+      "explicacao": "Blame someone for something."
+    },
+    {
+      "id": 49,
+      "pergunta": "Complete: 'I congratulated her _____ her success.'",
+      "opcoes": [
+        "a) for",
+        "b) on",
+        "c) about",
+        "d) with"
+      ],
+      "correta": 1,
+      "explicacao": "Congratulate someone on something."
+    },
+    {
+      "id": 50,
+      "pergunta": "Complete: 'She's very similar _____ her mother.'",
+      "opcoes": [
+        "a) with",
+        "b) to",
+        "c) than",
+        "d) as"
+      ],
+      "correta": 1,
+      "explicacao": "Similar to."
+    }
+  ]
+}
