@@ -1,1 +1,367 @@
-
+{
+  "materia": "Razão e Proporção",
+  "nivel": 2,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Qual é a razão entre 10 e 20, na forma simplificada?",
+      "opcoes": [
+        "a) 1/2",
+        "b) 2/1",
+        "c) 10/20",
+        "d) 1/1"
+      ],
+      "correta": 0,
+      "explicacao": "10/20 = 1/2."
+    },
+    {
+      "id": 2,
+      "pergunta": "Numa sala, há 15 meninos e 10 meninas. Qual a razão entre meninos e meninas?",
+      "opcoes": [
+        "a) 3/2",
+        "b) 2/3",
+        "c) 15/25",
+        "d) 10/15"
+      ],
+      "correta": 0,
+      "explicacao": "15/10 = 3/2."
+    },
+    {
+      "id": 3,
+      "pergunta": "Se a razão entre dois números é 3/4 e o menor é 12, qual é o maior?",
+      "opcoes": [
+        "a) 16",
+        "b) 9",
+        "c) 20",
+        "d) 18"
+      ],
+      "correta": 0,
+      "explicacao": "3/4 = 12/x → 3x = 48 → x = 16."
+    },
+    {
+      "id": 4,
+      "pergunta": "Dois números estão na razão 2:5. Se o primeiro é 8, qual é o segundo?",
+      "opcoes": [
+        "a) 20",
+        "b) 16",
+        "c) 10",
+        "d) 25"
+      ],
+      "correta": 0,
+      "explicacao": "2/5 = 8/x → 2x = 40 → x = 20."
+    },
+    {
+      "id": 5,
+      "pergunta": "Um mapa tem escala 1:100.000. Se duas cidades distam 5 cm no mapa, qual a distância real em km?",
+      "opcoes": [
+        "a) 5 km",
+        "b) 50 km",
+        "c) 500 km",
+        "d) 0,5 km"
+      ],
+      "correta": 0,
+      "explicacao": "5 cm × 100.000 = 500.000 cm = 5 km."
+    },
+    {
+      "id": 6,
+      "pergunta": "A razão entre a idade de Pedro e a de João é 3/4. Se Pedro tem 15 anos, quantos anos tem João?",
+      "opcoes": [
+        "a) 20",
+        "b) 18",
+        "c) 16",
+        "d) 24"
+      ],
+      "correta": 0,
+      "explicacao": "3/4 = 15/x → 3x = 60 → x = 20."
+    },
+    {
+      "id": 7,
+      "pergunta": "Divida 100 em partes proporcionais a 2 e 3. Qual a maior parte?",
+      "opcoes": [
+        "a) 60",
+        "b) 40",
+        "c) 50",
+        "d) 70"
+      ],
+      "correta": 0,
+      "explicacao": "Total partes = 5; cada parte = 20; maior (3 partes) = 60."
+    },
+    {
+      "id": 8,
+      "pergunta": "Se 5 metros de tecido custam R$ 60,00, quanto custam 8 metros?",
+      "opcoes": [
+        "a) R$ 96,00",
+        "b) R$ 90,00",
+        "c) R$ 100,00",
+        "d) R$ 120,00"
+      ],
+      "correta": 0,
+      "explicacao": "5/60 = 8/x → 5x = 480 → x = 96."
+    },
+    {
+      "id": 9,
+      "pergunta": "Um carro percorre 240 km com 20 litros de combustível. Quantos litros gasta para percorrer 360 km?",
+      "opcoes": [
+        "a) 30",
+        "b) 25",
+        "c) 35",
+        "d) 40"
+      ],
+      "correta": 0,
+      "explicacao": "240/20 = 360/x → 240x = 7200 → x = 30."
+    },
+    {
+      "id": 10,
+      "pergunta": "Dois números estão na razão 3:7 e somam 50. Quais são eles?",
+      "opcoes": [
+        "a) 15 e 35",
+        "b) 20 e 30",
+        "c) 10 e 40",
+        "d) 18 e 32"
+      ],
+      "correta": 0,
+      "explicacao": "3k + 7k = 50 → 10k = 50 → k = 5; números: 15 e 35."
+    },
+    {
+      "id": 11,
+      "pergunta": "A razão entre a base e a altura de um retângulo é 3/2. Se a base mede 12 cm, qual a altura?",
+      "opcoes": [
+        "a) 8 cm",
+        "b) 6 cm",
+        "c) 9 cm",
+        "d) 10 cm"
+      ],
+      "correta": 0,
+      "explicacao": "3/2 = 12/x → 3x = 24 → x = 8."
+    },
+    {
+      "id": 12,
+      "pergunta": "Em uma prova, a razão entre o número de acertos e erros de um aluno foi 5/2. Se ele acertou 25 questões, quantas errou?",
+      "opcoes": [
+        "a) 10",
+        "b) 8",
+        "c) 12",
+        "d) 15"
+      ],
+      "correta": 0,
+      "explicacao": "5/2 = 25/x → 5x = 50 → x = 10."
+    },
+    {
+      "id": 13,
+      "pergunta": "Se 3 operários constroem um muro em 10 dias, quantos dias levariam 5 operários para construir o mesmo muro? (proporção inversa)",
+      "opcoes": [
+        "a) 6",
+        "b) 5",
+        "c) 4",
+        "d) 8"
+      ],
+      "correta": 0,
+      "explicacao": "3 × 10 = 5 × x → 30 = 5x → x = 6."
+    },
+    {
+      "id": 14,
+      "pergunta": "Uma torneira enche um tanque em 4 horas. Outra torneira enche o mesmo tanque em 6 horas. Juntas, em quanto tempo enchem o tanque?",
+      "opcoes": [
+        "a) 2,4 h",
+        "b) 2,5 h",
+        "c) 3 h",
+        "d) 5 h"
+      ],
+      "correta": 0,
+      "explicacao": "1/4 + 1/6 = 5/12 → tempo = 12/5 = 2,4 h."
+    },
+    {
+      "id": 15,
+      "pergunta": "Divida 120 em partes diretamente proporcionais a 2, 3 e 5. Qual a maior parte?",
+      "opcoes": [
+        "a) 60",
+        "b) 48",
+        "c) 50",
+        "d) 72"
+      ],
+      "correta": 0,
+      "explicacao": "Total partes = 10; cada parte = 12; maior (5) = 60."
+    },
+    {
+      "id": 16,
+      "pergunta": "A razão entre dois números é 7/3. Se a diferença entre eles é 24, quais são?",
+      "opcoes": [
+        "a) 42 e 18",
+        "b) 35 e 11",
+        "c) 28 e 4",
+        "d) 49 e 25"
+      ],
+      "correta": 0,
+      "explicacao": "7k - 3k = 4k = 24 → k = 6; números: 42 e 18."
+    },
+    {
+      "id": 17,
+      "pergunta": "Um mapa tem escala 1:50.000. Duas cidades distam 8 cm no mapa. Qual a distância real em km?",
+      "opcoes": [
+        "a) 4 km",
+        "b) 40 km",
+        "c) 0,4 km",
+        "d) 400 km"
+      ],
+      "correta": 0,
+      "explicacao": "8 × 50.000 = 400.000 cm = 4 km."
+    },
+    {
+      "id": 18,
+      "pergunta": "Se 6 kg de café custam R$ 54,00, quanto custam 10 kg?",
+      "opcoes": [
+        "a) R$ 90,00",
+        "b) R$ 80,00",
+        "c) R$ 100,00",
+        "d) R$ 85,00"
+      ],
+      "correta": 0,
+      "explicacao": "6/54 = 10/x → 6x = 540 → x = 90."
+    },
+    {
+      "id": 19,
+      "pergunta": "Um trem percorre 300 km em 4 horas. Mantendo a mesma velocidade, quanto tempo leva para percorrer 450 km?",
+      "opcoes": [
+        "a) 6 h",
+        "b) 5 h",
+        "c) 7 h",
+        "d) 8 h"
+      ],
+      "correta": 0,
+      "explicacao": "300/4 = 450/x → 300x = 1800 → x = 6."
+    },
+    {
+      "id": 20,
+      "pergunta": "A razão entre a idade de Ana e a de Bia é 4/5. Se Ana tem 20 anos, qual a idade de Bia?",
+      "opcoes": [
+        "a) 25",
+        "b) 24",
+        "c) 22",
+        "d) 30"
+      ],
+      "correta": 0,
+      "explicacao": "4/5 = 20/x → 4x = 100 → x = 25."
+    },
+    {
+      "id": 21,
+      "pergunta": "Divida 80 em partes inversamente proporcionais a 2 e 3. Qual a maior parte?",
+      "opcoes": [
+        "a) 48",
+        "b) 32",
+        "c) 40",
+        "d) 50"
+      ],
+      "correta": 0,
+      "explicacao": "Partes proporcionais a 1/2 e 1/3 = 3/6 e 2/6 (multiplicando por 6). Total partes = 5; cada parte = 16; maior (3) = 48."
+    },
+    {
+      "id": 22,
+      "pergunta": "Um livro tem 200 páginas. Se eu leio 20 páginas por dia, quantos dias levarei para ler?",
+      "opcoes": [
+        "a) 10",
+        "b) 8",
+        "c) 12",
+        "d) 15"
+      ],
+      "correta": 0,
+      "explicacao": "200/20 = 10 dias."
+    },
+    {
+      "id": 23,
+      "pergunta": "Dois números estão na razão 5:9. Se o primeiro é 45, qual é o segundo?",
+      "opcoes": [
+        "a) 81",
+        "b) 75",
+        "c) 90",
+        "d) 72"
+      ],
+      "correta": 0,
+      "explicacao": "5/9 = 45/x → 5x = 405 → x = 81."
+    },
+    {
+      "id": 24,
+      "pergunta": "Em uma fábrica, 8 máquinas produzem 1600 peças em 5 dias. Quantas peças produzem 6 máquinas em 4 dias?",
+      "opcoes": [
+        "a) 960",
+        "b) 800",
+        "c) 1200",
+        "d) 1000"
+      ],
+      "correta": 0,
+      "explicacao": "Peças = (8×5) → 40 máquina-dia produzem 1600. 6×4 = 24 máquina-dia → (1600/40)×24 = 40×24 = 960."
+    },
+    {
+      "id": 25,
+      "pergunta": "A razão entre dois números é 2/3 e a soma deles é 30. Quais são?",
+      "opcoes": [
+        "a) 12 e 18",
+        "b) 10 e 20",
+        "c) 15 e 15",
+        "d) 8 e 22"
+      ],
+      "correta": 0,
+      "explicacao": "2k+3k=30 → 5k=30 → k=6; números: 12 e 18."
+    },
+    {
+      "id": 26,
+      "pergunta": "Um carro com velocidade constante percorre 180 km em 2 horas. Qual a distância percorrida em 5 horas?",
+      "opcoes": [
+        "a) 450 km",
+        "b) 360 km",
+        "c) 400 km",
+        "d) 500 km"
+      ],
+      "correta": 0,
+      "explicacao": "180/2 = 90 km/h; 90 × 5 = 450 km."
+    },
+    {
+      "id": 27,
+      "pergunta": "Se 4 pedreiros constroem uma casa em 30 dias, quantos dias levariam 6 pedreiros? (inversa)",
+      "opcoes": [
+        "a) 20",
+        "b) 15",
+        "c) 25",
+        "d) 18"
+      ],
+      "correta": 0,
+      "explicacao": "4 × 30 = 6 × x → 120 = 6x → x = 20."
+    },
+    {
+      "id": 28,
+      "pergunta": "Uma escala indica que 1 cm no mapa equivale a 2 km na realidade. Se duas cidades distam 7 cm no mapa, qual a distância real?",
+      "opcoes": [
+        "a) 14 km",
+        "b) 7 km",
+        "c) 3,5 km",
+        "d) 21 km"
+      ],
+      "correta": 0,
+      "explicacao": "7 × 2 = 14 km."
+    },
+    {
+      "id": 29,
+      "pergunta": "A razão entre o comprimento e a largura de um retângulo é 5/3. Se o comprimento é 20 cm, qual a largura?",
+      "opcoes": [
+        "a) 12 cm",
+        "b) 15 cm",
+        "c) 10 cm",
+        "d) 18 cm"
+      ],
+      "correta": 0,
+      "explicacao": "5/3 = 20/x → 5x = 60 → x = 12."
+    },
+    {
+      "id": 30,
+      "pergunta": "Uma mistura contém areia e cimento na razão 4:1. Se há 20 kg de areia, quantos kg de cimento são necessários?",
+      "opcoes": [
+        "a) 5 kg",
+        "b) 4 kg",
+        "c) 10 kg",
+        "d) 8 kg"
+      ],
+      "correta": 0,
+      "explicacao": "4/1 = 20/x → 4x = 20 → x = 5."
+    }
+  ]
+}
