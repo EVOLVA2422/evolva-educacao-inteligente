@@ -1,1 +1,367 @@
-
+{
+  "materia": "Figuras de Linguagem",
+  "nivel": 4,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Na frase 'Seus olhos são dois faróis', temos:",
+      "opcoes": [
+        "a) metáfora",
+        "b) metonímia",
+        "c) comparação",
+        "d) hipérbole"
+      ],
+      "correta": 0,
+      "explicacao": "Metáfora: comparação implícita, sem conectivo."
+    },
+    {
+      "id": 2,
+      "pergunta": "'O vento beijava seu rosto' é um exemplo de:",
+      "opcoes": [
+        "a) metáfora",
+        "b) prosopopeia (personificação)",
+        "c) hipérbole",
+        "d) antítese"
+      ],
+      "correta": 1,
+      "explicacao": "Personificação: atribuir ações humanas a seres inanimados."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em 'Estou morrendo de fome', ocorre:",
+      "opcoes": [
+        "a) metáfora",
+        "b) hipérbole",
+        "c) eufemismo",
+        "d) ironia"
+      ],
+      "correta": 1,
+      "explicacao": "Hipérbole: exagero."
+    },
+    {
+      "id": 4,
+      "pergunta": "'O amor e o ódio andam juntos' é um exemplo de:",
+      "opcoes": [
+        "a) antítese",
+        "b) paradoxo",
+        "c) metonímia",
+        "d) sinestesia"
+      ],
+      "correta": 0,
+      "explicacao": "Antítese: oposição de ideias (amor x ódio)."
+    },
+    {
+      "id": 5,
+      "pergunta": "Na frase 'Quanto mais eu como, mais fome tenho', temos:",
+      "opcoes": [
+        "a) antítese",
+        "b) paradoxo",
+        "c) hipérbole",
+        "d) ironia"
+      ],
+      "correta": 1,
+      "explicacao": "Paradoxo: ideias contraditórias."
+    },
+    {
+      "id": 6,
+      "pergunta": "'Ele partiu para o sono eterno' é um exemplo de:",
+      "opcoes": [
+        "a) hipérbole",
+        "b) eufemismo",
+        "c) metáfora",
+        "d) ironia"
+      ],
+      "correta": 1,
+      "explicacao": "Eufemismo: suavizar a morte (sono eterno)."
+    },
+    {
+      "id": 7,
+      "pergunta": "Em 'O Sol amanheceu sorrindo', há:",
+      "opcoes": [
+        "a) metonímia",
+        "b) personificação",
+        "c) comparação",
+        "d) hipérbole"
+      ],
+      "correta": 1,
+      "explicacao": "Personificação: sol sorrindo."
+    },
+    {
+      "id": 8,
+      "pergunta": "'Já li várias vezes Machado de Assis' é um caso de:",
+      "opcoes": [
+        "a) metáfora",
+        "b) metonímia",
+        "c) antonomásia",
+        "d) sinédoque"
+      ],
+      "correta": 1,
+      "explicacao": "Metonímia: autor pela obra."
+    },
+    {
+      "id": 9,
+      "pergunta": "Na frase 'O ruído das ruas', temos:",
+      "opcoes": [
+        "a) aliteração",
+        "b) onomatopeia",
+        "c) assonância",
+        "d) paronomásia"
+      ],
+      "correta": 1,
+      "explicacao": "Onomatopeia: palavra que imita som (ruído)."
+    },
+    {
+      "id": 10,
+      "pergunta": "'O rato roeu a roupa do rei de Roma' é um exemplo de:",
+      "opcoes": [
+        "a) aliteração",
+        "b) assonância",
+        "c) paronomásia",
+        "d) metáfora"
+      ],
+      "correta": 0,
+      "explicacao": "Aliteração: repetição do som /r/."
+    },
+    {
+      "id": 11,
+      "pergunta": "'Aquele é um anjo' é uma:",
+      "opcoes": [
+        "a) metáfora",
+        "b) comparação",
+        "c) hipérbole",
+        "d) ironia"
+      ],
+      "correta": 0,
+      "explicacao": "Metáfora: anjo = pessoa bondosa."
+    },
+    {
+      "id": 12,
+      "pergunta": "'Ele corre como um touro' é uma:",
+      "opcoes": [
+        "a) metáfora",
+        "b) comparação",
+        "c) hipérbole",
+        "d) personificação"
+      ],
+      "correta": 1,
+      "explicacao": "Comparação: com conectivo 'como'."
+    },
+    {
+      "id": 13,
+      "pergunta": "'Que saudade de quando éramos felizes e não sabíamos' é uma:",
+      "opcoes": [
+        "a) antítese",
+        "b) paradoxo",
+        "c) ironia",
+        "d) hipérbole"
+      ],
+      "correta": 1,
+      "explicacao": "Paradoxo: felizes sem saber."
+    },
+    {
+      "id": 14,
+      "pergunta": "'Ele é um crânio' (inteligente) é:",
+      "opcoes": [
+        "a) metáfora",
+        "b) metonímia",
+        "c) sinédoque",
+        "d) hipérbole"
+      ],
+      "correta": 1,
+      "explicacao": "Metonímia: crânio (parte) pela inteligência."
+    },
+    {
+      "id": 15,
+      "pergunta": "'A cidade foi tomada pelo medo' é:",
+      "opcoes": [
+        "a) personificação",
+        "b) hipérbole",
+        "c) metonímia",
+        "d) antítese"
+      ],
+      "correta": 0,
+      "explicacao": "Personificação: cidade sente medo."
+    },
+    {
+      "id": 16,
+      "pergunta": "'O tempo é uma flecha' é uma:",
+      "opcoes": [
+        "a) comparação",
+        "b) metáfora",
+        "c) hipérbole",
+        "d) personificação"
+      ],
+      "correta": 1,
+      "explicacao": "Metáfora: tempo comparado à flecha."
+    },
+    {
+      "id": 17,
+      "pergunta": "'Voei sobre as nuvens' é uma:",
+      "opcoes": [
+        "a) hipérbole",
+        "b) metáfora",
+        "c) personificação",
+        "d) ironia"
+      ],
+      "correta": 0,
+      "explicacao": "Hipérbole: exagero de voar."
+    },
+    {
+      "id": 18,
+      "pergunta": "'A doce brisa matinal' combina sensações. É:",
+      "opcoes": [
+        "a) sinestesia",
+        "b) metáfora",
+        "c) antítese",
+        "d) paradoxo"
+      ],
+      "correta": 0,
+      "explicacao": "Sinestesia: mistura de sensações (doce = paladar, brisa = tato)."
+    },
+    {
+      "id": 19,
+      "pergunta": "'O cheiro doce do amor' é:",
+      "opcoes": [
+        "a) sinestesia",
+        "b) metáfora",
+        "c) hipérbole",
+        "d) eufemismo"
+      ],
+      "correta": 0,
+      "explicacao": "Sinestesia: cheiro (olfato) + doce (paladar)."
+    },
+    {
+      "id": 20,
+      "pergunta": "'Os lábios de mel' é uma:",
+      "opcoes": [
+        "a) metáfora",
+        "b) comparação",
+        "c) hipérbole",
+        "d) sinestesia"
+      ],
+      "correta": 0,
+      "explicacao": "Metáfora: lábios doces como mel."
+    },
+    {
+      "id": 21,
+      "pergunta": "'Ele é o melhor jogador do mundo' pode ser:",
+      "opcoes": [
+        "a) hipérbole",
+        "b) ironia",
+        "c) metáfora",
+        "d) eufemismo"
+      ],
+      "correta": 0,
+      "explicacao": "Hipérbole: exagero."
+    },
+    {
+      "id": 22,
+      "pergunta": "'Que ideia luminosa!' é:",
+      "opcoes": [
+        "a) metáfora",
+        "b) catacrese",
+        "c) sinestesia",
+        "d) hipérbole"
+      ],
+      "correta": 1,
+      "explicacao": "Catacrese: falta de termo específico (ideia luminosa)."
+    },
+    {
+      "id": 23,
+      "pergunta": "'O pé da mesa' é um exemplo de:",
+      "opcoes": [
+        "a) metáfora",
+        "b) catacrese",
+        "c) personificação",
+        "d) metonímia"
+      ],
+      "correta": 1,
+      "explicacao": "Catacrese: uso de termo por falta de palavra específica."
+    },
+    {
+      "id": 24,
+      "pergunta": "'Asas de um avião' é:",
+      "opcoes": [
+        "a) metáfora",
+        "b) catacrese",
+        "c) comparação",
+        "d) personificação"
+      ],
+      "correta": 1,
+      "explicacao": "Catacrese."
+    },
+    {
+      "id": 25,
+      "pergunta": "'O sol beija o mar' é:",
+      "opcoes": [
+        "a) personificação",
+        "b) metáfora",
+        "c) hipérbole",
+        "d) antítese"
+      ],
+      "correta": 0,
+      "explicacao": "Personificação."
+    },
+    {
+      "id": 26,
+      "pergunta": "'Ele é um poço de sabedoria' é:",
+      "opcoes": [
+        "a) metáfora",
+        "b) hipérbole",
+        "c) comparação",
+        "d) metonímia"
+      ],
+      "correta": 1,
+      "explicacao": "Hipérbole: exagero (poço)."
+    },
+    {
+      "id": 27,
+      "pergunta": "'Chuva de verão' é uma:",
+      "opcoes": [
+        "a) metáfora",
+        "b) catacrese",
+        "c) hipérbole",
+        "d) metonímia"
+      ],
+      "correta": 0,
+      "explicacao": "Metáfora: chuva como se fosse 'chuva' de algo."
+    },
+    {
+      "id": 28,
+      "pergunta": "'A velhice é o outono da vida' é:",
+      "opcoes": [
+        "a) metáfora",
+        "b) comparação",
+        "c) antítese",
+        "d) paradoxo"
+      ],
+      "correta": 0,
+      "explicacao": "Metáfora."
+    },
+    {
+      "id": 29,
+      "pergunta": "'O silêncio ensurdecedor' é um:",
+      "opcoes": [
+        "a) paradoxo",
+        "b) antítese",
+        "c) hipérbole",
+        "d) eufemismo"
+      ],
+      "correta": 0,
+      "explicacao": "Paradoxo: silêncio que ensurdece."
+    },
+    {
+      "id": 30,
+      "pergunta": "'Ele foi para o andar de cima' é um:",
+      "opcoes": [
+        "a) eufemismo",
+        "b) hipérbole",
+        "c) metáfora",
+        "d) ironia"
+      ],
+      "correta": 0,
+      "explicacao": "Eufemismo para morte."
+    }
+  ]
+}
