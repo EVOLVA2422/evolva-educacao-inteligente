@@ -1,1 +1,367 @@
-
+{
+  "materia": "Ordem Crescente e Decrescente",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Coloque em ordem crescente: 15, 8, 23, 5",
+      "opcoes": [
+        "a) 5, 8, 15, 23",
+        "b) 23, 15, 8, 5",
+        "c) 8, 5, 15, 23",
+        "d) 15, 8, 23, 5"
+      ],
+      "correta": 0,
+      "explicacao": "Crescente: do menor para o maior: 5, 8, 15, 23."
+    },
+    {
+      "id": 2,
+      "pergunta": "Coloque em ordem decrescente: 12, 7, 25, 9",
+      "opcoes": [
+        "a) 7, 9, 12, 25",
+        "b) 25, 12, 9, 7",
+        "c) 25, 9, 12, 7",
+        "d) 12, 25, 7, 9"
+      ],
+      "correta": 1,
+      "explicacao": "Decrescente: do maior para o menor: 25, 12, 9, 7."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual é o maior número: 34, 43, 33, 44?",
+      "opcoes": [
+        "a) 34",
+        "b) 43",
+        "c) 33",
+        "d) 44"
+      ],
+      "correta": 3,
+      "explicacao": "44 é o maior."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual é o menor número: 56, 65, 55, 66?",
+      "opcoes": [
+        "a) 56",
+        "b) 65",
+        "c) 55",
+        "d) 66"
+      ],
+      "correta": 2,
+      "explicacao": "55 é o menor."
+    },
+    {
+      "id": 5,
+      "pergunta": "Coloque em ordem crescente: 102, 99, 100, 101",
+      "opcoes": [
+        "a) 99, 100, 101, 102",
+        "b) 102, 101, 100, 99",
+        "c) 100, 99, 101, 102",
+        "d) 99, 102, 100, 101"
+      ],
+      "correta": 0,
+      "explicacao": "99, 100, 101, 102."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual número está entre 50 e 60?",
+      "opcoes": [
+        "a) 48",
+        "b) 55",
+        "c) 62",
+        "d) 70"
+      ],
+      "correta": 1,
+      "explicacao": "55 está entre 50 e 60."
+    },
+    {
+      "id": 7,
+      "pergunta": "Coloque em ordem decrescente: 8, 15, 3, 12",
+      "opcoes": [
+        "a) 15, 12, 8, 3",
+        "b) 3, 8, 12, 15",
+        "c) 8, 15, 3, 12",
+        "d) 15, 8, 12, 3"
+      ],
+      "correta": 0,
+      "explicacao": "15, 12, 8, 3."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual é o antecessor de 100?",
+      "opcoes": [
+        "a) 98",
+        "b) 99",
+        "c) 101",
+        "d) 102"
+      ],
+      "correta": 1,
+      "explicacao": "Antecessor = 100 - 1 = 99."
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual é o sucessor de 199?",
+      "opcoes": [
+        "a) 198",
+        "b) 200",
+        "c) 201",
+        "d) 202"
+      ],
+      "correta": 1,
+      "explicacao": "Sucessor = 199 + 1 = 200."
+    },
+    {
+      "id": 10,
+      "pergunta": "Coloque em ordem crescente: 5, -3, 0, 2",
+      "opcoes": [
+        "a) -3, 0, 2, 5",
+        "b) 5, 2, 0, -3",
+        "c) 0, -3, 2, 5",
+        "d) -3, 2, 0, 5"
+      ],
+      "correta": 0,
+      "explicacao": "Números negativos são menores: -3, 0, 2, 5."
+    },
+    {
+      "id": 11,
+      "pergunta": "Qual é o maior número: -10, -5, 0, 5?",
+      "opcoes": [
+        "a) -10",
+        "b) -5",
+        "c) 0",
+        "d) 5"
+      ],
+      "correta": 3,
+      "explicacao": "5 é o maior."
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual é o menor número: -8, -3, -12, 0?",
+      "opcoes": [
+        "a) -8",
+        "b) -3",
+        "c) -12",
+        "d) 0"
+      ],
+      "correta": 2,
+      "explicacao": "-12 é o menor (mais negativo)."
+    },
+    {
+      "id": 13,
+      "pergunta": "Coloque em ordem decrescente: 7, 14, 3, 21",
+      "opcoes": [
+        "a) 21, 14, 7, 3",
+        "b) 3, 7, 14, 21",
+        "c) 14, 21, 7, 3",
+        "d) 21, 7, 14, 3"
+      ],
+      "correta": 0,
+      "explicacao": "21, 14, 7, 3."
+    },
+    {
+      "id": 14,
+      "pergunta": "Qual número está entre 30 e 40?",
+      "opcoes": [
+        "a) 28",
+        "b) 35",
+        "c) 42",
+        "d) 45"
+      ],
+      "correta": 1,
+      "explicacao": "35 está entre 30 e 40."
+    },
+    {
+      "id": 15,
+      "pergunta": "Coloque em ordem crescente: 18, 12, 24, 6",
+      "opcoes": [
+        "a) 6, 12, 18, 24",
+        "b) 24, 18, 12, 6",
+        "c) 12, 6, 18, 24",
+        "d) 18, 24, 6, 12"
+      ],
+      "correta": 0,
+      "explicacao": "6, 12, 18, 24."
+    },
+    {
+      "id": 16,
+      "pergunta": "Qual é o sucessor de 999?",
+      "opcoes": [
+        "a) 998",
+        "b) 1.000",
+        "c) 1.001",
+        "d) 990"
+      ],
+      "correta": 1,
+      "explicacao": "999 + 1 = 1.000."
+    },
+    {
+      "id": 17,
+      "pergunta": "Qual é o antecessor de 1.000?",
+      "opcoes": [
+        "a) 998",
+        "b) 999",
+        "c) 1.001",
+        "d) 1.002"
+      ],
+      "correta": 1,
+      "explicacao": "1.000 - 1 = 999."
+    },
+    {
+      "id": 18,
+      "pergunta": "Coloque em ordem decrescente: 150, 105, 115, 125",
+      "opcoes": [
+        "a) 150, 125, 115, 105",
+        "b) 105, 115, 125, 150",
+        "c) 150, 115, 125, 105",
+        "d) 125, 150, 115, 105"
+      ],
+      "correta": 0,
+      "explicacao": "150, 125, 115, 105."
+    },
+    {
+      "id": 19,
+      "pergunta": "Qual é o maior número: 0, -1, -2, -3?",
+      "opcoes": [
+        "a) 0",
+        "b) -1",
+        "c) -2",
+        "d) -3"
+      ],
+      "correta": 0,
+      "explicacao": "Zero é maior que números negativos."
+    },
+    {
+      "id": 20,
+      "pergunta": "Qual é o menor número: 5, 2, 8, 1?",
+      "opcoes": [
+        "a) 5",
+        "b) 2",
+        "c) 8",
+        "d) 1"
+      ],
+      "correta": 3,
+      "explicacao": "1 é o menor."
+    },
+    {
+      "id": 21,
+      "pergunta": "Coloque em ordem crescente: 33, 44, 22, 55",
+      "opcoes": [
+        "a) 22, 33, 44, 55",
+        "b) 55, 44, 33, 22",
+        "c) 33, 22, 44, 55",
+        "d) 44, 33, 55, 22"
+      ],
+      "correta": 0,
+      "explicacao": "22, 33, 44, 55."
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual número está entre 70 e 80?",
+      "opcoes": [
+        "a) 68",
+        "b) 75",
+        "c) 82",
+        "d) 85"
+      ],
+      "correta": 1,
+      "explicacao": "75 está entre 70 e 80."
+    },
+    {
+      "id": 23,
+      "pergunta": "Coloque em ordem decrescente: 9, 4, 7, 2",
+      "opcoes": [
+        "a) 9, 7, 4, 2",
+        "b) 2, 4, 7, 9",
+        "c) 7, 9, 4, 2",
+        "d) 9, 4, 7, 2"
+      ],
+      "correta": 0,
+      "explicacao": "9, 7, 4, 2."
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual é o sucessor de 299?",
+      "opcoes": [
+        "a) 298",
+        "b) 300",
+        "c) 301",
+        "d) 302"
+      ],
+      "correta": 1,
+      "explicacao": "299 + 1 = 300."
+    },
+    {
+      "id": 25,
+      "pergunta": "Qual é o antecessor de 500?",
+      "opcoes": [
+        "a) 498",
+        "b) 499",
+        "c) 501",
+        "d) 502"
+      ],
+      "correta": 1,
+      "explicacao": "500 - 1 = 499."
+    },
+    {
+      "id": 26,
+      "pergunta": "Coloque em ordem crescente: 101, 99, 102, 100",
+      "opcoes": [
+        "a) 99, 100, 101, 102",
+        "b) 102, 101, 100, 99",
+        "c) 100, 99, 101, 102",
+        "d) 99, 102, 100, 101"
+      ],
+      "correta": 0,
+      "explicacao": "99, 100, 101, 102."
+    },
+    {
+      "id": 27,
+      "pergunta": "Qual é o maior número: 1, -1, 0, -2?",
+      "opcoes": [
+        "a) 1",
+        "b) -1",
+        "c) 0",
+        "d) -2"
+      ],
+      "correta": 0,
+      "explicacao": "1 é o maior."
+    },
+    {
+      "id": 28,
+      "pergunta": "Qual é o menor número: -5, -2, -8, -1?",
+      "opcoes": [
+        "a) -5",
+        "b) -2",
+        "c) -8",
+        "d) -1"
+      ],
+      "correta": 2,
+      "explicacao": "-8 é o menor."
+    },
+    {
+      "id": 29,
+      "pergunta": "Coloque em ordem decrescente: 3, 6, 1, 9",
+      "opcoes": [
+        "a) 9, 6, 3, 1",
+        "b) 1, 3, 6, 9",
+        "c) 6, 9, 3, 1",
+        "d) 9, 3, 6, 1"
+      ],
+      "correta": 0,
+      "explicacao": "9, 6, 3, 1."
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual número está entre 90 e 100?",
+      "opcoes": [
+        "a) 85",
+        "b) 95",
+        "c) 105",
+        "d) 110"
+      ],
+      "correta": 1,
+      "explicacao": "95 está entre 90 e 100."
+    }
+  ]
+}
