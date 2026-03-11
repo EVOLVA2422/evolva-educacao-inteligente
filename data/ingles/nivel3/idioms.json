@@ -1,1 +1,607 @@
-
+{
+  "materia": "Idioms",
+  "nivel": 3,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "What does 'piece of cake' mean?",
+      "opcoes": [
+        "a) very difficult",
+        "b) very easy",
+        "c) delicious",
+        "d) expensive"
+      ],
+      "correta": 1,
+      "explicacao": "'Piece of cake' means something very easy."
+    },
+    {
+      "id": 2,
+      "pergunta": "If someone says 'break a leg', what do they mean?",
+      "opcoes": [
+        "a) good luck",
+        "b) bad luck",
+        "c) get injured",
+        "d) hurry up"
+      ],
+      "correta": 0,
+      "explicacao": "'Break a leg' is a way to wish someone good luck, especially before a performance."
+    },
+    {
+      "id": 3,
+      "pergunta": "What does 'cost an arm and a leg' mean?",
+      "opcoes": [
+        "a) very cheap",
+        "b) very expensive",
+        "c) painful",
+        "d) reasonable"
+      ],
+      "correta": 1,
+      "explicacao": "'Cost an arm and a leg' means something is very expensive."
+    },
+    {
+      "id": 4,
+      "pergunta": "If you are 'under the weather', how do you feel?",
+      "opcoes": [
+        "a) happy",
+        "b) excited",
+        "c) sick",
+        "d) tired"
+      ],
+      "correta": 2,
+      "explicacao": "'Under the weather' means feeling ill or unwell."
+    },
+    {
+      "id": 5,
+      "pergunta": "What does 'hit the books' mean?",
+      "opcoes": [
+        "a) study hard",
+        "b) read quickly",
+        "c) destroy books",
+        "d) buy books"
+      ],
+      "correta": 0,
+      "explicacao": "'Hit the books' means to study hard."
+    },
+    {
+      "id": 6,
+      "pergunta": "If you 'spill the beans', what do you do?",
+      "opcoes": [
+        "a) reveal a secret",
+        "b) cook beans",
+        "c) make a mess",
+        "d) eat quickly"
+      ],
+      "correta": 0,
+      "explicacao": "'Spill the beans' means to reveal a secret."
+    },
+    {
+      "id": 7,
+      "pergunta": "What does 'once in a blue moon' mean?",
+      "opcoes": [
+        "a) frequently",
+        "b) rarely",
+        "c) always",
+        "d) never"
+      ],
+      "correta": 1,
+      "explicacao": "'Once in a blue moon' means very rarely."
+    },
+    {
+      "id": 8,
+      "pergunta": "If someone is 'feeling blue', how do they feel?",
+      "opcoes": [
+        "a) happy",
+        "b) sad",
+        "c) excited",
+        "d) cold"
+      ],
+      "correta": 1,
+      "explicacao": "'Feeling blue' means feeling sad or depressed."
+    },
+    {
+      "id": 9,
+      "pergunta": "What does 'let the cat out of the bag' mean?",
+      "opcoes": [
+        "a) adopt a cat",
+        "b) reveal a secret",
+        "c) free an animal",
+        "d) make a mistake"
+      ],
+      "correta": 1,
+      "explicacao": "'Let the cat out of the bag' means to accidentally reveal a secret."
+    },
+    {
+      "id": 10,
+      "pergunta": "If you 'pull someone's leg', what are you doing?",
+      "opcoes": [
+        "a) teasing them",
+        "b) helping them",
+        "c) hurting them",
+        "d) ignoring them"
+      ],
+      "correta": 0,
+      "explicacao": "'Pull someone's leg' means to tease or joke with them."
+    },
+    {
+      "id": 11,
+      "pergunta": "What does 'a blessing in disguise' mean?",
+      "opcoes": [
+        "a) something good that seemed bad at first",
+        "b) something bad that seems good",
+        "c) a hidden treasure",
+        "d) a lucky charm"
+      ],
+      "correta": 0,
+      "explicacao": "'A blessing in disguise' means something that turns out to be good even though it seemed bad initially."
+    },
+    {
+      "id": 12,
+      "pergunta": "If you 'hit the nail on the head', what have you done?",
+      "opcoes": [
+        "a) made a mistake",
+        "b) guessed correctly",
+        "c) injured yourself",
+        "d) worked hard"
+      ],
+      "correta": 1,
+      "explicacao": "'Hit the nail on the head' means to be exactly right."
+    },
+    {
+      "id": 13,
+      "pergunta": "What does 'when pigs fly' mean?",
+      "opcoes": [
+        "a) it will happen soon",
+        "b) it will never happen",
+        "c) it's possible",
+        "d) it's raining"
+      ],
+      "correta": 1,
+      "explicacao": "'When pigs fly' means something that will never happen."
+    },
+    {
+      "id": 14,
+      "pergunta": "If you 'bite the bullet', what do you do?",
+      "opcoes": [
+        "a) avoid a difficult situation",
+        "b) face a difficult situation bravely",
+        "c) eat quickly",
+        "d) injure yourself"
+      ],
+      "correta": 1,
+      "explicacao": "'Bite the bullet' means to endure a painful or difficult situation with courage."
+    },
+    {
+      "id": 15,
+      "pergunta": "What does 'call it a day' mean?",
+      "opcoes": [
+        "a) start working",
+        "b) stop working for the day",
+        "c) take a break",
+        "d) celebrate"
+      ],
+      "correta": 1,
+      "explicacao": "'Call it a day' means to stop working for the rest of the day."
+    },
+    {
+      "id": 16,
+      "pergunta": "If you 'cut corners', what are you doing?",
+      "opcoes": [
+        "a) doing something cheaply or easily",
+        "b) working hard",
+        "c) driving dangerously",
+        "d) taking a shortcut"
+      ],
+      "correta": 0,
+      "explicacao": "'Cut corners' means to do something in the easiest, quickest, or cheapest way, often sacrificing quality."
+    },
+    {
+      "id": 17,
+      "pergunta": "What does 'get out of hand' mean?",
+      "opcoes": [
+        "a) become out of control",
+        "b) become better",
+        "c) become worse",
+        "d) become easier"
+      ],
+      "correta": 0,
+      "explicacao": "'Get out of hand' means to become uncontrollable."
+    },
+    {
+      "id": 18,
+      "pergunta": "If you 'go the extra mile', what do you do?",
+      "opcoes": [
+        "a) do more than expected",
+        "b) travel further",
+        "c) give up",
+        "d) work less"
+      ],
+      "correta": 0,
+      "explicacao": "'Go the extra mile' means to make more effort than expected."
+    },
+    {
+      "id": 19,
+      "pergunta": "What does 'hang in there' mean?",
+      "opcoes": [
+        "a) wait patiently",
+        "b) give up",
+        "c) hold on tight",
+        "d) leave quickly"
+      ],
+      "correta": 0,
+      "explicacao": "'Hang in there' means to persevere and not give up."
+    },
+    {
+      "id": 20,
+      "pergunta": "If you 'jump the gun', what have you done?",
+      "opcoes": [
+        "a) started too early",
+        "b) started too late",
+        "c) finished quickly",
+        "d) avoided work"
+      ],
+      "correta": 0,
+      "explicacao": "'Jump the gun' means to start something before the proper time."
+    },
+    {
+      "id": 21,
+      "pergunta": "What does 'keep your chin up' mean?",
+      "opcoes": [
+        "a) stay positive",
+        "b) look up",
+        "c) be sad",
+        "d) be careful"
+      ],
+      "correta": 0,
+      "explicacao": "'Keep your chin up' means to remain cheerful in a difficult situation."
+    },
+    {
+      "id": 22,
+      "pergunta": "If you 'miss the boat', what happened?",
+      "opcoes": [
+        "a) you arrived too late",
+        "b) you lost an opportunity",
+        "c) you missed transportation",
+        "d) you were early"
+      ],
+      "correta": 1,
+      "explicacao": "'Miss the boat' means to lose an opportunity by being too slow."
+    },
+    {
+      "id": 23,
+      "pergunta": "What does 'not my cup of tea' mean?",
+      "opcoes": [
+        "a) not what I like",
+        "b) not my drink",
+        "c) not available",
+        "d) not good"
+      ],
+      "correta": 0,
+      "explicacao": "'Not my cup of tea' means something is not to one's taste or preference."
+    },
+    {
+      "id": 24,
+      "pergunta": "If you 'play it by ear', what do you do?",
+      "opcoes": [
+        "a) improvise as you go",
+        "b) follow a plan",
+        "c) listen carefully",
+        "d) play music"
+      ],
+      "correta": 0,
+      "explicacao": "'Play it by ear' means to decide what to do as a situation develops rather than planning in advance."
+    },
+    {
+      "id": 25,
+      "pergunta": "What does 'see eye to eye' mean?",
+      "opcoes": [
+        "a) agree",
+        "b) disagree",
+        "c) look closely",
+        "d) meet"
+      ],
+      "correta": 0,
+      "explicacao": "'See eye to eye' means to agree with someone."
+    },
+    {
+      "id": 26,
+      "pergunta": "If you 'sit on the fence', what are you doing?",
+      "opcoes": [
+        "a) avoiding making a decision",
+        "b) making a decision",
+        "c) relaxing",
+        "d) exercising"
+      ],
+      "correta": 0,
+      "explicacao": "'Sit on the fence' means to avoid taking sides or making a decision."
+    },
+    {
+      "id": 27,
+      "pergunta": "What does 'take with a grain of salt' mean?",
+      "opcoes": [
+        "a) not believe completely",
+        "b) believe everything",
+        "c) add salt",
+        "d) enjoy"
+      ],
+      "correta": 0,
+      "explicacao": "'Take with a grain of salt' means to view something with skepticism."
+    },
+    {
+      "id": 28,
+      "pergunta": "If you 'the best of both worlds', what do you have?",
+      "opcoes": [
+        "a) the advantages of two different situations",
+        "b) the worst of both",
+        "c) nothing",
+        "d) everything"
+      ],
+      "correta": 0,
+      "explicacao": "'The best of both worlds' means a situation where you can enjoy the benefits of two different things."
+    },
+    {
+      "id": 29,
+      "pergunta": "What does 'up in the air' mean?",
+      "opcoes": [
+        "a) uncertain",
+        "b) decided",
+        "c) flying",
+        "d) high"
+      ],
+      "correta": 0,
+      "explicacao": "'Up in the air' means something is uncertain or not yet decided."
+    },
+    {
+      "id": 30,
+      "pergunta": "If you 'wrap your head around something', what are you doing?",
+      "opcoes": [
+        "a) understanding something difficult",
+        "b) ignoring something",
+        "c) covering your head",
+        "d) finishing something"
+      ],
+      "correta": 0,
+      "explicacao": "'Wrap your head around' means to understand something complicated."
+    },
+    {
+      "id": 31,
+      "pergunta": "What does 'face the music' mean?",
+      "opcoes": [
+        "a) accept the consequences",
+        "b) listen to music",
+        "c) avoid punishment",
+        "d) celebrate"
+      ],
+      "correta": 0,
+      "explicacao": "'Face the music' means to confront the unpleasant consequences of one's actions."
+    },
+    {
+      "id": 32,
+      "pergunta": "If you 'steal someone's thunder', what do you do?",
+      "opcoes": [
+        "a) take attention away from someone",
+        "b) steal something",
+        "c) make noise",
+        "d) help someone"
+      ],
+      "correta": 0,
+      "explicacao": "'Steal someone's thunder' means to take the attention or praise away from someone else."
+    },
+    {
+      "id": 33,
+      "pergunta": "What does 'butter someone up' mean?",
+      "opcoes": [
+        "a) flatter someone",
+        "b) cook with butter",
+        "c) annoy someone",
+        "d) help someone"
+      ],
+      "correta": 0,
+      "explicacao": "'Butter someone up' means to flatter someone to get something from them."
+    },
+    {
+      "id": 34,
+      "pergunta": "If you 'call the shots', what are you doing?",
+      "opcoes": [
+        "a) being in charge",
+        "b) taking photos",
+        "c) calling someone",
+        "d) playing games"
+      ],
+      "correta": 0,
+      "explicacao": "'Call the shots' means to be the person who makes the decisions."
+    },
+    {
+      "id": 35,
+      "pergunta": "What does 'cut to the chase' mean?",
+      "opcoes": [
+        "a) get to the point",
+        "b) run away",
+        "c) cut something",
+        "d) follow"
+      ],
+      "correta": 0,
+      "explicacao": "'Cut to the chase' means to get to the important part without wasting time."
+    },
+    {
+      "id": 36,
+      "pergunta": "If you 'elbow room', what do you have?",
+      "opcoes": [
+        "a) enough space",
+        "b) no space",
+        "c) a room",
+        "d) an injury"
+      ],
+      "correta": 0,
+      "explicacao": "'Elbow room' means enough space to move freely."
+    },
+    {
+      "id": 37,
+      "pergunta": "What does 'give the benefit of the doubt' mean?",
+      "opcoes": [
+        "a) believe someone despite doubts",
+        "b) doubt someone",
+        "c) give money",
+        "d) trust completely"
+      ],
+      "correta": 0,
+      "explicacao": "'Give the benefit of the doubt' means to believe someone even though you are not sure."
+    },
+    {
+      "id": 38,
+      "pergunta": "If you 'go Dutch', what do you do?",
+      "opcoes": [
+        "a) split the bill",
+        "b) travel to the Netherlands",
+        "c) pay for everyone",
+        "d) eat alone"
+      ],
+      "correta": 0,
+      "explicacao": "'Go Dutch' means each person pays for their own meal."
+    },
+    {
+      "id": 39,
+      "pergunta": "What does 'have a sweet tooth' mean?",
+      "opcoes": [
+        "a) like sweet foods",
+        "b) have a toothache",
+        "c) be sweet",
+        "d) be kind"
+      ],
+      "correta": 0,
+      "explicacao": "'Have a sweet tooth' means to have a strong liking for sweet foods."
+    },
+    {
+      "id": 40,
+      "pergunta": "If you 'keep an eye on something', what do you do?",
+      "opcoes": [
+        "a) watch it carefully",
+        "b) ignore it",
+        "c) close your eyes",
+        "d) protect it"
+      ],
+      "correta": 0,
+      "explicacao": "'Keep an eye on' means to watch or monitor something."
+    },
+    {
+      "id": 41,
+      "pergunta": "What does 'kill two birds with one stone' mean?",
+      "opcoes": [
+        "a) achieve two things at once",
+        "b) be efficient",
+        "c) be cruel",
+        "d) waste time"
+      ],
+      "correta": 0,
+      "explicacao": "'Kill two birds with one stone' means to accomplish two things with a single action."
+    },
+    {
+      "id": 42,
+      "pergunta": "If you 'let someone off the hook', what do you do?",
+      "opcoes": [
+        "a) free someone from responsibility",
+        "b) catch someone",
+        "c) help someone",
+        "d) ignore someone"
+      ],
+      "correta": 0,
+      "explicacao": "'Let someone off the hook' means to free someone from a obligation or blame."
+    },
+    {
+      "id": 43,
+      "pergunta": "What does 'make a long story short' mean?",
+      "opcoes": [
+        "a) summarize",
+        "b) tell a long story",
+        "c) write briefly",
+        "d) cut paper"
+      ],
+      "correta": 0,
+      "explicacao": "'Make a long story short' means to give only the main points without details."
+    },
+    {
+      "id": 44,
+      "pergunta": "If you 'on the ball', what are you?",
+      "opcoes": [
+        "a) alert and efficient",
+        "b) lazy",
+        "c) confused",
+        "d) playing sports"
+      ],
+      "correta": 0,
+      "explicacao": "'On the ball' means to be quick to understand and react to things."
+    },
+    {
+      "id": 45,
+      "pergunta": "What does 'pull yourself together' mean?",
+      "opcoes": [
+        "a) calm down",
+        "b) get ready",
+        "c) exercise",
+        "d) dress up"
+      ],
+      "correta": 0,
+      "explicacao": "'Pull yourself together' means to regain control of your emotions."
+    },
+    {
+      "id": 46,
+      "pergunta": "If you 'ring a bell', what does it do?",
+      "opcoes": [
+        "a) sound familiar",
+        "b) make noise",
+        "c) call someone",
+        "d) wake up"
+      ],
+      "correta": 0,
+      "explicacao": "'Ring a bell' means to sound familiar, to remind you of something."
+    },
+    {
+      "id": 47,
+      "pergunta": "What does 'rule of thumb' mean?",
+      "opcoes": [
+        "a) a general principle",
+        "b) a strict rule",
+        "c) a measurement",
+        "d) a thumb"
+      ],
+      "correta": 0,
+      "explicacao": "'Rule of thumb' means a broadly accurate guide based on practice rather than theory."
+    },
+    {
+      "id": 48,
+      "pergunta": "If you 'shake a leg', what should you do?",
+      "opcoes": [
+        "a) hurry up",
+        "b) dance",
+        "c) exercise",
+        "d) rest"
+      ],
+      "correta": 0,
+      "explicacao": "'Shake a leg' means to hurry up."
+    },
+    {
+      "id": 49,
+      "pergunta": "What does 'the last straw' mean?",
+      "opcoes": [
+        "a) the final problem that makes you give up",
+        "b) the last drink",
+        "c) the final piece",
+        "d) the last chance"
+      ],
+      "correta": 0,
+      "explicacao": "'The last straw' means the final annoyance or difficulty that makes you lose patience."
+    },
+    {
+      "id": 50,
+      "pergunta": "If you 'up your game', what are you doing?",
+      "opcoes": [
+        "a) improving your performance",
+        "b) playing a game",
+        "c) giving up",
+        "d) starting"
+      ],
+      "correta": 0,
+      "explicacao": "'Up your game' means to improve your performance."
+    }
+  ]
+}
