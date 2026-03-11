@@ -1,1 +1,607 @@
-
+{
+  "materia": "Conditionals",
+  "nivel": 3,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Complete: 'If it _____ tomorrow, we will stay at home.'",
+      "opcoes": [
+        "a) rains",
+        "b) will rain",
+        "c) rained",
+        "d) would rain"
+      ],
+      "correta": 0,
+      "explicacao": "First conditional: If + present, will + verb."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete: 'If I had money, I _____ a new car.'",
+      "opcoes": [
+        "a) will buy",
+        "b) would buy",
+        "c) buy",
+        "d) bought"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: If + past, would + verb."
+    },
+    {
+      "id": 3,
+      "pergunta": "Complete: 'If she _____ studied, she would have passed.'",
+      "opcoes": [
+        "a) has",
+        "b) had",
+        "c) have",
+        "d) would have"
+      ],
+      "correta": 1,
+      "explicacao": "Third conditional: If + past perfect, would have + past participle."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete: 'If you heat water to 100°C, it _____ .'",
+      "opcoes": [
+        "a) boils",
+        "b) will boil",
+        "c) would boil",
+        "d) boiled"
+      ],
+      "correta": 0,
+      "explicacao": "Zero conditional: If + present, present (general truth)."
+    },
+    {
+      "id": 5,
+      "pergunta": "Choose the correct form: 'I would travel more if I _____ more time.'",
+      "opcoes": [
+        "a) have",
+        "b) had",
+        "c) would have",
+        "d) will have"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: if + past (had)."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'If they _____ earlier, they wouldn't have missed the bus.'",
+      "opcoes": [
+        "a) left",
+        "b) had left",
+        "c) have left",
+        "d) would leave"
+      ],
+      "correta": 1,
+      "explicacao": "Third conditional: if + past perfect (had left)."
+    },
+    {
+      "id": 7,
+      "pergunta": "Complete: 'We will go to the beach if it _____ sunny.'",
+      "opcoes": [
+        "a) is",
+        "b) will be",
+        "c) would be",
+        "d) was"
+      ],
+      "correta": 0,
+      "explicacao": "First conditional: if + present (is)."
+    },
+    {
+      "id": 8,
+      "pergunta": "Choose the correct: 'If I were you, I _____ that.'",
+      "opcoes": [
+        "a) wouldn't do",
+        "b) won't do",
+        "c) don't do",
+        "d) didn't do"
+      ],
+      "correta": 0,
+      "explicacao": "Second conditional: would + verb (advice)."
+    },
+    {
+      "id": 9,
+      "pergunta": "Complete: 'If he _____ hard, he would succeed.'",
+      "opcoes": [
+        "a) works",
+        "b) worked",
+        "c) had worked",
+        "d) would work"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: if + past (worked)."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'If you had told me, I _____ helped.'",
+      "opcoes": [
+        "a) would have",
+        "b) will have",
+        "c) have",
+        "d) had"
+      ],
+      "correta": 0,
+      "explicacao": "Third conditional: would have + past participle."
+    },
+    {
+      "id": 11,
+      "pergunta": "Choose the correct: 'She would call you if she _____ your number.'",
+      "opcoes": [
+        "a) knows",
+        "b) knew",
+        "c) had known",
+        "d) would know"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: if + past (knew)."
+    },
+    {
+      "id": 12,
+      "pergunta": "Complete: 'If it rains, the grass _____ wet.'",
+      "opcoes": [
+        "a) gets",
+        "b) will get",
+        "c) would get",
+        "d) got"
+      ],
+      "correta": 0,
+      "explicacao": "Zero/first conditional – both possible. Zero: gets (general), first: will get (specific)."
+    },
+    {
+      "id": 13,
+      "pergunta": "Complete: 'If I had known, I _____ differently.'",
+      "opcoes": [
+        "a) would act",
+        "b) would have acted",
+        "c) will act",
+        "d) act"
+      ],
+      "correta": 1,
+      "explicacao": "Third conditional: would have + past participle."
+    },
+    {
+      "id": 14,
+      "pergunta": "Choose the correct: 'They would be happier if they _____ in the countryside.'",
+      "opcoes": [
+        "a) live",
+        "b) lived",
+        "c) had lived",
+        "d) would live"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: if + past (lived)."
+    },
+    {
+      "id": 15,
+      "pergunta": "Complete: 'If you mix red and blue, you _____ purple.'",
+      "opcoes": [
+        "a) get",
+        "b) will get",
+        "c) would get",
+        "d) got"
+      ],
+      "correta": 0,
+      "explicacao": "Zero conditional: present (general fact)."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: 'If she _____ earlier, she wouldn't be late now.'",
+      "opcoes": [
+        "a) left",
+        "b) had left",
+        "c) leaves",
+        "d) would leave"
+      ],
+      "correta": 1,
+      "explicacao": "Mixed conditional: past perfect + would + present (result in present)."
+    },
+    {
+      "id": 17,
+      "pergunta": "Choose the correct: 'If I _____ you, I would accept.'",
+      "opcoes": [
+        "a) am",
+        "b) were",
+        "c) was",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "'Were' is used in unreal conditionals for all persons."
+    },
+    {
+      "id": 18,
+      "pergunta": "Complete: 'Unless you _____ studying, you will fail.'",
+      "opcoes": [
+        "a) start",
+        "b) will start",
+        "c) started",
+        "d) would start"
+      ],
+      "correta": 0,
+      "explicacao": "'Unless' means if not, followed by present tense."
+    },
+    {
+      "id": 19,
+      "pergunta": "Complete: 'If he _____ more careful, he wouldn't have made mistakes.'",
+      "opcoes": [
+        "a) is",
+        "b) was",
+        "c) had been",
+        "d) would be"
+      ],
+      "correta": 2,
+      "explicacao": "Third conditional: if + past perfect (had been)."
+    },
+    {
+      "id": 20,
+      "pergunta": "Choose the correct: 'We would have arrived on time if we _____ the train.'",
+      "opcoes": [
+        "a) didn't miss",
+        "b) hadn't missed",
+        "c) wouldn't miss",
+        "d) don't miss"
+      ],
+      "correta": 1,
+      "explicacao": "Third conditional: if + past perfect negative."
+    },
+    {
+      "id": 21,
+      "pergunta": "Complete: 'If she _____ rich, she would travel the world.'",
+      "opcoes": [
+        "a) is",
+        "b) were",
+        "c) was",
+        "d) has been"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: were (unreal)."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'If you don't hurry, you _____ the bus.'",
+      "opcoes": [
+        "a) will miss",
+        "b) would miss",
+        "c) miss",
+        "d) missed"
+      ],
+      "correta": 0,
+      "explicacao": "First conditional: will + verb."
+    },
+    {
+      "id": 23,
+      "pergunta": "Choose the correct: 'I wish I _____ taller.'",
+      "opcoes": [
+        "a) am",
+        "b) were",
+        "c) was",
+        "d) is"
+      ],
+      "correta": 1,
+      "explicacao": "'Wish' for unreal situation uses past subjunctive (were)."
+    },
+    {
+      "id": 24,
+      "pergunta": "Complete: 'If they had left earlier, they _____ here now.'",
+      "opcoes": [
+        "a) would be",
+        "b) would have been",
+        "c) will be",
+        "d) are"
+      ],
+      "correta": 0,
+      "explicacao": "Mixed conditional: past perfect + would + present."
+    },
+    {
+      "id": 25,
+      "pergunta": "Complete: 'If I see him, I _____ him the news.'",
+      "opcoes": [
+        "a) will tell",
+        "b) would tell",
+        "c) tell",
+        "d) told"
+      ],
+      "correta": 0,
+      "explicacao": "First conditional: will + verb."
+    },
+    {
+      "id": 26,
+      "pergunta": "Choose the correct: 'If she _____ more time, she would learn French.'",
+      "opcoes": [
+        "a) has",
+        "b) had",
+        "c) would have",
+        "d) have"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: if + past (had)."
+    },
+    {
+      "id": 27,
+      "pergunta": "Complete: 'If it _____ so cold, we could go swimming.'",
+      "opcoes": [
+        "a) wasn't",
+        "b) weren't",
+        "c) isn't",
+        "d) hadn't been"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional negative: if it weren't."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'She would have passed if she _____ more.'",
+      "opcoes": [
+        "a) studied",
+        "b) had studied",
+        "c) would study",
+        "d) studies"
+      ],
+      "correta": 1,
+      "explicacao": "Third conditional: if + past perfect."
+    },
+    {
+      "id": 29,
+      "pergunta": "Choose the correct: 'If you heat ice, it _____ .'",
+      "opcoes": [
+        "a) melts",
+        "b) will melt",
+        "c) would melt",
+        "d) melted"
+      ],
+      "correta": 0,
+      "explicacao": "Zero conditional: present fact."
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: 'If they _____ me, I would have helped.'",
+      "opcoes": [
+        "a) asked",
+        "b) had asked",
+        "c) would ask",
+        "d) have asked"
+      ],
+      "correta": 1,
+      "explicacao": "Third conditional: if + past perfect."
+    },
+    {
+      "id": 31,
+      "pergunta": "Complete: 'If you don't water plants, they _____ .'",
+      "opcoes": [
+        "a) die",
+        "b) will die",
+        "c) would die",
+        "d) died"
+      ],
+      "correta": 0,
+      "explicacao": "Zero conditional: present (general)."
+    },
+    {
+      "id": 32,
+      "pergunta": "Choose the correct: 'I would buy a house if I _____ enough money.'",
+      "opcoes": [
+        "a) have",
+        "b) had",
+        "c) would have",
+        "d) will have"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: if + past (had)."
+    },
+    {
+      "id": 33,
+      "pergunta": "Complete: 'If she had told me, I _____ known.'",
+      "opcoes": [
+        "a) would have",
+        "b) will have",
+        "c) have",
+        "d) had"
+      ],
+      "correta": 0,
+      "explicacao": "Third conditional: would have + past participle."
+    },
+    {
+      "id": 34,
+      "pergunta": "Complete: 'If it rains later, we _____ inside.'",
+      "opcoes": [
+        "a) will stay",
+        "b) would stay",
+        "c) stay",
+        "d) stayed"
+      ],
+      "correta": 0,
+      "explicacao": "First conditional: will + verb."
+    },
+    {
+      "id": 35,
+      "pergunta": "Choose the correct: 'I wish I _____ harder in school.'",
+      "opcoes": [
+        "a) studied",
+        "b) had studied",
+        "c) would study",
+        "d) study"
+      ],
+      "correta": 1,
+      "explicacao": "Wish about past: wish + past perfect."
+    },
+    {
+      "id": 36,
+      "pergunta": "Complete: 'If he _____ here, he would help us.'",
+      "opcoes": [
+        "a) is",
+        "b) were",
+        "c) was",
+        "d) had been"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: were."
+    },
+    {
+      "id": 37,
+      "pergunta": "Complete: 'If you had told me earlier, I _____ something.'",
+      "opcoes": [
+        "a) would do",
+        "b) would have done",
+        "c) will do",
+        "d) do"
+      ],
+      "correta": 1,
+      "explicacao": "Third conditional: would have done."
+    },
+    {
+      "id": 38,
+      "pergunta": "Choose the correct: 'If I _____ you, I would say sorry.'",
+      "opcoes": [
+        "a) am",
+        "b) were",
+        "c) was",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "Were for unreal."
+    },
+    {
+      "id": 39,
+      "pergunta": "Complete: 'If she had time, she _____ with us.'",
+      "opcoes": [
+        "a) would come",
+        "b) will come",
+        "c) comes",
+        "d) came"
+      ],
+      "correta": 0,
+      "explicacao": "Second conditional: would + verb."
+    },
+    {
+      "id": 40,
+      "pergunta": "Complete: 'If we had left earlier, we _____ late now.'",
+      "opcoes": [
+        "a) wouldn't be",
+        "b) wouldn't have been",
+        "c) aren't",
+        "d) won't be"
+      ],
+      "correta": 0,
+      "explicacao": "Mixed conditional: past perfect + wouldn't + present."
+    },
+    {
+      "id": 41,
+      "pergunta": "Choose the correct: 'If you mix oil and water, they _____ separate.'",
+      "opcoes": [
+        "a) will",
+        "b) would",
+        "c) do",
+        "d) did"
+      ],
+      "correta": 0,
+      "explicacao": "Zero/first: will separate or separate. Both possible. Here 'will' is fine."
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: 'If he _____ a doctor, he would help people.'",
+      "opcoes": [
+        "a) is",
+        "b) were",
+        "c) was",
+        "d) had been"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: were."
+    },
+    {
+      "id": 43,
+      "pergunta": "Complete: 'I would have called you if I _____ your number.'",
+      "opcoes": [
+        "a) had",
+        "b) had had",
+        "c) have",
+        "d) would have"
+      ],
+      "correta": 1,
+      "explicacao": "Third conditional: if + past perfect (had had)."
+    },
+    {
+      "id": 44,
+      "pergunta": "Choose the correct: 'If you study, you _____ pass.'",
+      "opcoes": [
+        "a) will",
+        "b) would",
+        "c) had",
+        "d) have"
+      ],
+      "correta": 0,
+      "explicacao": "First conditional: will pass."
+    },
+    {
+      "id": 45,
+      "pergunta": "Complete: 'If they had won the lottery, they _____ rich.'",
+      "opcoes": [
+        "a) would be",
+        "b) would have been",
+        "c) will be",
+        "d) are"
+      ],
+      "correta": 1,
+      "explicacao": "Third conditional: would have been (past result)."
+    },
+    {
+      "id": 46,
+      "pergunta": "Complete: 'If I _____ you, I would accept the job.'",
+      "opcoes": [
+        "a) am",
+        "b) were",
+        "c) was",
+        "d) be"
+      ],
+      "correta": 1,
+      "explicacao": "Were."
+    },
+    {
+      "id": 47,
+      "pergunta": "Choose the correct: 'If it _____ tomorrow, we'll cancel the picnic.'",
+      "opcoes": [
+        "a) rains",
+        "b) will rain",
+        "c) rained",
+        "d) would rain"
+      ],
+      "correta": 0,
+      "explicacao": "First conditional: present tense in if-clause."
+    },
+    {
+      "id": 48,
+      "pergunta": "Complete: 'She would be happier if she _____ a better job.'",
+      "opcoes": [
+        "a) has",
+        "b) had",
+        "c) would have",
+        "d) have"
+      ],
+      "correta": 1,
+      "explicacao": "Second conditional: if + past (had)."
+    },
+    {
+      "id": 49,
+      "pergunta": "Complete: 'If we had known, we _____ come earlier.'",
+      "opcoes": [
+        "a) would have",
+        "b) will have",
+        "c) have",
+        "d) had"
+      ],
+      "correta": 0,
+      "explicacao": "Third conditional: would have + past participle."
+    },
+    {
+      "id": 50,
+      "pergunta": "Choose the correct: 'I wish I _____ more time to relax.'",
+      "opcoes": [
+        "a) have",
+        "b) had",
+        "c) would have",
+        "d) have had"
+      ],
+      "correta": 1,
+      "explicacao": "Wish about present: wish + past simple."
+    }
+  ]
+}
