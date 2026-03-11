@@ -1,1 +1,367 @@
-
+{
+  "materia": "Verbos",
+  "nivel": 2,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Na frase 'Eu estudo todos os dias', o verbo está no:",
+      "opcoes": [
+        "a) presente do indicativo",
+        "b) pretérito perfeito",
+        "c) futuro do presente",
+        "d) pretérito imperfeito"
+      ],
+      "correta": 0,
+      "explicacao": "'estudo' indica ação habitual no presente."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual é o tempo verbal de 'cantávamos'?",
+      "opcoes": [
+        "a) presente",
+        "b) pretérito imperfeito",
+        "c) pretérito perfeito",
+        "d) futuro do pretérito"
+      ],
+      "correta": 1,
+      "explicacao": "Terminação '-va' indica pretérito imperfeito."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em 'Quando eu chegar, ligarei', 'chegar' está no:",
+      "opcoes": [
+        "a) infinitivo",
+        "b) futuro do subjuntivo",
+        "c) presente do subjuntivo",
+        "d) futuro do presente"
+      ],
+      "correta": 1,
+      "explicacao": "'chegar' no futuro do subjuntivo."
+    },
+    {
+      "id": 4,
+      "pergunta": "O verbo 'ser' no pretérito perfeito (eu) é:",
+      "opcoes": [
+        "a) sou",
+        "b) era",
+        "c) fui",
+        "d) serei"
+      ],
+      "correta": 2,
+      "explicacao": "Pretérito perfeito: eu fui."
+    },
+    {
+      "id": 5,
+      "pergunta": "A forma nominal 'estudando' é:",
+      "opcoes": [
+        "a) infinitivo",
+        "b) gerúndio",
+        "c) particípio",
+        "d) imperativo"
+      ],
+      "correta": 1,
+      "explicacao": "Gerúndio: estudando."
+    },
+    {
+      "id": 6,
+      "pergunta": "Em 'Tenho estudado muito', temos:",
+      "opcoes": [
+        "a) pretérito perfeito simples",
+        "b) pretérito perfeito composto",
+        "c) futuro do presente",
+        "d) presente do indicativo"
+      ],
+      "correta": 1,
+      "explicacao": "'tenho estudado' é locução verbal (pretérito perfeito composto)."
+    },
+    {
+      "id": 7,
+      "pergunta": "O modo verbal que expressa ordem ou pedido é:",
+      "opcoes": [
+        "a) indicativo",
+        "b) subjuntivo",
+        "c) imperativo",
+        "d) infinitivo"
+      ],
+      "correta": 2,
+      "explicacao": "Imperativo: Estude! Faça!"
+    },
+    {
+      "id": 8,
+      "pergunta": "Na frase 'Talvez ele chegue tarde', o verbo está no:",
+      "opcoes": [
+        "a) indicativo",
+        "b) subjuntivo",
+        "c) imperativo",
+        "d) infinitivo"
+      ],
+      "correta": 1,
+      "explicacao": "'chegue' (presente do subjuntivo) indica dúvida."
+    },
+    {
+      "id": 9,
+      "pergunta": "O particípio do verbo 'abrir' é:",
+      "opcoes": [
+        "a) abrido",
+        "b) aberto",
+        "c) abrindo",
+        "d) abrir"
+      ],
+      "correta": 1,
+      "explicacao": "Particípio irregular: aberto."
+    },
+    {
+      "id": 10,
+      "pergunta": "Em 'Ela estava feliz', o verbo 'estava' está no:",
+      "opcoes": [
+        "a) presente",
+        "b) pretérito imperfeito",
+        "c) pretérito perfeito",
+        "d) futuro do pretérito"
+      ],
+      "correta": 1,
+      "explicacao": "Pretérito imperfeito do indicativo."
+    },
+    {
+      "id": 11,
+      "pergunta": "O futuro do presente do verbo 'fazer' (eles) é:",
+      "opcoes": [
+        "a) fazem",
+        "b) farão",
+        "c) fizeram",
+        "d) fariam"
+      ],
+      "correta": 1,
+      "explicacao": "futuro do presente: eles farão."
+    },
+    {
+      "id": 12,
+      "pergunta": "O verbo 'pôr' é da:",
+      "opcoes": [
+        "a) 1ª conjugação",
+        "b) 2ª conjugação",
+        "c) 3ª conjugação",
+        "d) conjugação especial"
+      ],
+      "correta": 1,
+      "explicacao": "Verbo 'pôr' é da 2ª conjugação (terminação -or, mas classificado como 2ª)."
+    },
+    {
+      "id": 13,
+      "pergunta": "Em 'Se eu pudesse, viajaria', o verbo 'pudesse' está no:",
+      "opcoes": [
+        "a) pretérito imperfeito do subjuntivo",
+        "b) pretérito perfeito do indicativo",
+        "c) futuro do subjuntivo",
+        "d) presente do subjuntivo"
+      ],
+      "correta": 0,
+      "explicacao": "Pretérito imperfeito do subjuntivo."
+    },
+    {
+      "id": 14,
+      "pergunta": "O imperativo afirmativo de 'vir' (tu) é:",
+      "opcoes": [
+        "a) vem",
+        "b) vens",
+        "c) venha",
+        "d) vinde"
+      ],
+      "correta": 0,
+      "explicacao": "Imperativo: tu vem."
+    },
+    {
+      "id": 15,
+      "pergunta": "A forma nominal 'comprado' é:",
+      "opcoes": [
+        "a) infinitivo",
+        "b) gerúndio",
+        "c) particípio",
+        "d) imperativo"
+      ],
+      "correta": 2,
+      "explicacao": "Particípio do verbo comprar."
+    },
+    {
+      "id": 16,
+      "pergunta": "Em 'Quando você sair, avise', 'sair' está no:",
+      "opcoes": [
+        "a) presente do subjuntivo",
+        "b) futuro do subjuntivo",
+        "c) infinitivo pessoal",
+        "d) futuro do presente"
+      ],
+      "correta": 1,
+      "explicacao": "Futuro do subjuntivo."
+    },
+    {
+      "id": 17,
+      "pergunta": "O verbo 'haver' no sentido de existir é:",
+      "opcoes": [
+        "a) pessoal",
+        "b) impessoal",
+        "c) reflexivo",
+        "d) transitivo"
+      ],
+      "correta": 1,
+      "explicacao": "'Há' = existe, é impessoal (não tem sujeito)."
+    },
+    {
+      "id": 18,
+      "pergunta": "Na frase 'Choveu muito', o verbo é:",
+      "opcoes": [
+        "a) pessoal",
+        "b) impessoal",
+        "c) reflexivo",
+        "d) transitivo"
+      ],
+      "correta": 1,
+      "explicacao": "Verbos que indicam fenômenos da natureza são impessoais."
+    },
+    {
+      "id": 19,
+      "pergunta": "O pretérito mais-que-perfeito de 'fazer' (ele) é:",
+      "opcoes": [
+        "a) fez",
+        "b) fizera",
+        "c) faria",
+        "d) tinha feito"
+      ],
+      "correta": 1,
+      "explicacao": "Mais-que-perfeito simples: ele fizera."
+    },
+    {
+      "id": 20,
+      "pergunta": "Em 'Eles tinham saído', a locução verbal indica:",
+      "opcoes": [
+        "a) pretérito perfeito",
+        "b) pretérito mais-que-perfeito composto",
+        "c) futuro do presente composto",
+        "d) presente"
+      ],
+      "correta": 1,
+      "explicacao": "'tinham saído' = mais-que-perfeito composto."
+    },
+    {
+      "id": 21,
+      "pergunta": "O verbo 'caber' no presente do indicativo (eu) é:",
+      "opcoes": [
+        "a) cabo",
+        "b) caibo",
+        "c) cabe",
+        "d) coube"
+      ],
+      "correta": 1,
+      "explicacao": "eu caibo."
+    },
+    {
+      "id": 22,
+      "pergunta": "Em 'Precisa-se de ajudantes', o 'se' indica:",
+      "opcoes": [
+        "a) reflexividade",
+        "b) reciprocidade",
+        "c) indeterminação do sujeito",
+        "d) partícula apassivadora"
+      ],
+      "correta": 2,
+      "explicacao": "Índice de indeterminação do sujeito."
+    },
+    {
+      "id": 23,
+      "pergunta": "O verbo 'vir' no pretérito perfeito (eu) é:",
+      "opcoes": [
+        "a) vim",
+        "b) vinha",
+        "c) virei",
+        "d) viera"
+      ],
+      "correta": 0,
+      "explicacao": "Pretérito perfeito: eu vim."
+    },
+    {
+      "id": 24,
+      "pergunta": "Na frase 'Deixe-o entrar', o verbo 'entrar' está no:",
+      "opcoes": [
+        "a) infinitivo",
+        "b) gerúndio",
+        "c) particípio",
+        "d) imperativo"
+      ],
+      "correta": 0,
+      "explicacao": "Infinitivo impessoal."
+    },
+    {
+      "id": 25,
+      "pergunta": "O futuro do pretérito de 'saber' (eles) é:",
+      "opcoes": [
+        "a) saberão",
+        "b) saberiam",
+        "c) souberam",
+        "d) sabiam"
+      ],
+      "correta": 1,
+      "explicacao": "Futuro do pretérito: eles saberiam."
+    },
+    {
+      "id": 26,
+      "pergunta": "Em 'Quando você vier, conversaremos', 'vier' é:",
+      "opcoes": [
+        "a) futuro do presente",
+        "b) futuro do subjuntivo",
+        "c) pretérito imperfeito do subjuntivo",
+        "d) presente do subjuntivo"
+      ],
+      "correta": 1,
+      "explicacao": "Futuro do subjuntivo do verbo 'vir'."
+    },
+    {
+      "id": 27,
+      "pergunta": "O particípio de 'ganhar' é:",
+      "opcoes": [
+        "a) ganhado",
+        "b) ganho",
+        "c) ambas são aceitas",
+        "d) nenhuma"
+      ],
+      "correta": 2,
+      "explicacao": "Ganhado e ganho são particípios duplos aceitos."
+    },
+    {
+      "id": 28,
+      "pergunta": "Em 'Ela se machucou', o verbo é:",
+      "opcoes": [
+        "a) transitivo direto",
+        "b) transitivo indireto",
+        "c) reflexivo",
+        "d) intransitivo"
+      ],
+      "correta": 2,
+      "explicacao": "Verbo reflexivo: a ação recai sobre o sujeito."
+    },
+    {
+      "id": 29,
+      "pergunta": "O verbo 'poder' no presente do indicativo (eu) é:",
+      "opcoes": [
+        "a) posso",
+        "b) pude",
+        "c) podia",
+        "d) pudesse"
+      ],
+      "correta": 0,
+      "explicacao": "Presente: eu posso."
+    },
+    {
+      "id": 30,
+      "pergunta": "Na frase 'Faz cinco anos que não o vejo', o verbo 'faz' é:",
+      "opcoes": [
+        "a) pessoal",
+        "b) impessoal (invariável)",
+        "c) reflexivo",
+        "d) transitivo"
+      ],
+      "correta": 1,
+      "explicacao": "'Faz' indicando tempo decorrido é impessoal, fica no singular."
+    }
+  ]
+}
