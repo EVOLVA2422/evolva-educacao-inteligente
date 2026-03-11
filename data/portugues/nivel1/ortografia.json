@@ -1,1 +1,127 @@
-
+{
+  "materia": "Ortografia",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Complete a frase com a palavra correta: 'O _____ do bolo estava delicioso'.",
+      "opcoes": [
+        "a) sabor",
+        "b) sabor",
+        "c) savo",
+        "d) çabor"
+      ],
+      "correta": 0,
+      "explicacao": "A forma correta é 'sabor' com S."
+    },
+    {
+      "id": 2,
+      "pergunta": "Assinale a alternativa com a palavra escrita corretamente:",
+      "opcoes": [
+        "a) exceção",
+        "b) excessão",
+        "c) exceção",
+        "d) esceção"
+      ],
+      "correta": 2,
+      "explicacao": "Exceção é escrito com 'ç' e não 'ss'."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual palavra está escrita corretamente?",
+      "opcoes": [
+        "a) paralisar",
+        "b) paralizar",
+        "c) paralisar",
+        "d) paralissar"
+      ],
+      "correta": 0,
+      "explicacao": "Paralisar é escrito com S (derivado de paralisia)."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete: 'Ele tem _____ de altura'.",
+      "opcoes": [
+        "a) cera de",
+        "b) sera de",
+        "c) cerca de",
+        "d) serca de"
+      ],
+      "correta": 2,
+      "explicacao": "Cerca de indica aproximadamente."
+    },
+    {
+      "id": 5,
+      "pergunta": "Assinale a palavra com G (não J):",
+      "opcoes": [
+        "a) viagem",
+        "b) jiboia",
+        "c) canjica",
+        "d) jeito"
+      ],
+      "correta": 0,
+      "explicacao": "Viagem (com G) é substantivo; viajem (com J) é verbo."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual palavra é escrita com S, não com Z?",
+      "opcoes": [
+        "a) análise",
+        "b) analize",
+        "c) paralize",
+        "d) realizer"
+      ],
+      "correta": 0,
+      "explicacao": "Análise é escrito com S."
+    },
+    {
+      "id": 7,
+      "pergunta": "Complete: 'Ele _____ o presente'.",
+      "opcoes": [
+        "a) ganho",
+        "b) ganho",
+        "c) ganho",
+        "d) ganhou"
+      ],
+      "correta": 3,
+      "explicacao": "Ganhou (passado) concorda com o sujeito."
+    },
+    {
+      "id": 8,
+      "pergunta": "Assinale a palavra com CH (não X):",
+      "opcoes": [
+        "a) enxada",
+        "b) enchente",
+        "c) enxame",
+        "d) enxoval"
+      ],
+      "correta": 1,
+      "explicacao": "Enchente é com CH; as demais são com X."
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual palavra está escrita corretamente?",
+      "opcoes": [
+        "a) assessor",
+        "b) asessor",
+        "c) acessor",
+        "d) assessor"
+      ],
+      "correta": 0,
+      "explicacao": "Assessor tem SS."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'Vou _____ à escola'.",
+      "opcoes": [
+        "a) a",
+        "b) à",
+        "c) há",
+        "d) ah"
+      ],
+      "correta": 1,
+      "explicacao": "À (crase) = a (preposição) + a (artigo)."
+    }
+  ]
+}
