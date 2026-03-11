@@ -1,1 +1,367 @@
-
+{
+  "materia": "Operações Básicas",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Quanto é 15 + 23?",
+      "opcoes": [
+        "a) 35",
+        "b) 38",
+        "c) 40",
+        "d) 42"
+      ],
+      "correta": 1,
+      "explicacao": "15 + 23 = 38."
+    },
+    {
+      "id": 2,
+      "pergunta": "Quanto é 48 - 19?",
+      "opcoes": [
+        "a) 27",
+        "b) 29",
+        "c) 31",
+        "d) 33"
+      ],
+      "correta": 1,
+      "explicacao": "48 - 19 = 29."
+    },
+    {
+      "id": 3,
+      "pergunta": "Quanto é 12 × 8?",
+      "opcoes": [
+        "a) 86",
+        "b) 88",
+        "c) 96",
+        "d) 98"
+      ],
+      "correta": 2,
+      "explicacao": "12 × 8 = 96."
+    },
+    {
+      "id": 4,
+      "pergunta": "Quanto é 81 ÷ 9?",
+      "opcoes": [
+        "a) 7",
+        "b) 8",
+        "c) 9",
+        "d) 10"
+      ],
+      "correta": 2,
+      "explicacao": "81 ÷ 9 = 9."
+    },
+    {
+      "id": 5,
+      "pergunta": "Quanto é 25 + 37 - 12?",
+      "opcoes": [
+        "a) 40",
+        "b) 45",
+        "c) 50",
+        "d) 55"
+      ],
+      "correta": 2,
+      "explicacao": "25 + 37 = 62; 62 - 12 = 50."
+    },
+    {
+      "id": 6,
+      "pergunta": "João tinha 15 bolinhas de gude. Ganhou 8 de seu amigo e depois perdeu 5. Com quantas bolinhas ele ficou?",
+      "opcoes": [
+        "a) 18",
+        "b) 20",
+        "c) 22",
+        "d) 24"
+      ],
+      "correta": 0,
+      "explicacao": "15 + 8 = 23; 23 - 5 = 18."
+    },
+    {
+      "id": 7,
+      "pergunta": "Uma caixa de lápis de cor tem 12 unidades. Quantos lápis há em 5 caixas iguais?",
+      "opcoes": [
+        "a) 48",
+        "b) 50",
+        "c) 60",
+        "d) 72"
+      ],
+      "correta": 2,
+      "explicacao": "12 × 5 = 60."
+    },
+    {
+      "id": 8,
+      "pergunta": "Ana tem R$ 50,00. Quer comprar 3 camisetas que custam R$ 12,00 cada. Quanto sobrará de troco?",
+      "opcoes": [
+        "a) R$ 10,00",
+        "b) R$ 12,00",
+        "c) R$ 14,00",
+        "d) R$ 16,00"
+      ],
+      "correta": 2,
+      "explicacao": "3 × 12 = 36; 50 - 36 = 14."
+    },
+    {
+      "id": 9,
+      "pergunta": "Pedro distribuiu igualmente 48 balas entre 6 amigos. Quantas balas cada amigo recebeu?",
+      "opcoes": [
+        "a) 6",
+        "b) 7",
+        "c) 8",
+        "d) 9"
+      ],
+      "correta": 2,
+      "explicacao": "48 ÷ 6 = 8."
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual é o resultado de 7 × 7?",
+      "opcoes": [
+        "a) 42",
+        "b) 49",
+        "c) 56",
+        "d) 63"
+      ],
+      "correta": 1,
+      "explicacao": "7 × 7 = 49."
+    },
+    {
+      "id": 11,
+      "pergunta": "Quanto é 100 - 34?",
+      "opcoes": [
+        "a) 56",
+        "b) 66",
+        "c) 76",
+        "d) 86"
+      ],
+      "correta": 1,
+      "explicacao": "100 - 34 = 66."
+    },
+    {
+      "id": 12,
+      "pergunta": "Se uma dúzia de ovos custa R$ 7,20, quanto custa cada ovo?",
+      "opcoes": [
+        "a) R$ 0,50",
+        "b) R$ 0,60",
+        "c) R$ 0,70",
+        "d) R$ 0,80"
+      ],
+      "correta": 1,
+      "explicacao": "7,20 ÷ 12 = 0,60."
+    },
+    {
+      "id": 13,
+      "pergunta": "O dobro de 15 mais o triplo de 10 é igual a:",
+      "opcoes": [
+        "a) 30",
+        "b) 40",
+        "c) 50",
+        "d) 60"
+      ],
+      "correta": 3,
+      "explicacao": "2 × 15 = 30; 3 × 10 = 30; 30 + 30 = 60."
+    },
+    {
+      "id": 14,
+      "pergunta": "Quanto é 8 × 6?",
+      "opcoes": [
+        "a) 42",
+        "b) 46",
+        "c) 48",
+        "d) 54"
+      ],
+      "correta": 2,
+      "explicacao": "8 × 6 = 48."
+    },
+    {
+      "id": 15,
+      "pergunta": "Quanto é 72 ÷ 8?",
+      "opcoes": [
+        "a) 7",
+        "b) 8",
+        "c) 9",
+        "d) 10"
+      ],
+      "correta": 2,
+      "explicacao": "72 ÷ 8 = 9."
+    },
+    {
+      "id": 16,
+      "pergunta": "Maria tinha R$ 100,00. Gastou R$ 35,00 no mercado e R$ 20,00 na farmácia. Quanto sobrou?",
+      "opcoes": [
+        "a) R$ 35,00",
+        "b) R$ 40,00",
+        "c) R$ 45,00",
+        "d) R$ 50,00"
+      ],
+      "correta": 2,
+      "explicacao": "35 + 20 = 55; 100 - 55 = 45."
+    },
+    {
+      "id": 17,
+      "pergunta": "Em um cinema há 15 fileiras com 12 cadeiras cada. Quantas cadeiras há no total?",
+      "opcoes": [
+        "a) 150",
+        "b) 160",
+        "c) 170",
+        "d) 180"
+      ],
+      "correta": 3,
+      "explicacao": "15 × 12 = 180."
+    },
+    {
+      "id": 18,
+      "pergunta": "Quanto é 9 × 9?",
+      "opcoes": [
+        "a) 72",
+        "b) 81",
+        "c) 90",
+        "d) 99"
+      ],
+      "correta": 1,
+      "explicacao": "9 × 9 = 81."
+    },
+    {
+      "id": 19,
+      "pergunta": "Quanto é 45 + 37?",
+      "opcoes": [
+        "a) 72",
+        "b) 82",
+        "c) 92",
+        "d) 102"
+      ],
+      "correta": 1,
+      "explicacao": "45 + 37 = 82."
+    },
+    {
+      "id": 20,
+      "pergunta": "Quanto é 63 - 28?",
+      "opcoes": [
+        "a) 25",
+        "b) 35",
+        "c) 45",
+        "d) 55"
+      ],
+      "correta": 1,
+      "explicacao": "63 - 28 = 35."
+    },
+    {
+      "id": 21,
+      "pergunta": "Um livro tem 120 páginas. Maria já leu 3/5 do livro. Quantas páginas ela já leu?",
+      "opcoes": [
+        "a) 60",
+        "b) 72",
+        "c) 80",
+        "d) 90"
+      ],
+      "correta": 1,
+      "explicacao": "120 ÷ 5 = 24; 24 × 3 = 72."
+    },
+    {
+      "id": 22,
+      "pergunta": "Quanto é 4 × 12?",
+      "opcoes": [
+        "a) 44",
+        "b) 46",
+        "c) 48",
+        "d) 52"
+      ],
+      "correta": 2,
+      "explicacao": "4 × 12 = 48."
+    },
+    {
+      "id": 23,
+      "pergunta": "Quanto é 99 ÷ 11?",
+      "opcoes": [
+        "a) 7",
+        "b) 8",
+        "c) 9",
+        "d) 10"
+      ],
+      "correta": 2,
+      "explicacao": "99 ÷ 11 = 9."
+    },
+    {
+      "id": 24,
+      "pergunta": "Um pacote de biscoitos tem 24 unidades. Quantos biscoitos há em 4 pacotes?",
+      "opcoes": [
+        "a) 86",
+        "b) 96",
+        "c) 106",
+        "d) 116"
+      ],
+      "correta": 1,
+      "explicacao": "24 × 4 = 96."
+    },
+    {
+      "id": 25,
+      "pergunta": "Quanto é 150 - 75?",
+      "opcoes": [
+        "a) 65",
+        "b) 70",
+        "c) 75",
+        "d) 80"
+      ],
+      "correta": 2,
+      "explicacao": "150 - 75 = 75."
+    },
+    {
+      "id": 26,
+      "pergunta": "Se 5 cadernos custam R$ 45,00, quanto custa cada caderno?",
+      "opcoes": [
+        "a) R$ 7,00",
+        "b) R$ 8,00",
+        "c) R$ 9,00",
+        "d) R$ 10,00"
+      ],
+      "correta": 2,
+      "explicacao": "45 ÷ 5 = 9."
+    },
+    {
+      "id": 27,
+      "pergunta": "Quanto é 7 × 8?",
+      "opcoes": [
+        "a) 54",
+        "b) 56",
+        "c) 58",
+        "d) 62"
+      ],
+      "correta": 1,
+      "explicacao": "7 × 8 = 56."
+    },
+    {
+      "id": 28,
+      "pergunta": "Quanto é 81 - 37?",
+      "opcoes": [
+        "a) 44",
+        "b) 45",
+        "c) 46",
+        "d) 47"
+      ],
+      "correta": 0,
+      "explicacao": "81 - 37 = 44."
+    },
+    {
+      "id": 29,
+      "pergunta": "Um campo de futebol tem 110 metros de comprimento e 75 metros de largura. Qual é o perímetro?",
+      "opcoes": [
+        "a) 185 m",
+        "b) 270 m",
+        "c) 370 m",
+        "d) 470 m"
+      ],
+      "correta": 2,
+      "explicacao": "Perímetro = 2 × (110 + 75) = 2 × 185 = 370 m."
+    },
+    {
+      "id": 30,
+      "pergunta": "Quanto é 12 × 12?",
+      "opcoes": [
+        "a) 124",
+        "b) 134",
+        "c) 144",
+        "d) 154"
+      ],
+      "correta": 2,
+      "explicacao": "12 × 12 = 144."
+    }
+  ]
+}
