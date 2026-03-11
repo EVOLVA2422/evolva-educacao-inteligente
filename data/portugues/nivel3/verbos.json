@@ -1,1 +1,367 @@
-
+{
+  "materia": "Verbos",
+  "nivel": 3,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Na frase 'O livro foi lido por mim', a voz verbal é:",
+      "opcoes": [
+        "a) ativa",
+        "b) passiva analítica",
+        "c) passiva sintética",
+        "d) reflexiva"
+      ],
+      "correta": 1,
+      "explicacao": "Verbo ser + particípio = voz passiva analítica."
+    },
+    {
+      "id": 2,
+      "pergunta": "A forma verbal 'teria estudado' está no:",
+      "opcoes": [
+        "a) futuro do presente composto",
+        "b) futuro do pretérito composto",
+        "c) pretérito mais-que-perfeito composto",
+        "d) pretérito perfeito composto"
+      ],
+      "correta": 1,
+      "explicacao": "Futuro do pretérito composto do indicativo."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em 'Quando ele chegar, avise-me', a forma 'chegar' está no:",
+      "opcoes": [
+        "a) futuro do subjuntivo",
+        "b) presente do subjuntivo",
+        "c) infinitivo pessoal",
+        "d) futuro do presente"
+      ],
+      "correta": 0,
+      "explicacao": "Futuro do subjuntivo (quando ele chegar)."
+    },
+    {
+      "id": 4,
+      "pergunta": "Assinale a alternativa com verbo no pretérito mais-que-perfeito simples:",
+      "opcoes": [
+        "a) Ele tinha estudado.",
+        "b) Ele estudara.",
+        "c) Ele estudava.",
+        "d) Ele estudou."
+      ],
+      "correta": 1,
+      "explicacao": "'estudara' = mais-que-perfeito simples."
+    },
+    {
+      "id": 5,
+      "pergunta": "Na frase 'Ela se penteou', o verbo é:",
+      "opcoes": [
+        "a) reflexivo",
+        "b) recíproco",
+        "c) transitivo direto",
+        "d) intransitivo"
+      ],
+      "correta": 0,
+      "explicacao": "Ação reflete no sujeito."
+    },
+    {
+      "id": 6,
+      "pergunta": "O particípio do verbo 'entregar' é:",
+      "opcoes": [
+        "a) entregue",
+        "b) entregado",
+        "c) ambas são aceitas",
+        "d) entregando"
+      ],
+      "correta": 2,
+      "explicacao": "Verbos abundantes: 'entregue' e 'entregado' são aceitos."
+    },
+    {
+      "id": 7,
+      "pergunta": "Em 'Eles se abraçaram', o 'se' indica:",
+      "opcoes": [
+        "a) reflexividade",
+        "b) reciprocidade",
+        "c) indeterminação",
+        "d) passividade"
+      ],
+      "correta": 1,
+      "explicacao": "Ação mútua (um abraçou o outro)."
+    },
+    {
+      "id": 8,
+      "pergunta": "A forma nominal 'estudando' é:",
+      "opcoes": [
+        "a) infinitivo",
+        "b) gerúndio",
+        "c) particípio",
+        "d) imperativo"
+      ],
+      "correta": 1,
+      "explicacao": "Gerúndio indica ação em andamento."
+    },
+    {
+      "id": 9,
+      "pergunta": "Na frase 'Deixe-o entrar', o verbo 'entrar' está no:",
+      "opcoes": [
+        "a) infinitivo impessoal",
+        "b) infinitivo pessoal",
+        "c) gerúndio",
+        "d) imperativo"
+      ],
+      "correta": 0,
+      "explicacao": "Infinitivo impessoal (sem sujeito definido)."
+    },
+    {
+      "id": 10,
+      "pergunta": "Assinale a opção com verbo defectivo:",
+      "opcoes": [
+        "a) colorir",
+        "b) cantar",
+        "c) vender",
+        "d) partir"
+      ],
+      "correta": 0,
+      "explicacao": "'colorir' não tem todas as formas (ex: 1ª pessoa do presente)."
+    },
+    {
+      "id": 11,
+      "pergunta": "Em 'Precisa-se de funcionários', o verbo é:",
+      "opcoes": [
+        "a) transitivo direto",
+        "b) transitivo indireto",
+        "c) intransitivo",
+        "d) de ligação"
+      ],
+      "correta": 1,
+      "explicacao": "'Precisa' + preposição 'de'."
+    },
+    {
+      "id": 12,
+      "pergunta": "A locução verbal 'vão chegar' equivale a:",
+      "opcoes": [
+        "a) futuro do presente",
+        "b) presente",
+        "c) pretérito perfeito",
+        "d) futuro do pretérito"
+      ],
+      "correta": 0,
+      "explicacao": "Indica ação futura."
+    },
+    {
+      "id": 13,
+      "pergunta": "Na frase 'Caso ele viesse, ficaria contente', a forma 'viesse' está no:",
+      "opcoes": [
+        "a) pretérito imperfeito do subjuntivo",
+        "b) futuro do subjuntivo",
+        "c) pretérito mais-que-perfeito",
+        "d) pretérito perfeito"
+      ],
+      "correta": 0,
+      "explicacao": "Pretérito imperfeito do subjuntivo."
+    },
+    {
+      "id": 14,
+      "pergunta": "O verbo 'pôr' pertence à:",
+      "opcoes": [
+        "a) 1ª conjugação",
+        "b) 2ª conjugação",
+        "c) 3ª conjugação",
+        "d) conjugação especial"
+      ],
+      "correta": 1,
+      "explicacao": "'pôr' é da 2ª conjugação (antigo poer)."
+    },
+    {
+      "id": 15,
+      "pergunta": "Em 'Ele havia chegado cedo', a locução verbal indica:",
+      "opcoes": [
+        "a) pretérito mais-que-perfeito composto",
+        "b) futuro do presente composto",
+        "c) pretérito perfeito composto",
+        "d) futuro do pretérito composto"
+      ],
+      "correta": 0,
+      "explicacao": "Havia + particípio = mais-que-perfeito composto."
+    },
+    {
+      "id": 16,
+      "pergunta": "Assinale a forma correta do imperativo afirmativo do verbo 'ver' para tu:",
+      "opcoes": [
+        "a) vê",
+        "b) vê",
+        "c) veja",
+        "d) vês"
+      ],
+      "correta": 0,
+      "explicacao": "Imperativo: tu vê."
+    },
+    {
+      "id": 17,
+      "pergunta": "Na frase 'Não me importo que ele saia', o verbo 'saia' está no:",
+      "opcoes": [
+        "a) presente do subjuntivo",
+        "b) presente do indicativo",
+        "c) imperativo",
+        "d) pretérito imperfeito"
+      ],
+      "correta": 0,
+      "explicacao": "Presente do subjuntivo (que ele saia)."
+    },
+    {
+      "id": 18,
+      "pergunta": "O verbo 'querer' no pretérito perfeito (ele) é:",
+      "opcoes": [
+        "a) queria",
+        "b) quis",
+        "c) quererá",
+        "d) quereria"
+      ],
+      "correta": 1,
+      "explicacao": "Pretérito perfeito: ele quis."
+    },
+    {
+      "id": 19,
+      "pergunta": "Em 'Choveu muito ontem', o verbo é:",
+      "opcoes": [
+        "a) impessoal",
+        "b) pessoal",
+        "c) reflexivo",
+        "d) transitivo"
+      ],
+      "correta": 0,
+      "explicacao": "Verbo que indica fenômeno da natureza, sem sujeito."
+    },
+    {
+      "id": 20,
+      "pergunta": "A forma 'estudarmos' (ex: 'É importante estudarmos') é:",
+      "opcoes": [
+        "a) infinitivo pessoal",
+        "b) infinitivo impessoal",
+        "c) gerúndio",
+        "d) futuro do subjuntivo"
+      ],
+      "correta": 0,
+      "explicacao": "Infinitivo flexionado (pessoal)."
+    },
+    {
+      "id": 21,
+      "pergunta": "Na frase 'Ela foi elogiada por todos', a voz é passiva. O agente da passiva é:",
+      "opcoes": [
+        "a) ela",
+        "b) foi elogiada",
+        "c) por todos",
+        "d) todos"
+      ],
+      "correta": 2,
+      "explicacao": "'por todos' indica quem praticou a ação."
+    },
+    {
+      "id": 22,
+      "pergunta": "Assinale a opção com verbo anômalo:",
+      "opcoes": [
+        "a) ser",
+        "b) partir",
+        "c) vender",
+        "d) cantar"
+      ],
+      "correta": 0,
+      "explicacao": "'ser' é verbo anômalo (irregularidade profunda)."
+    },
+    {
+      "id": 23,
+      "pergunta": "Em 'Ele tinha saído quando você chegou', a ação de sair é:",
+      "opcoes": [
+        "a) anterior à chegada",
+        "b) posterior à chegada",
+        "c) simultânea",
+        "d) futura"
+      ],
+      "correta": 0,
+      "explicacao": "Mais-que-perfeito composto indica ação anterior."
+    },
+    {
+      "id": 24,
+      "pergunta": "O verbo 'caber' no presente do indicativo (eu) é:",
+      "opcoes": [
+        "a) caibo",
+        "b) cabo",
+        "c) cabe",
+        "d) coube"
+      ],
+      "correta": 0,
+      "explicacao": "eu caibo."
+    },
+    {
+      "id": 25,
+      "pergunta": "Na frase 'Faz anos que não o vejo', o verbo 'faz' é:",
+      "opcoes": [
+        "a) pessoal e concorda com 'anos'",
+        "b) impessoal e fica no singular",
+        "c) transitivo direto",
+        "d) de ligação"
+      ],
+      "correta": 1,
+      "explicacao": "'Faz' indicando tempo decorrido é impessoal."
+    },
+    {
+      "id": 26,
+      "pergunta": "Assinale a forma de particípio irregular:",
+      "opcoes": [
+        "a) aceitado",
+        "b) entregue",
+        "c) vendido",
+        "d) partido"
+      ],
+      "correta": 1,
+      "explicacao": "'entregue' é forma irregular ao lado de 'entregado'."
+    },
+    {
+      "id": 27,
+      "pergunta": "Em 'Eles se olharam no espelho', o verbo é:",
+      "opcoes": [
+        "a) reflexivo",
+        "b) recíproco",
+        "c) intransitivo",
+        "d) transitivo direto"
+      ],
+      "correta": 0,
+      "explicacao": "Cada um olha a si mesmo."
+    },
+    {
+      "id": 28,
+      "pergunta": "O futuro do presente do verbo 'dizer' (eles) é:",
+      "opcoes": [
+        "a) dirão",
+        "b) disseram",
+        "c) diziam",
+        "d) diriam"
+      ],
+      "correta": 0,
+      "explicacao": "Futuro do presente: eles dirão."
+    },
+    {
+      "id": 29,
+      "pergunta": "Na frase 'É proibido entrada', o verbo 'é' concorda com:",
+      "opcoes": [
+        "a) entrada",
+        "b) proibido",
+        "c) sujeito inexistente",
+        "d) ideia de proibição"
+      ],
+      "correta": 2,
+      "explicacao": "Oração sem sujeito, verbo impessoal."
+    },
+    {
+      "id": 30,
+      "pergunta": "Assinale a opção em que o verbo está na voz reflexiva recíproca:",
+      "opcoes": [
+        "a) Eles se machucaram.",
+        "b) Eles se abraçaram.",
+        "c) Ela se penteou.",
+        "d) Eu me cortei."
+      ],
+      "correta": 1,
+      "explicacao": "Ação mútua (um abraçou o outro)."
+    }
+  ]
+}
