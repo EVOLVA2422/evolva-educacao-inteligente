@@ -1,1 +1,367 @@
-
+{
+  "materia": "Geometria",
+  "nivel": 4,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "A área de um quadrado de lado 5 cm é:",
+      "opcoes": [
+        "a) 10 cm²",
+        "b) 15 cm²",
+        "c) 20 cm²",
+        "d) 25 cm²"
+      ],
+      "correta": 3,
+      "explicacao": "Área = lado² = 5² = 25 cm²."
+    },
+    {
+      "id": 2,
+      "pergunta": "O perímetro de um retângulo de base 8 cm e altura 5 cm é:",
+      "opcoes": [
+        "a) 13 cm",
+        "b) 16 cm",
+        "c) 26 cm",
+        "d) 40 cm"
+      ],
+      "correta": 2,
+      "explicacao": "Perímetro = 2×(base+altura) = 2×(8+5) = 2×13 = 26 cm."
+    },
+    {
+      "id": 3,
+      "pergunta": "A área de um triângulo de base 10 cm e altura 6 cm é:",
+      "opcoes": [
+        "a) 16 cm²",
+        "b) 30 cm²",
+        "c) 60 cm²",
+        "d) 120 cm²"
+      ],
+      "correta": 1,
+      "explicacao": "Área = (base×altura)/2 = (10×6)/2 = 60/2 = 30 cm²."
+    },
+    {
+      "id": 4,
+      "pergunta": "O comprimento de uma circunferência de raio 3 cm é (use π = 3,14):",
+      "opcoes": [
+        "a) 9,42 cm",
+        "b) 18,84 cm",
+        "c) 28,26 cm",
+        "d) 37,68 cm"
+      ],
+      "correta": 1,
+      "explicacao": "C = 2πr = 2×3,14×3 = 18,84 cm."
+    },
+    {
+      "id": 5,
+      "pergunta": "A área de um círculo de raio 4 cm é (use π = 3,14):",
+      "opcoes": [
+        "a) 12,56 cm²",
+        "b) 25,12 cm²",
+        "c) 50,24 cm²",
+        "d) 100,48 cm²"
+      ],
+      "correta": 2,
+      "explicacao": "A = πr² = 3,14 × 16 = 50,24 cm²."
+    },
+    {
+      "id": 6,
+      "pergunta": "O volume de um cubo de aresta 3 cm é:",
+      "opcoes": [
+        "a) 9 cm³",
+        "b) 18 cm³",
+        "c) 27 cm³",
+        "d) 36 cm³"
+      ],
+      "correta": 2,
+      "explicacao": "V = a³ = 3³ = 27 cm³."
+    },
+    {
+      "id": 7,
+      "pergunta": "O volume de um paralelepípedo de dimensões 2 cm, 3 cm e 5 cm é:",
+      "opcoes": [
+        "a) 10 cm³",
+        "b) 15 cm³",
+        "c) 20 cm³",
+        "d) 30 cm³"
+      ],
+      "correta": 3,
+      "explicacao": "V = 2×3×5 = 30 cm³."
+    },
+    {
+      "id": 8,
+      "pergunta": "A hipotenusa de um triângulo retângulo com catetos 3 e 4 é:",
+      "opcoes": [
+        "a) 5",
+        "b) 6",
+        "c) 7",
+        "d) 8"
+      ],
+      "correta": 0,
+      "explicacao": "Pitágoras: h² = 3² + 4² = 9+16=25 → h=5."
+    },
+    {
+      "id": 9,
+      "pergunta": "O seno de 30° vale:",
+      "opcoes": [
+        "a) 1/2",
+        "b) √2/2",
+        "c) √3/2",
+        "d) 1"
+      ],
+      "correta": 0,
+      "explicacao": "sen30° = 1/2."
+    },
+    {
+      "id": 10,
+      "pergunta": "O cosseno de 60° vale:",
+      "opcoes": [
+        "a) 1/2",
+        "b) √2/2",
+        "c) √3/2",
+        "d) 1"
+      ],
+      "correta": 0,
+      "explicacao": "cos60° = 1/2."
+    },
+    {
+      "id": 11,
+      "pergunta": "A tangente de 45° vale:",
+      "opcoes": [
+        "a) 0",
+        "b) 1/2",
+        "c) 1",
+        "d) √3"
+      ],
+      "correta": 2,
+      "explicacao": "tg45° = 1."
+    },
+    {
+      "id": 12,
+      "pergunta": "Em um triângulo retângulo, se um cateto mede 6 e a hipotenusa 10, o outro cateto mede:",
+      "opcoes": [
+        "a) 6",
+        "b) 7",
+        "c) 8",
+        "d) 9"
+      ],
+      "correta": 2,
+      "explicacao": "10² = 6² + x² → 100 = 36 + x² → x² = 64 → x=8."
+    },
+    {
+      "id": 13,
+      "pergunta": "A área de um losango com diagonais 8 e 6 é:",
+      "opcoes": [
+        "a) 12",
+        "b) 24",
+        "c) 36",
+        "d) 48"
+      ],
+      "correta": 1,
+      "explicacao": "A = (D×d)/2 = (8×6)/2 = 48/2 = 24."
+    },
+    {
+      "id": 14,
+      "pergunta": "O volume de uma esfera de raio 3 cm é (use π = 3):",
+      "opcoes": [
+        "a) 18 cm³",
+        "b) 27 cm³",
+        "c) 36 cm³",
+        "d) 108 cm³"
+      ],
+      "correta": 2,
+      "explicacao": "V = (4/3)πr³ = (4/3)×3×27 = 4×27 = 108 cm³."
+    },
+    {
+      "id": 15,
+      "pergunta": "A área lateral de um cilindro de raio 2 e altura 5 é (use π = 3):",
+      "opcoes": [
+        "a) 30",
+        "b) 40",
+        "c) 50",
+        "d) 60"
+      ],
+      "correta": 3,
+      "explicacao": "Al = 2πrh = 2×3×2×5 = 60."
+    },
+    {
+      "id": 16,
+      "pergunta": "O volume de um cone de raio 3 e altura 6 é (use π = 3):",
+      "opcoes": [
+        "a) 18",
+        "b) 27",
+        "c) 54",
+        "d) 108"
+      ],
+      "correta": 2,
+      "explicacao": "V = (1/3)πr²h = (1/3)×3×9×6 = (1/3)×162 = 54."
+    },
+    {
+      "id": 17,
+      "pergunta": "A soma dos ângulos internos de um triângulo é:",
+      "opcoes": [
+        "a) 90°",
+        "b) 180°",
+        "c) 270°",
+        "d) 360°"
+      ],
+      "correta": 1,
+      "explicacao": "Sempre 180°."
+    },
+    {
+      "id": 18,
+      "pergunta": "A soma dos ângulos internos de um quadrilátero é:",
+      "opcoes": [
+        "a) 180°",
+        "b) 270°",
+        "c) 360°",
+        "d) 540°"
+      ],
+      "correta": 2,
+      "explicacao": "S = (n-2)×180° = (4-2)×180° = 2×180° = 360°."
+    },
+    {
+      "id": 19,
+      "pergunta": "O número de diagonais de um hexágono (6 lados) é:",
+      "opcoes": [
+        "a) 6",
+        "b) 7",
+        "c) 8",
+        "d) 9"
+      ],
+      "correta": 3,
+      "explicacao": "d = n(n-3)/2 = 6×3/2 = 9."
+    },
+    {
+      "id": 20,
+      "pergunta": "A área de um trapézio com bases 6 e 10 e altura 4 é:",
+      "opcoes": [
+        "a) 16",
+        "b) 24",
+        "c) 32",
+        "d) 40"
+      ],
+      "correta": 2,
+      "explicacao": "A = (B+b)×h/2 = (10+6)×4/2 = 16×2 = 32."
+    },
+    {
+      "id": 21,
+      "pergunta": "O teorema de Pitágoras é válido para:",
+      "opcoes": [
+        "a) qualquer triângulo",
+        "b) triângulo isósceles",
+        "c) triângulo retângulo",
+        "d) triângulo equilátero"
+      ],
+      "correta": 2,
+      "explicacao": "Só para triângulos retângulos."
+    },
+    {
+      "id": 22,
+      "pergunta": "A distância entre os pontos A(1,2) e B(4,6) é:",
+      "opcoes": [
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) 6"
+      ],
+      "correta": 2,
+      "explicacao": "d = √[(4-1)² + (6-2)²] = √(3²+4²) = √25 = 5."
+    },
+    {
+      "id": 23,
+      "pergunta": "O ponto médio do segmento de extremidades (2,5) e (6,1) é:",
+      "opcoes": [
+        "a) (4,3)",
+        "b) (4,2)",
+        "c) (3,4)",
+        "d) (2,4)"
+      ],
+      "correta": 0,
+      "explicacao": "M = ((2+6)/2, (5+1)/2) = (8/2, 6/2) = (4,3)."
+    },
+    {
+      "id": 24,
+      "pergunta": "A equação da circunferência com centro (0,0) e raio 3 é:",
+      "opcoes": [
+        "a) x² + y² = 3",
+        "b) x² + y² = 6",
+        "c) x² + y² = 9",
+        "d) x² + y² = 12"
+      ],
+      "correta": 2,
+      "explicacao": "r² = 3² = 9."
+    },
+    {
+      "id": 25,
+      "pergunta": "A inclinação (coeficiente angular) da reta que passa por (0,0) e (2,4) é:",
+      "opcoes": [
+        "a) 1",
+        "b) 2",
+        "c) 3",
+        "d) 4"
+      ],
+      "correta": 1,
+      "explicacao": "m = (4-0)/(2-0) = 4/2 = 2."
+    },
+    {
+      "id": 26,
+      "pergunta": "O volume de uma pirâmide de base quadrada de lado 4 e altura 6 é:",
+      "opcoes": [
+        "a) 16",
+        "b) 24",
+        "c) 32",
+        "d) 48"
+      ],
+      "correta": 2,
+      "explicacao": "V = (1/3) × área base × altura = (1/3) × 16 × 6 = 96/3 = 32."
+    },
+    {
+      "id": 27,
+      "pergunta": "A área de um hexágono regular de lado 2 é (aprox):",
+      "opcoes": [
+        "a) 6√3",
+        "b) 8√3",
+        "c) 10√3",
+        "d) 12√3"
+      ],
+      "correta": 2,
+      "explicacao": "A = (3√3/2) × l² = (3√3/2)×4 = 6√3."
+    },
+    {
+      "id": 28,
+      "pergunta": "O perímetro de um círculo de diâmetro 10 é (use π=3,14):",
+      "opcoes": [
+        "a) 15,7",
+        "b) 31,4",
+        "c) 47,1",
+        "d) 62,8"
+      ],
+      "correta": 1,
+      "explicacao": "C = πd = 3,14×10 = 31,4."
+    },
+    {
+      "id": 29,
+      "pergunta": "A área de um setor circular de 90° em um círculo de raio 4 é (use π=3):",
+      "opcoes": [
+        "a) 4",
+        "b) 8",
+        "c) 12",
+        "d) 16"
+      ],
+      "correta": 2,
+      "explicacao": "Área do círculo = πr² = 3×16 = 48; setor 90° = 1/4 da área = 12."
+    },
+    {
+      "id": 30,
+      "pergunta": "O volume de um prisma de base triangular (triângulo retângulo de catetos 3 e 4) e altura 10 é:",
+      "opcoes": [
+        "a) 30",
+        "b) 40",
+        "c) 50",
+        "d) 60"
+      ],
+      "correta": 3,
+      "explicacao": "Área base = (3×4)/2 = 6; V = 6×10 = 60."
+    }
+  ]
+}
