@@ -1,1 +1,607 @@
-
+{
+  "materia": "Present Tenses",
+  "nivel": 2,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Complete with the correct form of the present simple: 'She _____ (work) in a hospital.'",
+      "opcoes": [
+        "a) work",
+        "b) works",
+        "c) working",
+        "d) is work"
+      ],
+      "correta": 1,
+      "explicacao": "She works (3rd person singular)."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete with the correct form: 'They _____ (play) football every Saturday.'",
+      "opcoes": [
+        "a) play",
+        "b) plays",
+        "c) playing",
+        "d) are play"
+      ],
+      "correta": 0,
+      "explicacao": "They play (plural)."
+    },
+    {
+      "id": 3,
+      "pergunta": "Complete with the correct negative form: 'He _____ (not/like) coffee.'",
+      "opcoes": [
+        "a) don't like",
+        "b) doesn't like",
+        "c) isn't like",
+        "d) not like"
+      ],
+      "correta": 1,
+      "explicacao": "He doesn't like (3rd person negative)."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete with the correct question form: '_____ you speak English?'",
+      "opcoes": [
+        "a) Do",
+        "b) Does",
+        "c) Are",
+        "d) Is"
+      ],
+      "correta": 0,
+      "explicacao": "Do you speak? (question with do)"
+    },
+    {
+      "id": 5,
+      "pergunta": "Choose the correct present continuous form: 'I _____ (read) a book now.'",
+      "opcoes": [
+        "a) read",
+        "b) am reading",
+        "c) reading",
+        "d) is read"
+      ],
+      "correta": 1,
+      "explicacao": "I am reading (present continuous)."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'Look! It _____ (rain).'",
+      "opcoes": [
+        "a) rains",
+        "b) is raining",
+        "c) rain",
+        "d) are raining"
+      ],
+      "correta": 1,
+      "explicacao": "It is raining (action happening now)."
+    },
+    {
+      "id": 7,
+      "pergunta": "Which sentence is correct for a routine?",
+      "opcoes": [
+        "a) I am going to school every day.",
+        "b) I go to school every day.",
+        "c) I going to school every day.",
+        "d) I goes to school every day."
+      ],
+      "correta": 1,
+      "explicacao": "Present simple for habits."
+    },
+    {
+      "id": 8,
+      "pergunta": "Which sentence is correct for an action happening now?",
+      "opcoes": [
+        "a) She is cooking dinner.",
+        "b) She cooks dinner.",
+        "c) She cook dinner.",
+        "d) She cooking dinner."
+      ],
+      "correta": 0,
+      "explicacao": "Present continuous for now."
+    },
+    {
+      "id": 9,
+      "pergunta": "Complete: 'We _____ (not/watch) TV at the moment.'",
+      "opcoes": [
+        "a) don't watch",
+        "b) aren't watching",
+        "c) not watching",
+        "d) isn't watching"
+      ],
+      "correta": 1,
+      "explicacao": "We aren't watching (present continuous negative)."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: '_____ she _____ (work) right now?'",
+      "opcoes": [
+        "a) Does / work",
+        "b) Is / working",
+        "c) Do / work",
+        "d) Are / working"
+      ],
+      "correta": 1,
+      "explicacao": "Is she working? (present continuous question)"
+    },
+    {
+      "id": 11,
+      "pergunta": "Choose the correct option: 'The sun _____ in the east.'",
+      "opcoes": [
+        "a) rise",
+        "b) rises",
+        "c) is rising",
+        "d) are rising"
+      ],
+      "correta": 1,
+      "explicacao": "General truth: present simple, rises."
+    },
+    {
+      "id": 12,
+      "pergunta": "Choose the correct option: 'Listen! Someone _____ (sing).'",
+      "opcoes": [
+        "a) sings",
+        "b) is singing",
+        "c) sing",
+        "d) are singing"
+      ],
+      "correta": 1,
+      "explicacao": "Action happening now: is singing."
+    },
+    {
+      "id": 13,
+      "pergunta": "Complete: 'I usually _____ (get up) at 7 am, but today I _____ (sleep) late.'",
+      "opcoes": [
+        "a) get up / am sleeping",
+        "b) am getting up / sleep",
+        "c) get up / sleep",
+        "d) am getting up / am sleeping"
+      ],
+      "correta": 0,
+      "explicacao": "Habit: get up; today: am sleeping."
+    },
+    {
+      "id": 14,
+      "pergunta": "Which verb form is correct? 'She _____ to music every night.'",
+      "opcoes": [
+        "a) listen",
+        "b) listens",
+        "c) is listening",
+        "d) listening"
+      ],
+      "correta": 1,
+      "explicacao": "Habit: listens."
+    },
+    {
+      "id": 15,
+      "pergunta": "Which verb form is correct? 'They _____ (play) tennis at the moment.'",
+      "opcoes": [
+        "a) play",
+        "b) are playing",
+        "c) plays",
+        "d) is playing"
+      ],
+      "correta": 1,
+      "explicacao": "At the moment: are playing."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete with the correct negative: 'He _____ (not/eat) meat. It's a habit.'",
+      "opcoes": [
+        "a) don't eat",
+        "b) doesn't eat",
+        "c) isn't eating",
+        "d) not eat"
+      ],
+      "correta": 1,
+      "explicacao": "Habit: doesn't eat."
+    },
+    {
+      "id": 17,
+      "pergunta": "Complete with the correct question: 'What _____ (you/do) now?'",
+      "opcoes": [
+        "a) do you do",
+        "b) are you doing",
+        "c) you are doing",
+        "d) does you do"
+      ],
+      "correta": 1,
+      "explicacao": "Now: present continuous, are you doing."
+    },
+    {
+      "id": 18,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) Water boils at 100 degrees Celsius.",
+        "b) Water is boiling at 100 degrees Celsius.",
+        "c) Water boil at 100 degrees.",
+        "d) Water boiling at 100 degrees."
+      ],
+      "correta": 0,
+      "explicacao": "General fact: present simple."
+    },
+    {
+      "id": 19,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) I am knowing the answer.",
+        "b) I know the answer.",
+        "c) I knowing the answer.",
+        "d) I knows the answer."
+      ],
+      "correta": 1,
+      "explicacao": "Stative verb 'know' is not used in continuous."
+    },
+    {
+      "id": 20,
+      "pergunta": "Which verb is stative and not usually used in continuous?",
+      "opcoes": [
+        "a) run",
+        "b) eat",
+        "c) believe",
+        "d) play"
+      ],
+      "correta": 2,
+      "explicacao": "'Believe' is a stative verb."
+    },
+    {
+      "id": 21,
+      "pergunta": "Complete: 'I _____ (think) you are right.' (opinion)",
+      "opcoes": [
+        "a) am thinking",
+        "b) think",
+        "c) thinking",
+        "d) thinks"
+      ],
+      "correta": 1,
+      "explicacao": "Opinion: present simple."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'I _____ (think) about the problem now.'",
+      "opcoes": [
+        "a) think",
+        "b) am thinking",
+        "c) thinking",
+        "d) thinks"
+      ],
+      "correta": 1,
+      "explicacao": "Active process now: am thinking."
+    },
+    {
+      "id": 23,
+      "pergunta": "Choose the correct option: 'She _____ (have) a shower at the moment.'",
+      "opcoes": [
+        "a) has",
+        "b) is having",
+        "c) have",
+        "d) are having"
+      ],
+      "correta": 1,
+      "explicacao": "'Have a shower' is an action, continuous possible."
+    },
+    {
+      "id": 24,
+      "pergunta": "Choose the correct option: 'He _____ (have) two brothers.'",
+      "opcoes": [
+        "a) is having",
+        "b) has",
+        "c) have",
+        "d) are having"
+      ],
+      "correta": 1,
+      "explicacao": "Possession: present simple."
+    },
+    {
+      "id": 25,
+      "pergunta": "Complete: 'They _____ (not/live) here anymore. They moved.'",
+      "opcoes": [
+        "a) aren't living",
+        "b) don't live",
+        "c) not live",
+        "d) doesn't live"
+      ],
+      "correta": 1,
+      "explicacao": "Permanent state: present simple negative."
+    },
+    {
+      "id": 26,
+      "pergunta": "Complete: '_____ you _____ (like) this song?'",
+      "opcoes": [
+        "a) Do / like",
+        "b) Are / liking",
+        "c) Does / like",
+        "d) Is / liking"
+      ],
+      "correta": 0,
+      "explicacao": "Preference: present simple."
+    },
+    {
+      "id": 27,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) I am wanting a new car.",
+        "b) I want a new car.",
+        "c) I wanting a new car.",
+        "d) I wants a new car."
+      ],
+      "correta": 1,
+      "explicacao": "Want is stative."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'She usually _____ (walk) to work, but today she _____ (take) the bus.'",
+      "opcoes": [
+        "a) walks / is taking",
+        "b) is walking / takes",
+        "c) walk / take",
+        "d) walks / takes"
+      ],
+      "correta": 0,
+      "explicacao": "Habit vs temporary action."
+    },
+    {
+      "id": 29,
+      "pergunta": "Complete: 'What _____ (you/usually/do) on weekends?'",
+      "opcoes": [
+        "a) are you usually doing",
+        "b) do you usually do",
+        "c) you usually do",
+        "d) does you usually do"
+      ],
+      "correta": 1,
+      "explicacao": "Habit: present simple question."
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: 'Be quiet! The baby _____ (sleep).'",
+      "opcoes": [
+        "a) sleeps",
+        "b) is sleeping",
+        "c) sleep",
+        "d) are sleeping"
+      ],
+      "correta": 1,
+      "explicacao": "Now: present continuous."
+    },
+    {
+      "id": 31,
+      "pergunta": "Complete: 'I _____ (not/believe) in ghosts.'",
+      "opcoes": [
+        "a) am not believing",
+        "b) don't believe",
+        "c) not believe",
+        "d) doesn't believe"
+      ],
+      "correta": 1,
+      "explicacao": "Stative verb: present simple."
+    },
+    {
+      "id": 32,
+      "pergunta": "Choose the correct option: 'The train _____ (arrive) at 6 pm every day.'",
+      "opcoes": [
+        "a) is arriving",
+        "b) arrives",
+        "c) arrive",
+        "d) arriving"
+      ],
+      "correta": 1,
+      "explicacao": "Scheduled event: present simple."
+    },
+    {
+      "id": 33,
+      "pergunta": "Complete: 'Hurry up! Everybody _____ (wait) for you.'",
+      "opcoes": [
+        "a) waits",
+        "b) is waiting",
+        "c) wait",
+        "d) are waiting"
+      ],
+      "correta": 1,
+      "explicacao": "Now: is waiting."
+    },
+    {
+      "id": 34,
+      "pergunta": "Complete: 'She _____ (not/speak) French very well.'",
+      "opcoes": [
+        "a) isn't speaking",
+        "b) doesn't speak",
+        "c) not speak",
+        "d) don't speak"
+      ],
+      "correta": 1,
+      "explicacao": "Ability: present simple."
+    },
+    {
+      "id": 35,
+      "pergunta": "Complete: 'Listen! They _____ (play) our favorite song.'",
+      "opcoes": [
+        "a) play",
+        "b) are playing",
+        "c) plays",
+        "d) is playing"
+      ],
+      "correta": 1,
+      "explicacao": "Now: are playing."
+    },
+    {
+      "id": 36,
+      "pergunta": "Choose the correct question: 'What time _____ the movie _____?'",
+      "opcoes": [
+        "a) does / start",
+        "b) is / starting",
+        "c) do / start",
+        "d) are / starting"
+      ],
+      "correta": 0,
+      "explicacao": "Scheduled event: present simple question."
+    },
+    {
+      "id": 37,
+      "pergunta": "Complete: 'I _____ (not/understand) this exercise.'",
+      "opcoes": [
+        "a) am not understanding",
+        "b) don't understand",
+        "c) not understand",
+        "d) doesn't understand"
+      ],
+      "correta": 1,
+      "explicacao": "Stative: present simple."
+    },
+    {
+      "id": 38,
+      "pergunta": "Complete: 'She _____ (seem) tired today.'",
+      "opcoes": [
+        "a) is seeming",
+        "b) seems",
+        "c) seem",
+        "d) are seeming"
+      ],
+      "correta": 1,
+      "explicacao": "Seem is stative."
+    },
+    {
+      "id": 39,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) I am looking for my keys.",
+        "b) I look for my keys.",
+        "c) I looking for my keys.",
+        "d) I looks for my keys."
+      ],
+      "correta": 0,
+      "explicacao": "Action now: present continuous."
+    },
+    {
+      "id": 40,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) She is hating this movie.",
+        "b) She hates this movie.",
+        "c) She hate this movie.",
+        "d) She hating this movie."
+      ],
+      "correta": 1,
+      "explicacao": "Hate is stative."
+    },
+    {
+      "id": 41,
+      "pergunta": "Complete: 'I _____ (see) the doctor tomorrow at 10.' (arranged future)",
+      "opcoes": [
+        "a) see",
+        "b) am seeing",
+        "c) sees",
+        "d) seeing"
+      ],
+      "correta": 1,
+      "explicacao": "Present continuous for arranged future."
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: 'We _____ (go) to the beach every summer.'",
+      "opcoes": [
+        "a) are going",
+        "b) go",
+        "c) goes",
+        "d) going"
+      ],
+      "correta": 1,
+      "explicacao": "Habit: present simple."
+    },
+    {
+      "id": 43,
+      "pergunta": "Complete: 'Why _____ you _____ (laugh)?'",
+      "opcoes": [
+        "a) do / laugh",
+        "b) are / laughing",
+        "c) is / laughing",
+        "d) does / laugh"
+      ],
+      "correta": 1,
+      "explicacao": "Now: present continuous."
+    },
+    {
+      "id": 44,
+      "pergunta": "Complete: 'He _____ (not/smoke) anymore. He quit.'",
+      "opcoes": [
+        "a) isn't smoking",
+        "b) doesn't smoke",
+        "c) not smoke",
+        "d) don't smoke"
+      ],
+      "correta": 1,
+      "explicacao": "Permanent state: present simple."
+    },
+    {
+      "id": 45,
+      "pergunta": "Choose the correct option: 'This cake _____ (taste) delicious.'",
+      "opcoes": [
+        "a) is tasting",
+        "b) tastes",
+        "c) taste",
+        "d) are tasting"
+      ],
+      "correta": 1,
+      "explicacao": "Sense verb: present simple."
+    },
+    {
+      "id": 46,
+      "pergunta": "Complete: 'I _____ (taste) the soup to see if it needs salt.'",
+      "opcoes": [
+        "a) taste",
+        "b) am tasting",
+        "c) tastes",
+        "d) is tasting"
+      ],
+      "correta": 1,
+      "explicacao": "Active action: present continuous."
+    },
+    {
+      "id": 47,
+      "pergunta": "Complete: 'She _____ (have) a party next Saturday.'",
+      "opcoes": [
+        "a) has",
+        "b) is having",
+        "c) have",
+        "d) are having"
+      ],
+      "correta": 1,
+      "explicacao": "Future arrangement: present continuous."
+    },
+    {
+      "id": 48,
+      "pergunta": "Complete: 'They _____ (not/belong) to this club.'",
+      "opcoes": [
+        "a) aren't belonging",
+        "b) don't belong",
+        "c) not belong",
+        "d) doesn't belong"
+      ],
+      "correta": 1,
+      "explicacao": "Stative: present simple."
+    },
+    {
+      "id": 49,
+      "pergunta": "Choose the correct question for a routine:",
+      "opcoes": [
+        "a) Are you going to the gym every day?",
+        "b) Do you go to the gym every day?",
+        "c) You go to the gym every day?",
+        "d) Is you going to the gym every day?"
+      ],
+      "correta": 1,
+      "explicacao": "Habit: present simple question."
+    },
+    {
+      "id": 50,
+      "pergunta": "Choose the correct question for now:",
+      "opcoes": [
+        "a) Do you watch TV now?",
+        "b) Are you watching TV now?",
+        "c) You watch TV now?",
+        "d) Is you watching TV now?"
+      ],
+      "correta": 1,
+      "explicacao": "Now: present continuous question."
+    }
+  ]
+}
