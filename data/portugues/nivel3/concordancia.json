@@ -1,1 +1,367 @@
-
+{
+  "materia": "Concordância",
+  "nivel": 3,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Complete: 'Os alunos _____ estudando'.",
+      "opcoes": [
+        "a) está",
+        "b) estão",
+        "c) é",
+        "d) são"
+      ],
+      "correta": 1,
+      "explicacao": "Sujeito plural exige verbo no plural."
+    },
+    {
+      "id": 2,
+      "pergunta": "Assinale a opção correta:",
+      "opcoes": [
+        "a) Haviam muitos livros na estante.",
+        "b) Havia muitos livros na estante.",
+        "c) Haviam muitos livro na estante.",
+        "d) Havia muito livros na estante."
+      ],
+      "correta": 1,
+      "explicacao": "Verbo 'haver' no sentido de existir é impessoal, fica no singular."
+    },
+    {
+      "id": 3,
+      "pergunta": "Complete: 'Faz _____ dias que não chove'.",
+      "opcoes": [
+        "a) dois",
+        "b) duas",
+        "c) doze",
+        "d) vinte"
+      ],
+      "correta": 0,
+      "explicacao": "'Faz' indicando tempo é impessoal, mas 'dias' pede numeral masculino: dois dias."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual frase está correta?",
+      "opcoes": [
+        "a) A maioria dos alunos aprovou.",
+        "b) A maioria dos alunos aprovaram.",
+        "c) Ambas estão corretas.",
+        "d) Nenhuma está correta."
+      ],
+      "correta": 2,
+      "explicacao": "Expressões partitivas admitem concordância com o núcleo ou com o especificador."
+    },
+    {
+      "id": 5,
+      "pergunta": "Complete: 'Mais de um aluno _____'.",
+      "opcoes": [
+        "a) chegou",
+        "b) chegaram",
+        "c) chegam",
+        "d) chegarão"
+      ],
+      "correta": 0,
+      "explicacao": "'Mais de um' geralmente leva verbo no singular."
+    },
+    {
+      "id": 6,
+      "pergunta": "Assinale a opção correta:",
+      "opcoes": [
+        "a) 1% dos eleitores votou.",
+        "b) 1% dos eleitores votaram.",
+        "c) Ambas são aceitas.",
+        "d) Nenhuma."
+      ],
+      "correta": 2,
+      "explicacao": "Percentuais podem concordar com o numeral ou com o termo preposicionado."
+    },
+    {
+      "id": 7,
+      "pergunta": "Em 'Vendem-se casas', o verbo está no plural porque:",
+      "opcoes": [
+        "a) sujeito indeterminado",
+        "b) partícula apassivadora, concordando com 'casas'",
+        "c) o 'se' é reflexivo",
+        "d) é voz ativa"
+      ],
+      "correta": 1,
+      "explicacao": "'casas' é sujeito paciente, verbo concorda."
+    },
+    {
+      "id": 8,
+      "pergunta": "Complete: 'Precisa-se _____ funcionários'.",
+      "opcoes": [
+        "a) de",
+        "b) de",
+        "c) dos",
+        "d) com"
+      ],
+      "correta": 0,
+      "explicacao": "Precisa-se de funcionários (preposição 'de' + substantivo)."
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual frase está correta?",
+      "opcoes": [
+        "a) Ela mesmo fez.",
+        "b) Ela mesma fez.",
+        "c) Ela mesmo fez o trabalho.",
+        "d) Ela mesmo fez a tarefa."
+      ],
+      "correta": 1,
+      "explicacao": "'mesma' concorda com o sujeito feminino."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'É proibido _____'.",
+      "opcoes": [
+        "a) entrada",
+        "b) a entrada",
+        "c) entrada de menores",
+        "d) as entrada"
+      ],
+      "correta": 0,
+      "explicacao": "Sem artigo, 'proibido' fica invariável."
+    },
+    {
+      "id": 11,
+      "pergunta": "Assinale a opção correta:",
+      "opcoes": [
+        "a) Ela tem bastante amigos.",
+        "b) Ela tem bastantes amigos.",
+        "c) Ela tem bastante amigo.",
+        "d) Ela tem bastante amigas."
+      ],
+      "correta": 1,
+      "explicacao": "'bastante' quando adjetivo (= muitos) concorda: bastantes amigos."
+    },
+    {
+      "id": 12,
+      "pergunta": "Em 'As meninas _____ bonitas', a forma correta é:",
+      "opcoes": [
+        "a) é",
+        "b) são",
+        "c) está",
+        "d) estão"
+      ],
+      "correta": 1,
+      "explicacao": "Verbo 'ser' concorda com o sujeito plural."
+    },
+    {
+      "id": 13,
+      "pergunta": "Complete: '_____ muitas pessoas na fila'.",
+      "opcoes": [
+        "a) Haviam",
+        "b) Havia",
+        "c) Existiam",
+        "d) Tinham"
+      ],
+      "correta": 1,
+      "explicacao": "'Havia' impessoal, ou 'existiam' se quiser flexionar."
+    },
+    {
+      "id": 14,
+      "pergunta": "Qual opção está incorreta?",
+      "opcoes": [
+        "a) Faz dois anos que não viajo.",
+        "b) Fazem dois anos que não viajo.",
+        "c) Faz duas semanas que não vou.",
+        "d) Fazia dois anos que não vinha."
+      ],
+      "correta": 1,
+      "explicacao": "'Faz' tempo é impessoal, não varia."
+    },
+    {
+      "id": 15,
+      "pergunta": "Assinale a frase correta:",
+      "opcoes": [
+        "a) Os Estados Unidos é um país rico.",
+        "b) Os Estados Unidos são um país rico.",
+        "c) Estados Unidos é um país rico.",
+        "d) Os Estados Unidos é país rico."
+      ],
+      "correta": 1,
+      "explicacao": "Nome de país no plural leva verbo no plural."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: '_____ de vinte pessoas compareceu'.",
+      "opcoes": [
+        "a) Cerca",
+        "b) Cerca de",
+        "c) Cerca de",
+        "d) Cerca"
+      ],
+      "correta": 1,
+      "explicacao": "'Cerca de' + verbo concorda com o numeral: singular."
+    },
+    {
+      "id": 17,
+      "pergunta": "Em 'Um ou outro aluno _____', a forma correta é:",
+      "opcoes": [
+        "a) faltaram",
+        "b) faltou",
+        "c) falta",
+        "d) faltam"
+      ],
+      "correta": 1,
+      "explicacao": "'Um ou outro' pede verbo no singular."
+    },
+    {
+      "id": 18,
+      "pergunta": "Qual frase está correta?",
+      "opcoes": [
+        "a) Ela tem menos amigas que eu.",
+        "b) Ela tem menas amigas que eu.",
+        "c) Ela tem menas amigas do que eu.",
+        "d) Ela tem menos amigas do que mim."
+      ],
+      "correta": 0,
+      "explicacao": "'menos' é invariável."
+    },
+    {
+      "id": 19,
+      "pergunta": "Assinale a opção correta:",
+      "opcoes": [
+        "a) Havia muitas pessoas.",
+        "b) Haviam muitas pessoas.",
+        "c) Existia muitas pessoas.",
+        "d) Tinham muitas pessoas."
+      ],
+      "correta": 0,
+      "explicacao": "'Havia' impessoal."
+    },
+    {
+      "id": 20,
+      "pergunta": "Complete: '_____ de livros novos'.",
+      "opcoes": [
+        "a) Precisa-se",
+        "b) Precisam-se",
+        "c) Precisa-se",
+        "d) Precisam-se"
+      ],
+      "correta": 0,
+      "explicacao": "'Precisa-se' é invariável (índice de indeterminação)."
+    },
+    {
+      "id": 21,
+      "pergunta": "Em 'Ela tem _____ anos', a forma correta é:",
+      "opcoes": [
+        "a) bastante",
+        "b) bastantes",
+        "c) muitas",
+        "d) muito"
+      ],
+      "correta": 1,
+      "explicacao": "'bastantes' = muitos, concorda com 'anos'."
+    },
+    {
+      "id": 22,
+      "pergunta": "Assinale a frase com erro de concordância:",
+      "opcoes": [
+        "a) Mais de um aluno faltou.",
+        "b) Mais de dez alunos faltaram.",
+        "c) Mais de um aluno faltaram.",
+        "d) Mais de um aluno chegou atrasado."
+      ],
+      "correta": 2,
+      "explicacao": "'Mais de um' exige singular, mesmo com expressão plural."
+    },
+    {
+      "id": 23,
+      "pergunta": "Complete: 'Eu e ele _____ irmãos'.",
+      "opcoes": [
+        "a) é",
+        "b) somos",
+        "c) são",
+        "d) sois"
+      ],
+      "correta": 1,
+      "explicacao": "Sujeito composto (eu + ele) = nós, verbo na 1ª pessoa do plural."
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual opção está correta?",
+      "opcoes": [
+        "a) É proibido entrada.",
+        "b) É proibida entrada.",
+        "c) É proibido a entrada.",
+        "d) É proibida a entrada."
+      ],
+      "correta": 3,
+      "explicacao": "Com artigo, o adjetivo concorda: proibida a entrada."
+    },
+    {
+      "id": 25,
+      "pergunta": "Em 'A maioria _____', o verbo pode ficar no singular ou plural?",
+      "opcoes": [
+        "a) só singular",
+        "b) só plural",
+        "c) ambos são aceitos",
+        "d) depende do contexto"
+      ],
+      "correta": 2,
+      "explicacao": "Expressões partitivas admitem as duas concordâncias."
+    },
+    {
+      "id": 26,
+      "pergunta": "Assinale a opção correta:",
+      "opcoes": [
+        "a) Vende-se casas.",
+        "b) Vendem-se casas.",
+        "c) Vende-se casa.",
+        "d) Vendem-se casa."
+      ],
+      "correta": 1,
+      "explicacao": "Voz passiva: verbo concorda com o sujeito 'casas'."
+    },
+    {
+      "id": 27,
+      "pergunta": "Complete: 'Faz _____ que não o vejo'.",
+      "opcoes": [
+        "a) muito tempo",
+        "b) muitos tempo",
+        "c) muito tempos",
+        "d) muitas tempo"
+      ],
+      "correta": 0,
+      "explicacao": "'muito' concorda com 'tempo' (masculino singular)."
+    },
+    {
+      "id": 28,
+      "pergunta": "Em 'Obrigada, disse ela', a palavra 'obrigada' está no feminino porque:",
+      "opcoes": [
+        "a) concorda com o interlocutor",
+        "b) concorda com o sujeito (ela)",
+        "c) é invariável",
+        "d) é advérbio"
+      ],
+      "correta": 1,
+      "explicacao": "Adjetivo concorda com o sujeito feminino."
+    },
+    {
+      "id": 29,
+      "pergunta": "Qual frase está correta?",
+      "opcoes": [
+        "a) Segue anexo as cópias.",
+        "b) Segue anexas as cópias.",
+        "c) Seguem anexas as cópias.",
+        "d) Seguem anexo as cópias."
+      ],
+      "correta": 2,
+      "explicacao": "Verbo 'seguem' plural, 'anexas' concordando com 'cópias'."
+    },
+    {
+      "id": 30,
+      "pergunta": "Assinale a opção correta:",
+      "opcoes": [
+        "a) Ela mesmo resolveu.",
+        "b) Ela mesma resolveu.",
+        "c) Ela mesmo resolveram.",
+        "d) Ela mesma resolveram."
+      ],
+      "correta": 1,
+      "explicacao": "'mesma' concorda com o sujeito feminino."
+    }
+  ]
+}
