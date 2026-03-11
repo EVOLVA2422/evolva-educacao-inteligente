@@ -1,1 +1,607 @@
-
+{
+  "materia": "Personal Pronouns",
+  "nivel": 1,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "What pronoun replaces 'Maria'?",
+      "opcoes": [
+        "a) He",
+        "b) She",
+        "c) It",
+        "d) They"
+      ],
+      "correta": 1,
+      "explicacao": "Maria is a female name → She."
+    },
+    {
+      "id": 2,
+      "pergunta": "What pronoun replaces 'John'?",
+      "opcoes": [
+        "a) He",
+        "b) She",
+        "c) It",
+        "d) They"
+      ],
+      "correta": 0,
+      "explicacao": "John is a male name → He."
+    },
+    {
+      "id": 3,
+      "pergunta": "What pronoun replaces 'the book'?",
+      "opcoes": [
+        "a) He",
+        "b) She",
+        "c) It",
+        "d) They"
+      ],
+      "correta": 2,
+      "explicacao": "Object → It."
+    },
+    {
+      "id": 4,
+      "pergunta": "What pronoun replaces 'Mary and I'?",
+      "opcoes": [
+        "a) We",
+        "b) They",
+        "c) You",
+        "d) Us"
+      ],
+      "correta": 0,
+      "explicacao": "Mary and I = we."
+    },
+    {
+      "id": 5,
+      "pergunta": "What pronoun replaces 'you and your friend'?",
+      "opcoes": [
+        "a) We",
+        "b) They",
+        "c) You",
+        "d) I"
+      ],
+      "correta": 1,
+      "explicacao": "You and your friend = they (if not including me)."
+    },
+    {
+      "id": 6,
+      "pergunta": "What pronoun replaces 'the students'?",
+      "opcoes": [
+        "a) We",
+        "b) They",
+        "c) You",
+        "d) It"
+      ],
+      "correta": 1,
+      "explicacao": "The students = they."
+    },
+    {
+      "id": 7,
+      "pergunta": "What pronoun replaces 'the dog'?",
+      "opcoes": [
+        "a) He",
+        "b) She",
+        "c) It",
+        "d) They"
+      ],
+      "correta": 2,
+      "explicacao": "Animal (unknown gender) → It."
+    },
+    {
+      "id": 8,
+      "pergunta": "Choose the correct pronoun: '_____ am a student.'",
+      "opcoes": [
+        "a) I",
+        "b) You",
+        "c) He",
+        "d) She"
+      ],
+      "correta": 0,
+      "explicacao": "I am a student."
+    },
+    {
+      "id": 9,
+      "pergunta": "Choose the correct pronoun: '_____ are my friends.'",
+      "opcoes": [
+        "a) I",
+        "b) He",
+        "c) She",
+        "d) They"
+      ],
+      "correta": 3,
+      "explicacao": "They are my friends."
+    },
+    {
+      "id": 10,
+      "pergunta": "Choose the correct pronoun: '_____ is a doctor.' (referring to a man)",
+      "opcoes": [
+        "a) I",
+        "b) You",
+        "c) He",
+        "d) She"
+      ],
+      "correta": 2,
+      "explicacao": "He is a doctor."
+    },
+    {
+      "id": 11,
+      "pergunta": "Choose the correct pronoun: '_____ is a nurse.' (referring to a woman)",
+      "opcoes": [
+        "a) He",
+        "b) She",
+        "c) It",
+        "d) They"
+      ],
+      "correta": 1,
+      "explicacao": "She is a nurse."
+    },
+    {
+      "id": 12,
+      "pergunta": "Choose the correct pronoun: '_____ are from Brazil.' (referring to me and you)",
+      "opcoes": [
+        "a) We",
+        "b) They",
+        "c) You",
+        "d) I"
+      ],
+      "correta": 0,
+      "explicacao": "We are from Brazil."
+    },
+    {
+      "id": 13,
+      "pergunta": "Choose the correct pronoun: '_____ are late.' (addressing a group)",
+      "opcoes": [
+        "a) I",
+        "b) He",
+        "c) She",
+        "d) You"
+      ],
+      "correta": 3,
+      "explicacao": "You are late (plural)."
+    },
+    {
+      "id": 14,
+      "pergunta": "Choose the correct object pronoun: 'I love _____' (Maria).",
+      "opcoes": [
+        "a) she",
+        "b) her",
+        "c) he",
+        "d) him"
+      ],
+      "correta": 1,
+      "explicacao": "I love her."
+    },
+    {
+      "id": 15,
+      "pergunta": "Choose the correct object pronoun: 'I love _____' (John).",
+      "opcoes": [
+        "a) she",
+        "b) her",
+        "c) he",
+        "d) him"
+      ],
+      "correta": 3,
+      "explicacao": "I love him."
+    },
+    {
+      "id": 16,
+      "pergunta": "Choose the correct object pronoun: 'I love _____' (the dog).",
+      "opcoes": [
+        "a) it",
+        "b) him",
+        "c) her",
+        "d) them"
+      ],
+      "correta": 0,
+      "explicacao": "I love it."
+    },
+    {
+      "id": 17,
+      "pergunta": "Choose the correct object pronoun: 'I love _____' (my parents).",
+      "opcoes": [
+        "a) it",
+        "b) him",
+        "c) her",
+        "d) them"
+      ],
+      "correta": 3,
+      "explicacao": "I love them."
+    },
+    {
+      "id": 18,
+      "pergunta": "Choose the correct object pronoun: 'I love _____' (you and your brother).",
+      "opcoes": [
+        "a) you",
+        "b) them",
+        "c) us",
+        "d) it"
+      ],
+      "correta": 1,
+      "explicacao": "I love them (they)."
+    },
+    {
+      "id": 19,
+      "pergunta": "Choose the correct object pronoun: 'Please give _____ the book.' (to me)",
+      "opcoes": [
+        "a) I",
+        "b) me",
+        "c) my",
+        "d) mine"
+      ],
+      "correta": 1,
+      "explicacao": "Give me the book."
+    },
+    {
+      "id": 20,
+      "pergunta": "Choose the correct object pronoun: 'I'll call _____ tomorrow.' (to you)",
+      "opcoes": [
+        "a) you",
+        "b) your",
+        "c) yours",
+        "d) they"
+      ],
+      "correta": 0,
+      "explicacao": "I'll call you."
+    },
+    {
+      "id": 21,
+      "pergunta": "Choose the correct possessive adjective: 'This is _____ book.' (I)",
+      "opcoes": [
+        "a) my",
+        "b) mine",
+        "c) me",
+        "d) I"
+      ],
+      "correta": 0,
+      "explicacao": "My book."
+    },
+    {
+      "id": 22,
+      "pergunta": "Choose the correct possessive adjective: 'That is _____ car.' (he)",
+      "opcoes": [
+        "a) he",
+        "b) him",
+        "c) his",
+        "d) her"
+      ],
+      "correta": 2,
+      "explicacao": "His car."
+    },
+    {
+      "id": 23,
+      "pergunta": "Choose the correct possessive adjective: '_____ name is Anna.' (she)",
+      "opcoes": [
+        "a) She",
+        "b) Her",
+        "c) Hers",
+        "d) His"
+      ],
+      "correta": 1,
+      "explicacao": "Her name."
+    },
+    {
+      "id": 24,
+      "pergunta": "Choose the correct possessive adjective: '_____ house is big.' (we)",
+      "opcoes": [
+        "a) Our",
+        "b) Ours",
+        "c) We",
+        "d) Us"
+      ],
+      "correta": 0,
+      "explicacao": "Our house."
+    },
+    {
+      "id": 25,
+      "pergunta": "Choose the correct possessive adjective: '_____ parents are nice.' (they)",
+      "opcoes": [
+        "a) Their",
+        "b) Theirs",
+        "c) They",
+        "d) Them"
+      ],
+      "correta": 0,
+      "explicacao": "Their parents."
+    },
+    {
+      "id": 26,
+      "pergunta": "Choose the correct possessive pronoun: 'This book is _____' (I).",
+      "opcoes": [
+        "a) my",
+        "b) mine",
+        "c) me",
+        "d) I"
+      ],
+      "correta": 1,
+      "explicacao": "Mine."
+    },
+    {
+      "id": 27,
+      "pergunta": "Choose the correct possessive pronoun: 'That car is _____' (he).",
+      "opcoes": [
+        "a) he",
+        "b) him",
+        "c) his",
+        "d) her"
+      ],
+      "correta": 2,
+      "explicacao": "His."
+    },
+    {
+      "id": 28,
+      "pergunta": "Choose the correct possessive pronoun: 'This house is _____' (she).",
+      "opcoes": [
+        "a) she",
+        "b) her",
+        "c) hers",
+        "d) his"
+      ],
+      "correta": 2,
+      "explicacao": "Hers."
+    },
+    {
+      "id": 29,
+      "pergunta": "Choose the correct possessive pronoun: 'The money is _____' (we).",
+      "opcoes": [
+        "a) our",
+        "b) ours",
+        "c) we",
+        "d) us"
+      ],
+      "correta": 1,
+      "explicacao": "Ours."
+    },
+    {
+      "id": 30,
+      "pergunta": "Choose the correct possessive pronoun: 'The toys are _____' (they).",
+      "opcoes": [
+        "a) their",
+        "b) theirs",
+        "c) they",
+        "d) them"
+      ],
+      "correta": 1,
+      "explicacao": "Theirs."
+    },
+    {
+      "id": 31,
+      "pergunta": "Choose the correct reflexive pronoun: 'I did it _____'.",
+      "opcoes": [
+        "a) myself",
+        "b) yourself",
+        "c) himself",
+        "d) herself"
+      ],
+      "correta": 0,
+      "explicacao": "I did it myself."
+    },
+    {
+      "id": 32,
+      "pergunta": "Choose the correct reflexive pronoun: 'She hurt _____'.",
+      "opcoes": [
+        "a) myself",
+        "b) yourself",
+        "c) himself",
+        "d) herself"
+      ],
+      "correta": 3,
+      "explicacao": "She hurt herself."
+    },
+    {
+      "id": 33,
+      "pergunta": "Choose the correct reflexive pronoun: 'He looked at _____ in the mirror.'",
+      "opcoes": [
+        "a) myself",
+        "b) yourself",
+        "c) himself",
+        "d) herself"
+      ],
+      "correta": 2,
+      "explicacao": "He looked at himself."
+    },
+    {
+      "id": 34,
+      "pergunta": "Choose the correct reflexive pronoun: 'We enjoyed _____ at the party.'",
+      "opcoes": [
+        "a) ourselves",
+        "b) yourselves",
+        "c) themselves",
+        "d) ourself"
+      ],
+      "correta": 0,
+      "explicacao": "We enjoyed ourselves."
+    },
+    {
+      "id": 35,
+      "pergunta": "Choose the correct reflexive pronoun: 'They prepared _____ for the exam.'",
+      "opcoes": [
+        "a) ourselves",
+        "b) yourselves",
+        "c) themselves",
+        "d) themself"
+      ],
+      "correta": 2,
+      "explicacao": "They prepared themselves."
+    },
+    {
+      "id": 36,
+      "pergunta": "Choose the correct reflexive pronoun: 'You should be proud of _____' (singular).",
+      "opcoes": [
+        "a) myself",
+        "b) yourself",
+        "c) himself",
+        "d) herself"
+      ],
+      "correta": 1,
+      "explicacao": "Yourself (singular)."
+    },
+    {
+      "id": 37,
+      "pergunta": "Choose the correct reflexive pronoun: 'You should be proud of _____' (plural).",
+      "opcoes": [
+        "a) ourselves",
+        "b) yourselves",
+        "c) themselves",
+        "d) yourself"
+      ],
+      "correta": 1,
+      "explicacao": "Yourselves (plural)."
+    },
+    {
+      "id": 38,
+      "pergunta": "Complete: 'This is _____ (I) book.'",
+      "opcoes": [
+        "a) my",
+        "b) mine",
+        "c) me",
+        "d) I"
+      ],
+      "correta": 0,
+      "explicacao": "My book."
+    },
+    {
+      "id": 39,
+      "pergunta": "Complete: 'The book is _____ (I).'",
+      "opcoes": [
+        "a) my",
+        "b) mine",
+        "c) me",
+        "d) I"
+      ],
+      "correta": 1,
+      "explicacao": "Mine."
+    },
+    {
+      "id": 40,
+      "pergunta": "Complete: 'She gave the money to _____ (I).'",
+      "opcoes": [
+        "a) I",
+        "b) me",
+        "c) my",
+        "d) mine"
+      ],
+      "correta": 1,
+      "explicacao": "To me."
+    },
+    {
+      "id": 41,
+      "pergunta": "Complete: '_____ (we) are going to the park.'",
+      "opcoes": [
+        "a) We",
+        "b) Us",
+        "c) Our",
+        "d) Ours"
+      ],
+      "correta": 0,
+      "explicacao": "We are going."
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: 'The teacher talked to _____ (we).'",
+      "opcoes": [
+        "a) we",
+        "b) us",
+        "c) our",
+        "d) ours"
+      ],
+      "correta": 1,
+      "explicacao": "Talked to us."
+    },
+    {
+      "id": 43,
+      "pergunta": "Complete: '_____ (they) house is big.'",
+      "opcoes": [
+        "a) They",
+        "b) Them",
+        "c) Their",
+        "d) Theirs"
+      ],
+      "correta": 2,
+      "explicacao": "Their house."
+    },
+    {
+      "id": 44,
+      "pergunta": "Complete: 'The house is _____ (they).'",
+      "opcoes": [
+        "a) they",
+        "b) them",
+        "c) their",
+        "d) theirs"
+      ],
+      "correta": 3,
+      "explicacao": "Theirs."
+    },
+    {
+      "id": 45,
+      "pergunta": "Choose the correct pronoun: '_____ am your best friend.'",
+      "opcoes": [
+        "a) I",
+        "b) You",
+        "c) He",
+        "d) She"
+      ],
+      "correta": 0,
+      "explicacao": "I am."
+    },
+    {
+      "id": 46,
+      "pergunta": "Choose the correct pronoun: '_____ is a beautiful day.'",
+      "opcoes": [
+        "a) It",
+        "b) He",
+        "c) She",
+        "d) They"
+      ],
+      "correta": 0,
+      "explicacao": "It is a beautiful day."
+    },
+    {
+      "id": 47,
+      "pergunta": "Choose the correct pronoun: '_____ are my favorite movies.'",
+      "opcoes": [
+        "a) It",
+        "b) He",
+        "c) She",
+        "d) They"
+      ],
+      "correta": 3,
+      "explicacao": "They are."
+    },
+    {
+      "id": 48,
+      "pergunta": "Choose the correct object pronoun: 'I saw _____ at the mall.' (Maria)",
+      "opcoes": [
+        "a) she",
+        "b) her",
+        "c) he",
+        "d) him"
+      ],
+      "correta": 1,
+      "explicacao": "I saw her."
+    },
+    {
+      "id": 49,
+      "pergunta": "Choose the correct object pronoun: 'I saw _____ at the mall.' (John and Mary)",
+      "opcoes": [
+        "a) they",
+        "b) them",
+        "c) their",
+        "d) theirs"
+      ],
+      "correta": 1,
+      "explicacao": "I saw them."
+    },
+    {
+      "id": 50,
+      "pergunta": "Choose the correct reflexive pronoun: 'The cat cleaned _____'.",
+      "opcoes": [
+        "a) itself",
+        "b) himself",
+        "c) herself",
+        "d) themselves"
+      ],
+      "correta": 0,
+      "explicacao": "The cat cleaned itself."
+    }
+  ]
+}
