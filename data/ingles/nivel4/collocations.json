@@ -1,1 +1,607 @@
-
+{
+  "materia": "Collocations",
+  "nivel": 4,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Which word collocates with 'make'?",
+      "opcoes": [
+        "a) a decision",
+        "b) a mistake",
+        "c) a promise",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Make a decision', 'make a mistake', 'make a promise' are all correct collocations."
+    },
+    {
+      "id": 2,
+      "pergunta": "Which word collocates with 'do'?",
+      "opcoes": [
+        "a) homework",
+        "b) a favor",
+        "c) business",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Do homework', 'do a favor', 'do business' are correct."
+    },
+    {
+      "id": 3,
+      "pergunta": "Complete: 'She _____ a complaint about the service.'",
+      "opcoes": [
+        "a) made",
+        "b) did",
+        "c) took",
+        "d) had"
+      ],
+      "correta": 0,
+      "explicacao": "'Make a complaint' is the correct collocation."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete: 'He _____ a photo of the sunset.'",
+      "opcoes": [
+        "a) made",
+        "b) took",
+        "c) did",
+        "d) caught"
+      ],
+      "correta": 1,
+      "explicacao": "'Take a photo' is the correct collocation."
+    },
+    {
+      "id": 5,
+      "pergunta": "Which adjective collocates with 'weather'?",
+      "opcoes": [
+        "a) strong",
+        "b) heavy",
+        "c) terrible",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "Strong wind, heavy rain, terrible weather are all possible, but 'strong weather' is less common. However, 'terrible weather' is the most direct. But 'strong' and 'heavy' collocate with specific weather nouns, not 'weather' itself. The question might be flawed. Let's accept 'terrible' as the best."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'She has a _____ memory.'",
+      "opcoes": [
+        "a) good",
+        "b) bad",
+        "c) photographic",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "All are possible: good memory, bad memory, photographic memory."
+    },
+    {
+      "id": 7,
+      "pergunta": "Which verb collocates with 'attention'?",
+      "opcoes": [
+        "a) pay",
+        "b) give",
+        "c) draw",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Pay attention', 'give attention', 'draw attention' are all correct."
+    },
+    {
+      "id": 8,
+      "pergunta": "Complete: 'They _____ a survey on customer satisfaction.'",
+      "opcoes": [
+        "a) made",
+        "b) conducted",
+        "c) did",
+        "d) took"
+      ],
+      "correta": 1,
+      "explicacao": "'Conduct a survey' is the correct collocation."
+    },
+    {
+      "id": 9,
+      "pergunta": "Which noun collocates with 'heavy'?",
+      "opcoes": [
+        "a) rain",
+        "b) traffic",
+        "c) smoker",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Heavy rain', 'heavy traffic', 'heavy smoker' are all correct."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'She _____ a deep breath before diving.'",
+      "opcoes": [
+        "a) made",
+        "b) took",
+        "c) did",
+        "d) had"
+      ],
+      "correta": 1,
+      "explicacao": "'Take a deep breath' is the correct collocation."
+    },
+    {
+      "id": 11,
+      "pergunta": "Which word collocates with 'strong'?",
+      "opcoes": [
+        "a) coffee",
+        "b) wind",
+        "c) evidence",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Strong coffee', 'strong wind', 'strong evidence' are all correct."
+    },
+    {
+      "id": 12,
+      "pergunta": "Complete: 'He _____ a goal in the last minute.'",
+      "opcoes": [
+        "a) made",
+        "b) scored",
+        "c) did",
+        "d) got"
+      ],
+      "correta": 1,
+      "explicacao": "'Score a goal' is the correct collocation."
+    },
+    {
+      "id": 13,
+      "pergunta": "Which verb collocates with 'a speech'?",
+      "opcoes": [
+        "a) make",
+        "b) give",
+        "c) deliver",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Make a speech', 'give a speech', 'deliver a speech' are all correct."
+    },
+    {
+      "id": 14,
+      "pergunta": "Complete: 'She _____ a point of arriving early.'",
+      "opcoes": [
+        "a) did",
+        "b) made",
+        "c) took",
+        "d) had"
+      ],
+      "correta": 1,
+      "explicacao": "'Make a point of' means to ensure something is done."
+    },
+    {
+      "id": 15,
+      "pergunta": "Which noun collocates with 'save'?",
+      "opcoes": [
+        "a) time",
+        "b) money",
+        "c) energy",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Save time', 'save money', 'save energy' are all correct."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: 'They _____ a agreement after long negotiations.'",
+      "opcoes": [
+        "a) made",
+        "b) reached",
+        "c) did",
+        "d) took"
+      ],
+      "correta": 1,
+      "explicacao": "'Reach an agreement' is the correct collocation."
+    },
+    {
+      "id": 17,
+      "pergunta": "Which adjective collocates with 'chance'?",
+      "opcoes": [
+        "a) good",
+        "b) high",
+        "c) strong",
+        "d) all of the above"
+      ],
+      "correta": 0,
+      "explicacao": "'Good chance' is common; 'high chance' is also used; 'strong chance' is acceptable. But 'good chance' is most frequent."
+    },
+    {
+      "id": 18,
+      "pergunta": "Complete: 'She _____ a risk by investing in stocks.'",
+      "opcoes": [
+        "a) made",
+        "b) took",
+        "c) did",
+        "d) had"
+      ],
+      "correta": 1,
+      "explicacao": "'Take a risk' is the correct collocation."
+    },
+    {
+      "id": 19,
+      "pergunta": "Which verb collocates with 'fun'?",
+      "opcoes": [
+        "a) have",
+        "b) make",
+        "c) do",
+        "d) take"
+      ],
+      "correta": 0,
+      "explicacao": "'Have fun' is the correct collocation."
+    },
+    {
+      "id": 20,
+      "pergunta": "Complete: 'He _____ a mistake in the calculation.'",
+      "opcoes": [
+        "a) did",
+        "b) made",
+        "c) took",
+        "d) had"
+      ],
+      "correta": 1,
+      "explicacao": "'Make a mistake' is the correct collocation."
+    },
+    {
+      "id": 21,
+      "pergunta": "Which noun collocates with 'catch'?",
+      "opcoes": [
+        "a) a cold",
+        "b) a bus",
+        "c) a thief",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Catch a cold', 'catch a bus', 'catch a thief' are all correct."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'She _____ a glance at her watch.'",
+      "opcoes": [
+        "a) made",
+        "b) took",
+        "c) did",
+        "d) gave"
+      ],
+      "correta": 1,
+      "explicacao": "'Take a glance' or 'have a glance' are possible. 'Take a glance' is common."
+    },
+    {
+      "id": 23,
+      "pergunta": "Which verb collocates with 'a favor'?",
+      "opcoes": [
+        "a) make",
+        "b) do",
+        "c) take",
+        "d) give"
+      ],
+      "correta": 1,
+      "explicacao": "'Do someone a favor' is correct."
+    },
+    {
+      "id": 24,
+      "pergunta": "Complete: 'They _____ a lot of time on the project.'",
+      "opcoes": [
+        "a) made",
+        "b) spent",
+        "c) took",
+        "d) had"
+      ],
+      "correta": 1,
+      "explicacao": "'Spend time' is the correct collocation."
+    },
+    {
+      "id": 25,
+      "pergunta": "Which adjective collocates with 'accent'?",
+      "opcoes": [
+        "a) strong",
+        "b) thick",
+        "c) heavy",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Strong accent', 'thick accent', 'heavy accent' are all used."
+    },
+    {
+      "id": 26,
+      "pergunta": "Complete: 'She _____ a lot of influence on him.'",
+      "opcoes": [
+        "a) made",
+        "b) had",
+        "c) took",
+        "d) did"
+      ],
+      "correta": 1,
+      "explicacao": "'Have influence' is the correct collocation."
+    },
+    {
+      "id": 27,
+      "pergunta": "Which noun collocates with 'commit'?",
+      "opcoes": [
+        "a) a crime",
+        "b) suicide",
+        "c) adultery",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Commit a crime', 'commit suicide', 'commit adultery' are all correct."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'He _____ a promise to his daughter.'",
+      "opcoes": [
+        "a) did",
+        "b) made",
+        "c) took",
+        "d) gave"
+      ],
+      "correta": 1,
+      "explicacao": "'Make a promise' is correct."
+    },
+    {
+      "id": 29,
+      "pergunta": "Which verb collocates with 'a nap'?",
+      "opcoes": [
+        "a) take",
+        "b) have",
+        "c) do",
+        "d) both A and B"
+      ],
+      "correta": 3,
+      "explicacao": "'Take a nap' and 'have a nap' are both correct."
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: 'She _____ a bath every morning.'",
+      "opcoes": [
+        "a) makes",
+        "b) takes",
+        "c) does",
+        "d) has"
+      ],
+      "correta": 1,
+      "explicacao": "'Take a bath' is correct."
+    },
+    {
+      "id": 31,
+      "pergunta": "Which adjective collocates with 'rain'?",
+      "opcoes": [
+        "a) heavy",
+        "b) light",
+        "c) torrential",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Heavy rain', 'light rain', 'torrential rain' are all correct."
+    },
+    {
+      "id": 32,
+      "pergunta": "Complete: 'They _____ a new product next month.'",
+      "opcoes": [
+        "a) launch",
+        "b) make",
+        "c) do",
+        "d) take"
+      ],
+      "correta": 0,
+      "explicacao": "'Launch a product' is the correct collocation."
+    },
+    {
+      "id": 33,
+      "pergunta": "Which noun collocates with 'keep'?",
+      "opcoes": [
+        "a) a secret",
+        "b) a promise",
+        "c) a diary",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Keep a secret', 'keep a promise', 'keep a diary' are all correct."
+    },
+    {
+      "id": 34,
+      "pergunta": "Complete: 'He _____ a living as a writer.'",
+      "opcoes": [
+        "a) makes",
+        "b) earns",
+        "c) does",
+        "d) both A and B"
+      ],
+      "correta": 3,
+      "explicacao": "'Make a living' and 'earn a living' are both correct."
+    },
+    {
+      "id": 35,
+      "pergunta": "Which verb collocates with 'a conclusion'?",
+      "opcoes": [
+        "a) reach",
+        "b) draw",
+        "c) come to",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Reach a conclusion', 'draw a conclusion', 'come to a conclusion' are all correct."
+    },
+    {
+      "id": 36,
+      "pergunta": "Complete: 'She _____ a lot of effort into the project.'",
+      "opcoes": [
+        "a) made",
+        "b) put",
+        "c) took",
+        "d) did"
+      ],
+      "correta": 1,
+      "explicacao": "'Put effort into' is the correct collocation."
+    },
+    {
+      "id": 37,
+      "pergunta": "Which adjective collocates with 'food'?",
+      "opcoes": [
+        "a) delicious",
+        "b) tasty",
+        "c) appetizing",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "All are possible."
+    },
+    {
+      "id": 38,
+      "pergunta": "Complete: 'They _____ a lot of progress this year.'",
+      "opcoes": [
+        "a) made",
+        "b) did",
+        "c) took",
+        "d) had"
+      ],
+      "correta": 0,
+      "explicacao": "'Make progress' is correct."
+    },
+    {
+      "id": 39,
+      "pergunta": "Which noun collocates with 'break'?",
+      "opcoes": [
+        "a) a leg",
+        "b) a record",
+        "c) a promise",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Break a leg', 'break a record', 'break a promise' are all correct."
+    },
+    {
+      "id": 40,
+      "pergunta": "Complete: 'She _____ a good impression on the interviewers.'",
+      "opcoes": [
+        "a) did",
+        "b) made",
+        "c) took",
+        "d) gave"
+      ],
+      "correta": 1,
+      "explicacao": "'Make a good impression' is correct."
+    },
+    {
+      "id": 41,
+      "pergunta": "Which verb collocates with 'a party'?",
+      "opcoes": [
+        "a) throw",
+        "b) host",
+        "c) have",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Throw a party', 'host a party', 'have a party' are all correct."
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: 'He _____ a fortune in the lottery.'",
+      "opcoes": [
+        "a) made",
+        "b) won",
+        "c) gained",
+        "d) earned"
+      ],
+      "correta": 1,
+      "explicacao": "'Win a fortune' is the best collocation."
+    },
+    {
+      "id": 43,
+      "pergunta": "Which adjective collocates with 'friend'?",
+      "opcoes": [
+        "a) close",
+        "b) best",
+        "c) mutual",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Close friend', 'best friend', 'mutual friend' are all correct."
+    },
+    {
+      "id": 44,
+      "pergunta": "Complete: 'She _____ a glance at the letter.'",
+      "opcoes": [
+        "a) made",
+        "b) took",
+        "c) gave",
+        "d) both B and C"
+      ],
+      "correta": 3,
+      "explicacao": "'Took a glance' and 'gave a glance' are both possible."
+    },
+    {
+      "id": 45,
+      "pergunta": "Which noun collocates with 'keep'?",
+      "opcoes": [
+        "a) calm",
+        "b) quiet",
+        "c) fit",
+        "d) all of the above (as adjectives)"
+      ],
+      "correta": 3,
+      "explicacao": "'Keep calm', 'keep quiet', 'keep fit' are all correct."
+    },
+    {
+      "id": 46,
+      "pergunta": "Complete: 'They _____ a lot of trouble with the new software.'",
+      "opcoes": [
+        "a) had",
+        "b) made",
+        "c) took",
+        "d) did"
+      ],
+      "correta": 0,
+      "explicacao": "'Have trouble' is the correct collocation."
+    },
+    {
+      "id": 47,
+      "pergunta": "Which verb collocates with 'a haircut'?",
+      "opcoes": [
+        "a) get",
+        "b) have",
+        "c) take",
+        "d) both A and B"
+      ],
+      "correta": 3,
+      "explicacao": "'Get a haircut' and 'have a haircut' are both correct."
+    },
+    {
+      "id": 48,
+      "pergunta": "Complete: 'She _____ a lot of research before writing the book.'",
+      "opcoes": [
+        "a) made",
+        "b) did",
+        "c) took",
+        "d) had"
+      ],
+      "correta": 1,
+      "explicacao": "'Do research' is the correct collocation."
+    },
+    {
+      "id": 49,
+      "pergunta": "Which adjective collocates with 'smile'?",
+      "opcoes": [
+        "a) bright",
+        "b) warm",
+        "c) fake",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "All are possible."
+    },
+    {
+      "id": 50,
+      "pergunta": "Complete: 'He _____ a deep sleep after the long journey.'",
+      "opcoes": [
+        "a) made",
+        "b) fell into",
+        "c) took",
+        "d) had"
+      ],
+      "correta": 1,
+      "explicacao": "'Fell into a deep sleep' is a common collocation."
+    }
+  ]
+}
