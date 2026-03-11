@@ -9,11 +9,11 @@
       "opcoes": [
         "a) Goodbye",
         "b) Hello",
-        "c) Thanks",
-        "d) Sorry"
+        "c) Yes",
+        "d) No"
       ],
       "correta": 1,
-      "explicacao": "'Olá' is 'Hello' in English."
+      "explicacao": "'Hello' is a common greeting."
     },
     {
       "id": 2,
@@ -21,159 +21,363 @@
       "opcoes": [
         "a) Hello",
         "b) Goodbye",
-        "c) Please",
-        "d) Thanks"
+        "c) Good morning",
+        "d) Good night"
       ],
       "correta": 1,
-      "explicacao": "'Adeus' is 'Goodbye'."
+      "explicacao": "'Goodbye' is used when leaving."
     },
     {
       "id": 3,
-      "pergunta": "How do you say 'Por favor' in English?",
+      "pergunta": "What color is the sky on a clear day?",
       "opcoes": [
-        "a) Sorry",
-        "b) Thank you",
-        "c) Please",
-        "d) You're welcome"
+        "a) Red",
+        "b) Blue",
+        "c) Green",
+        "d) Yellow"
       ],
-      "correta": 2,
-      "explicacao": "'Por favor' is 'Please'."
+      "correta": 1,
+      "explicacao": "The sky is usually blue."
     },
     {
       "id": 4,
-      "pergunta": "What is the English word for 'Obrigado'?",
+      "pergunta": "What is the English word for 'Gato'?",
       "opcoes": [
-        "a) Please",
-        "b) Sorry",
-        "c) Thank you",
-        "d) Welcome"
-      ],
-      "correta": 2,
-      "explicacao": "'Obrigado' is 'Thank you'."
-    },
-    {
-      "id": 5,
-      "pergunta": "How do you say 'Desculpe' in English?",
-      "opcoes": [
-        "a) Please",
-        "b) Thank you",
-        "c) Sorry",
-        "d) Excuse me"
-      ],
-      "correta": 2,
-      "explicacao": "'Desculpe' can be 'Sorry' or 'Excuse me' depending on context."
-    },
-    {
-      "id": 6,
-      "pergunta": "What is the English word for 'Sim'?",
-      "opcoes": [
-        "a) No",
-        "b) Yes",
-        "c) Okay",
-        "d) Fine"
-      ],
-      "correta": 1,
-      "explicacao": "'Sim' is 'Yes'."
-    },
-    {
-      "id": 7,
-      "pergunta": "How do you say 'Não' in English?",
-      "opcoes": [
-        "a) Yes",
-        "b) No",
-        "c) Not",
-        "d) Never"
-      ],
-      "correta": 1,
-      "explicacao": "'Não' is 'No'."
-    },
-    {
-      "id": 8,
-      "pergunta": "What is the English word for 'Casa'?",
-      "opcoes": [
-        "a) House",
-        "b) Home",
-        "c) Apartment",
-        "d) Building"
-      ],
-      "correta": 0,
-      "explicacao": "'Casa' can be 'house' (building) or 'home' (place). 'House' is more literal."
-    },
-    {
-      "id": 9,
-      "pergunta": "How do you say 'Carro' in English?",
-      "opcoes": [
-        "a) Bus",
-        "b) Car",
-        "c) Truck",
-        "d) Bicycle"
-      ],
-      "correta": 1,
-      "explicacao": "'Carro' is 'Car'."
-    },
-    {
-      "id": 10,
-      "pergunta": "What is the English word for 'Cachorro'?",
-      "opcoes": [
-        "a) Cat",
-        "b) Dog",
+        "a) Dog",
+        "b) Cat",
         "c) Bird",
         "d) Fish"
       ],
       "correta": 1,
-      "explicacao": "'Cachorro' is 'Dog'."
+      "explicacao": "Cat = gato."
+    },
+    {
+      "id": 5,
+      "pergunta": "What is the English word for 'Cachorro'?",
+      "opcoes": [
+        "a) Dog",
+        "b) Cat",
+        "c) Cow",
+        "d) Horse"
+      ],
+      "correta": 0,
+      "explicacao": "Dog = cachorro."
+    },
+    {
+      "id": 6,
+      "pergunta": "How do you say 'Obrigado' in English?",
+      "opcoes": [
+        "a) Please",
+        "b) Sorry",
+        "c) Thank you",
+        "d) Excuse me"
+      ],
+      "correta": 2,
+      "explicacao": "'Thank you' is used to express gratitude."
+    },
+    {
+      "id": 7,
+      "pergunta": "What is the English word for 'Por favor'?",
+      "opcoes": [
+        "a) Thank you",
+        "b) Sorry",
+        "c) Please",
+        "d) Welcome"
+      ],
+      "correta": 2,
+      "explicacao": "'Please' is used to make polite requests."
+    },
+    {
+      "id": 8,
+      "pergunta": "How do you say 'Desculpe' in English?",
+      "opcoes": [
+        "a) Thank you",
+        "b) Please",
+        "c) Sorry",
+        "d) Excuse me"
+      ],
+      "correta": 2,
+      "explicacao": "'Sorry' is used to apologize."
+    },
+    {
+      "id": 9,
+      "pergunta": "What is the English word for 'Com licença'?",
+      "opcoes": [
+        "a) Sorry",
+        "b) Excuse me",
+        "c) Please",
+        "d) Hello"
+      ],
+      "correta": 1,
+      "explicacao": "'Excuse me' is used to get attention or apologize."
+    },
+    {
+      "id": 10,
+      "pergunta": "What color is grass?",
+      "opcoes": [
+        "a) Blue",
+        "b) Red",
+        "c) Green",
+        "d) Yellow"
+      ],
+      "correta": 2,
+      "explicacao": "Grass is typically green."
     },
     {
       "id": 11,
-      "pergunta": "How do you say 'Gato' in English?",
+      "pergunta": "What is the English word for 'Maçã'?",
       "opcoes": [
-        "a) Cat",
-        "b) Dog",
-        "c) Rat",
-        "d) Mouse"
+        "a) Apple",
+        "b) Orange",
+        "c) Banana",
+        "d) Grape"
       ],
       "correta": 0,
-      "explicacao": "'Gato' is 'Cat'."
+      "explicacao": "Apple = maçã."
     },
     {
       "id": 12,
-      "pergunta": "What is the English word for 'Água'?",
+      "pergunta": "What is the English word for 'Banana'?",
       "opcoes": [
-        "a) Fire",
-        "b) Water",
-        "c) Air",
-        "d) Earth"
+        "a) Apple",
+        "b) Banana",
+        "c) Orange",
+        "d) Grape"
       ],
       "correta": 1,
-      "explicacao": "'Água' is 'Water'."
+      "explicacao": "Banana is the same in Portuguese and English."
     },
     {
       "id": 13,
-      "pergunta": "How do you say 'Fogo' in English?",
+      "pergunta": "How do you say 'Carro' in English?",
       "opcoes": [
-        "a) Fire",
-        "b) Water",
-        "c) Smoke",
-        "d) Heat"
+        "a) Bus",
+        "b) Car",
+        "c) Train",
+        "d) Bicycle"
       ],
-      "correta": 0,
-      "explicacao": "'Fogo' is 'Fire'."
+      "correta": 1,
+      "explicacao": "Car = carro."
     },
     {
       "id": 14,
-      "pergunta": "What is the English word for 'Comida'?",
+      "pergunta": "What is the English word for 'Casa'?",
+      "opcoes": [
+        "a) Home",
+        "b) House",
+        "c) Building",
+        "d) Apartment"
+      ],
+      "correta": 1,
+      "explicacao": "House = casa."
+    },
+    {
+      "id": 15,
+      "pergunta": "How do you say 'Água' in English?",
+      "opcoes": [
+        "a) Water",
+        "b) Fire",
+        "c) Air",
+        "d) Earth"
+      ],
+      "correta": 0,
+      "explicacao": "Water = água."
+    },
+    {
+      "id": 16,
+      "pergunta": "What is the English word for 'Fogo'?",
+      "opcoes": [
+        "a) Water",
+        "b) Fire",
+        "c) Smoke",
+        "d) Heat"
+      ],
+      "correta": 1,
+      "explicacao": "Fire = fogo."
+    },
+    {
+      "id": 17,
+      "pergunta": "How do you say 'Pai' in English?",
+      "opcoes": [
+        "a) Mother",
+        "b) Father",
+        "c) Brother",
+        "d) Sister"
+      ],
+      "correta": 1,
+      "explicacao": "Father = pai."
+    },
+    {
+      "id": 18,
+      "pergunta": "What is the English word for 'Mãe'?",
+      "opcoes": [
+        "a) Mother",
+        "b) Father",
+        "c) Aunt",
+        "d) Uncle"
+      ],
+      "correta": 0,
+      "explicacao": "Mother = mãe."
+    },
+    {
+      "id": 19,
+      "pergunta": "How do you say 'Irmão' in English?",
+      "opcoes": [
+        "a) Sister",
+        "b) Brother",
+        "c) Cousin",
+        "d) Nephew"
+      ],
+      "correta": 1,
+      "explicacao": "Brother = irmão."
+    },
+    {
+      "id": 20,
+      "pergunta": "What is the English word for 'Irmã'?",
+      "opcoes": [
+        "a) Sister",
+        "b) Brother",
+        "c) Mother",
+        "d) Father"
+      ],
+      "correta": 0,
+      "explicacao": "Sister = irmã."
+    },
+    {
+      "id": 21,
+      "pergunta": "How do you say 'Amigo' in English?",
+      "opcoes": [
+        "a) Enemy",
+        "b) Friend",
+        "c) Stranger",
+        "d) Relative"
+      ],
+      "correta": 1,
+      "explicacao": "Friend = amigo."
+    },
+    {
+      "id": 22,
+      "pergunta": "What is the English word for 'Escola'?",
+      "opcoes": [
+        "a) School",
+        "b) College",
+        "c) University",
+        "d) Classroom"
+      ],
+      "correta": 0,
+      "explicacao": "School = escola."
+    },
+    {
+      "id": 23,
+      "pergunta": "How do you say 'Professor' in English?",
+      "opcoes": [
+        "a) Student",
+        "b) Teacher",
+        "c) Principal",
+        "d) Director"
+      ],
+      "correta": 1,
+      "explicacao": "Teacher = professor."
+    },
+    {
+      "id": 24,
+      "pergunta": "What is the English word for 'Aluno'?",
+      "opcoes": [
+        "a) Student",
+        "b) Teacher",
+        "c) Pupil",
+        "d) Both A and C"
+      ],
+      "correta": 3,
+      "explicacao": "Student and pupil are synonyms."
+    },
+    {
+      "id": 25,
+      "pergunta": "How do you say 'Livro' in English?",
+      "opcoes": [
+        "a) Book",
+        "b) Notebook",
+        "c) Magazine",
+        "d) Newspaper"
+      ],
+      "correta": 0,
+      "explicacao": "Book = livro."
+    },
+    {
+      "id": 26,
+      "pergunta": "What is the English word for 'Mesa'?",
+      "opcoes": [
+        "a) Chair",
+        "b) Table",
+        "c) Desk",
+        "d) Bed"
+      ],
+      "correta": 1,
+      "explicacao": "Table = mesa."
+    },
+    {
+      "id": 27,
+      "pergunta": "How do you say 'Cadeira' in English?",
+      "opcoes": [
+        "a) Table",
+        "b) Chair",
+        "c) Stool",
+        "d) Bench"
+      ],
+      "correta": 1,
+      "explicacao": "Chair = cadeira."
+    },
+    {
+      "id": 28,
+      "pergunta": "What is the English word for 'Porta'?",
+      "opcoes": [
+        "a) Window",
+        "b) Door",
+        "c) Wall",
+        "d) Floor"
+      ],
+      "correta": 1,
+      "explicacao": "Door = porta."
+    },
+    {
+      "id": 29,
+      "pergunta": "How do you say 'Janela' in English?",
+      "opcoes": [
+        "a) Door",
+        "b) Window",
+        "c) Roof",
+        "d) Ceiling"
+      ],
+      "correta": 1,
+      "explicacao": "Window = janela."
+    },
+    {
+      "id": 30,
+      "pergunta": "What is the English word for 'Cama'?",
+      "opcoes": [
+        "a) Bed",
+        "b) Mattress",
+        "c) Pillow",
+        "d) Blanket"
+      ],
+      "correta": 0,
+      "explicacao": "Bed = cama."
+    },
+    {
+      "id": 31,
+      "pergunta": "How do you say 'Comida' in English?",
       "opcoes": [
         "a) Food",
         "b) Drink",
         "c) Meal",
-        "d) Dish"
+        "d) Snack"
       ],
       "correta": 0,
-      "explicacao": "'Comida' is 'Food'."
+      "explicacao": "Food = comida."
     },
     {
-      "id": 15,
-      "pergunta": "How do you say 'Bebida' in English?",
+      "id": 32,
+      "pergunta": "What is the English word for 'Bebida'?",
       "opcoes": [
         "a) Food",
         "b) Drink",
@@ -181,22 +385,10 @@
         "d) Juice"
       ],
       "correta": 1,
-      "explicacao": "'Bebida' is 'Drink'."
+      "explicacao": "Drink = bebida."
     },
     {
-      "id": 16,
-      "pergunta": "What is the English word for 'Pão'?",
-      "opcoes": [
-        "a) Bread",
-        "b) Cake",
-        "c) Pie",
-        "d) Cookie"
-      ],
-      "correta": 0,
-      "explicacao": "'Pão' is 'Bread'."
-    },
-    {
-      "id": 17,
+      "id": 33,
       "pergunta": "How do you say 'Leite' in English?",
       "opcoes": [
         "a) Milk",
@@ -205,35 +397,47 @@
         "d) Coffee"
       ],
       "correta": 0,
-      "explicacao": "'Leite' is 'Milk'."
+      "explicacao": "Milk = leite."
     },
     {
-      "id": 18,
-      "pergunta": "What is the English word for 'Ovo'?",
+      "id": 34,
+      "pergunta": "What is the English word for 'Pão'?",
+      "opcoes": [
+        "a) Bread",
+        "b) Cake",
+        "c) Cookie",
+        "d) Toast"
+      ],
+      "correta": 0,
+      "explicacao": "Bread = pão."
+    },
+    {
+      "id": 35,
+      "pergunta": "How do you say 'Ovo' in English?",
       "opcoes": [
         "a) Egg",
-        "b) Bread",
+        "b) Meat",
         "c) Cheese",
-        "d) Meat"
+        "d) Butter"
       ],
       "correta": 0,
-      "explicacao": "'Ovo' is 'Egg'."
+      "explicacao": "Egg = ovo."
     },
     {
-      "id": 19,
-      "pergunta": "How do you say 'Queijo' in English?",
+      "id": 36,
+      "pergunta": "What is the English word for 'Queijo'?",
       "opcoes": [
         "a) Cheese",
-        "b) Milk",
-        "c) Butter",
-        "d) Yogurt"
+        "b) Butter",
+        "c) Yogurt",
+        "d) Milk"
       ],
       "correta": 0,
-      "explicacao": "'Queijo' is 'Cheese'."
+      "explicacao": "Cheese = queijo."
     },
     {
-      "id": 20,
-      "pergunta": "What is the English word for 'Carne'?",
+      "id": 37,
+      "pergunta": "How do you say 'Carne' in English?",
       "opcoes": [
         "a) Meat",
         "b) Fish",
@@ -241,22 +445,10 @@
         "d) Beef"
       ],
       "correta": 0,
-      "explicacao": "'Carne' is 'Meat' (general)."
+      "explicacao": "Meat = carne."
     },
     {
-      "id": 21,
-      "pergunta": "How do you say 'Peixe' in English?",
-      "opcoes": [
-        "a) Fish",
-        "b) Meat",
-        "c) Chicken",
-        "d) Seafood"
-      ],
-      "correta": 0,
-      "explicacao": "'Peixe' is 'Fish'."
-    },
-    {
-      "id": 22,
+      "id": 38,
       "pergunta": "What is the English word for 'Fruta'?",
       "opcoes": [
         "a) Fruit",
@@ -265,343 +457,151 @@
         "d) Juice"
       ],
       "correta": 0,
-      "explicacao": "'Fruta' is 'Fruit'."
-    },
-    {
-      "id": 23,
-      "pergunta": "How do you say 'Maçã' in English?",
-      "opcoes": [
-        "a) Apple",
-        "b) Orange",
-        "c) Banana",
-        "d) Grape"
-      ],
-      "correta": 0,
-      "explicacao": "'Maçã' is 'Apple'."
-    },
-    {
-      "id": 24,
-      "pergunta": "What is the English word for 'Laranja'?",
-      "opcoes": [
-        "a) Apple",
-        "b) Orange",
-        "c) Lemon",
-        "d) Lime"
-      ],
-      "correta": 1,
-      "explicacao": "'Laranja' is 'Orange'."
-    },
-    {
-      "id": 25,
-      "pergunta": "How do you say 'Banana' in English?",
-      "opcoes": [
-        "a) Banana",
-        "b) Apple",
-        "c) Orange",
-        "d) Grape"
-      ],
-      "correta": 0,
-      "explicacao": "'Banana' is the same in English."
-    },
-    {
-      "id": 26,
-      "pergunta": "What is the English word for 'Vermelho'?",
-      "opcoes": [
-        "a) Red",
-        "b) Blue",
-        "c) Green",
-        "d) Yellow"
-      ],
-      "correta": 0,
-      "explicacao": "'Vermelho' is 'Red'."
-    },
-    {
-      "id": 27,
-      "pergunta": "How do you say 'Azul' in English?",
-      "opcoes": [
-        "a) Blue",
-        "b) Red",
-        "c) Green",
-        "d) Black"
-      ],
-      "correta": 0,
-      "explicacao": "'Azul' is 'Blue'."
-    },
-    {
-      "id": 28,
-      "pergunta": "What is the English word for 'Verde'?",
-      "opcoes": [
-        "a) Green",
-        "b) Yellow",
-        "c) Blue",
-        "d) Brown"
-      ],
-      "correta": 0,
-      "explicacao": "'Verde' is 'Green'."
-    },
-    {
-      "id": 29,
-      "pergunta": "How do you say 'Amarelo' in English?",
-      "opcoes": [
-        "a) Yellow",
-        "b) Red",
-        "c) Orange",
-        "d) Pink"
-      ],
-      "correta": 0,
-      "explicacao": "'Amarelo' is 'Yellow'."
-    },
-    {
-      "id": 30,
-      "pergunta": "What is the English word for 'Preto'?",
-      "opcoes": [
-        "a) Black",
-        "b) White",
-        "c) Brown",
-        "d) Gray"
-      ],
-      "correta": 0,
-      "explicacao": "'Preto' is 'Black'."
-    },
-    {
-      "id": 31,
-      "pergunta": "How do you say 'Branco' in English?",
-      "opcoes": [
-        "a) White",
-        "b) Black",
-        "c) Gray",
-        "d) Silver"
-      ],
-      "correta": 0,
-      "explicacao": "'Branco' is 'White'."
-    },
-    {
-      "id": 32,
-      "pergunta": "What is the English word for 'Pai'?",
-      "opcoes": [
-        "a) Father",
-        "b) Mother",
-        "c) Brother",
-        "d) Sister"
-      ],
-      "correta": 0,
-      "explicacao": "'Pai' is 'Father' or 'Dad'."
-    },
-    {
-      "id": 33,
-      "pergunta": "How do you say 'Mãe' in English?",
-      "opcoes": [
-        "a) Mother",
-        "b) Father",
-        "c) Sister",
-        "d) Brother"
-      ],
-      "correta": 0,
-      "explicacao": "'Mãe' is 'Mother' or 'Mom'."
-    },
-    {
-      "id": 34,
-      "pergunta": "What is the English word for 'Irmão'?",
-      "opcoes": [
-        "a) Brother",
-        "b) Sister",
-        "c) Cousin",
-        "d) Uncle"
-      ],
-      "correta": 0,
-      "explicacao": "'Irmão' is 'Brother'."
-    },
-    {
-      "id": 35,
-      "pergunta": "How do you say 'Irmã' in English?",
-      "opcoes": [
-        "a) Sister",
-        "b) Brother",
-        "c) Mother",
-        "d) Daughter"
-      ],
-      "correta": 0,
-      "explicacao": "'Irmã' is 'Sister'."
-    },
-    {
-      "id": 36,
-      "pergunta": "What is the English word for 'Filho'?",
-      "opcoes": [
-        "a) Son",
-        "b) Daughter",
-        "c) Child",
-        "d) Boy"
-      ],
-      "correta": 0,
-      "explicacao": "'Filho' is 'Son'."
-    },
-    {
-      "id": 37,
-      "pergunta": "How do you say 'Filha' in English?",
-      "opcoes": [
-        "a) Daughter",
-        "b) Son",
-        "c) Girl",
-        "d) Child"
-      ],
-      "correta": 0,
-      "explicacao": "'Filha' is 'Daughter'."
-    },
-    {
-      "id": 38,
-      "pergunta": "What is the English word for 'Amigo'?",
-      "opcoes": [
-        "a) Friend",
-        "b) Enemy",
-        "c) Neighbor",
-        "d) Colleague"
-      ],
-      "correta": 0,
-      "explicacao": "'Amigo' is 'Friend'."
+      "explicacao": "Fruit = fruta."
     },
     {
       "id": 39,
-      "pergunta": "How do you say 'Escola' in English?",
+      "pergunta": "How do you say 'Legume' in English?",
       "opcoes": [
-        "a) School",
-        "b) College",
-        "c) University",
-        "d) Class"
+        "a) Fruit",
+        "b) Vegetable",
+        "c) Grain",
+        "d) Nut"
       ],
-      "correta": 0,
-      "explicacao": "'Escola' is 'School'."
+      "correta": 1,
+      "explicacao": "Vegetable = legume."
     },
     {
       "id": 40,
-      "pergunta": "What is the English word for 'Professor'?",
+      "pergunta": "What is the English word for 'Sol'?",
       "opcoes": [
-        "a) Teacher",
-        "b) Student",
-        "c) Principal",
-        "d) Professor"
+        "a) Sun",
+        "b) Moon",
+        "c) Star",
+        "d) Sky"
       ],
       "correta": 0,
-      "explicacao": "'Professor' can be 'Teacher' (school) or 'Professor' (university)."
+      "explicacao": "Sun = sol."
     },
     {
       "id": 41,
-      "pergunta": "How do you say 'Aluno' in English?",
+      "pergunta": "How do you say 'Lua' in English?",
       "opcoes": [
-        "a) Student",
-        "b) Teacher",
-        "c) Pupil",
-        "d) Learner"
+        "a) Sun",
+        "b) Moon",
+        "c) Star",
+        "d) Earth"
       ],
-      "correta": 0,
-      "explicacao": "'Aluno' is 'Student'."
+      "correta": 1,
+      "explicacao": "Moon = lua."
     },
     {
       "id": 42,
-      "pergunta": "What is the English word for 'Livro'?",
+      "pergunta": "What is the English word for 'Estrela'?",
       "opcoes": [
-        "a) Book",
-        "b) Notebook",
-        "c) Magazine",
-        "d) Newspaper"
+        "a) Sun",
+        "b) Moon",
+        "c) Star",
+        "d) Planet"
       ],
-      "correta": 0,
-      "explicacao": "'Livro' is 'Book'."
+      "correta": 2,
+      "explicacao": "Star = estrela."
     },
     {
       "id": 43,
-      "pergunta": "How do you say 'Cadeira' in English?",
+      "pergunta": "How do you say 'Chuva' in English?",
       "opcoes": [
-        "a) Chair",
-        "b) Table",
-        "c) Desk",
-        "d) Stool"
+        "a) Rain",
+        "b) Snow",
+        "c) Wind",
+        "d) Storm"
       ],
       "correta": 0,
-      "explicacao": "'Cadeira' is 'Chair'."
+      "explicacao": "Rain = chuva."
     },
     {
       "id": 44,
-      "pergunta": "What is the English word for 'Mesa'?",
+      "pergunta": "What is the English word for 'Neve'?",
       "opcoes": [
-        "a) Table",
-        "b) Desk",
-        "c) Chair",
-        "d) Board"
+        "a) Rain",
+        "b) Snow",
+        "c) Ice",
+        "d) Cold"
       ],
-      "correta": 0,
-      "explicacao": "'Mesa' is 'Table'."
+      "correta": 1,
+      "explicacao": "Snow = neve."
     },
     {
       "id": 45,
-      "pergunta": "How do you say 'Porta' in English?",
+      "pergunta": "How do you say 'Vento' in English?",
       "opcoes": [
-        "a) Door",
-        "b) Window",
-        "c) Wall",
-        "d) Floor"
+        "a) Wind",
+        "b) Air",
+        "c) Breeze",
+        "d) Storm"
       ],
       "correta": 0,
-      "explicacao": "'Porta' is 'Door'."
+      "explicacao": "Wind = vento."
     },
     {
       "id": 46,
-      "pergunta": "What is the English word for 'Janela'?",
+      "pergunta": "What is the English word for 'Frio'?",
       "opcoes": [
-        "a) Window",
-        "b) Door",
-        "c) Wall",
-        "d) Roof"
+        "a) Cold",
+        "b) Hot",
+        "c) Warm",
+        "d) Cool"
       ],
       "correta": 0,
-      "explicacao": "'Janela' is 'Window'."
+      "explicacao": "Cold = frio."
     },
     {
       "id": 47,
-      "pergunta": "How do you say 'Cidade' in English?",
+      "pergunta": "How do you say 'Quente' in English?",
       "opcoes": [
-        "a) City",
-        "b) Town",
-        "c) Village",
-        "d) Country"
+        "a) Cold",
+        "b) Hot",
+        "c) Warm",
+        "d) Cool"
       ],
-      "correta": 0,
-      "explicacao": "'Cidade' is 'City'."
+      "correta": 1,
+      "explicacao": "Hot = quente."
     },
     {
       "id": 48,
-      "pergunta": "What is the English word for 'País'?",
+      "pergunta": "What is the English word for 'Roupa'?",
       "opcoes": [
-        "a) Country",
-        "b) City",
-        "c) State",
-        "d) Nation"
+        "a) Clothes",
+        "b) Shirt",
+        "c) Pants",
+        "d) Dress"
       ],
       "correta": 0,
-      "explicacao": "'País' is 'Country'."
+      "explicacao": "Clothes = roupa (general)."
     },
     {
       "id": 49,
-      "pergunta": "How do you say 'Rua' in English?",
+      "pergunta": "How do you say 'Camisa' in English?",
       "opcoes": [
-        "a) Street",
-        "b) Avenue",
-        "c) Road",
-        "d) Lane"
+        "a) Shirt",
+        "b) T-shirt",
+        "c) Blouse",
+        "d) Sweater"
       ],
       "correta": 0,
-      "explicacao": "'Rua' is 'Street'."
+      "explicacao": "Shirt = camisa."
     },
     {
       "id": 50,
-      "pergunta": "What is the English word for 'Número'?",
+      "pergunta": "What is the English word for 'Calça'?",
       "opcoes": [
-        "a) Number",
-        "b) Numeral",
-        "c) Digit",
-        "d) Figure"
+        "a) Pants",
+        "b) Jeans",
+        "c) Shorts",
+        "d) Trousers"
       ],
-      "correta": 0,
-      "explicacao": "'Número' is 'Number'."
+      "correta": 3,
+      "explicacao": "Trousers (British) or pants (American) = calça."
     }
   ]
 }
