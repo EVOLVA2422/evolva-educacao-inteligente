@@ -1,1 +1,367 @@
-
+{
+  "materia": "Equações",
+  "nivel": 3,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Qual é o valor de x em x + 5 = 12?",
+      "opcoes": [
+        "a) 5",
+        "b) 6",
+        "c) 7",
+        "d) 8"
+      ],
+      "correta": 2,
+      "explicacao": "x = 12 - 5 = 7."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual é o valor de x em 2x = 18?",
+      "opcoes": [
+        "a) 6",
+        "b) 7",
+        "c) 8",
+        "d) 9"
+      ],
+      "correta": 3,
+      "explicacao": "x = 18 ÷ 2 = 9."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual é o valor de x em x - 7 = 10?",
+      "opcoes": [
+        "a) 3",
+        "b) 10",
+        "c) 17",
+        "d) 20"
+      ],
+      "correta": 2,
+      "explicacao": "x = 10 + 7 = 17."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual é o valor de x em x/3 = 5?",
+      "opcoes": [
+        "a) 8",
+        "b) 10",
+        "c) 12",
+        "d) 15"
+      ],
+      "correta": 3,
+      "explicacao": "x = 5 × 3 = 15."
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual é o valor de x em 3x + 2 = 14?",
+      "opcoes": [
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5"
+      ],
+      "correta": 2,
+      "explicacao": "3x = 14 - 2 = 12; x = 12 ÷ 3 = 4."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual é o valor de x em 2x - 5 = 9?",
+      "opcoes": [
+        "a) 5",
+        "b) 6",
+        "c) 7",
+        "d) 8"
+      ],
+      "correta": 2,
+      "explicacao": "2x = 9 + 5 = 14; x = 14 ÷ 2 = 7."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual é o valor de x em 4x + 3 = 19?",
+      "opcoes": [
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5"
+      ],
+      "correta": 2,
+      "explicacao": "4x = 19 - 3 = 16; x = 16 ÷ 4 = 4."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual é o valor de x em 5x - 7 = 18?",
+      "opcoes": [
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) 6"
+      ],
+      "correta": 2,
+      "explicacao": "5x = 18 + 7 = 25; x = 25 ÷ 5 = 5."
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual é o valor de x em 2(x + 3) = 16?",
+      "opcoes": [
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) 6"
+      ],
+      "correta": 2,
+      "explicacao": "2x + 6 = 16; 2x = 10; x = 5."
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual é o valor de x em 3(x - 2) = 15?",
+      "opcoes": [
+        "a) 5",
+        "b) 6",
+        "c) 7",
+        "d) 8"
+      ],
+      "correta": 2,
+      "explicacao": "3x - 6 = 15; 3x = 21; x = 7."
+    },
+    {
+      "id": 11,
+      "pergunta": "Qual é o valor de x em 2x + 3 = x + 8?",
+      "opcoes": [
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) 6"
+      ],
+      "correta": 2,
+      "explicacao": "2x - x = 8 - 3; x = 5."
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual é o valor de x em 3x - 4 = 2x + 5?",
+      "opcoes": [
+        "a) 7",
+        "b) 8",
+        "c) 9",
+        "d) 10"
+      ],
+      "correta": 2,
+      "explicacao": "3x - 2x = 5 + 4; x = 9."
+    },
+    {
+      "id": 13,
+      "pergunta": "Qual é o valor de x em 4x + 2 = 2x + 10?",
+      "opcoes": [
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5"
+      ],
+      "correta": 2,
+      "explicacao": "4x - 2x = 10 - 2; 2x = 8; x = 4."
+    },
+    {
+      "id": 14,
+      "pergunta": "Qual é o valor de x em 5x - 3 = 3x + 7?",
+      "opcoes": [
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) 6"
+      ],
+      "correta": 2,
+      "explicacao": "5x - 3x = 7 + 3; 2x = 10; x = 5."
+    },
+    {
+      "id": 15,
+      "pergunta": "Qual é o valor de x em 2x/3 = 4?",
+      "opcoes": [
+        "a) 4",
+        "b) 6",
+        "c) 8",
+        "d) 12"
+      ],
+      "correta": 1,
+      "explicacao": "2x = 12; x = 6."
+    },
+    {
+      "id": 16,
+      "pergunta": "Qual é o valor de x em 3x/4 = 6?",
+      "opcoes": [
+        "a) 6",
+        "b) 7",
+        "c) 8",
+        "d) 9"
+      ],
+      "correta": 2,
+      "explicacao": "3x = 24; x = 8."
+    },
+    {
+      "id": 17,
+      "pergunta": "Qual é o valor de x em x/2 + 3 = 7?",
+      "opcoes": [
+        "a) 4",
+        "b) 5",
+        "c) 6",
+        "d) 8"
+      ],
+      "correta": 3,
+      "explicacao": "x/2 = 4; x = 8."
+    },
+    {
+      "id": 18,
+      "pergunta": "Qual é o valor de x em 2x - 1 = 3x - 5?",
+      "opcoes": [
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5"
+      ],
+      "correta": 2,
+      "explicacao": "2x - 3x = -5 + 1; -x = -4; x = 4."
+    },
+    {
+      "id": 19,
+      "pergunta": "Qual é o valor de x em 3(x - 1) = 2(x + 2)?",
+      "opcoes": [
+        "a) 5",
+        "b) 6",
+        "c) 7",
+        "d) 8"
+      ],
+      "correta": 2,
+      "explicacao": "3x - 3 = 2x + 4; 3x - 2x = 4 + 3; x = 7."
+    },
+    {
+      "id": 20,
+      "pergunta": "Qual é o valor de x em 4x + 5 = 2x + 13?",
+      "opcoes": [
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5"
+      ],
+      "correta": 2,
+      "explicacao": "4x - 2x = 13 - 5; 2x = 8; x = 4."
+    },
+    {
+      "id": 21,
+      "pergunta": "Qual é o valor de x em 6x - 4 = 2x + 12?",
+      "opcoes": [
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5"
+      ],
+      "correta": 2,
+      "explicacao": "6x - 2x = 12 + 4; 4x = 16; x = 4."
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual é o valor de x em 7x + 2 = 3x + 18?",
+      "opcoes": [
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5"
+      ],
+      "correta": 2,
+      "explicacao": "7x - 3x = 18 - 2; 4x = 16; x = 4."
+    },
+    {
+      "id": 23,
+      "pergunta": "Qual é o valor de x em 5(x - 2) = 3(x + 2)?",
+      "opcoes": [
+        "a) 6",
+        "b) 7",
+        "c) 8",
+        "d) 9"
+      ],
+      "correta": 1,
+      "explicacao": "5x - 10 = 3x + 6; 5x - 3x = 6 + 10; 2x = 16; x = 8."
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual é o valor de x em 2(3x - 1) = 4(x + 2)?",
+      "opcoes": [
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) 6"
+      ],
+      "correta": 2,
+      "explicacao": "6x - 2 = 4x + 8; 6x - 4x = 8 + 2; 2x = 10; x = 5."
+    },
+    {
+      "id": 25,
+      "pergunta": "Qual é o valor de x em x + 4 = 2x - 3?",
+      "opcoes": [
+        "a) 5",
+        "b) 6",
+        "c) 7",
+        "d) 8"
+      ],
+      "correta": 2,
+      "explicacao": "x - 2x = -3 - 4; -x = -7; x = 7."
+    },
+    {
+      "id": 26,
+      "pergunta": "Qual é o valor de x em 3x + 2 = 5x - 8?",
+      "opcoes": [
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) 6"
+      ],
+      "correta": 2,
+      "explicacao": "3x - 5x = -8 - 2; -2x = -10; x = 5."
+    },
+    {
+      "id": 27,
+      "pergunta": "Qual é o valor de x em 4x - 3 = 2x + 9?",
+      "opcoes": [
+        "a) 4",
+        "b) 5",
+        "c) 6",
+        "d) 7"
+      ],
+      "correta": 2,
+      "explicacao": "4x - 2x = 9 + 3; 2x = 12; x = 6."
+    },
+    {
+      "id": 28,
+      "pergunta": "Qual é o valor de x em 8x - 5 = 3x + 20?",
+      "opcoes": [
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) 6"
+      ],
+      "correta": 2,
+      "explicacao": "8x - 3x = 20 + 5; 5x = 25; x = 5."
+    },
+    {
+      "id": 29,
+      "pergunta": "Qual é o valor de x em 2x + 7 = 3x - 2?",
+      "opcoes": [
+        "a) 5",
+        "b) 6",
+        "c) 7",
+        "d) 8"
+      ],
+      "correta": 2,
+      "explicacao": "2x - 3x = -2 - 7; -x = -9; x = 9."
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual é o valor de x em 9x - 4 = 5x + 12?",
+      "opcoes": [
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5"
+      ],
+      "correta": 2,
+      "explicacao": "9x - 5x = 12 + 4; 4x = 16; x = 4."
+    }
+  ]
+}
