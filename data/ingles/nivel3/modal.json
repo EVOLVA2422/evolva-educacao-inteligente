@@ -1,1 +1,607 @@
-
+{
+  "materia": "Modal Verbs",
+  "nivel": 3,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Which modal expresses ability in the present?",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) should"
+      ],
+      "correta": 1,
+      "explicacao": "'Can' is used to express ability (e.g., I can swim)."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete: 'You _____ be tired after that long journey.'",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) should"
+      ],
+      "correta": 0,
+      "explicacao": "'Must' is used for logical deduction (certainty)."
+    },
+    {
+      "id": 3,
+      "pergunta": "Choose the correct: '_____ I come in?'",
+      "opcoes": [
+        "a) May",
+        "b) Must",
+        "c) Should",
+        "d) Need"
+      ],
+      "correta": 0,
+      "explicacao": "'May' is used to ask for permission politely."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete: 'You _____ smoke here. It's forbidden.'",
+      "opcoes": [
+        "a) mustn't",
+        "b) don't have to",
+        "c) can't",
+        "d) shouldn't"
+      ],
+      "correta": 0,
+      "explicacao": "'Mustn't' expresses prohibition."
+    },
+    {
+      "id": 5,
+      "pergunta": "What does 'should' express?",
+      "opcoes": [
+        "a) obligation",
+        "b) advice",
+        "c) ability",
+        "d) permission"
+      ],
+      "correta": 1,
+      "explicacao": "'Should' is used to give advice or recommendations."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'He _____ be at home. I saw his car.'",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "'Must' for strong logical deduction."
+    },
+    {
+      "id": 7,
+      "pergunta": "Choose the correct: 'You _____ come to the party if you don't want to.'",
+      "opcoes": [
+        "a) mustn't",
+        "b) don't have to",
+        "c) can't",
+        "d) shouldn't"
+      ],
+      "correta": 1,
+      "explicacao": "'Don't have to' means no obligation (optional)."
+    },
+    {
+      "id": 8,
+      "pergunta": "Complete: 'I'm not sure, but it _____ rain later.'",
+      "opcoes": [
+        "a) must",
+        "b) might",
+        "c) can",
+        "d) should"
+      ],
+      "correta": 1,
+      "explicacao": "'Might' expresses possibility (uncertain)."
+    },
+    {
+      "id": 9,
+      "pergunta": "What does 'can't' express in 'He can't be serious!'?",
+      "opcoes": [
+        "a) ability",
+        "b) impossibility",
+        "c) prohibition",
+        "d) deduction (negative)"
+      ],
+      "correta": 3,
+      "explicacao": "'Can't' is used for negative logical deduction (impossibility)."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'You _____ see the doctor if you feel worse.'",
+      "opcoes": [
+        "a) should",
+        "b) can",
+        "c) must",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "'Should' gives advice."
+    },
+    {
+      "id": 11,
+      "pergunta": "Choose the correct: '_____ you play the guitar?'",
+      "opcoes": [
+        "a) Can",
+        "b) May",
+        "c) Must",
+        "d) Should"
+      ],
+      "correta": 0,
+      "explicacao": "'Can' asks about ability."
+    },
+    {
+      "id": 12,
+      "pergunta": "Complete: 'You _____ be late for the meeting. It's important.'",
+      "opcoes": [
+        "a) mustn't",
+        "b) don't have to",
+        "c) can't",
+        "d) shouldn't"
+      ],
+      "correta": 0,
+      "explicacao": "'Mustn't' expresses strong prohibition/necessity not to."
+    },
+    {
+      "id": 13,
+      "pergunta": "What does 'have to' express?",
+      "opcoes": [
+        "a) advice",
+        "b) external obligation",
+        "c) ability",
+        "d) permission"
+      ],
+      "correta": 1,
+      "explicacao": "'Have to' expresses external obligation (not self-imposed)."
+    },
+    {
+      "id": 14,
+      "pergunta": "Complete: 'She _____ be at work now. It's 9 am.'",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "Logical deduction based on known facts."
+    },
+    {
+      "id": 15,
+      "pergunta": "Choose the correct: 'I _____ go to the gym, but I'm not sure yet.'",
+      "opcoes": [
+        "a) may",
+        "b) must",
+        "c) can",
+        "d) should"
+      ],
+      "correta": 0,
+      "explicacao": "'May' expresses possibility."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: 'You _____ be quiet in the library.'",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "Rule/obligation: must."
+    },
+    {
+      "id": 17,
+      "pergunta": "What does 'could' express in 'I could swim when I was five'?",
+      "opcoes": [
+        "a) past ability",
+        "b) possibility",
+        "c) permission",
+        "d) advice"
+      ],
+      "correta": 0,
+      "explicacao": "'Could' is the past of 'can' for ability."
+    },
+    {
+      "id": 18,
+      "pergunta": "Complete: 'It's late. I _____ go now.'",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) should"
+      ],
+      "correta": 0,
+      "explicacao": "Strong necessity: must."
+    },
+    {
+      "id": 19,
+      "pergunta": "Choose the correct: 'You _____ eat so much sugar. It's bad for you.'",
+      "opcoes": [
+        "a) shouldn't",
+        "b) mustn't",
+        "c) can't",
+        "d) don't have to"
+      ],
+      "correta": 0,
+      "explicacao": "'Shouldn't' gives advice against something."
+    },
+    {
+      "id": 20,
+      "pergunta": "Complete: 'I _____ help you if you want.'",
+      "opcoes": [
+        "a) can",
+        "b) must",
+        "c) may",
+        "d) should"
+      ],
+      "correta": 0,
+      "explicacao": "'Can' offers ability/possibility."
+    },
+    {
+      "id": 21,
+      "pergunta": "What does 'needn't' mean?",
+      "opcoes": [
+        "a) lack of necessity",
+        "b) prohibition",
+        "c) advice",
+        "d) ability"
+      ],
+      "correta": 0,
+      "explicacao": "'Needn't' or 'don't need to' expresses lack of necessity."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'You _____ worry. Everything will be fine.'",
+      "opcoes": [
+        "a) needn't",
+        "b) mustn't",
+        "c) can't",
+        "d) shouldn't"
+      ],
+      "correta": 0,
+      "explicacao": "'Needn't' (or 'don't need to') means it's not necessary."
+    },
+    {
+      "id": 23,
+      "pergunta": "Choose the correct: 'She _____ speak three languages.'",
+      "opcoes": [
+        "a) can",
+        "b) must",
+        "c) may",
+        "d) should"
+      ],
+      "correta": 0,
+      "explicacao": "Ability: can."
+    },
+    {
+      "id": 24,
+      "pergunta": "Complete: 'I'm not sure, but I _____ come later.'",
+      "opcoes": [
+        "a) might",
+        "b) must",
+        "c) can",
+        "d) should"
+      ],
+      "correta": 0,
+      "explicacao": "Possibility: might."
+    },
+    {
+      "id": 25,
+      "pergunta": "What does 'shall' express in offers?",
+      "opcoes": [
+        "a) obligation",
+        "b) suggestion/offer",
+        "c) ability",
+        "d) permission"
+      ],
+      "correta": 1,
+      "explicacao": "'Shall I...?' is used to make offers or suggestions."
+    },
+    {
+      "id": 26,
+      "pergunta": "Complete: 'You _____ leave your luggage here unattended.'",
+      "opcoes": [
+        "a) mustn't",
+        "b) don't have to",
+        "c) can't",
+        "d) shouldn't"
+      ],
+      "correta": 0,
+      "explicacao": "Prohibition: mustn't."
+    },
+    {
+      "id": 27,
+      "pergunta": "Choose the correct: 'It's a secret. You _____ tell anyone.'",
+      "opcoes": [
+        "a) mustn't",
+        "b) don't have to",
+        "c) can't",
+        "d) shouldn't"
+      ],
+      "correta": 0,
+      "explicacao": "Strong prohibition: mustn't."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'I _____ find my keys. Have you seen them?'",
+      "opcoes": [
+        "a) can't",
+        "b) mustn't",
+        "c) don't have to",
+        "d) shouldn't"
+      ],
+      "correta": 0,
+      "explicacao": "Lack of ability at present: can't."
+    },
+    {
+      "id": 29,
+      "pergunta": "What does 'would' express in 'I would like some coffee'?",
+      "opcoes": [
+        "a) polite request",
+        "b) past habit",
+        "c) condition",
+        "d) ability"
+      ],
+      "correta": 0,
+      "explicacao": "'Would like' is a polite way to want something."
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: 'You _____ be joking! That's incredible.'",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "'Must' for logical deduction."
+    },
+    {
+      "id": 31,
+      "pergunta": "Choose the correct: '_____ I open the window?'",
+      "opcoes": [
+        "a) May",
+        "b) Must",
+        "c) Should",
+        "d) Can"
+      ],
+      "correta": 0,
+      "explicacao": "Asking for permission: May (polite) or Can (less formal)."
+    },
+    {
+      "id": 32,
+      "pergunta": "Complete: 'He _____ be at home because his car is gone.'",
+      "opcoes": [
+        "a) can't",
+        "b) mustn't",
+        "c) shouldn't",
+        "d) might not"
+      ],
+      "correta": 0,
+      "explicacao": "Negative deduction: can't."
+    },
+    {
+      "id": 33,
+      "pergunta": "What does 'ought to' express?",
+      "opcoes": [
+        "a) strong obligation",
+        "b) advice/moral duty",
+        "c) ability",
+        "d) possibility"
+      ],
+      "correta": 1,
+      "explicacao": "'Ought to' is similar to 'should' (advice)."
+    },
+    {
+      "id": 34,
+      "pergunta": "Complete: 'We _____ hurry or we'll be late.'",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "Necessity: must."
+    },
+    {
+      "id": 35,
+      "pergunta": "Choose the correct: 'I _____ go to the party, but I'm not sure.'",
+      "opcoes": [
+        "a) may",
+        "b) must",
+        "c) can",
+        "d) should"
+      ],
+      "correta": 0,
+      "explicacao": "Possibility: may."
+    },
+    {
+      "id": 36,
+      "pergunta": "Complete: 'She _____ be at work. I saw her at the mall.'",
+      "opcoes": [
+        "a) can't",
+        "b) mustn't",
+        "c) shouldn't",
+        "d) might not"
+      ],
+      "correta": 0,
+      "explicacao": "Negative deduction: can't."
+    },
+    {
+      "id": 37,
+      "pergunta": "What does 'used to' express?",
+      "opcoes": [
+        "a) past habit",
+        "b) present ability",
+        "c) future possibility",
+        "d) obligation"
+      ],
+      "correta": 0,
+      "explicacao": "'Used to' expresses past habits or states that are no longer true."
+    },
+    {
+      "id": 38,
+      "pergunta": "Complete: 'You _____ take an umbrella. It's going to rain.'",
+      "opcoes": [
+        "a) should",
+        "b) can",
+        "c) may",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "Advice: should."
+    },
+    {
+      "id": 39,
+      "pergunta": "Choose the correct: 'I'm afraid I _____ come to the party.'",
+      "opcoes": [
+        "a) can't",
+        "b) mustn't",
+        "c) shouldn't",
+        "d) don't have to"
+      ],
+      "correta": 0,
+      "explicacao": "Inability: can't."
+    },
+    {
+      "id": 40,
+      "pergunta": "Complete: '_____ you pass me the salt, please?'",
+      "opcoes": [
+        "a) Could",
+        "b) Must",
+        "c) May",
+        "d) Should"
+      ],
+      "correta": 0,
+      "explicacao": "'Could' is a polite way to ask for something."
+    },
+    {
+      "id": 41,
+      "pergunta": "What does 'will' express in promises?",
+      "opcoes": [
+        "a) future intention",
+        "b) ability",
+        "c) obligation",
+        "d) permission"
+      ],
+      "correta": 0,
+      "explicacao": "'Will' expresses future intention or promise."
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: 'You _____ be very tired after that long flight.'",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "Logical deduction: must."
+    },
+    {
+      "id": 43,
+      "pergunta": "Choose the correct: 'I _____ get up early tomorrow.'",
+      "opcoes": [
+        "a) have to",
+        "b) can",
+        "c) may",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "Obligation: have to."
+    },
+    {
+      "id": 44,
+      "pergunta": "Complete: 'You _____ be serious! That's impossible.'",
+      "opcoes": [
+        "a) can't",
+        "b) mustn't",
+        "c) shouldn't",
+        "d) don't have to"
+      ],
+      "correta": 0,
+      "explicacao": "Negative deduction: can't."
+    },
+    {
+      "id": 45,
+      "pergunta": "What does 'shall' express in 'We shall overcome'?",
+      "opcoes": [
+        "a) determination",
+        "b) suggestion",
+        "c) obligation",
+        "d) permission"
+      ],
+      "correta": 0,
+      "explicacao": "'Shall' can express determination or strong intention."
+    },
+    {
+      "id": 46,
+      "pergunta": "Complete: 'You _____ see that film. It's amazing.'",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "Strong recommendation: must."
+    },
+    {
+      "id": 47,
+      "pergunta": "Choose the correct: 'I _____ speak to you now. I'm busy.'",
+      "opcoes": [
+        "a) can't",
+        "b) mustn't",
+        "c) shouldn't",
+        "d) don't have to"
+      ],
+      "correta": 0,
+      "explicacao": "Inability at present: can't."
+    },
+    {
+      "id": 48,
+      "pergunta": "Complete: 'It's late. I _____ go now.'",
+      "opcoes": [
+        "a) must",
+        "b) can",
+        "c) may",
+        "d) might"
+      ],
+      "correta": 0,
+      "explicacao": "Necessity: must."
+    },
+    {
+      "id": 49,
+      "pergunta": "What does 'could' express in 'It could rain later'?",
+      "opcoes": [
+        "a) possibility",
+        "b) past ability",
+        "c) permission",
+        "d) advice"
+      ],
+      "correta": 0,
+      "explicacao": "'Could' can express present possibility (less certain than 'may')."
+    },
+    {
+      "id": 50,
+      "pergunta": "Complete: 'You _____ tell anyone what I said.'",
+      "opcoes": [
+        "a) mustn't",
+        "b) don't have to",
+        "c) can't",
+        "d) shouldn't"
+      ],
+      "correta": 0,
+      "explicacao": "Prohibition: mustn't."
+    }
+  ]
+}
