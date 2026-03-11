@@ -1,1 +1,127 @@
-
+{
+  "materia": "Sintaxe",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Na frase 'João comprou um livro', o sujeito é:",
+      "opcoes": [
+        "a) João",
+        "b) comprou",
+        "c) um livro",
+        "d) livro"
+      ],
+      "correta": 0,
+      "explicacao": "Sujeito é quem pratica a ação: João."
+    },
+    {
+      "id": 2,
+      "pergunta": "Em 'As flores são lindas', o predicado é:",
+      "opcoes": [
+        "a) As flores",
+        "b) são lindas",
+        "c) lindas",
+        "d) flores"
+      ],
+      "correta": 1,
+      "explicacao": "Predicado é tudo que se declara sobre o sujeito: 'são lindas'."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual é o sujeito da frase 'Choveu muito ontem'?",
+      "opcoes": [
+        "a) Choveu",
+        "b) muito",
+        "c) ontem",
+        "d) oração sem sujeito"
+      ],
+      "correta": 3,
+      "explicacao": "Verbos que indicam fenômenos da natureza (chover, nevar) formam orações sem sujeito."
+    },
+    {
+      "id": 4,
+      "pergunta": "Na frase 'Maria e João estudam juntos', o sujeito é:",
+      "opcoes": [
+        "a) simples",
+        "b) composto",
+        "c) oculto",
+        "d) indeterminado"
+      ],
+      "correta": 1,
+      "explicacao": "Sujeito composto tem dois ou mais núcleos: Maria e João."
+    },
+    {
+      "id": 5,
+      "pergunta": "Em 'Precisa-se de ajudantes', o sujeito é:",
+      "opcoes": [
+        "a) simples",
+        "b) composto",
+        "c) oculto",
+        "d) indeterminado"
+      ],
+      "correta": 3,
+      "explicacao": "Verbo na 3ª pessoa + 'se' indica sujeito indeterminado."
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual frase tem sujeito oculto?",
+      "opcoes": [
+        "a) Estudei a noite toda",
+        "b) O carro quebrou",
+        "c) Faz calor hoje",
+        "d) Há livros na mesa"
+      ],
+      "correta": 0,
+      "explicacao": "'Estudei' - sujeito oculto (eu) identificado pela desinência verbal."
+    },
+    {
+      "id": 7,
+      "pergunta": "Na frase 'O professor explicou a matéria', o termo 'a matéria' é:",
+      "opcoes": [
+        "a) sujeito",
+        "b) predicado",
+        "c) objeto direto",
+        "d) adjunto adverbial"
+      ],
+      "correta": 2,
+      "explicacao": "'a matéria' complementa o verbo explicar sem preposição, é objeto direto."
+    },
+    {
+      "id": 8,
+      "pergunta": "Em 'Gosto de chocolate', o termo 'de chocolate' é:",
+      "opcoes": [
+        "a) objeto direto",
+        "b) objeto indireto",
+        "c) adjunto adnominal",
+        "d) complemento nominal"
+      ],
+      "correta": 1,
+      "explicacao": "O verbo 'gostar' exige preposição 'de', portanto 'de chocolate' é objeto indireto."
+    },
+    {
+      "id": 9,
+      "pergunta": "Na frase 'Ela chegou cedo', a palavra 'cedo' é:",
+      "opcoes": [
+        "a) objeto direto",
+        "b) adjunto adverbial",
+        "c) predicativo",
+        "d) sujeito"
+      ],
+      "correta": 1,
+      "explicacao": "'cedo' indica circunstância de tempo, é adjunto adverbial."
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual é o núcleo do sujeito em 'Os alunos dedicados estudam muito'?",
+      "opcoes": [
+        "a) Os",
+        "b) alunos",
+        "c) dedicados",
+        "d) muito"
+      ],
+      "correta": 1,
+      "explicacao": "Núcleo do sujeito é a palavra principal: 'alunos'."
+    }
+  ]
+}
