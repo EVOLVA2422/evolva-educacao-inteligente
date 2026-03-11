@@ -1,1 +1,127 @@
-
+{
+  "materia": "Fonética e Fonologia",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Na palavra 'BORBOLETA', quantas sílabas existem?",
+      "opcoes": [
+        "a) 3 sílabas",
+        "b) 4 sílabas", 
+        "c) 5 sílabas",
+        "d) 6 sílabas"
+      ],
+      "correta": 1,
+      "explicacao": "Bor-bo-le-ta tem 4 sílabas."
+    },
+    {
+      "id": 2,
+      "pergunta": "Assinale a alternativa em que todas as palavras apresentam DITONGO:",
+      "opcoes": [
+        "a) pai, céu, história",
+        "b) saída, país, caído",
+        "c) casa, mesa, livro",
+        "d) flor, mar, sol"
+      ],
+      "correta": 0,
+      "explicacao": "pai (ai), céu (eu), história (ia) - todos têm ditongo."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em qual das palavras abaixo ocorre HIATO?",
+      "opcoes": [
+        "a) coração",
+        "b) saúde",
+        "c) queijo",
+        "d) guitarra"
+      ],
+      "correta": 1,
+      "explicacao": "sa-ú-de: as vogais 'a' e 'u' ficam em sílabas separadas, formando hiato."
+    },
+    {
+      "id": 4,
+      "pergunta": "Quantas letras e quantos fonemas tem a palavra 'TÁXI'?",
+      "opcoes": [
+        "a) 4 letras, 4 fonemas",
+        "b) 4 letras, 5 fonemas",
+        "c) 5 letras, 4 fonemas",
+        "d) 5 letras, 5 fonemas"
+      ],
+      "correta": 1,
+      "explicacao": "TÁXI tem 4 letras, mas o X representa dois fonemas (ks), totalizando 5 fonemas."
+    },
+    {
+      "id": 5,
+      "pergunta": "Na palavra 'HOMEM', a letra H representa:",
+      "opcoes": [
+        "a) um fonema consonantal",
+        "b) um fonema vocálico",
+        "c) ausência de fonema",
+        "d) um dígrafo"
+      ],
+      "correta": 2,
+      "explicacao": "Em início de palavra, o H não representa som algum (é uma letra etimológica)."
+    },
+    {
+      "id": 6,
+      "pergunta": "Assinale a palavra que contém um ENCONTRO CONSONANTAL:",
+      "opcoes": [
+        "a) prato",
+        "b) pato",
+        "c) mato",
+        "d) rato"
+      ],
+      "correta": 0,
+      "explicacao": "Em 'prato', as consoantes P e R ficam juntas na mesma sílada (pra-to), formando encontro consonantal."
+    },
+    {
+      "id": 7,
+      "pergunta": "Em 'GUERRA', o dígrafo ocorre em:",
+      "opcoes": [
+        "a) GU",
+        "b) RR",
+        "c) ER",
+        "d) RA"
+      ],
+      "correta": 1,
+      "explicacao": "RR é dígrafo porque representa um único som de R."
+    },
+    {
+      "id": 8,
+      "pergunta": "A separação silábica correta de 'SUBJETIVO' é:",
+      "opcoes": [
+        "a) su-bje-ti-vo",
+        "b) sub-je-ti-vo",
+        "c) su-bje-tiv-o",
+        "d) sub-jet-i-vo"
+      ],
+      "correta": 0,
+      "explicacao": "A separação correta é su-bje-ti-vo, pois o encontro 'bj' fica na mesma sílaba."
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual palavra tem mais letras que fonemas?",
+      "opcoes": [
+        "a) carro",
+        "b) mato",
+        "c) casa",
+        "d) livro"
+      ],
+      "correta": 0,
+      "explicacao": "'carro' tem 5 letras, mas o 'RR' é um dígrafo, então tem apenas 4 fonemas."
+    },
+    {
+      "id": 10,
+      "pergunta": "Em qual alternativa todas as palavras são oxítonas?",
+      "opcoes": [
+        "a) café, paletó, vovô",
+        "b) casa, mesa, livro",
+        "c) fácil, útil, tórax",
+        "d) árvore, médico, óculos"
+      ],
+      "correta": 0,
+      "explicacao": "Oxítonas têm a última sílaba tônica: café, paletó, vovô."
+    }
+  ]
+}
