@@ -1,1 +1,367 @@
-
+{
+  "materia": "Classes Gramaticais",
+  "nivel": 2,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Na frase 'O carro vermelho é rápido', a palavra 'vermelho' é:",
+      "opcoes": [
+        "a) substantivo",
+        "b) adjetivo",
+        "c) verbo",
+        "d) advérbio"
+      ],
+      "correta": 1,
+      "explicacao": "'vermelho' caracteriza o substantivo 'carro'."
+    },
+    {
+      "id": 2,
+      "pergunta": "Assinale a alternativa com um advérbio:",
+      "opcoes": [
+        "a) feliz",
+        "b) casa",
+        "c) rapidamente",
+        "d) cantar"
+      ],
+      "correta": 2,
+      "explicacao": "'rapidamente' é advérbio de modo."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em 'Ela canta bem', a palavra 'bem' é:",
+      "opcoes": [
+        "a) adjetivo",
+        "b) substantivo",
+        "c) advérbio",
+        "d) interjeição"
+      ],
+      "correta": 2,
+      "explicacao": "'bem' modifica o verbo 'canta'."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual palavra é uma conjunção?",
+      "opcoes": [
+        "a) e",
+        "b) casa",
+        "c) bonito",
+        "d) correr"
+      ],
+      "correta": 0,
+      "explicacao": "'e' é conjunção aditiva."
+    },
+    {
+      "id": 5,
+      "pergunta": "Na frase 'Preciso de ajuda', a palavra 'de' é:",
+      "opcoes": [
+        "a) preposição",
+        "b) conjunção",
+        "c) artigo",
+        "d) pronome"
+      ],
+      "correta": 0,
+      "explicacao": "'de' é preposição exigida pelo verbo 'precisar'."
+    },
+    {
+      "id": 6,
+      "pergunta": "Assinale a opção com um pronome possessivo:",
+      "opcoes": [
+        "a) este",
+        "b) meu",
+        "c) ele",
+        "d) que"
+      ],
+      "correta": 1,
+      "explicacao": "'meu' indica posse."
+    },
+    {
+      "id": 7,
+      "pergunta": "Em 'Estes livros são meus', 'estes' é:",
+      "opcoes": [
+        "a) pronome pessoal",
+        "b) pronome demonstrativo",
+        "c) pronome possessivo",
+        "d) pronome relativo"
+      ],
+      "correta": 1,
+      "explicacao": "'estes' indica posição (próximo ao falante)."
+    },
+    {
+      "id": 8,
+      "pergunta": "A palavra 'que' em 'O livro que li é bom' é:",
+      "opcoes": [
+        "a) conjunção",
+        "b) pronome relativo",
+        "c) preposição",
+        "d) advérbio"
+      ],
+      "correta": 1,
+      "explicacao": "'que' retoma 'livro' e introduz oração adjetiva."
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual é a classe gramatical de 'muito' em 'Ela é muito inteligente'?",
+      "opcoes": [
+        "a) adjetivo",
+        "b) advérbio de intensidade",
+        "c) pronome indefinido",
+        "d) numeral"
+      ],
+      "correta": 1,
+      "explicacao": "Intensifica o adjetivo 'inteligente'."
+    },
+    {
+      "id": 10,
+      "pergunta": "Em 'Comprei um livro', 'um' é:",
+      "opcoes": [
+        "a) artigo definido",
+        "b) artigo indefinido",
+        "c) numeral",
+        "d) pronome"
+      ],
+      "correta": 1,
+      "explicacao": "'um' é artigo indefinido."
+    },
+    {
+      "id": 11,
+      "pergunta": "A palavra 'cantar' é:",
+      "opcoes": [
+        "a) substantivo",
+        "b) adjetivo",
+        "c) verbo",
+        "d) advérbio"
+      ],
+      "correta": 2,
+      "explicacao": "Indica ação."
+    },
+    {
+      "id": 12,
+      "pergunta": "Assinale a preposição:",
+      "opcoes": [
+        "a) mas",
+        "b) portanto",
+        "c) com",
+        "d) quando"
+      ],
+      "correta": 2,
+      "explicacao": "'com' é preposição."
+    },
+    {
+      "id": 13,
+      "pergunta": "Na frase 'O aluno que estuda passa', 'que' é:",
+      "opcoes": [
+        "a) conjunção integrante",
+        "b) pronome relativo",
+        "c) conjunção explicativa",
+        "d) advérbio"
+      ],
+      "correta": 1,
+      "explicacao": "'que' refere-se a 'aluno'."
+    },
+    {
+      "id": 14,
+      "pergunta": "A palavra 'devagar' é:",
+      "opcoes": [
+        "a) adjetivo",
+        "b) advérbio",
+        "c) substantivo",
+        "d) verbo"
+      ],
+      "correta": 1,
+      "explicacao": "Advérbio de modo."
+    },
+    {
+      "id": 15,
+      "pergunta": "Em 'Ninguém chegou', 'ninguém' é:",
+      "opcoes": [
+        "a) pronome pessoal",
+        "b) pronome indefinido",
+        "c) advérbio",
+        "d) substantivo"
+      ],
+      "correta": 1,
+      "explicacao": "Pronome indefinido."
+    },
+    {
+      "id": 16,
+      "pergunta": "Qual é a conjunção em 'Estudou, mas não passou'?",
+      "opcoes": [
+        "a) estudou",
+        "b) mas",
+        "c) não",
+        "d) passou"
+      ],
+      "correta": 1,
+      "explicacao": "'mas' é conjunção adversativa."
+    },
+    {
+      "id": 17,
+      "pergunta": "A palavra 'alegria' é:",
+      "opcoes": [
+        "a) adjetivo",
+        "b) substantivo abstrato",
+        "c) advérbio",
+        "d) verbo"
+      ],
+      "correta": 1,
+      "explicacao": "Substantivo que nomeia sentimento."
+    },
+    {
+      "id": 18,
+      "pergunta": "Em 'Anda rápido!', 'rápido' é:",
+      "opcoes": [
+        "a) adjetivo",
+        "b) advérbio",
+        "c) substantivo",
+        "d) interjeição"
+      ],
+      "correta": 1,
+      "explicacao": "Modifica o verbo 'anda'."
+    },
+    {
+      "id": 19,
+      "pergunta": "Assinale o pronome demonstrativo:",
+      "opcoes": [
+        "a) meu",
+        "b) esse",
+        "c) quem",
+        "d) algum"
+      ],
+      "correta": 1,
+      "explicacao": "'esse' indica posição."
+    },
+    {
+      "id": 20,
+      "pergunta": "A palavra 'mas' é:",
+      "opcoes": [
+        "a) preposição",
+        "b) conjunção",
+        "c) advérbio",
+        "d) pronome"
+      ],
+      "correta": 1,
+      "explicacao": "Conjunção adversativa."
+    },
+    {
+      "id": 21,
+      "pergunta": "Em 'Casa de madeira', 'de' é:",
+      "opcoes": [
+        "a) artigo",
+        "b) preposição",
+        "c) conjunção",
+        "d) pronome"
+      ],
+      "correta": 1,
+      "explicacao": "Preposição que liga 'casa' a 'madeira'."
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual é o advérbio em 'Ele chegou cedo'?",
+      "opcoes": [
+        "a) ele",
+        "b) chegou",
+        "c) cedo",
+        "d) não há"
+      ],
+      "correta": 2,
+      "explicacao": "'cedo' indica tempo."
+    },
+    {
+      "id": 23,
+      "pergunta": "A palavra 'primeiro' é:",
+      "opcoes": [
+        "a) numeral ordinal",
+        "b) adjetivo",
+        "c) advérbio",
+        "d) pronome"
+      ],
+      "correta": 0,
+      "explicacao": "Indica ordem."
+    },
+    {
+      "id": 24,
+      "pergunta": "Em 'Que dia lindo!', 'que' é:",
+      "opcoes": [
+        "a) pronome interrogativo",
+        "b) advérbio de intensidade",
+        "c) conjunção",
+        "d) preposição"
+      ],
+      "correta": 1,
+      "explicacao": "'que' intensifica 'lindo'."
+    },
+    {
+      "id": 25,
+      "pergunta": "Assinale a interjeição:",
+      "opcoes": [
+        "a) ufa!",
+        "b) casa",
+        "c) bonito",
+        "d) andar"
+      ],
+      "correta": 0,
+      "explicacao": "Ufa! expressa alívio."
+    },
+    {
+      "id": 26,
+      "pergunta": "Na frase 'Falaram de você', 'de' é:",
+      "opcoes": [
+        "a) preposição",
+        "b) artigo",
+        "c) pronome",
+        "d) conjunção"
+      ],
+      "correta": 0,
+      "explicacao": "Preposição exigida pelo verbo 'falar'."
+    },
+    {
+      "id": 27,
+      "pergunta": "A palavra 'ontem' é:",
+      "opcoes": [
+        "a) substantivo",
+        "b) advérbio de tempo",
+        "c) adjetivo",
+        "d) conjunção"
+      ],
+      "correta": 1,
+      "explicacao": "Indica tempo."
+    },
+    {
+      "id": 28,
+      "pergunta": "Em 'Alguém me viu', 'alguém' é:",
+      "opcoes": [
+        "a) pronome pessoal",
+        "b) pronome indefinido",
+        "c) pronome demonstrativo",
+        "d) substantivo"
+      ],
+      "correta": 1,
+      "explicacao": "Pronome indefinido."
+    },
+    {
+      "id": 29,
+      "pergunta": "Qual palavra é um numeral?",
+      "opcoes": [
+        "a) centena",
+        "b) terceiro",
+        "c) muito",
+        "d) pouco"
+      ],
+      "correta": 1,
+      "explicacao": "'terceiro' é numeral ordinal."
+    },
+    {
+      "id": 30,
+      "pergunta": "Em 'Ela mesma fez', 'mesma' é:",
+      "opcoes": [
+        "a) pronome pessoal",
+        "b) pronome reflexivo",
+        "c) pronome de reforço",
+        "d) adjetivo"
+      ],
+      "correta": 2,
+      "explicacao": "Reforça o sujeito 'ela'."
+    }
+  ]
+}
