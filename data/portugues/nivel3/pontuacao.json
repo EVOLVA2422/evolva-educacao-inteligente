@@ -1,1 +1,367 @@
-
+{
+  "materia": "Pontuação",
+  "nivel": 3,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Assinale a frase com pontuação correta:",
+      "opcoes": [
+        "a) João, Maria e Pedro, foram à festa.",
+        "b) João, Maria e Pedro foram à festa.",
+        "c) João Maria e Pedro foram à festa.",
+        "d) João, Maria, e Pedro foram à festa."
+      ],
+      "correta": 1,
+      "explicacao": "A vírgula separa os elementos da enumeração, mas não antes do 'e'."
+    },
+    {
+      "id": 2,
+      "pergunta": "Em 'Preciso comprar: pão, leite e ovos', os dois pontos foram usados para:",
+      "opcoes": [
+        "a) iniciar uma enumeração",
+        "b) separar orações",
+        "c) indicar pausa",
+        "d) introduzir uma citação"
+      ],
+      "correta": 0,
+      "explicacao": "Dois pontos introduzem uma enumeração."
+    },
+    {
+      "id": 3,
+      "pergunta": "Assinale a opção em que a vírgula está corretamente empregada:",
+      "opcoes": [
+        "a) Maria, a diretora, chegou.",
+        "b) Maria a diretora, chegou.",
+        "c) Maria, a diretora chegou.",
+        "d) Maria a diretora chegou."
+      ],
+      "correta": 0,
+      "explicacao": "Aposto explicativo deve vir entre vírgulas."
+    },
+    {
+      "id": 4,
+      "pergunta": "Na frase 'Quando cheguei, ele já havia saído', a vírgula separa:",
+      "opcoes": [
+        "a) oração subordinada adverbial antecipada",
+        "b) sujeito do predicado",
+        "c) elementos de uma enumeração",
+        "d) aposto"
+      ],
+      "correta": 0,
+      "explicacao": "Oração subordinada adverbial deslocada exige vírgula."
+    },
+    {
+      "id": 5,
+      "pergunta": "Assinale a frase com erro de pontuação:",
+      "opcoes": [
+        "a) Ele, porém, não concordou.",
+        "b) Ele, não concordou, porém.",
+        "c) Ele não concordou, porém.",
+        "d) Ele não concordou porém."
+      ],
+      "correta": 3,
+      "explicacao": "'porém' é conjunção adversativa e deve vir precedida de vírgula."
+    },
+    {
+      "id": 6,
+      "pergunta": "Em 'Rua das Flores, 123', a vírgula é usada para:",
+      "opcoes": [
+        "a) separar o logradouro do número",
+        "b) separar orações",
+        "c) indicar enumeração",
+        "d) separar aposto"
+      ],
+      "correta": 0,
+      "explicacao": "Em endereços, a vírgula separa o nome da rua do número."
+    },
+    {
+      "id": 7,
+      "pergunta": "Assinale a opção correta:",
+      "opcoes": [
+        "a) Ele disse: 'Volto amanhã'.",
+        "b) Ele disse, 'Volto amanhã'.",
+        "c) Ele disse 'Volto amanhã'.",
+        "d) Ele disse; 'Volto amanhã'."
+      ],
+      "correta": 0,
+      "explicacao": "Dois pontos introduzem fala, e aspas delimitam a citação."
+    },
+    {
+      "id": 8,
+      "pergunta": "Na frase 'Não fui à festa, pois estava doente', a vírgula antes de 'pois' é:",
+      "opcoes": [
+        "a) obrigatória",
+        "b) proibida",
+        "c) facultativa",
+        "d) depende do sentido"
+      ],
+      "correta": 0,
+      "explicacao": "'pois' explicativo vem precedido de vírgula."
+    },
+    {
+      "id": 9,
+      "pergunta": "Assinale a frase com pontuação correta:",
+      "opcoes": [
+        "a) Comprou: laranjas, bananas e maçãs.",
+        "b) Comprou laranjas, bananas e maçãs.",
+        "c) Comprou, laranjas, bananas e maçãs.",
+        "d) Comprou laranjas, bananas, e maçãs."
+      ],
+      "correta": 1,
+      "explicacao": "Enumeração simples não leva dois pontos; vírgulas separam os itens."
+    },
+    {
+      "id": 10,
+      "pergunta": "Em 'O aluno – disse o professor – estudou muito', os travessões indicam:",
+      "opcoes": [
+        "a) intercalação da fala do narrador",
+        "b) início de diálogo",
+        "c) enumeração",
+        "d) citação"
+      ],
+      "correta": 0,
+      "explicacao": "Travessões isolam a fala do narrador intercalada."
+    },
+    {
+      "id": 11,
+      "pergunta": "Assinale a opção em que a vírgula está incorreta:",
+      "opcoes": [
+        "a) Ele, estudou muito, mas não passou.",
+        "b) Ele estudou muito, mas não passou.",
+        "c) Ele, contudo, estudou muito.",
+        "d) Ele estudou muito; não passou, porém."
+      ],
+      "correta": 0,
+      "explicacao": "Vírgula separando sujeito do verbo é erro."
+    },
+    {
+      "id": 12,
+      "pergunta": "Na frase 'São Paulo, 10 de janeiro de 2023', a vírgula é usada para:",
+      "opcoes": [
+        "a) separar o local da data",
+        "b) separar orações",
+        "c) indicar enumeração",
+        "d) isolar aposto"
+      ],
+      "correta": 0,
+      "explicacao": "Em datas, a vírgula separa o local do dia."
+    },
+    {
+      "id": 13,
+      "pergunta": "Assinale a frase com ponto e vírgula corretamente empregado:",
+      "opcoes": [
+        "a) Comprei arroz; feijão; e carne.",
+        "b) Os alunos estudaram; os professores, corrigiram.",
+        "c) Estudei muito; portanto, passei.",
+        "d) Cheguei, vi, venci."
+      ],
+      "correta": 2,
+      "explicacao": "Ponto e vírgula pode separar orações com conjunção."
+    },
+    {
+      "id": 14,
+      "pergunta": "Em 'Ele falou que viria, mas não veio', a vírgula antes de 'mas' é:",
+      "opcoes": [
+        "a) obrigatória",
+        "b) proibida",
+        "c) facultativa",
+        "d) opcional"
+      ],
+      "correta": 0,
+      "explicacao": "Conjunções adversativas exigem vírgula antes."
+    },
+    {
+      "id": 15,
+      "pergunta": "Assinale a opção correta quanto ao uso das aspas:",
+      "opcoes": [
+        "a) Ele disse: 'Volto amanhã'.",
+        "b) Ele disse: “Volto amanhã”.",
+        "c) Ambas estão corretas.",
+        "d) Nenhuma."
+      ],
+      "correta": 2,
+      "explicacao": "Aspas simples ou duplas são aceitas."
+    },
+    {
+      "id": 16,
+      "pergunta": "Na frase 'Ela – suspirou – não sabia o que dizer', os travessões:",
+      "opcoes": [
+        "a) isolam uma oração intercalada",
+        "b) indicam diálogo",
+        "c) marcam enumeração",
+        "d) substituem parênteses"
+      ],
+      "correta": 0,
+      "explicacao": "Intercalação da ação de suspirar."
+    },
+    {
+      "id": 17,
+      "pergunta": "Assinale a frase com vírgula proibida:",
+      "opcoes": [
+        "a) Maria, a irmã de João, chegou.",
+        "b) O menino, que estudou, passou.",
+        "c) O menino que estudou passou.",
+        "d) O menino, que estudou, passou."
+      ],
+      "correta": 2,
+      "explicacao": "Oração adjetiva restritiva não leva vírgula."
+    },
+    {
+      "id": 18,
+      "pergunta": "Em 'Rio de Janeiro, 15 de março', a vírgula separa:",
+      "opcoes": [
+        "a) local e data",
+        "b) sujeito e predicado",
+        "c) orações",
+        "d) aposto"
+      ],
+      "correta": 0,
+      "explicacao": "Em cabeçalhos, separa o local da data."
+    },
+    {
+      "id": 19,
+      "pergunta": "Assinale a opção em que o uso da vírgula está correto:",
+      "opcoes": [
+        "a) Ele, é verdade, não veio.",
+        "b) Ele é verdade, não veio.",
+        "c) Ele, é verdade não veio.",
+        "d) Ele é, verdade, não veio."
+      ],
+      "correta": 0,
+      "explicacao": "Expressão intercalada 'é verdade' deve vir entre vírgulas."
+    },
+    {
+      "id": 20,
+      "pergunta": "Na frase 'Estudei muito; logo, passarei', o ponto e vírgula é usado antes de:",
+      "opcoes": [
+        "a) conjunção conclusiva",
+        "b) conjunção adversativa",
+        "c) conjunção explicativa",
+        "d) conjunção alternativa"
+      ],
+      "correta": 0,
+      "explicacao": "'logo' é conjunção conclusiva."
+    },
+    {
+      "id": 21,
+      "pergunta": "Assinale a frase com erro de pontuação:",
+      "opcoes": [
+        "a) Comprou, pão, leite e ovos.",
+        "b) Comprou pão, leite e ovos.",
+        "c) Comprou: pão, leite e ovos.",
+        "d) Comprou pão, leite, e ovos."
+      ],
+      "correta": 0,
+      "explicacao": "Vírgula após verbo separa erroneamente o verbo do objeto."
+    },
+    {
+      "id": 22,
+      "pergunta": "Em 'O diretor, porém, não concordou', a palavra 'porém' está:",
+      "opcoes": [
+        "a) intercalada, com vírgulas",
+        "b) no início, com vírgula",
+        "c) no final, sem vírgula",
+        "d) incorreta"
+      ],
+      "correta": 0,
+      "explicacao": "'porém' intercalado vem entre vírgulas."
+    },
+    {
+      "id": 23,
+      "pergunta": "Assinale a opção correta:",
+      "opcoes": [
+        "a) Os alunos, que estudam, passam.",
+        "b) Os alunos que estudam passam.",
+        "c) Ambas são possíveis com sentidos diferentes.",
+        "d) Nenhuma."
+      ],
+      "correta": 2,
+      "explicacao": "Com vírgula = todos estudam e passam (explicativa); sem = só os que estudam passam (restritiva)."
+    },
+    {
+      "id": 24,
+      "pergunta": "Na frase 'Ele chegou tarde; no entanto, trouxe o presente', o ponto e vírgula pode ser substituído por:",
+      "opcoes": [
+        "a) vírgula",
+        "b) ponto final",
+        "c) dois pontos",
+        "d) travessão"
+      ],
+      "correta": 0,
+      "explicacao": "Pode-se usar vírgula antes de 'no entanto'."
+    },
+    {
+      "id": 25,
+      "pergunta": "Assinale a frase com pontuação correta:",
+      "opcoes": [
+        "a) Ele perguntou: 'onde você mora'?",
+        "b) Ele perguntou: 'Onde você mora?'",
+        "c) Ele perguntou: 'onde você mora?'",
+        "d) Ele perguntou 'onde você mora?'"
+      ],
+      "correta": 1,
+      "explicacao": "A pergunta deve iniciar com maiúscula e o ponto de interrogação dentro das aspas."
+    },
+    {
+      "id": 26,
+      "pergunta": "Em 'Ela gritou: — Socorro!', o travessão indica:",
+      "opcoes": [
+        "a) fala de personagem",
+        "b) enumeração",
+        "c) intercalação",
+        "d) citação"
+      ],
+      "correta": 0,
+      "explicacao": "Travessão introduz fala em diálogos."
+    },
+    {
+      "id": 27,
+      "pergunta": "Assinale a opção em que a vírgula está incorreta:",
+      "opcoes": [
+        "a) Ele, estudou muito, mas não passou.",
+        "b) Ele estudou muito, mas não passou.",
+        "c) Ele, contudo, estudou muito.",
+        "d) Ele estudou muito, contudo não passou."
+      ],
+      "correta": 0,
+      "explicacao": "Vírgula entre sujeito e verbo é erro."
+    },
+    {
+      "id": 28,
+      "pergunta": "Na frase 'Precisamos de: paciência, dedicação e amor', o uso dos dois pontos é:",
+      "opcoes": [
+        "a) adequado",
+        "b) inadequado, pois não há enumeração",
+        "c) facultativo",
+        "d) obrigatório"
+      ],
+      "correta": 0,
+      "explicacao": "Dois pontos podem introduzir enumeração após verbo."
+    },
+    {
+      "id": 29,
+      "pergunta": "Assinale a frase com pontuação correta:",
+      "opcoes": [
+        "a) Não fui à festa; porque estava doente.",
+        "b) Não fui à festa, porque estava doente.",
+        "c) Não fui à festa; porém estava doente.",
+        "d) Não fui à festa, porém estava doente."
+      ],
+      "correta": 1,
+      "explicacao": "'porque' explicativo leva vírgula, não ponto e vírgula."
+    },
+    {
+      "id": 30,
+      "pergunta": "Em 'A verdade, meus amigos, é que erramos', as vírgulas isolam:",
+      "opcoes": [
+        "a) vocativo",
+        "b) aposto",
+        "c) adjunto adverbial",
+        "d) oração intercalada"
+      ],
+      "correta": 0,
+      "explicacao": "'meus amigos' é vocativo (chamamento)."
+    }
+  ]
+}
