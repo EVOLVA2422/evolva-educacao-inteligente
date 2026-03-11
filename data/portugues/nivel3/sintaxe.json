@@ -1,1 +1,367 @@
-
+{
+  "materia": "Sintaxe",
+  "nivel": 3,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Na oração 'Os alunos estudiosos passaram no vestibular', o núcleo do sujeito é:",
+      "opcoes": [
+        "a) alunos",
+        "b) estudiosos",
+        "c) passaram",
+        "d) vestibular"
+      ],
+      "correta": 0,
+      "explicacao": "O sujeito é 'Os alunos estudiosos', cujo núcleo é 'alunos'."
+    },
+    {
+      "id": 2,
+      "pergunta": "Em 'Chegaram cedo os viajantes', o sujeito está:",
+      "opcoes": [
+        "a) antes do verbo",
+        "b) depois do verbo",
+        "c) oculto",
+        "d) indeterminado"
+      ],
+      "correta": 1,
+      "explicacao": "Sujeito posposto: 'os viajantes' aparece depois do verbo."
+    },
+    {
+      "id": 3,
+      "pergunta": "Assinale a oração com predicado verbo-nominal:",
+      "opcoes": [
+        "a) Os alunos estudam muito.",
+        "b) A professora chegou cansada.",
+        "c) O livro é interessante.",
+        "d) Choveu ontem."
+      ],
+      "correta": 1,
+      "explicacao": "Predicado verbo-nominal: verbo (chegou) + predicativo (cansada)."
+    },
+    {
+      "id": 4,
+      "pergunta": "Em 'Precisa-se de empregados', o sujeito é:",
+      "opcoes": [
+        "a) simples",
+        "b) composto",
+        "c) oculto",
+        "d) indeterminado"
+      ],
+      "correta": 3,
+      "explicacao": "Verbo na 3ª pessoa + 'se' = índice de indeterminação do sujeito."
+    },
+    {
+      "id": 5,
+      "pergunta": "Na frase 'O professor elogiou o aluno', o termo 'o aluno' é:",
+      "opcoes": [
+        "a) sujeito",
+        "b) objeto direto",
+        "c) objeto indireto",
+        "d) complemento nominal"
+      ],
+      "correta": 1,
+      "explicacao": "Complementa o verbo 'elogiou' sem preposição = objeto direto."
+    },
+    {
+      "id": 6,
+      "pergunta": "Em 'Gosto de música clássica', o termo 'de música clássica' é:",
+      "opcoes": [
+        "a) objeto direto",
+        "b) objeto indireto",
+        "c) adjunto adnominal",
+        "d) complemento nominal"
+      ],
+      "correta": 1,
+      "explicacao": "Verbo 'gostar' exige preposição 'de', logo é objeto indireto."
+    },
+    {
+      "id": 7,
+      "pergunta": "Na oração 'A casa foi vendida pelos proprietários', o termo 'pelos proprietários' é:",
+      "opcoes": [
+        "a) agente da passiva",
+        "b) adjunto adverbial",
+        "c) complemento nominal",
+        "d) objeto indireto"
+      ],
+      "correta": 0,
+      "explicacao": "Na voz passiva, 'pelos proprietários' indica quem praticou a ação."
+    },
+    {
+      "id": 8,
+      "pergunta": "Em 'Tenho confiança em você', o termo 'em você' é:",
+      "opcoes": [
+        "a) objeto indireto",
+        "b) complemento nominal",
+        "c) adjunto adverbial",
+        "d) agente da passiva"
+      ],
+      "correta": 1,
+      "explicacao": "Completa o sentido do nome 'confiança' (que exige preposição)."
+    },
+    {
+      "id": 9,
+      "pergunta": "Na frase 'Ele mora em São Paulo', o termo 'em São Paulo' é:",
+      "opcoes": [
+        "a) objeto indireto",
+        "b) adjunto adverbial de lugar",
+        "c) complemento nominal",
+        "d) adjunto adnominal"
+      ],
+      "correta": 1,
+      "explicacao": "Indica circunstância de lugar onde se mora."
+    },
+    {
+      "id": 10,
+      "pergunta": "Assinale a opção em que ocorre predicativo do objeto:",
+      "opcoes": [
+        "a) O aluno é inteligente.",
+        "b) Nomearam João diretor.",
+        "c) Ela chegou cansada.",
+        "d) A prova estava difícil."
+      ],
+      "correta": 1,
+      "explicacao": "'diretor' é predicativo do objeto 'João'."
+    },
+    {
+      "id": 11,
+      "pergunta": "Em 'O livro que você me deu é ótimo', a oração 'que você me deu' é:",
+      "opcoes": [
+        "a) subordinada substantiva",
+        "b) subordinada adjetiva",
+        "c) subordinada adverbial",
+        "d) coordenada"
+      ],
+      "correta": 1,
+      "explicacao": "Oração adjetiva restritiva, refere-se a 'livro'."
+    },
+    {
+      "id": 12,
+      "pergunta": "Na frase 'Espero que você volte', a oração 'que você volte' é:",
+      "opcoes": [
+        "a) subordinada substantiva objetiva direta",
+        "b) subordinada adjetiva",
+        "c) subordinada adverbial causal",
+        "d) coordenada sindética"
+      ],
+      "correta": 0,
+      "explicacao": "Completa o verbo 'espero', funcionando como objeto direto."
+    },
+    {
+      "id": 13,
+      "pergunta": "Em 'Quando ele chegou, todos se levantaram', a oração 'Quando ele chegou' é:",
+      "opcoes": [
+        "a) subordinada adverbial temporal",
+        "b) subordinada adverbial causal",
+        "c) coordenada sindética",
+        "d) subordinada substantiva"
+      ],
+      "correta": 0,
+      "explicacao": "Indica o tempo em que ocorreu a ação principal."
+    },
+    {
+      "id": 14,
+      "pergunta": "Assinale a frase com aposto:",
+      "opcoes": [
+        "a) Maria, minha irmã, chegou.",
+        "b) Comprei livros e cadernos.",
+        "c) Ele falou que viria.",
+        "d) O carro vermelho é meu."
+      ],
+      "correta": 0,
+      "explicacao": "'minha irmã' explica 'Maria' = aposto."
+    },
+    {
+      "id": 15,
+      "pergunta": "Na oração 'De repente, todos saíram', o termo 'De repente' é:",
+      "opcoes": [
+        "a) adjunto adverbial",
+        "b) adjunto adnominal",
+        "c) complemento nominal",
+        "d) vocativo"
+      ],
+      "correta": 0,
+      "explicacao": "Indica circunstância de modo (ou tempo)."
+    },
+    {
+      "id": 16,
+      "pergunta": "Em 'Menino, venha cá!', a palavra 'Menino' é:",
+      "opcoes": [
+        "a) sujeito",
+        "b) vocativo",
+        "c) aposto",
+        "d) adjunto adverbial"
+      ],
+      "correta": 1,
+      "explicacao": "Chamamento, isolado por vírgula = vocativo."
+    },
+    {
+      "id": 17,
+      "pergunta": "Na frase 'Comprei um carro novo', o termo 'novo' é:",
+      "opcoes": [
+        "a) adjunto adnominal",
+        "b) predicativo do objeto",
+        "c) adjunto adverbial",
+        "d) complemento nominal"
+      ],
+      "correta": 0,
+      "explicacao": "Caracteriza o substantivo 'carro' = adjunto adnominal."
+    },
+    {
+      "id": 18,
+      "pergunta": "Em 'Ela parecia cansada', 'cansada' é:",
+      "opcoes": [
+        "a) predicativo do sujeito",
+        "b) adjunto adnominal",
+        "c) adjunto adverbial",
+        "d) objeto direto"
+      ],
+      "correta": 0,
+      "explicacao": "Predicativo do sujeito com verbo de ligação 'parecia'."
+    },
+    {
+      "id": 19,
+      "pergunta": "Assinale a oração com sujeito composto:",
+      "opcoes": [
+        "a) João e Maria estudam.",
+        "b) Choveu muito.",
+        "c) Precisa-se de funcionários.",
+        "d) Amanheceu nublado."
+      ],
+      "correta": 0,
+      "explicacao": "Dois núcleos: João e Maria."
+    },
+    {
+      "id": 20,
+      "pergunta": "Na frase 'Havia muitas pessoas na festa', o sujeito é:",
+      "opcoes": [
+        "a) muitas pessoas",
+        "b) pessoas",
+        "c) inexistente (oração sem sujeito)",
+        "d) oculto"
+      ],
+      "correta": 2,
+      "explicacao": "Verbo 'haver' no sentido de existir é impessoal."
+    },
+    {
+      "id": 21,
+      "pergunta": "Em 'Faz dois anos que não o vejo', o verbo 'faz' é:",
+      "opcoes": [
+        "a) pessoal, concorda com 'dois anos'",
+        "b) impessoal, fica no singular",
+        "c) flexionado no plural",
+        "d) transitivo direto"
+      ],
+      "correta": 1,
+      "explicacao": "'Faz' indicando tempo decorrido é impessoal, invariável."
+    },
+    {
+      "id": 22,
+      "pergunta": "Na oração 'O diretor chamou o aluno', a voz verbal é:",
+      "opcoes": [
+        "a) ativa",
+        "b) passiva analítica",
+        "c) passiva sintética",
+        "d) reflexiva"
+      ],
+      "correta": 0,
+      "explicacao": "Sujeito (diretor) pratica a ação."
+    },
+    {
+      "id": 23,
+      "pergunta": "A transposição para a voz passiva de 'O vento derrubou as árvores' resulta em:",
+      "opcoes": [
+        "a) As árvores foram derrubadas pelo vento.",
+        "b) Derrubaram-se as árvores.",
+        "c) As árvores derrubaram o vento.",
+        "d) O vento foi derrubado pelas árvores."
+      ],
+      "correta": 0,
+      "explicacao": "Objeto direto vira sujeito paciente + verbo ser + particípio."
+    },
+    {
+      "id": 24,
+      "pergunta": "Em 'Vendem-se casas', a partícula 'se' indica:",
+      "opcoes": [
+        "a) indeterminação do sujeito",
+        "b) reflexividade",
+        "c) voz passiva sintética",
+        "d) reciprocidade"
+      ],
+      "correta": 2,
+      "explicacao": "'se' + verbo no plural = voz passiva (casas são vendidas)."
+    },
+    {
+      "id": 25,
+      "pergunta": "Na frase 'Ela se machucou', o 'se' é:",
+      "opcoes": [
+        "a) partícula apassivadora",
+        "b) índice de indeterminação",
+        "c) pronome reflexivo",
+        "d) conjunção"
+      ],
+      "correta": 2,
+      "explicacao": "A ação recai sobre o sujeito = reflexivo."
+    },
+    {
+      "id": 26,
+      "pergunta": "Assinale a alternativa com predicado nominal:",
+      "opcoes": [
+        "a) O aluno estuda muito.",
+        "b) A professora parece cansada.",
+        "c) Choveu bastante.",
+        "d) Comprei um livro."
+      ],
+      "correta": 1,
+      "explicacao": "Verbo de ligação + predicativo do sujeito."
+    },
+    {
+      "id": 27,
+      "pergunta": "Em 'O carro foi consertado pelo mecânico', o termo 'pelo mecânico' é:",
+      "opcoes": [
+        "a) agente da passiva",
+        "b) adjunto adverbial",
+        "c) complemento nominal",
+        "d) objeto indireto"
+      ],
+      "correta": 0,
+      "explicacao": "Indica quem praticou a ação na voz passiva."
+    },
+    {
+      "id": 28,
+      "pergunta": "Na oração 'Achei o filme interessante', 'interessante' é:",
+      "opcoes": [
+        "a) predicativo do objeto",
+        "b) adjunto adnominal",
+        "c) predicativo do sujeito",
+        "d) adjunto adverbial"
+      ],
+      "correta": 0,
+      "explicacao": "Caracteriza o objeto 'filme'."
+    },
+    {
+      "id": 29,
+      "pergunta": "Em 'Necessitamos de sua ajuda', o termo 'de sua ajuda' é:",
+      "opcoes": [
+        "a) objeto direto",
+        "b) objeto indireto",
+        "c) complemento nominal",
+        "d) adjunto adverbial"
+      ],
+      "correta": 1,
+      "explicacao": "Verbo 'necessitar' exige preposição 'de'."
+    },
+    {
+      "id": 30,
+      "pergunta": "Assinale a opção em que o termo destacado é adjunto adnominal:",
+      "opcoes": [
+        "a) A casa **de madeira** caiu.",
+        "b) Gosto **de chocolate**.",
+        "c) Ela **cansada** chegou.",
+        "d) Falamos **sobre política**."
+      ],
+      "correta": 0,
+      "explicacao": "'de madeira' caracteriza 'casa' = adjunto adnominal."
+    }
+  ]
+}
