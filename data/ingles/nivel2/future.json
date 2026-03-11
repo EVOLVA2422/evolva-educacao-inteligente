@@ -1,1 +1,607 @@
-
+{
+  "materia": "Future Tenses",
+  "nivel": 2,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Complete with 'will': 'I think it _____ (rain) tomorrow.'",
+      "opcoes": [
+        "a) rains",
+        "b) will rain",
+        "c) is raining",
+        "d) going to rain"
+      ],
+      "correta": 1,
+      "explicacao": "Prediction: will rain."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete with 'going to': 'She _____ (have) a baby.'",
+      "opcoes": [
+        "a) will have",
+        "b) is going to have",
+        "c) has",
+        "d) having"
+      ],
+      "correta": 1,
+      "explicacao": "Planned/intended: going to."
+    },
+    {
+      "id": 3,
+      "pergunta": "Choose the correct sentence for a spontaneous decision:",
+      "opcoes": [
+        "a) I'm going to buy this.",
+        "b) I will buy this.",
+        "c) I buy this.",
+        "d) I'm buying this."
+      ],
+      "correta": 1,
+      "explicacao": "Will for spontaneous decisions."
+    },
+    {
+      "id": 4,
+      "pergunta": "Choose the correct sentence for a fixed arrangement:",
+      "opcoes": [
+        "a) I will meet my friends tonight.",
+        "b) I am meeting my friends tonight.",
+        "c) I meet my friends tonight.",
+        "d) I going to meet my friends tonight."
+      ],
+      "correta": 1,
+      "explicacao": "Present continuous for arrangements."
+    },
+    {
+      "id": 5,
+      "pergunta": "Complete: 'Look at those clouds! It _____ (rain).'",
+      "opcoes": [
+        "a) will rain",
+        "b) is going to rain",
+        "c) rains",
+        "d) is raining"
+      ],
+      "correta": 1,
+      "explicacao": "Evidence: going to."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'I promise I _____ (not/be) late.'",
+      "opcoes": [
+        "a) won't be",
+        "b) am not being",
+        "c) am not going to be",
+        "d) don't be"
+      ],
+      "correta": 0,
+      "explicacao": "Promise: will."
+    },
+    {
+      "id": 7,
+      "pergunta": "Complete: 'The train _____ (arrive) at 6 pm.' (timetable)",
+      "opcoes": [
+        "a) will arrive",
+        "b) is arriving",
+        "c) arrives",
+        "d) is going to arrive"
+      ],
+      "correta": 2,
+      "explicacao": "Timetable: present simple."
+    },
+    {
+      "id": 8,
+      "pergunta": "Complete: 'What _____ (you/do) next weekend?'",
+      "opcoes": [
+        "a) will you do",
+        "b) are you going to do",
+        "c) are you doing",
+        "d) all are possible"
+      ],
+      "correta": 3,
+      "explicacao": "All can be used depending on context."
+    },
+    {
+      "id": 9,
+      "pergunta": "Choose the correct negative: 'I _____ (not/come) to the party.' (planned)",
+      "opcoes": [
+        "a) won't come",
+        "b) am not coming",
+        "c) am not going to come",
+        "d) all are possible"
+      ],
+      "correta": 3,
+      "explicacao": "All express future negative."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'Wait! I _____ (help) you.'",
+      "opcoes": [
+        "a) will help",
+        "b) am going to help",
+        "c) help",
+        "d) am helping"
+      ],
+      "correta": 0,
+      "explicacao": "Spontaneous offer: will."
+    },
+    {
+      "id": 11,
+      "pergunta": "Complete: 'They _____ (get) married next month.' (planned)",
+      "opcoes": [
+        "a) will get",
+        "b) are getting",
+        "c) get",
+        "d) are going to get"
+      ],
+      "correta": 1,
+      "explicacao": "Present continuous for planned events."
+    },
+    {
+      "id": 12,
+      "pergunta": "Complete: 'I _____ (visit) my grandparents this weekend.' (intention)",
+      "opcoes": [
+        "a) will visit",
+        "b) am going to visit",
+        "c) am visiting",
+        "d) all are possible"
+      ],
+      "correta": 3,
+      "explicacao": "Intention can be expressed in various ways."
+    },
+    {
+      "id": 13,
+      "pergunta": "Choose the correct future form for a prediction based on no evidence:",
+      "opcoes": [
+        "a) It will rain tomorrow.",
+        "b) It is going to rain tomorrow.",
+        "c) It rains tomorrow.",
+        "d) It is raining tomorrow."
+      ],
+      "correta": 0,
+      "explicacao": "Will for general predictions."
+    },
+    {
+      "id": 14,
+      "pergunta": "Complete: 'By this time next year, I _____ (finish) my studies.'",
+      "opcoes": [
+        "a) will finish",
+        "b) will have finished",
+        "c) am finishing",
+        "d) finish"
+      ],
+      "correta": 1,
+      "explicacao": "Future perfect for completion by a future time."
+    },
+    {
+      "id": 15,
+      "pergunta": "Complete: 'Don't call me at 8 pm; I _____ (have) dinner.'",
+      "opcoes": [
+        "a) will have",
+        "b) will be having",
+        "c) have",
+        "d) am having"
+      ],
+      "correta": 1,
+      "explicacao": "Future continuous for action in progress at a future time."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: 'This time tomorrow, we _____ (fly) to Paris.'",
+      "opcoes": [
+        "a) will fly",
+        "b) will be flying",
+        "c) are flying",
+        "d) fly"
+      ],
+      "correta": 1,
+      "explicacao": "Future continuous."
+    },
+    {
+      "id": 17,
+      "pergunta": "Choose the correct sentence: 'I _____ (see) the doctor tomorrow at 10.' (appointment)",
+      "opcoes": [
+        "a) will see",
+        "b) am seeing",
+        "c) see",
+        "d) am going to see"
+      ],
+      "correta": 1,
+      "explicacao": "Appointment: present continuous."
+    },
+    {
+      "id": 18,
+      "pergunta": "Complete: 'I promise I _____ (call) you later.'",
+      "opcoes": [
+        "a) will call",
+        "b) am calling",
+        "c) call",
+        "d) am going to call"
+      ],
+      "correta": 0,
+      "explicacao": "Promise: will."
+    },
+    {
+      "id": 19,
+      "pergunta": "Complete: 'The meeting _____ (start) at 9 am sharp.' (schedule)",
+      "opcoes": [
+        "a) will start",
+        "b) is starting",
+        "c) starts",
+        "d) is going to start"
+      ],
+      "correta": 2,
+      "explicacao": "Schedule: present simple."
+    },
+    {
+      "id": 20,
+      "pergunta": "Complete: 'I _____ (be) there in a minute.'",
+      "opcoes": [
+        "a) will be",
+        "b) am being",
+        "c) am",
+        "d) be"
+      ],
+      "correta": 0,
+      "explicacao": "Spontaneous decision: will."
+    },
+    {
+      "id": 21,
+      "pergunta": "Choose the correct future perfect: 'By 2026, I _____ (work) here for 10 years.'",
+      "opcoes": [
+        "a) will work",
+        "b) will have worked",
+        "c) will be working",
+        "d) work"
+      ],
+      "correta": 1,
+      "explicacao": "Future perfect: will have worked."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'I'm sure she _____ (like) the gift.'",
+      "opcoes": [
+        "a) will like",
+        "b) is liking",
+        "c) likes",
+        "d) is going to like"
+      ],
+      "correta": 0,
+      "explicacao": "Prediction: will."
+    },
+    {
+      "id": 23,
+      "pergunta": "Complete: 'Look at that car! It _____ (crash)!'",
+      "opcoes": [
+        "a) will crash",
+        "b) is going to crash",
+        "c) crashes",
+        "d) is crashing"
+      ],
+      "correta": 1,
+      "explicacao": "Immediate evidence: going to."
+    },
+    {
+      "id": 24,
+      "pergunta": "Choose the correct negative: 'I _____ (not/attend) the meeting tomorrow.' (planned)",
+      "opcoes": [
+        "a) won't attend",
+        "b) am not attending",
+        "c) am not going to attend",
+        "d) all are possible"
+      ],
+      "correta": 3,
+      "explicacao": "All possible."
+    },
+    {
+      "id": 25,
+      "pergunta": "Complete: 'At 8 pm tonight, I _____ (watch) my favorite show.'",
+      "opcoes": [
+        "a) will watch",
+        "b) will be watching",
+        "c) watch",
+        "d) am watching"
+      ],
+      "correta": 1,
+      "explicacao": "Future continuous."
+    },
+    {
+      "id": 26,
+      "pergunta": "Complete: 'I _____ (finish) this report by Friday.' (intention)",
+      "opcoes": [
+        "a) will finish",
+        "b) am going to finish",
+        "c) am finishing",
+        "d) all are possible"
+      ],
+      "correta": 3,
+      "explicacao": "All express intention."
+    },
+    {
+      "id": 27,
+      "pergunta": "Choose the correct question: '_____ you _____ (come) to the party?'",
+      "opcoes": [
+        "a) Will / come",
+        "b) Are / coming",
+        "c) Are / going to come",
+        "d) all are possible"
+      ],
+      "correta": 3,
+      "explicacao": "All are correct."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'I _____ (tell) you a secret.' (spontaneous)",
+      "opcoes": [
+        "a) will tell",
+        "b) am telling",
+        "c) tell",
+        "d) am going to tell"
+      ],
+      "correta": 0,
+      "explicacao": "Spontaneous: will."
+    },
+    {
+      "id": 29,
+      "pergunta": "Complete: 'They _____ (move) to a new house next week.' (arranged)",
+      "opcoes": [
+        "a) will move",
+        "b) are moving",
+        "c) move",
+        "d) are going to move"
+      ],
+      "correta": 1,
+      "explicacao": "Present continuous for arrangement."
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: 'I think humans _____ (live) on Mars one day.'",
+      "opcoes": [
+        "a) will live",
+        "b) are living",
+        "c) live",
+        "d) are going to live"
+      ],
+      "correta": 0,
+      "explicacao": "Prediction: will."
+    },
+    {
+      "id": 31,
+      "pergunta": "Complete: 'By the time you arrive, I _____ (prepare) dinner.'",
+      "opcoes": [
+        "a) will prepare",
+        "b) will have prepared",
+        "c) will be preparing",
+        "d) prepare"
+      ],
+      "correta": 1,
+      "explicacao": "Future perfect: completed before another future event."
+    },
+    {
+      "id": 32,
+      "pergunta": "Complete: 'Don't worry, I _____ (help) you with your luggage.'",
+      "opcoes": [
+        "a) will help",
+        "b) am helping",
+        "c) help",
+        "d) am going to help"
+      ],
+      "correta": 0,
+      "explicacao": "Offer: will."
+    },
+    {
+      "id": 33,
+      "pergunta": "Complete: 'We _____ (have) a test next Monday.' (timetable)",
+      "opcoes": [
+        "a) will have",
+        "b) have",
+        "c) are having",
+        "d) are going to have"
+      ],
+      "correta": 1,
+      "explicacao": "Present simple for timetable."
+    },
+    {
+      "id": 34,
+      "pergunta": "Complete: 'The concert _____ (start) at 8 pm.'",
+      "opcoes": [
+        "a) will start",
+        "b) starts",
+        "c) is starting",
+        "d) is going to start"
+      ],
+      "correta": 1,
+      "explicacao": "Schedule: present simple."
+    },
+    {
+      "id": 35,
+      "pergunta": "Choose the correct sentence for a future fact:",
+      "opcoes": [
+        "a) The sun will rise tomorrow.",
+        "b) The sun is rising tomorrow.",
+        "c) The sun rises tomorrow.",
+        "d) The sun is going to rise tomorrow."
+      ],
+      "correta": 0,
+      "explicacao": "Future fact: will."
+    },
+    {
+      "id": 36,
+      "pergunta": "Complete: 'I _____ (study) medicine when I grow up.' (intention)",
+      "opcoes": [
+        "a) will study",
+        "b) am going to study",
+        "c) am studying",
+        "d) all are possible"
+      ],
+      "correta": 3,
+      "explicacao": "All possible."
+    },
+    {
+      "id": 37,
+      "pergunta": "Complete: 'This time next week, we _____ (lie) on a beach.'",
+      "opcoes": [
+        "a) will lie",
+        "b) will be lying",
+        "c) lie",
+        "d) are lying"
+      ],
+      "correta": 1,
+      "explicacao": "Future continuous."
+    },
+    {
+      "id": 38,
+      "pergunta": "Complete: 'By the end of this year, I _____ (save) enough money.'",
+      "opcoes": [
+        "a) will save",
+        "b) will have saved",
+        "c) will be saving",
+        "d) save"
+      ],
+      "correta": 1,
+      "explicacao": "Future perfect."
+    },
+    {
+      "id": 39,
+      "pergunta": "Complete: 'I promise I _____ (not/forget) your birthday.'",
+      "opcoes": [
+        "a) won't forget",
+        "b) am not forgetting",
+        "c) don't forget",
+        "d) am not going to forget"
+      ],
+      "correta": 0,
+      "explicacao": "Promise: won't."
+    },
+    {
+      "id": 40,
+      "pergunta": "Choose the correct: 'She told me she _____ (get) married.'",
+      "opcoes": [
+        "a) will get",
+        "b) is getting",
+        "c) gets",
+        "d) would get"
+      ],
+      "correta": 1,
+      "explicacao": "Future in reported speech: could be 'would get' but present continuous is common."
+    },
+    {
+      "id": 41,
+      "pergunta": "Complete: 'I _____ (call) you when I get home.'",
+      "opcoes": [
+        "a) will call",
+        "b) am calling",
+        "c) call",
+        "d) am going to call"
+      ],
+      "correta": 0,
+      "explicacao": "Future with 'will' in main clause, present simple in time clause."
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: 'If it rains, we _____ (stay) home.'",
+      "opcoes": [
+        "a) will stay",
+        "b) stay",
+        "c) are staying",
+        "d) are going to stay"
+      ],
+      "correta": 0,
+      "explicacao": "First conditional: will."
+    },
+    {
+      "id": 43,
+      "pergunta": "Complete: 'I _____ (be) there at 5 pm.' (arranged)",
+      "opcoes": [
+        "a) will be",
+        "b) am",
+        "c) am being",
+        "d) be"
+      ],
+      "correta": 0,
+      "explicacao": "Will be is common for arrangements too."
+    },
+    {
+      "id": 44,
+      "pergunta": "Choose the correct: 'I _____ (finish) this by tomorrow, I promise.'",
+      "opcoes": [
+        "a) will finish",
+        "b) am finishing",
+        "c) finish",
+        "d) am going to finish"
+      ],
+      "correta": 0,
+      "explicacao": "Promise: will."
+    },
+    {
+      "id": 45,
+      "pergunta": "Complete: 'Look! The bus _____ (come).'",
+      "opcoes": [
+        "a) will come",
+        "b) is coming",
+        "c) comes",
+        "d) is going to come"
+      ],
+      "correta": 1,
+      "explicacao": "Present continuous for near future with evidence."
+    },
+    {
+      "id": 46,
+      "pergunta": "Complete: 'I'm sure you _____ (enjoy) the movie.'",
+      "opcoes": [
+        "a) will enjoy",
+        "b) are enjoying",
+        "c) enjoy",
+        "d) are going to enjoy"
+      ],
+      "correta": 0,
+      "explicacao": "Prediction: will."
+    },
+    {
+      "id": 47,
+      "pergunta": "Complete: 'By the time we get there, the movie _____ (start).'",
+      "opcoes": [
+        "a) will start",
+        "b) will have started",
+        "c) starts",
+        "d) is starting"
+      ],
+      "correta": 1,
+      "explicacao": "Future perfect."
+    },
+    {
+      "id": 48,
+      "pergunta": "Complete: 'I _____ (meet) my boss at 3 pm.' (appointment)",
+      "opcoes": [
+        "a) will meet",
+        "b) am meeting",
+        "c) meet",
+        "d) am going to meet"
+      ],
+      "correta": 1,
+      "explicacao": "Appointment: present continuous."
+    },
+    {
+      "id": 49,
+      "pergunta": "Complete: 'Don't call between 7-8; we _____ (have) dinner.'",
+      "opcoes": [
+        "a) will have",
+        "b) will be having",
+        "c) have",
+        "d) are having"
+      ],
+      "correta": 1,
+      "explicacao": "Future continuous."
+    },
+    {
+      "id": 50,
+      "pergunta": "Complete: 'I _____ (not/probably/see) him tomorrow.'",
+      "opcoes": [
+        "a) probably won't see",
+        "b) won't probably see",
+        "c) am not probably seeing",
+        "d) don't probably see"
+      ],
+      "correta": 0,
+      "explicacao": "Adverb placement: will probably not / probably won't."
+    }
+  ]
+}
