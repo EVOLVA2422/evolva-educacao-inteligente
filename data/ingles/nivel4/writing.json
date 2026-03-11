@@ -1,1 +1,607 @@
-
+{
+  "materia": "Writing",
+  "nivel": 4,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "What is the most appropriate way to start a formal letter?",
+      "opcoes": [
+        "a) Hi John,",
+        "b) Dear Sir/Madam,",
+        "c) Hey there,",
+        "d) To whom it may concern"
+      ],
+      "correta": 1,
+      "explicacao": "'Dear Sir/Madam' is a standard formal salutation."
+    },
+    {
+      "id": 2,
+      "pergunta": "Which of the following is a closing for a formal letter?",
+      "opcoes": [
+        "a) Yours faithfully,",
+        "b) Cheers,",
+        "c) Later,",
+        "d) See ya,"
+      ],
+      "correta": 0,
+      "explicacao": "'Yours faithfully' is used when the recipient's name is unknown."
+    },
+    {
+      "id": 3,
+      "pergunta": "What is a thesis statement?",
+      "opcoes": [
+        "a) The first sentence of the conclusion",
+        "b) The main idea of an essay",
+        "c) A question in the introduction",
+        "d) A list of topics"
+      ],
+      "correta": 1,
+      "explicacao": "A thesis statement expresses the central argument of an essay."
+    },
+    {
+      "id": 4,
+      "pergunta": "Which of these is NOT a type of essay?",
+      "opcoes": [
+        "a) Narrative",
+        "b) Descriptive",
+        "c) Explosive",
+        "d) Expository"
+      ],
+      "correta": 2,
+      "explicacao": "'Explosive' is not a standard essay type."
+    },
+    {
+      "id": 5,
+      "pergunta": "What should an introduction paragraph include?",
+      "opcoes": [
+        "a) A hook, background information, and thesis",
+        "b) Only the thesis",
+        "c) Supporting details",
+        "d) The conclusion"
+      ],
+      "correta": 0,
+      "explicacao": "An introduction should grab attention, provide context, and state the thesis."
+    },
+    {
+      "id": 6,
+      "pergunta": "What is a topic sentence?",
+      "opcoes": [
+        "a) The first sentence of a paragraph that states the main idea",
+        "b) The last sentence of a paragraph",
+        "c) A sentence that introduces a quote",
+        "d) The thesis statement"
+      ],
+      "correta": 0,
+      "explicacao": "A topic sentence summarizes the paragraph's content."
+    },
+    {
+      "id": 7,
+      "pergunta": "Which transition word is used to show contrast?",
+      "opcoes": [
+        "a) Furthermore",
+        "b) However",
+        "c) In addition",
+        "d) Therefore"
+      ],
+      "correta": 1,
+      "explicacao": "'However' introduces a contrasting idea."
+    },
+    {
+      "id": 8,
+      "pergunta": "What is the purpose of a conclusion?",
+      "opcoes": [
+        "a) To introduce new ideas",
+        "b) To summarize the main points and restate the thesis",
+        "c) To list all references",
+        "d) To ask questions"
+      ],
+      "correta": 1,
+      "explicacao": "A conclusion wraps up the essay and reinforces the main argument."
+    },
+    {
+      "id": 9,
+      "pergunta": "Which of the following is a feature of informal writing?",
+      "opcoes": [
+        "a) Contractions",
+        "b) Complex sentences",
+        "c) Formal vocabulary",
+        "d) Third person only"
+      ],
+      "correta": 0,
+      "explicacao": "Informal writing often uses contractions like 'don't', 'can't'."
+    },
+    {
+      "id": 10,
+      "pergunta": "What is plagiarism?",
+      "opcoes": [
+        "a) Citing sources correctly",
+        "b) Using someone else's work without credit",
+        "c) Paraphrasing ideas",
+        "d) Writing in your own words"
+      ],
+      "correta": 1,
+      "explicacao": "Plagiarism is presenting others' work as your own."
+    },
+    {
+      "id": 11,
+      "pergunta": "When writing a compare and contrast essay, which structure can you use?",
+      "opcoes": [
+        "a) Point-by-point",
+        "b) Chronological",
+        "c) Sequential",
+        "d) Flashback"
+      ],
+      "correta": 0,
+      "explicacao": "Point-by-point and block are two common structures for compare/contrast essays."
+    },
+    {
+      "id": 12,
+      "pergunta": "What is a bibliography?",
+      "opcoes": [
+        "a) A list of sources used",
+        "b) A summary of the essay",
+        "c) The introduction",
+        "d) A table of contents"
+      ],
+      "correta": 0,
+      "explicacao": "A bibliography lists all sources cited or consulted."
+    },
+    {
+      "id": 13,
+      "pergunta": "Which tense is commonly used in academic writing?",
+      "opcoes": [
+        "a) Present tense",
+        "b) Past tense",
+        "c) Future tense",
+        "d) All of the above depending on context"
+      ],
+      "correta": 3,
+      "explicacao": "Different tenses are used for different purposes (e.g., present for general truths, past for literature review)."
+    },
+    {
+      "id": 14,
+      "pergunta": "What is the purpose of an outline?",
+      "opcoes": [
+        "a) To write the final draft",
+        "b) To organize ideas before writing",
+        "c) To list references",
+        "d) To check grammar"
+      ],
+      "correta": 1,
+      "explicacao": "An outline helps structure the essay before drafting."
+    },
+    {
+      "id": 15,
+      "pergunta": "Which of the following is a persuasive writing technique?",
+      "opcoes": [
+        "a) Appealing to emotions",
+        "b) Presenting facts",
+        "c) Using rhetorical questions",
+        "d) All of the above"
+      ],
+      "correta": 3,
+      "explicacao": "Persuasive writing uses various techniques to convince the reader."
+    },
+    {
+      "id": 16,
+      "pergunta": "What is a run-on sentence?",
+      "opcoes": [
+        "a) A very short sentence",
+        "b) Two or more independent clauses joined incorrectly",
+        "c) A sentence with a comma splice",
+        "d) Both B and C"
+      ],
+      "correta": 3,
+      "explicacao": "Run-on sentences include fused sentences and comma splices."
+    },
+    {
+      "id": 17,
+      "pergunta": "How can you avoid a run-on sentence?",
+      "opcoes": [
+        "a) Use a period",
+        "b) Use a semicolon",
+        "c) Use a coordinating conjunction",
+        "d) All of the above"
+      ],
+      "correta": 3,
+      "explicacao": "Periods, semicolons, and conjunctions can fix run-ons."
+    },
+    {
+      "id": 18,
+      "pergunta": "What is a paragraph?",
+      "opcoes": [
+        "a) A group of sentences about one main idea",
+        "b) A single sentence",
+        "c) A list of points",
+        "d) The introduction only"
+      ],
+      "correta": 0,
+      "explicacao": "A paragraph develops a single idea."
+    },
+    {
+      "id": 19,
+      "pergunta": "Which of the following is a good hook for an essay about climate change?",
+      "opcoes": [
+        "a) 'Climate change is a serious issue.'",
+        "b) 'Did you know that the last decade was the hottest on record?'",
+        "c) 'In this essay, I will discuss climate change.'",
+        "d) 'There are many causes of climate change.'"
+      ],
+      "correta": 1,
+      "explicacao": "A hook should grab attention; a surprising fact works well."
+    },
+    {
+      "id": 20,
+      "pergunta": "What is the difference between editing and proofreading?",
+      "opcoes": [
+        "a) They are the same",
+        "b) Editing improves content/structure; proofreading fixes surface errors",
+        "c) Proofreading is more important",
+        "d) Editing is only for grammar"
+      ],
+      "correta": 1,
+      "explicacao": "Editing deals with big-picture issues; proofreading catches typos and minor mistakes."
+    },
+    {
+      "id": 21,
+      "pergunta": "Which word is a transition for adding information?",
+      "opcoes": [
+        "a) However",
+        "b) Moreover",
+        "c) Consequently",
+        "d) On the other hand"
+      ],
+      "correta": 1,
+      "explicacao": "'Moreover' adds similar information."
+    },
+    {
+      "id": 22,
+      "pergunta": "What is a claim in argumentative writing?",
+      "opcoes": [
+        "a) A fact",
+        "b) The main argument",
+        "c) A question",
+        "d) A conclusion"
+      ],
+      "correta": 1,
+      "explicacao": "A claim is the thesis or central argument."
+    },
+    {
+      "id": 23,
+      "pergunta": "What is a counterargument?",
+      "opcoes": [
+        "a) An argument against your thesis",
+        "b) Another argument for your thesis",
+        "c) The conclusion",
+        "d) The introduction"
+      ],
+      "correta": 0,
+      "explicacao": "A counterargument is an opposing viewpoint that you then refute."
+    },
+    {
+      "id": 24,
+      "pergunta": "Which of the following is a cliché in writing?",
+      "opcoes": [
+        "a) 'At the end of the day'",
+        "b) 'In conclusion'",
+        "c) 'The data suggests'",
+        "d) 'For instance'"
+      ],
+      "correta": 0,
+      "explicacao": "'At the end of the day' is overused and considered cliché."
+    },
+    {
+      "id": 25,
+      "pergunta": "What is the active voice?",
+      "opcoes": [
+        "a) The subject performs the action",
+        "b) The subject receives the action",
+        "c) The sentence is in present tense",
+        "d) The sentence is in past tense"
+      ],
+      "correta": 0,
+      "explicacao": "Active voice: 'The dog bit the man.' Passive: 'The man was bitten by the dog.'"
+    },
+    {
+      "id": 26,
+      "pergunta": "Why is active voice generally preferred in writing?",
+      "opcoes": [
+        "a) It's more direct and concise",
+        "b) It's more formal",
+        "c) It's longer",
+        "d) It's more complex"
+      ],
+      "correta": 0,
+      "explicacao": "Active voice is usually clearer and more engaging."
+    },
+    {
+      "id": 27,
+      "pergunta": "What is a dangling modifier?",
+      "opcoes": [
+        "a) A word that modifies the wrong thing",
+        "b) A missing comma",
+        "c) An adverb",
+        "d) A long sentence"
+      ],
+      "correta": 0,
+      "explicacao": "Example: 'Walking home, the rain started.' (Who was walking?)"
+    },
+    {
+      "id": 28,
+      "pergunta": "How can you improve sentence variety?",
+      "opcoes": [
+        "a) Use different sentence structures",
+        "b) Use only short sentences",
+        "c) Use only long sentences",
+        "d) Repeat the same pattern"
+      ],
+      "correta": 0,
+      "explicacao": "Varying sentence length and type makes writing more interesting."
+    },
+    {
+      "id": 29,
+      "pergunta": "What is the purpose of a topic sentence?",
+      "opcoes": [
+        "a) To introduce the essay",
+        "b) To state the main idea of a paragraph",
+        "c) To conclude the essay",
+        "d) To provide evidence"
+      ],
+      "correta": 1,
+      "explicacao": "Topic sentences guide the reader through the paragraph."
+    },
+    {
+      "id": 30,
+      "pergunta": "Which of the following is an example of a formal word?",
+      "opcoes": [
+        "a) kids",
+        "b) children",
+        "c) guys",
+        "d) folks"
+      ],
+      "correta": 1,
+      "explicacao": "'Children' is more formal than 'kids'."
+    },
+    {
+      "id": 31,
+      "pergunta": "What is a prepositional phrase?",
+      "opcoes": [
+        "a) A phrase beginning with a preposition",
+        "b) A verb phrase",
+        "c) A noun phrase",
+        "d) An adjective"
+      ],
+      "correta": 0,
+      "explicacao": "Example: 'in the house', 'on the table'."
+    },
+    {
+      "id": 32,
+      "pergunta": "Which punctuation mark is used to separate items in a list?",
+      "opcoes": [
+        "a) Semicolon",
+        "b) Colon",
+        "c) Comma",
+        "d) Period"
+      ],
+      "correta": 2,
+      "explicacao": "Commas separate items in a series."
+    },
+    {
+      "id": 33,
+      "pergunta": "When do you use a semicolon?",
+      "opcoes": [
+        "a) To connect two independent clauses",
+        "b) To end a sentence",
+        "c) To introduce a list",
+        "d) To indicate possession"
+      ],
+      "correta": 0,
+      "explicacao": "Semicolons join related independent clauses."
+    },
+    {
+      "id": 34,
+      "pergunta": "What is the Oxford comma?",
+      "opcoes": [
+        "a) A comma after the last item in a list before 'and'",
+        "b) A comma at the end of a sentence",
+        "c) A comma in dates",
+        "d) A comma in numbers"
+      ],
+      "correta": 0,
+      "explicacao": "Example: 'apples, oranges, and bananas' (the comma after oranges)."
+    },
+    {
+      "id": 35,
+      "pergunta": "Which of these is a common mistake in subject-verb agreement?",
+      "opcoes": [
+        "a) The group of students is studying.",
+        "b) The group of students are studying.",
+        "c) The students are studying.",
+        "d) The student is studying."
+      ],
+      "correta": 1,
+      "explicacao": "The subject is 'group' (singular), so should be 'is studying'."
+    },
+    {
+      "id": 36,
+      "pergunta": "What is a clause?",
+      "opcoes": [
+        "a) A group of words with a subject and verb",
+        "b) A phrase",
+        "c) A sentence",
+        "d) A paragraph"
+      ],
+      "correta": 0,
+      "explicacao": "A clause contains a subject and a verb."
+    },
+    {
+      "id": 37,
+      "pergunta": "What is an independent clause?",
+      "opcoes": [
+        "a) A clause that can stand alone as a sentence",
+        "b) A clause that cannot stand alone",
+        "c) A dependent clause",
+        "d) A subordinate clause"
+      ],
+      "correta": 0,
+      "explicacao": "Independent clauses express a complete thought."
+    },
+    {
+      "id": 38,
+      "pergunta": "What is a dependent clause?",
+      "opcoes": [
+        "a) A clause that cannot stand alone",
+        "b) A complete sentence",
+        "c) A main clause",
+        "d) A compound sentence"
+      ],
+      "correta": 0,
+      "explicacao": "Dependent clauses begin with subordinating conjunctions like 'because', 'although'."
+    },
+    {
+      "id": 39,
+      "pergunta": "Which sentence is grammatically correct?",
+      "opcoes": [
+        "a) Me and John went to the store.",
+        "b) John and I went to the store.",
+        "c) John and me went to the store.",
+        "d) I and John went to the store."
+      ],
+      "correta": 1,
+      "explicacao": "Use subject pronouns (I) in compound subjects."
+    },
+    {
+      "id": 40,
+      "pergunta": "Which sentence uses correct pronoun case?",
+      "opcoes": [
+        "a) The teacher gave the book to John and I.",
+        "b) The teacher gave the book to John and me.",
+        "c) The teacher gave the book to I and John.",
+        "d) The teacher gave the book to John and myself."
+      ],
+      "correta": 1,
+      "explicacao": "Use object pronouns (me) after prepositions."
+    },
+    {
+      "id": 41,
+      "pergunta": "What is parallelism in writing?",
+      "opcoes": [
+        "a) Using the same grammatical structure for similar ideas",
+        "b) Using different structures",
+        "c) Writing long sentences",
+        "d) Using parallel lines"
+      ],
+      "correta": 0,
+      "explicacao": "Parallelism creates balance and rhythm (e.g., 'She likes reading, writing, and running')."
+    },
+    {
+      "id": 42,
+      "pergunta": "Which sentence demonstrates parallelism?",
+      "opcoes": [
+        "a) She enjoys hiking, to swim, and biking.",
+        "b) She enjoys hiking, swimming, and biking.",
+        "c) She enjoys hiking, to swim, and to bike.",
+        "d) She enjoys to hike, swimming, and biking."
+      ],
+      "correta": 1,
+      "explicacao": "All items are in the -ing form."
+    },
+    {
+      "id": 43,
+      "pergunta": "What is a rhetorical question?",
+      "opcoes": [
+        "a) A question that expects an answer",
+        "b) A question asked for effect with no answer expected",
+        "c) A question in a survey",
+        "d) A question in a test"
+      ],
+      "correta": 1,
+      "explicacao": "Rhetorical questions engage the reader without requiring a reply."
+    },
+    {
+      "id": 44,
+      "pergunta": "Which of the following is a logical fallacy?",
+      "opcoes": [
+        "a) Straw man",
+        "b) Thesis statement",
+        "c) Evidence",
+        "d) Conclusion"
+      ],
+      "correta": 0,
+      "explicacao": "Straw man is a fallacy where an argument is misrepresented."
+    },
+    {
+      "id": 45,
+      "pergunta": "What is the purpose of an abstract in academic writing?",
+      "opcoes": [
+        "a) To summarize the entire paper",
+        "b) To introduce the topic",
+        "c) To list references",
+        "d) To thank people"
+      ],
+      "correta": 0,
+      "explicacao": "An abstract provides a brief summary of the research."
+    },
+    {
+      "id": 46,
+      "pergunta": "Which citation style is commonly used in the humanities?",
+      "opcoes": [
+        "a) APA",
+        "b) MLA",
+        "c) Chicago",
+        "d) Harvard"
+      ],
+      "correta": 1,
+      "explicacao": "MLA (Modern Language Association) is often used in humanities."
+    },
+    {
+      "id": 47,
+      "pergunta": "What is a footnote?",
+      "opcoes": [
+        "a) A note at the bottom of the page",
+        "b) A note at the end of the chapter",
+        "c) A citation in the text",
+        "d) A bibliography entry"
+      ],
+      "correta": 0,
+      "explicacao": "Footnotes provide additional information or citations."
+    },
+    {
+      "id": 48,
+      "pergunta": "What is an endnote?",
+      "opcoes": [
+        "a) A note at the end of a chapter or book",
+        "b) A note at the bottom of the page",
+        "c) A parenthetical citation",
+        "d) A reference list"
+      ],
+      "correta": 0,
+      "explicacao": "Endnotes are similar to footnotes but appear at the end."
+    },
+    {
+      "id": 49,
+      "pergunta": "Which word is a stronger alternative to 'good' in writing?",
+      "opcoes": [
+        "a) okay",
+        "b) fine",
+        "c) excellent",
+        "d) average"
+      ],
+      "correta": 2,
+      "explicacao": "'Excellent' is more vivid and precise."
+    },
+    {
+      "id": 50,
+      "pergunta": "What is the best advice for improving writing?",
+      "opcoes": [
+        "a) Write and revise multiple times",
+        "b) Only write once",
+        "c) Never get feedback",
+        "d) Use complex words always"
+      ],
+      "correta": 0,
+      "explicacao": "Good writing requires drafting, revising, and feedback."
+    }
+  ]
+}
