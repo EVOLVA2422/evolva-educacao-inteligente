@@ -1,1 +1,607 @@
-
+{
+  "materia": "Numbers",
+  "nivel": 1,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "How do you write 1 in English?",
+      "opcoes": [
+        "a) one",
+        "b) two",
+        "c) three",
+        "d) four"
+      ],
+      "correta": 0,
+      "explicacao": "1 = one."
+    },
+    {
+      "id": 2,
+      "pergunta": "How do you write 2 in English?",
+      "opcoes": [
+        "a) one",
+        "b) two",
+        "c) three",
+        "d) four"
+      ],
+      "correta": 1,
+      "explicacao": "2 = two."
+    },
+    {
+      "id": 3,
+      "pergunta": "How do you write 3 in English?",
+      "opcoes": [
+        "a) one",
+        "b) two",
+        "c) three",
+        "d) four"
+      ],
+      "correta": 2,
+      "explicacao": "3 = three."
+    },
+    {
+      "id": 4,
+      "pergunta": "How do you write 4 in English?",
+      "opcoes": [
+        "a) four",
+        "b) five",
+        "c) six",
+        "d) seven"
+      ],
+      "correta": 0,
+      "explicacao": "4 = four."
+    },
+    {
+      "id": 5,
+      "pergunta": "How do you write 5 in English?",
+      "opcoes": [
+        "a) four",
+        "b) five",
+        "c) six",
+        "d) seven"
+      ],
+      "correta": 1,
+      "explicacao": "5 = five."
+    },
+    {
+      "id": 6,
+      "pergunta": "How do you write 6 in English?",
+      "opcoes": [
+        "a) five",
+        "b) six",
+        "c) seven",
+        "d) eight"
+      ],
+      "correta": 1,
+      "explicacao": "6 = six."
+    },
+    {
+      "id": 7,
+      "pergunta": "How do you write 7 in English?",
+      "opcoes": [
+        "a) six",
+        "b) seven",
+        "c) eight",
+        "d) nine"
+      ],
+      "correta": 1,
+      "explicacao": "7 = seven."
+    },
+    {
+      "id": 8,
+      "pergunta": "How do you write 8 in English?",
+      "opcoes": [
+        "a) seven",
+        "b) eight",
+        "c) nine",
+        "d) ten"
+      ],
+      "correta": 1,
+      "explicacao": "8 = eight."
+    },
+    {
+      "id": 9,
+      "pergunta": "How do you write 9 in English?",
+      "opcoes": [
+        "a) eight",
+        "b) nine",
+        "c) ten",
+        "d) eleven"
+      ],
+      "correta": 1,
+      "explicacao": "9 = nine."
+    },
+    {
+      "id": 10,
+      "pergunta": "How do you write 10 in English?",
+      "opcoes": [
+        "a) nine",
+        "b) ten",
+        "c) eleven",
+        "d) twelve"
+      ],
+      "correta": 1,
+      "explicacao": "10 = ten."
+    },
+    {
+      "id": 11,
+      "pergunta": "How do you write 11 in English?",
+      "opcoes": [
+        "a) ten",
+        "b) eleven",
+        "c) twelve",
+        "d) thirteen"
+      ],
+      "correta": 1,
+      "explicacao": "11 = eleven."
+    },
+    {
+      "id": 12,
+      "pergunta": "How do you write 12 in English?",
+      "opcoes": [
+        "a) eleven",
+        "b) twelve",
+        "c) thirteen",
+        "d) fourteen"
+      ],
+      "correta": 1,
+      "explicacao": "12 = twelve."
+    },
+    {
+      "id": 13,
+      "pergunta": "How do you write 13 in English?",
+      "opcoes": [
+        "a) twelve",
+        "b) thirteen",
+        "c) fourteen",
+        "d) fifteen"
+      ],
+      "correta": 1,
+      "explicacao": "13 = thirteen."
+    },
+    {
+      "id": 14,
+      "pergunta": "How do you write 14 in English?",
+      "opcoes": [
+        "a) thirteen",
+        "b) fourteen",
+        "c) fifteen",
+        "d) sixteen"
+      ],
+      "correta": 1,
+      "explicacao": "14 = fourteen."
+    },
+    {
+      "id": 15,
+      "pergunta": "How do you write 15 in English?",
+      "opcoes": [
+        "a) fourteen",
+        "b) fifteen",
+        "c) sixteen",
+        "d) seventeen"
+      ],
+      "correta": 1,
+      "explicacao": "15 = fifteen."
+    },
+    {
+      "id": 16,
+      "pergunta": "How do you write 16 in English?",
+      "opcoes": [
+        "a) fifteen",
+        "b) sixteen",
+        "c) seventeen",
+        "d) eighteen"
+      ],
+      "correta": 1,
+      "explicacao": "16 = sixteen."
+    },
+    {
+      "id": 17,
+      "pergunta": "How do you write 17 in English?",
+      "opcoes": [
+        "a) sixteen",
+        "b) seventeen",
+        "c) eighteen",
+        "d) nineteen"
+      ],
+      "correta": 1,
+      "explicacao": "17 = seventeen."
+    },
+    {
+      "id": 18,
+      "pergunta": "How do you write 18 in English?",
+      "opcoes": [
+        "a) seventeen",
+        "b) eighteen",
+        "c) nineteen",
+        "d) twenty"
+      ],
+      "correta": 1,
+      "explicacao": "18 = eighteen."
+    },
+    {
+      "id": 19,
+      "pergunta": "How do you write 19 in English?",
+      "opcoes": [
+        "a) eighteen",
+        "b) nineteen",
+        "c) twenty",
+        "d) twenty-one"
+      ],
+      "correta": 1,
+      "explicacao": "19 = nineteen."
+    },
+    {
+      "id": 20,
+      "pergunta": "How do you write 20 in English?",
+      "opcoes": [
+        "a) nineteen",
+        "b) twenty",
+        "c) twenty-one",
+        "d) thirty"
+      ],
+      "correta": 1,
+      "explicacao": "20 = twenty."
+    },
+    {
+      "id": 21,
+      "pergunta": "How do you write 21 in English?",
+      "opcoes": [
+        "a) twenty and one",
+        "b) twenty-one",
+        "c) twenty one",
+        "d) two-one"
+      ],
+      "correta": 1,
+      "explicacao": "21 = twenty-one."
+    },
+    {
+      "id": 22,
+      "pergunta": "How do you write 30 in English?",
+      "opcoes": [
+        "a) thirteen",
+        "b) twenty",
+        "c) thirty",
+        "d) three"
+      ],
+      "correta": 2,
+      "explicacao": "30 = thirty."
+    },
+    {
+      "id": 23,
+      "pergunta": "How do you write 40 in English?",
+      "opcoes": [
+        "a) fourteen",
+        "b) forty",
+        "c) fourty",
+        "d) four"
+      ],
+      "correta": 1,
+      "explicacao": "40 = forty (without 'u')."
+    },
+    {
+      "id": 24,
+      "pergunta": "How do you write 50 in English?",
+      "opcoes": [
+        "a) fifty",
+        "b) fifteen",
+        "c) five",
+        "d) fiftey"
+      ],
+      "correta": 0,
+      "explicacao": "50 = fifty."
+    },
+    {
+      "id": 25,
+      "pergunta": "How do you write 60 in English?",
+      "opcoes": [
+        "a) sixteen",
+        "b) sixty",
+        "c) six",
+        "d) sixtyth"
+      ],
+      "correta": 1,
+      "explicacao": "60 = sixty."
+    },
+    {
+      "id": 26,
+      "pergunta": "How do you write 70 in English?",
+      "opcoes": [
+        "a) seventy",
+        "b) seventeen",
+        "c) seven",
+        "d) seventyth"
+      ],
+      "correta": 0,
+      "explicacao": "70 = seventy."
+    },
+    {
+      "id": 27,
+      "pergunta": "How do you write 80 in English?",
+      "opcoes": [
+        "a) eighteen",
+        "b) eighty",
+        "c) eight",
+        "d) eightyth"
+      ],
+      "correta": 1,
+      "explicacao": "80 = eighty."
+    },
+    {
+      "id": 28,
+      "pergunta": "How do you write 90 in English?",
+      "opcoes": [
+        "a) nineteen",
+        "b) ninety",
+        "c) nine",
+        "d) ninet"
+      ],
+      "correta": 1,
+      "explicacao": "90 = ninety."
+    },
+    {
+      "id": 29,
+      "pergunta": "How do you write 100 in English?",
+      "opcoes": [
+        "a) hundred",
+        "b) one hundred",
+        "c) a hundred",
+        "d) one hundredth"
+      ],
+      "correta": 1,
+      "explicacao": "100 = one hundred."
+    },
+    {
+      "id": 30,
+      "pergunta": "How do you write 101 in English?",
+      "opcoes": [
+        "a) one hundred one",
+        "b) one hundred and one",
+        "c) one hundred-one",
+        "d) one hundredth one"
+      ],
+      "correta": 1,
+      "explicacao": "101 = one hundred and one (British) or one hundred one (American)."
+    },
+    {
+      "id": 31,
+      "pergunta": "How do you write 1000 in English?",
+      "opcoes": [
+        "a) thousand",
+        "b) one thousand",
+        "c) ten hundred",
+        "d) a thousand"
+      ],
+      "correta": 1,
+      "explicacao": "1000 = one thousand."
+    },
+    {
+      "id": 32,
+      "pergunta": "What is the ordinal form of 1?",
+      "opcoes": [
+        "a) one",
+        "b) first",
+        "c) firstly",
+        "d) oneth"
+      ],
+      "correta": 1,
+      "explicacao": "1st = first."
+    },
+    {
+      "id": 33,
+      "pergunta": "What is the ordinal form of 2?",
+      "opcoes": [
+        "a) two",
+        "b) second",
+        "c) secondly",
+        "d) twoth"
+      ],
+      "correta": 1,
+      "explicacao": "2nd = second."
+    },
+    {
+      "id": 34,
+      "pergunta": "What is the ordinal form of 3?",
+      "opcoes": [
+        "a) three",
+        "b) third",
+        "c) thirdly",
+        "d) threeth"
+      ],
+      "correta": 1,
+      "explicacao": "3rd = third."
+    },
+    {
+      "id": 35,
+      "pergunta": "What is the ordinal form of 4?",
+      "opcoes": [
+        "a) four",
+        "b) fourth",
+        "c) forth",
+        "d) fourthly"
+      ],
+      "correta": 1,
+      "explicacao": "4th = fourth."
+    },
+    {
+      "id": 36,
+      "pergunta": "What is the ordinal form of 5?",
+      "opcoes": [
+        "a) five",
+        "b) fifth",
+        "c) fiveth",
+        "d) fifthly"
+      ],
+      "correta": 1,
+      "explicacao": "5th = fifth."
+    },
+    {
+      "id": 37,
+      "pergunta": "What is the ordinal form of 10?",
+      "opcoes": [
+        "a) ten",
+        "b) tenth",
+        "c) tength",
+        "d) tenthly"
+      ],
+      "correta": 1,
+      "explicacao": "10th = tenth."
+    },
+    {
+      "id": 38,
+      "pergunta": "What is the ordinal form of 12?",
+      "opcoes": [
+        "a) twelve",
+        "b) twelfth",
+        "c) twelveth",
+        "d) twelf"
+      ],
+      "correta": 1,
+      "explicacao": "12th = twelfth (note the spelling)."
+    },
+    {
+      "id": 39,
+      "pergunta": "What is the ordinal form of 20?",
+      "opcoes": [
+        "a) twenty",
+        "b) twentieth",
+        "c) twentyth",
+        "d) twentyth"
+      ],
+      "correta": 1,
+      "explicacao": "20th = twentieth."
+    },
+    {
+      "id": 40,
+      "pergunta": "What is the ordinal form of 21?",
+      "opcoes": [
+        "a) twenty-one",
+        "b) twenty-first",
+        "c) twenty-oneth",
+        "d) twenty-firstly"
+      ],
+      "correta": 1,
+      "explicacao": "21st = twenty-first."
+    },
+    {
+      "id": 41,
+      "pergunta": "What is the ordinal form of 100?",
+      "opcoes": [
+        "a) hundred",
+        "b) one hundredth",
+        "c) hundredth",
+        "d) one hundredthly"
+      ],
+      "correta": 1,
+      "explicacao": "100th = one hundredth."
+    },
+    {
+      "id": 42,
+      "pergunta": "How do you say 0 in English?",
+      "opcoes": [
+        "a) zero",
+        "b) oh",
+        "c) nil",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "0 can be zero, oh (in phone numbers), nil (in sports), etc."
+    },
+    {
+      "id": 43,
+      "pergunta": "How do you write 1,000,000 in English?",
+      "opcoes": [
+        "a) one thousand",
+        "b) one million",
+        "c) one billion",
+        "d) one trillion"
+      ],
+      "correta": 1,
+      "explicacao": "1,000,000 = one million."
+    },
+    {
+      "id": 44,
+      "pergunta": "How do you write 1,000,000,000 in English?",
+      "opcoes": [
+        "a) one million",
+        "b) one billion",
+        "c) one trillion",
+        "d) one thousand million"
+      ],
+      "correta": 1,
+      "explicacao": "1,000,000,000 = one billion (American) or one thousand million (British)."
+    },
+    {
+      "id": 45,
+      "pergunta": "What is the number 'twenty-five'?",
+      "opcoes": [
+        "a) 15",
+        "b) 20",
+        "c) 25",
+        "d) 30"
+      ],
+      "correta": 2,
+      "explicacao": "Twenty-five = 25."
+    },
+    {
+      "id": 46,
+      "pergunta": "What is the number 'thirty-two'?",
+      "opcoes": [
+        "a) 23",
+        "b) 32",
+        "c) 33",
+        "d) 22"
+      ],
+      "correta": 1,
+      "explicacao": "Thirty-two = 32."
+    },
+    {
+      "id": 47,
+      "pergunta": "What is the number 'forty-four'?",
+      "opcoes": [
+        "a) 44",
+        "b) 40",
+        "c) 54",
+        "d) 34"
+      ],
+      "correta": 0,
+      "explicacao": "Forty-four = 44."
+    },
+    {
+      "id": 48,
+      "pergunta": "What is the number 'seventy-seven'?",
+      "opcoes": [
+        "a) 67",
+        "b) 77",
+        "c) 87",
+        "d) 57"
+      ],
+      "correta": 1,
+      "explicacao": "Seventy-seven = 77."
+    },
+    {
+      "id": 49,
+      "pergunta": "What is the number 'ninety-nine'?",
+      "opcoes": [
+        "a) 90",
+        "b) 99",
+        "c) 100",
+        "d) 89"
+      ],
+      "correta": 1,
+      "explicacao": "Ninety-nine = 99."
+    },
+    {
+      "id": 50,
+      "pergunta": "How do you write 100 in ordinal form?",
+      "opcoes": [
+        "a) hundredth",
+        "b) one hundredth",
+        "c) hundred",
+        "d) one hundred"
+      ],
+      "correta": 1,
+      "explicacao": "100th = one hundredth."
+    }
+  ]
+}
