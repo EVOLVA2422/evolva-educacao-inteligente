@@ -1,1 +1,367 @@
-
+{
+  "materia": "Concordância (Casos Especiais)",
+  "nivel": 4,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Complete: 'A maioria dos alunos _____ aprovados'.",
+      "opcoes": [
+        "a) foi",
+        "b) foram",
+        "c) ambas são aceitas",
+        "d) era"
+      ],
+      "correta": 2,
+      "explicacao": "Expressões partitivas admitem concordância com o núcleo (maioria) ou com o especificador (alunos)."
+    },
+    {
+      "id": 2,
+      "pergunta": "Assinale a opção correta: '1% dos eleitores _____ abstenção'.",
+      "opcoes": [
+        "a) registrou",
+        "b) registraram",
+        "c) ambas são aceitas",
+        "d) registrara"
+      ],
+      "correta": 2,
+      "explicacao": "Percentuais podem concordar com o numeral ou com o termo preposicionado."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em 'Mais de um aluno _____', a forma correta é:",
+      "opcoes": [
+        "a) faltou",
+        "b) faltaram",
+        "c) falta",
+        "d) faltam"
+      ],
+      "correta": 0,
+      "explicacao": "'Mais de um' pede verbo no singular, mesmo seguido de plural."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete: '_____ haviam se passado anos'.",
+      "opcoes": [
+        "a) Fazia",
+        "b) Faziam",
+        "c) Faziam",
+        "d) Fazer"
+      ],
+      "correta": 0,
+      "explicacao": "Verbo 'fazer' indicando tempo é impessoal e fica no singular."
+    },
+    {
+      "id": 5,
+      "pergunta": "Assinale a opção correta: 'Precisa-se _____ funcionários'.",
+      "opcoes": [
+        "a) de",
+        "b) de",
+        "c) dos",
+        "d) com"
+      ],
+      "correta": 0,
+      "explicacao": "Precisa-se de funcionários (preposição 'de' + substantivo)."
+    },
+    {
+      "id": 6,
+      "pergunta": "Em 'Vendem-se casas', o verbo está no plural porque:",
+      "opcoes": [
+        "a) sujeito indeterminado",
+        "b) partícula apassivadora, concordando com 'casas'",
+        "c) o 'se' é reflexivo",
+        "d) é voz ativa"
+      ],
+      "correta": 1,
+      "explicacao": "'casas' é sujeito paciente, verbo concorda."
+    },
+    {
+      "id": 7,
+      "pergunta": "Complete: 'Tratava-se _____ problemas complexos'.",
+      "opcoes": [
+        "a) de",
+        "b) de",
+        "c) dos",
+        "d) com"
+      ],
+      "correta": 1,
+      "explicacao": "'Tratar-se de' exige preposição 'de', e o verbo fica no singular (índice de indeterminação)."
+    },
+    {
+      "id": 8,
+      "pergunta": "Assinale a frase correta:",
+      "opcoes": [
+        "a) Ela tem bastante amigos.",
+        "b) Ela tem bastantes amigos.",
+        "c) Ela tem bastante amigo.",
+        "d) Ela tem bastante amigas."
+      ],
+      "correta": 1,
+      "explicacao": "'bastante' como adjetivo (= muitos) concorda: bastantes amigos."
+    },
+    {
+      "id": 9,
+      "pergunta": "Em 'É proibido _____ entrada', a forma correta é:",
+      "opcoes": [
+        "a) entrada",
+        "b) a entrada",
+        "c) as entrada",
+        "d) entrada de menores"
+      ],
+      "correta": 0,
+      "explicacao": "Sem artigo, 'proibido' fica invariável."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'Segue _____ as cópias'.",
+      "opcoes": [
+        "a) anexo",
+        "b) anexa",
+        "c) anexas",
+        "d) anexos"
+      ],
+      "correta": 2,
+      "explicacao": "'anexas' concorda com 'cópias' (feminino plural)."
+    },
+    {
+      "id": 11,
+      "pergunta": "Assinale a opção correta: 'Os Estados Unidos _____ um país rico'.",
+      "opcoes": [
+        "a) é",
+        "b) são",
+        "c) está",
+        "d) estão"
+      ],
+      "correta": 1,
+      "explicacao": "Nome de país no plural leva verbo no plural."
+    },
+    {
+      "id": 12,
+      "pergunta": "Em 'Obrigada, disse ela', a palavra 'obrigada' está no feminino porque:",
+      "opcoes": [
+        "a) concorda com o interlocutor",
+        "b) concorda com o sujeito (ela)",
+        "c) é invariável",
+        "d) é advérbio"
+      ],
+      "correta": 1,
+      "explicacao": "Adjetivo concorda com o sujeito feminino."
+    },
+    {
+      "id": 13,
+      "pergunta": "Complete: 'Faz _____ que não o vejo'.",
+      "opcoes": [
+        "a) muito tempo",
+        "b) muitos tempo",
+        "c) muito tempos",
+        "d) muitas tempo"
+      ],
+      "correta": 0,
+      "explicacao": "'muito' concorda com 'tempo' (masculino singular)."
+    },
+    {
+      "id": 14,
+      "pergunta": "Assinale a opção incorreta:",
+      "opcoes": [
+        "a) Haviam muitas pessoas na festa.",
+        "b) Havia muitas pessoas na festa.",
+        "c) Existiam muitas pessoas na festa.",
+        "d) Tinha muitas pessoas na festa."
+      ],
+      "correta": 0,
+      "explicacao": "'Haver' impessoal não varia."
+    },
+    {
+      "id": 15,
+      "pergunta": "Em 'Mais de uma aluna _____', a forma correta é:",
+      "opcoes": [
+        "a) faltou",
+        "b) faltaram",
+        "c) falta",
+        "d) faltam"
+      ],
+      "correta": 0,
+      "explicacao": "'Mais de uma' pede singular."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: '_____ de livros novos'.",
+      "opcoes": [
+        "a) Precisa-se",
+        "b) Precisam-se",
+        "c) Precisa-se",
+        "d) Precisam-se"
+      ],
+      "correta": 0,
+      "explicacao": "'Precisa-se' é invariável (índice de indeterminação)."
+    },
+    {
+      "id": 17,
+      "pergunta": "Assinale a frase correta:",
+      "opcoes": [
+        "a) Ela tem menas amigas que eu.",
+        "b) Ela tem menos amigas que eu.",
+        "c) Ela tem menas amigas do que eu.",
+        "d) Ela tem menos amigas do que mim."
+      ],
+      "correta": 1,
+      "explicacao": "'menos' é invariável."
+    },
+    {
+      "id": 18,
+      "pergunta": "Em 'Cerca de vinte pessoas _____', a forma correta é:",
+      "opcoes": [
+        "a) compareceu",
+        "b) compareceram",
+        "c) ambas são aceitas",
+        "d) comparecera"
+      ],
+      "correta": 1,
+      "explicacao": "'Cerca de' + numeral plural leva verbo no plural."
+    },
+    {
+      "id": 19,
+      "pergunta": "Complete: 'A maioria _____ que ele venceria'.",
+      "opcoes": [
+        "a) acreditava",
+        "b) acreditavam",
+        "c) ambas são aceitas",
+        "d) acreditara"
+      ],
+      "correta": 2,
+      "explicacao": "Partitivo + verbo pode concordar com o núcleo ou com o especificador."
+    },
+    {
+      "id": 20,
+      "pergunta": "Assinale a opção correta: 'Grande parte dos problemas _____ resolvidos'.",
+      "opcoes": [
+        "a) foi",
+        "b) foram",
+        "c) ambas são aceitas",
+        "d) era"
+      ],
+      "correta": 2,
+      "explicacao": "Expressões partitivas admitem as duas concordâncias."
+    },
+    {
+      "id": 21,
+      "pergunta": "Em 'Um e outro aluno _____', a forma correta é:",
+      "opcoes": [
+        "a) faltou",
+        "b) faltaram",
+        "c) falta",
+        "d) faltam"
+      ],
+      "correta": 1,
+      "explicacao": "'Um e outro' pede verbo no plural."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'Nem um nem outro _____'.",
+      "opcoes": [
+        "a) veio",
+        "b) vieram",
+        "c) ambas são aceitas",
+        "d) viera"
+      ],
+      "correta": 2,
+      "explicacao": "'Nem um nem outro' admite singular ou plural."
+    },
+    {
+      "id": 23,
+      "pergunta": "Assinale a frase correta:",
+      "opcoes": [
+        "a) Ela mesmo fez.",
+        "b) Ela mesma fez.",
+        "c) Ela mesmo resolveram.",
+        "d) Ela mesma resolveram."
+      ],
+      "correta": 1,
+      "explicacao": "'mesma' concorda com o sujeito feminino."
+    },
+    {
+      "id": 24,
+      "pergunta": "Em 'Vossa Excelência _____ atencioso', a forma correta é:",
+      "opcoes": [
+        "a) foi",
+        "b) foram",
+        "c) é",
+        "d) são"
+      ],
+      "correta": 0,
+      "explicacao": "Pronome de tratamento leva verbo na 3ª pessoa."
+    },
+    {
+      "id": 25,
+      "pergunta": "Complete: '_____ anos que não o via'.",
+      "opcoes": [
+        "a) Fazia",
+        "b) Faziam",
+        "c) Fazer",
+        "d) Fazendo"
+      ],
+      "correta": 0,
+      "explicacao": "Verbo 'fazer' indicando tempo é impessoal, fica no singular."
+    },
+    {
+      "id": 26,
+      "pergunta": "Assinale a opção correta: 'Houveram muitos problemas' ou 'Houve muitos problemas'?",
+      "opcoes": [
+        "a) Houveram",
+        "b) Houve",
+        "c) Ambas",
+        "d) Nenhuma"
+      ],
+      "correta": 1,
+      "explicacao": "'Haver' no sentido de existir é impessoal: houve."
+    },
+    {
+      "id": 27,
+      "pergunta": "Em 'Tratam-se de questões importantes', a frase está:",
+      "opcoes": [
+        "a) correta",
+        "b) incorreta, o correto é 'Trata-se de questões importantes'",
+        "c) ambas são aceitas",
+        "d) depende do contexto"
+      ],
+      "correta": 1,
+      "explicacao": "'Tratar-se de' é invariável, o verbo fica no singular."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'Precisam-se _____ funcionários'.",
+      "opcoes": [
+        "a) de",
+        "b) de",
+        "c) dos",
+        "d) com"
+      ],
+      "correta": 0,
+      "explicacao": "Apesar de 'precisam-se' ser usado, a forma correta com índice de indeterminação é 'Precisa-se de funcionários'."
+    },
+    {
+      "id": 29,
+      "pergunta": "Assinale a frase correta:",
+      "opcoes": [
+        "a) Havia muitas pessoas.",
+        "b) Haviam muitas pessoas.",
+        "c) Existia muitas pessoas.",
+        "d) Tinham muitas pessoas."
+      ],
+      "correta": 0,
+      "explicacao": "'Havia' impessoal."
+    },
+    {
+      "id": 30,
+      "pergunta": "Em 'Mais de uma vez _____ tentado', a forma correta é:",
+      "opcoes": [
+        "a) foi",
+        "b) foram",
+        "c) era",
+        "d) eram"
+      ],
+      "correta": 0,
+      "explicacao": "'Mais de uma' pede singular."
+    }
+  ]
+}
