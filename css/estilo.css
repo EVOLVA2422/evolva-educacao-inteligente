@@ -1,19 +1,22 @@
+/* ========== RESET E CONFIGURAÇÕES GLOBAIS ========== */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
+    font-family: 'Poppins', sans-serif;
     min-height: 100vh;
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #333;
+    overflow-x: hidden;
 }
 
-/* WALLPAPER - Gradiente suave (pode ser substituído por uma imagem) */
+/* ========== WALLPAPER ANIMADO ========== */
 body::before {
     content: "";
     position: fixed;
@@ -21,26 +24,19 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(-45deg, #667eea, #764ba2, #6b8cff, #9f7aea);
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
     z-index: -2;
 }
 
-/* Opção com imagem (descomente e substitua a URL pela sua imagem) */
-/*
-body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: url('https://exemplo.com/sua-imagem.jpg') no-repeat center center fixed;
-    background-size: cover;
-    z-index: -2;
+@keyframes gradientBG {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
 }
-*/
 
-/* Overlay escuro para melhor contraste */
+/* Overlay para contraste */
 body::after {
     content: "";
     position: fixed;
@@ -48,31 +44,33 @@ body::after {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(3px);
     z-index: -1;
 }
 
-/* Logo no wallpaper (opcional, se quiser uma marca d'água) */
+/* Logo d'água sutil */
 body::before {
     content: "EVOLVA";
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 15vw;
+    font-size: 20vw;
     font-weight: 900;
-    color: rgba(255, 255, 255, 0.05);
+    color: rgba(255, 255, 255, 0.03);
     white-space: nowrap;
     text-transform: uppercase;
     letter-spacing: 20px;
     z-index: -1;
     pointer-events: none;
-    animation: pulseLogo 4s ease-in-out infinite;
+    animation: float 20s linear infinite;
 }
 
-@keyframes pulseLogo {
-    0%, 100% { opacity: 0.05; transform: translate(-50%, -50%) scale(1); }
-    50% { opacity: 0.1; transform: translate(-50%, -50%) scale(1.02); }
+@keyframes float {
+    0% { transform: translate(-50%, -50%) rotate(0deg); }
+    50% { transform: translate(-50%, -50%) rotate(5deg); }
+    100% { transform: translate(-50%, -50%) rotate(0deg); }
 }
 
 /* Grid decorativo */
@@ -83,16 +81,17 @@ body::before {
     width: 100%;
     height: 100%;
     background-image: 
-        linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+        linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px);
     background-size: 50px 50px;
     z-index: -1;
+    pointer-events: none;
 }
 
 /* ========== TELA DE LOGIN ========== */
 .container {
     width: 100%;
-    max-width: 400px;
+    max-width: 420px;
     padding: 20px;
     position: relative;
     z-index: 2;
@@ -106,32 +105,34 @@ body::before {
 .small-logo h1 {
     color: white;
     font-size: 48px;
-    font-weight: 900;
-    letter-spacing: 4px;
-    text-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 15px rgba(0,0,0,0.3);
     margin-bottom: 5px;
 }
 
 .small-logo p {
     color: rgba(255,255,255,0.9);
     font-size: 16px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     text-shadow: 1px 1px 5px rgba(0,0,0,0.3);
 }
 
 .form-card {
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(10px);
-    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    border-radius: 30px;
     padding: 40px;
-    box-shadow: 0 15px 35px rgba(0,0,0,0.3);
-    border: 1px solid rgba(255,255,255,0.2);
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .tabs {
     display: flex;
     margin-bottom: 30px;
-    border-bottom: 2px solid #eee;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 5px;
 }
 
 .tab {
@@ -139,14 +140,24 @@ body::before {
     text-align: center;
     padding: 10px;
     cursor: pointer;
-    color: #666;
+    color: rgba(255,255,255,0.7);
     font-weight: 500;
     transition: all 0.3s;
+    border-radius: 50px;
 }
 
 .tab.active {
+    background: white;
     color: #667eea;
-    border-bottom: 2px solid #667eea;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.form {
+    display: none;
+}
+
+.form.active {
+    display: block;
 }
 
 .form-group {
@@ -156,40 +167,50 @@ body::before {
 .form-group label {
     display: block;
     margin-bottom: 8px;
-    color: #333;
+    color: white;
     font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.5px;
 }
 
 .form-group input {
     width: 100%;
-    padding: 12px 15px;
-    border: 2px solid #e0e0e0;
-    border-radius: 10px;
+    padding: 14px 18px;
+    border: none;
+    border-radius: 50px;
     font-size: 16px;
-    transition: border-color 0.3s;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    transition: all 0.3s;
+}
+
+.form-group input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .form-group input:focus {
     outline: none;
-    border-color: #667eea;
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 0 3px rgba(255,255,255,0.2);
 }
 
 .btn {
     width: 100%;
     padding: 14px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+    background: white;
+    color: #667eea;
     border: none;
-    border-radius: 10px;
+    border-radius: 50px;
     font-size: 16px;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s;
+    box-shadow: 0 10px 20px -5px rgba(0,0,0,0.3);
 }
 
 .btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(102,126,234,0.4);
+    transform: translateY(-3px);
+    box-shadow: 0 20px 30px -5px rgba(0,0,0,0.4);
 }
 
 .forgot-password {
@@ -198,20 +219,23 @@ body::before {
 }
 
 .forgot-password a {
-    color: #667eea;
+    color: rgba(255,255,255,0.8);
     text-decoration: none;
     font-size: 14px;
+    transition: color 0.3s;
 }
 
 .forgot-password a:hover {
+    color: white;
     text-decoration: underline;
 }
 
 .message {
-    padding: 10px;
-    border-radius: 5px;
+    padding: 10px 15px;
+    border-radius: 50px;
     margin-bottom: 20px;
     display: none;
+    font-weight: 500;
 }
 
 .message.error {
@@ -241,15 +265,15 @@ body::before {
 }
 
 .dashboard-header {
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(10px);
-    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    border-radius: 30px;
     padding: 20px 30px;
     margin-bottom: 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
     border: 1px solid rgba(255,255,255,0.2);
 }
 
@@ -274,46 +298,49 @@ body::before {
 }
 
 .user-details h2 {
-    color: #333;
+    color: white;
     font-size: 24px;
     margin-bottom: 5px;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
 }
 
 .user-details p {
-    color: #666;
+    color: rgba(255,255,255,0.8);
     font-size: 14px;
 }
 
 .logout-btn {
-    background: #f44336;
+    background: rgba(255, 255, 255, 0.2);
     color: white;
-    border: none;
+    border: 1px solid rgba(255,255,255,0.3);
     padding: 12px 25px;
-    border-radius: 10px;
+    border-radius: 50px;
     cursor: pointer;
     font-weight: 600;
     transition: all 0.3s;
-    box-shadow: 0 5px 15px rgba(244,67,54,0.3);
+    backdrop-filter: blur(5px);
 }
 
 .logout-btn:hover {
-    background: #d32f2f;
+    background: rgba(255, 255, 255, 0.3);
     transform: translateY(-2px);
+    box-shadow: 0 10px 20px -5px rgba(0,0,0,0.3);
 }
 
 .welcome-section {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-radius: 20px;
+    border-radius: 30px;
     padding: 40px;
     margin-bottom: 40px;
     color: white;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
     text-align: center;
 }
 
 .welcome-section h1 {
     font-size: 36px;
     margin-bottom: 10px;
+    font-weight: 600;
 }
 
 .welcome-section p {
@@ -330,15 +357,15 @@ body::before {
 }
 
 .disciplina-card {
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(10px);
-    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    border-radius: 30px;
     padding: 30px;
     text-align: center;
     cursor: pointer;
-    transition: all 0.3s;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-    border: 1px solid rgba(255,255,255,0.2);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
     position: relative;
     overflow: hidden;
 }
@@ -357,26 +384,25 @@ body::before {
 .disciplina-card.ingles::before { background: #2196F3; }
 
 .disciplina-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 20px 30px rgba(0,0,0,0.2);
+    transform: translateY(-15px) scale(1.02);
+    box-shadow: 0 30px 50px -15px rgba(0,0,0,0.4);
 }
 
 .disciplina-icon {
-    font-size: 64px;
+    font-size: 70px;
     margin-bottom: 15px;
+    filter: drop-shadow(0 5px 10px rgba(0,0,0,0.2));
 }
 
 .disciplina-card h2 {
     font-size: 28px;
     margin-bottom: 10px;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
 }
 
-.disciplina-card.portugues h2 { color: #4CAF50; }
-.disciplina-card.matematica h2 { color: #FF9800; }
-.disciplina-card.ingles h2 { color: #2196F3; }
-
 .disciplina-card p {
-    color: #666;
+    color: rgba(255,255,255,0.9);
     font-size: 14px;
 }
 
@@ -384,27 +410,25 @@ body::before {
 .niveis-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 25px;
+    gap: 20px;
     margin-bottom: 40px;
 }
 
 .nivel-card {
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(10px);
-    border-radius: 20px;
-    padding: 30px 20px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    border-radius: 30px;
+    padding: 25px 20px;
     text-align: center;
     cursor: pointer;
     transition: all 0.3s;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-    border: 1px solid rgba(255,255,255,0.2);
-    position: relative;
-    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 10px 25px -5px rgba(0,0,0,0.2);
 }
 
 .nivel-card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 20px 30px rgba(0,0,0,0.2);
+    box-shadow: 0 20px 35px -10px rgba(0,0,0,0.3);
 }
 
 .nivel-card::before {
@@ -414,6 +438,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 5px;
+    border-radius: 30px 30px 0 0;
 }
 
 .nivel-card.nivel1::before { background: #4CAF50; }
@@ -424,11 +449,13 @@ body::before {
 .nivel-icon {
     font-size: 48px;
     margin-bottom: 15px;
+    filter: drop-shadow(0 5px 10px rgba(0,0,0,0.2));
 }
 
 .nivel-card h3 {
-    font-size: 24px;
-    margin-bottom: 10px;
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: white;
 }
 
 .nivel-card.nivel1 h3 { color: #4CAF50; }
@@ -437,18 +464,23 @@ body::before {
 .nivel-card.nivel4 h3 { color: #9C27B0; }
 
 .nivel-card p {
-    color: #666;
-    font-size: 14px;
+    color: rgba(255,255,255,0.9);
+    font-size: 13px;
+}
+
+.nivel-card small {
+    color: rgba(255,255,255,0.7);
+    font-size: 11px;
 }
 
 /* Matérias */
 .materias-section {
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(10px);
-    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    border-radius: 30px;
     padding: 30px;
     margin-bottom: 30px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
     border: 1px solid rgba(255,255,255,0.2);
 }
 
@@ -462,47 +494,54 @@ body::before {
 }
 
 .materias-header h2 {
-    color: #333;
+    color: white;
     font-size: 28px;
+    font-weight: 600;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
 }
 
 .nivel-tag {
-    background: #667eea;
+    background: rgba(255, 255, 255, 0.2);
     color: white;
     padding: 8px 20px;
-    border-radius: 25px;
-    font-weight: 600;
+    border-radius: 50px;
+    font-weight: 500;
+    font-size: 14px;
+    backdrop-filter: blur(5px);
 }
 
 .materias-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 20px;
 }
 
 .materia-item {
-    background: #f8f9fa;
-    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 20px;
     padding: 25px;
     transition: all 0.3s;
     border-left: 4px solid;
     cursor: pointer;
-    box-shadow: 0 5px 10px rgba(0,0,0,0.05);
+    backdrop-filter: blur(5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
 .materia-item:hover {
     transform: translateX(10px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
 }
 
 .materia-item h4 {
     font-size: 20px;
     margin-bottom: 10px;
-    color: #333;
+    color: white;
+    font-weight: 600;
 }
 
 .materia-item p {
-    color: #666;
+    color: rgba(255,255,255,0.9);
     font-size: 14px;
     margin-bottom: 15px;
 }
@@ -510,11 +549,296 @@ body::before {
 .materia-tag {
     display: inline-block;
     padding: 5px 10px;
-    border-radius: 5px;
+    border-radius: 50px;
     font-size: 12px;
     font-weight: 600;
-    background: #e0e0e0;
-    color: #333;
+    background: rgba(255,255,255,0.2);
+    color: white;
+}
+
+/* Aula */
+.aula-container {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    border-radius: 30px;
+    padding: 40px;
+    margin-top: 30px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+    border: 1px solid rgba(255,255,255,0.2);
+}
+
+.back-btn {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: 1px solid rgba(255,255,255,0.3);
+    padding: 12px 25px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-bottom: 20px;
+    transition: all 0.3s;
+}
+
+.back-btn:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: translateX(-5px);
+}
+
+.aula-content {
+    margin-top: 20px;
+    color: white;
+}
+
+.aula-content h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.aula-content h3 {
+    color: rgba(255,255,255,0.9);
+    font-size: 24px;
+    margin: 25px 0 15px;
+}
+
+.aula-content p {
+    color: rgba(255,255,255,0.8);
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
+
+.exemplo-box {
+    background: rgba(255, 255, 255, 0.1);
+    border-left: 4px solid #667eea;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    color: white;
+}
+
+.exemplo-box strong {
+    color: #667eea;
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.lista {
+    margin: 15px 0;
+    padding-left: 20px;
+    color: rgba(255,255,255,0.8);
+}
+
+.lista li {
+    margin-bottom: 10px;
+}
+
+/* Exercícios */
+.exercicios-section {
+    margin-top: 40px;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.2);
+}
+
+.exercicios-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.exercicios-header h3 {
+    color: white;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.progress-bar {
+    width: 200px;
+    height: 10px;
+    background: rgba(255,255,255,0.2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    transition: width 0.3s;
+}
+
+.navegacao-exercicios {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 30px 0;
+    flex-wrap: wrap;
+}
+
+.btn-nav {
+    background: rgba(255,255,255,0.2);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.btn-nav:hover:not(:disabled) {
+    background: rgba(255,255,255,0.3);
+    transform: translateY(-2px);
+}
+
+.btn-nav:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+.pagina-indicador {
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    padding: 10px 20px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 50px;
+}
+
+.questoes-container {
+    min-height: 400px;
+}
+
+.questao {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    padding: 25px;
+    margin-bottom: 25px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    display: none;
+}
+
+.questao.ativa {
+    display: block;
+}
+
+.questao p {
+    font-size: 18px;
+    color: white;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+
+.opcoes {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 15px 0;
+}
+
+.opcao {
+    display: flex;
+    align-items: center;
+    padding: 12px 15px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.opcao:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255,255,255,0.3);
+}
+
+.opcao input[type="radio"] {
+    margin-right: 15px;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: #667eea;
+}
+
+.opcao label {
+    flex: 1;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+}
+
+.opcao.correta {
+    background: rgba(76, 175, 80, 0.3);
+    border-color: #4CAF50;
+}
+
+.opcao.incorreta {
+    background: rgba(244, 67, 54, 0.3);
+    border-color: #f44336;
+}
+
+.feedback {
+    margin-top: 15px;
+    padding: 12px;
+    border-radius: 50px;
+    font-weight: 500;
+    display: none;
+}
+
+.feedback.correto {
+    background: rgba(76, 175, 80, 0.2);
+    color: #a5d6a7;
+    display: block;
+}
+
+.feedback.incorreto {
+    background: rgba(244, 67, 54, 0.2);
+    color: #ef9a9a;
+    display: block;
+}
+
+.resultado-exercicio {
+    text-align: center;
+    padding: 30px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 50px;
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.btn-exercicio {
+    background: rgba(255,255,255,0.2);
+    color: white;
+    border: 1px solid rgba(255,255,255,0.3);
+    padding: 12px 30px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 5px;
+    transition: all 0.3s;
+}
+
+.btn-exercicio:hover {
+    background: rgba(255,255,255,0.3);
+    transform: translateY(-2px);
+}
+
+.btn-exercicio.secondary {
+    background: rgba(0,0,0,0.2);
+}
+
+.btn-exercicio.secondary:hover {
+    background: rgba(0,0,0,0.3);
 }
 
 /* ========== RESPONSIVIDADE ========== */
@@ -545,4 +869,38 @@ body::before {
         flex-direction: column;
         text-align: center;
     }
+    
+    .exercicios-header {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .form-card {
+        padding: 30px 20px;
+    }
+}
+
+/* Loader animado (opcional) */
+.loader {
+    border: 4px solid rgba(255,255,255,0.3);
+    border-top: 4px solid white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Rodapé (opcional) */
+footer {
+    text-align: center;
+    padding: 20px;
+    color: rgba(255,255,255,0.6);
+    font-size: 14px;
+    margin-top: 40px;
 }
