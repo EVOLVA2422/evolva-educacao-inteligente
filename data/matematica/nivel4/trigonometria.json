@@ -1,1 +1,367 @@
-
+{
+  "materia": "Trigonometria",
+  "nivel": 4,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "O seno de 30° vale:",
+      "opcoes": [
+        "a) 1/2",
+        "b) √2/2",
+        "c) √3/2",
+        "d) 1"
+      ],
+      "correta": 0,
+      "explicacao": "sen30° = 1/2."
+    },
+    {
+      "id": 2,
+      "pergunta": "O cosseno de 60° vale:",
+      "opcoes": [
+        "a) 1/2",
+        "b) √2/2",
+        "c) √3/2",
+        "d) 1"
+      ],
+      "correta": 0,
+      "explicacao": "cos60° = 1/2."
+    },
+    {
+      "id": 3,
+      "pergunta": "A tangente de 45° vale:",
+      "opcoes": [
+        "a) 0",
+        "b) 1/2",
+        "c) 1",
+        "d) √3"
+      ],
+      "correta": 2,
+      "explicacao": "tg45° = 1."
+    },
+    {
+      "id": 4,
+      "pergunta": "O valor de sen 90° é:",
+      "opcoes": [
+        "a) 0",
+        "b) 1",
+        "c) -1",
+        "d) 1/2"
+      ],
+      "correta": 1,
+      "explicacao": "sen90° = 1."
+    },
+    {
+      "id": 5,
+      "pergunta": "O valor de cos 0° é:",
+      "opcoes": [
+        "a) 0",
+        "b) 1",
+        "c) -1",
+        "d) 1/2"
+      ],
+      "correta": 1,
+      "explicacao": "cos0° = 1."
+    },
+    {
+      "id": 6,
+      "pergunta": "Em um triângulo retângulo, o seno de um ângulo agudo é dado por:",
+      "opcoes": [
+        "a) cateto oposto / hipotenusa",
+        "b) cateto adjacente / hipotenusa",
+        "c) cateto oposto / cateto adjacente",
+        "d) hipotenusa / cateto oposto"
+      ],
+      "correta": 0,
+      "explicacao": "seno = cateto oposto / hipotenusa."
+    },
+    {
+      "id": 7,
+      "pergunta": "O cosseno de um ângulo agudo é dado por:",
+      "opcoes": [
+        "a) cateto oposto / hipotenusa",
+        "b) cateto adjacente / hipotenusa",
+        "c) cateto oposto / cateto adjacente",
+        "d) hipotenusa / cateto adjacente"
+      ],
+      "correta": 1,
+      "explicacao": "cosseno = cateto adjacente / hipotenusa."
+    },
+    {
+      "id": 8,
+      "pergunta": "A tangente de um ângulo agudo é dada por:",
+      "opcoes": [
+        "a) cateto oposto / hipotenusa",
+        "b) cateto adjacente / hipotenusa",
+        "c) cateto oposto / cateto adjacente",
+        "d) cateto adjacente / cateto oposto"
+      ],
+      "correta": 2,
+      "explicacao": "tangente = cateto oposto / cateto adjacente."
+    },
+    {
+      "id": 9,
+      "pergunta": "O valor de sen 30° + cos 60° é:",
+      "opcoes": [
+        "a) 1",
+        "b) 1/2",
+        "c) √3/2",
+        "d) 2"
+      ],
+      "correta": 0,
+      "explicacao": "sen30° = 1/2, cos60° = 1/2; soma = 1."
+    },
+    {
+      "id": 10,
+      "pergunta": "O valor de tg 45° × sen 30° é:",
+      "opcoes": [
+        "a) 1/2",
+        "b) 1",
+        "c) √3/2",
+        "d) 2"
+      ],
+      "correta": 0,
+      "explicacao": "tg45° = 1; 1 × 1/2 = 1/2."
+    },
+    {
+      "id": 11,
+      "pergunta": "Em um triângulo retângulo, se um cateto mede 3 e a hipotenusa 5, o seno do ângulo oposto a esse cateto vale:",
+      "opcoes": [
+        "a) 3/5",
+        "b) 4/5",
+        "c) 3/4",
+        "d) 4/3"
+      ],
+      "correta": 0,
+      "explicacao": "sen = cateto oposto/hipotenusa = 3/5."
+    },
+    {
+      "id": 12,
+      "pergunta": "O valor de sen 30° no círculo trigonométrico é:",
+      "opcoes": [
+        "a) 1/2",
+        "b) -1/2",
+        "c) √3/2",
+        "d) -√3/2"
+      ],
+      "correta": 0,
+      "explicacao": "sen30° = 1/2."
+    },
+    {
+      "id": 13,
+      "pergunta": "O valor de cos 120° é:",
+      "opcoes": [
+        "a) 1/2",
+        "b) -1/2",
+        "c) √3/2",
+        "d) -√3/2"
+      ],
+      "correta": 1,
+      "explicacao": "cos120° = -cos60° = -1/2."
+    },
+    {
+      "id": 14,
+      "pergunta": "O valor de sen 150° é:",
+      "opcoes": [
+        "a) 1/2",
+        "b) -1/2",
+        "c) √3/2",
+        "d) -√3/2"
+      ],
+      "correta": 0,
+      "explicacao": "sen150° = sen30° = 1/2."
+    },
+    {
+      "id": 15,
+      "pergunta": "A relação fundamental da trigonometria é:",
+      "opcoes": [
+        "a) sen²x + cos²x = 1",
+        "b) sen²x - cos²x = 1",
+        "c) sen x + cos x = 1",
+        "d) tg x = sen x / cos x"
+      ],
+      "correta": 0,
+      "explicacao": "sen²x + cos²x = 1 para qualquer x."
+    },
+    {
+      "id": 16,
+      "pergunta": "Se sen x = 3/5, então cos x (para x agudo) vale:",
+      "opcoes": [
+        "a) 2/5",
+        "b) 4/5",
+        "c) 3/4",
+        "d) 5/3"
+      ],
+      "correta": 1,
+      "explicacao": "cos²x = 1 - (9/25) = 16/25 → cos x = 4/5."
+    },
+    {
+      "id": 17,
+      "pergunta": "A tangente de 30° vale:",
+      "opcoes": [
+        "a) √3/3",
+        "b) √3",
+        "c) 1/2",
+        "d) √2/2"
+      ],
+      "correta": 0,
+      "explicacao": "tg30° = √3/3 ≈ 0,577."
+    },
+    {
+      "id": 18,
+      "pergunta": "A tangente de 60° vale:",
+      "opcoes": [
+        "a) √3/3",
+        "b) √3",
+        "c) 1",
+        "d) 1/2"
+      ],
+      "correta": 1,
+      "explicacao": "tg60° = √3 ≈ 1,732."
+    },
+    {
+      "id": 19,
+      "pergunta": "O valor de cos 180° é:",
+      "opcoes": [
+        "a) 0",
+        "b) 1",
+        "c) -1",
+        "d) 1/2"
+      ],
+      "correta": 2,
+      "explicacao": "cos180° = -1."
+    },
+    {
+      "id": 20,
+      "pergunta": "O valor de sen 270° é:",
+      "opcoes": [
+        "a) 0",
+        "b) 1",
+        "c) -1",
+        "d) 1/2"
+      ],
+      "correta": 2,
+      "explicacao": "sen270° = -1."
+    },
+    {
+      "id": 21,
+      "pergunta": "A função seno é:",
+      "opcoes": [
+        "a) par",
+        "b) ímpar",
+        "c) nem par nem ímpar",
+        "d) constante"
+      ],
+      "correta": 1,
+      "explicacao": "sen(-x) = -sen x → função ímpar."
+    },
+    {
+      "id": 22,
+      "pergunta": "A função cosseno é:",
+      "opcoes": [
+        "a) par",
+        "b) ímpar",
+        "c) nem par nem ímpar",
+        "d) constante"
+      ],
+      "correta": 0,
+      "explicacao": "cos(-x) = cos x → função par."
+    },
+    {
+      "id": 23,
+      "pergunta": "O período da função seno é:",
+      "opcoes": [
+        "a) π",
+        "b) 2π",
+        "c) π/2",
+        "d) 4π"
+      ],
+      "correta": 1,
+      "explicacao": "O período fundamental do seno e cosseno é 2π."
+    },
+    {
+      "id": 24,
+      "pergunta": "O valor máximo da função seno é:",
+      "opcoes": [
+        "a) 0",
+        "b) 1",
+        "c) -1",
+        "d) 2"
+      ],
+      "correta": 1,
+      "explicacao": "sen x varia entre -1 e 1, máximo 1."
+    },
+    {
+      "id": 25,
+      "pergunta": "Em um triângulo qualquer, a lei dos senos afirma que:",
+      "opcoes": [
+        "a) a/sen A = b/sen B = c/sen C",
+        "b) a² = b² + c² - 2bc cos A",
+        "c) sen A / a = sen B / b",
+        "d) a² = b² + c²"
+      ],
+      "correta": 0,
+      "explicacao": "Lei dos senos: os lados são proporcionais aos senos dos ângulos opostos."
+    },
+    {
+      "id": 26,
+      "pergunta": "Em um triângulo qualquer, a lei dos cossenos para o lado a é:",
+      "opcoes": [
+        "a) a² = b² + c² - 2bc cos A",
+        "b) a² = b² + c² + 2bc cos A",
+        "c) a² = b² + c²",
+        "d) a = b + c - 2bc cos A"
+      ],
+      "correta": 0,
+      "explicacao": "Lei dos cossenos: a² = b² + c² - 2bc cos A."
+    },
+    {
+      "id": 27,
+      "pergunta": "O valor de cos 0° + sen 90° é:",
+      "opcoes": [
+        "a) 1",
+        "b) 2",
+        "c) 0",
+        "d) -1"
+      ],
+      "correta": 1,
+      "explicacao": "cos0° = 1, sen90° = 1, soma = 2."
+    },
+    {
+      "id": 28,
+      "pergunta": "O valor de tg 0° é:",
+      "opcoes": [
+        "a) 0",
+        "b) 1",
+        "c) ∞",
+        "d) -1"
+      ],
+      "correta": 0,
+      "explicacao": "tg0° = sen0°/cos0° = 0/1 = 0."
+    },
+    {
+      "id": 29,
+      "pergunta": "O valor de cos 30° é:",
+      "opcoes": [
+        "a) 1/2",
+        "b) √2/2",
+        "c) √3/2",
+        "d) 1"
+      ],
+      "correta": 2,
+      "explicacao": "cos30° = √3/2."
+    },
+    {
+      "id": 30,
+      "pergunta": "O valor de sen 45° é:",
+      "opcoes": [
+        "a) 1/2",
+        "b) √2/2",
+        "c) √3/2",
+        "d) 1"
+      ],
+      "correta": 1,
+      "explicacao": "sen45° = √2/2."
+    }
+  ]
+}
