@@ -1,1 +1,367 @@
-
+{
+  "materia": "Advérbios",
+  "nivel": 2,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Na frase 'Ele chegou cedo', a palavra 'cedo' é:",
+      "opcoes": [
+        "a) advérbio de lugar",
+        "b) advérbio de tempo",
+        "c) advérbio de modo",
+        "d) advérbio de intensidade"
+      ],
+      "correta": 1,
+      "explicacao": "'cedo' indica tempo."
+    },
+    {
+      "id": 2,
+      "pergunta": "Assinale o advérbio de lugar:",
+      "opcoes": [
+        "a) bem",
+        "b) ali",
+        "c) muito",
+        "d) ontem"
+      ],
+      "correta": 1,
+      "explicacao": "'ali' indica lugar."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em 'Ela fala muito bem', 'muito' é:",
+      "opcoes": [
+        "a) adjetivo",
+        "b) advérbio de intensidade",
+        "c) pronome indefinido",
+        "d) numeral"
+      ],
+      "correta": 1,
+      "explicacao": "'muito' intensifica 'bem'."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual advérbio indica modo?",
+      "opcoes": [
+        "a) devagar",
+        "b) hoje",
+        "c) lá",
+        "d) sim"
+      ],
+      "correta": 0,
+      "explicacao": "'devagar' indica modo."
+    },
+    {
+      "id": 5,
+      "pergunta": "Na frase 'Não vou à festa', 'não' é:",
+      "opcoes": [
+        "a) advérbio de negação",
+        "b) advérbio de dúvida",
+        "c) advérbio de tempo",
+        "d) conjunção"
+      ],
+      "correta": 0,
+      "explicacao": "Advérbio de negação."
+    },
+    {
+      "id": 6,
+      "pergunta": "Assinale o advérbio de dúvida:",
+      "opcoes": [
+        "a) sim",
+        "b) talvez",
+        "c) sempre",
+        "d) nunca"
+      ],
+      "correta": 1,
+      "explicacao": "'talvez' expressa dúvida."
+    },
+    {
+      "id": 7,
+      "pergunta": "Em 'Ela é muito bonita', 'muito' modifica:",
+      "opcoes": [
+        "a) o verbo",
+        "b) o adjetivo",
+        "c) o advérbio",
+        "d) o substantivo"
+      ],
+      "correta": 1,
+      "explicacao": "'muito' intensifica o adjetivo 'bonita'."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual advérbio indica afirmação?",
+      "opcoes": [
+        "a) não",
+        "b) sim",
+        "c) talvez",
+        "d) nunca"
+      ],
+      "correta": 1,
+      "explicacao": "'sim' é advérbio de afirmação."
+    },
+    {
+      "id": 9,
+      "pergunta": "Na frase 'Ele mora perto', 'perto' é:",
+      "opcoes": [
+        "a) advérbio de lugar",
+        "b) advérbio de tempo",
+        "c) advérbio de modo",
+        "d) preposição"
+      ],
+      "correta": 0,
+      "explicacao": "'perto' indica lugar."
+    },
+    {
+      "id": 10,
+      "pergunta": "Em 'Estudei bastante', 'bastante' é:",
+      "opcoes": [
+        "a) adjetivo",
+        "b) advérbio de intensidade",
+        "c) pronome indefinido",
+        "d) numeral"
+      ],
+      "correta": 1,
+      "explicacao": "'bastante' intensifica o verbo 'estudei'."
+    },
+    {
+      "id": 11,
+      "pergunta": "Assinale a frase com advérbio de tempo:",
+      "opcoes": [
+        "a) Chegarei amanhã",
+        "b) Falei baixo",
+        "c) Estudei muito",
+        "d) Vou ali"
+      ],
+      "correta": 0,
+      "explicacao": "'amanhã' indica tempo."
+    },
+    {
+      "id": 12,
+      "pergunta": "Na frase 'Ela saiu ontem', 'ontem' é:",
+      "opcoes": [
+        "a) substantivo",
+        "b) advérbio de tempo",
+        "c) adjetivo",
+        "d) pronome"
+      ],
+      "correta": 1,
+      "explicacao": "Advérbio de tempo."
+    },
+    {
+      "id": 13,
+      "pergunta": "Qual advérbio expressa negação?",
+      "opcoes": [
+        "a) jamais",
+        "b) sempre",
+        "c) sim",
+        "d) talvez"
+      ],
+      "correta": 0,
+      "explicacao": "'jamais' é advérbio de negação (nunca)."
+    },
+    {
+      "id": 14,
+      "pergunta": "Em 'Falou calmamente', a palavra 'calmamente' é:",
+      "opcoes": [
+        "a) adjetivo",
+        "b) advérbio de modo",
+        "c) substantivo",
+        "d) verbo"
+      ],
+      "correta": 1,
+      "explicacao": "Terminação '-mente' forma advérbios de modo."
+    },
+    {
+      "id": 15,
+      "pergunta": "Assinale o advérbio de intensidade:",
+      "opcoes": [
+        "a) pouco",
+        "b) cedo",
+        "c) lá",
+        "d) bem"
+      ],
+      "correta": 0,
+      "explicacao": "'pouco' indica intensidade."
+    },
+    {
+      "id": 16,
+      "pergunta": "Na frase 'Ele nunca mente', 'nunca' é:",
+      "opcoes": [
+        "a) advérbio de tempo",
+        "b) advérbio de negação",
+        "c) advérbio de dúvida",
+        "d) advérbio de modo"
+      ],
+      "correta": 1,
+      "explicacao": "'nunca' é advérbio de negação (e também tempo)."
+    },
+    {
+      "id": 17,
+      "pergunta": "Em 'Provavelmente choverá', 'provavelmente' é:",
+      "opcoes": [
+        "a) advérbio de modo",
+        "b) advérbio de dúvida",
+        "c) advérbio de tempo",
+        "d) advérbio de afirmação"
+      ],
+      "correta": 1,
+      "explicacao": "Indica probabilidade, dúvida."
+    },
+    {
+      "id": 18,
+      "pergunta": "Qual advérbio modifica outro advérbio?",
+      "opcoes": [
+        "a) Ele fala muito bem",
+        "b) Chegou cedo",
+        "c) Saiu ontem",
+        "d) Mora aqui"
+      ],
+      "correta": 0,
+      "explicacao": "'muito' modifica o advérbio 'bem'."
+    },
+    {
+      "id": 19,
+      "pergunta": "Na frase 'Ela está meio cansada', 'meio' é:",
+      "opcoes": [
+        "a) numeral",
+        "b) advérbio de intensidade",
+        "c) adjetivo",
+        "d) substantivo"
+      ],
+      "correta": 1,
+      "explicacao": "'meio' = um pouco, intensifica 'cansada'."
+    },
+    {
+      "id": 20,
+      "pergunta": "Assinale a alternativa com advérbio interrogativo:",
+      "opcoes": [
+        "a) Onde você mora?",
+        "b) Ele é muito alto",
+        "c) Falei calmamente",
+        "d) Não fui"
+      ],
+      "correta": 0,
+      "explicacao": "'onde' é advérbio interrogativo de lugar."
+    },
+    {
+      "id": 21,
+      "pergunta": "Em 'Ela não saiu', o advérbio 'não' modifica:",
+      "opcoes": [
+        "a) o sujeito",
+        "b) o verbo",
+        "c) o objeto",
+        "d) o adjetivo"
+      ],
+      "correta": 1,
+      "explicacao": "'não' modifica o verbo 'saiu'."
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual advérbio indica lugar?",
+      "opcoes": [
+        "a) dentro",
+        "b) amanhã",
+        "c) sim",
+        "d) bem"
+      ],
+      "correta": 0,
+      "explicacao": "'dentro' indica lugar."
+    },
+    {
+      "id": 23,
+      "pergunta": "Na frase 'Ele chegou agora', 'agora' é:",
+      "opcoes": [
+        "a) advérbio de lugar",
+        "b) advérbio de tempo",
+        "c) advérbio de modo",
+        "d) advérbio de intensidade"
+      ],
+      "correta": 1,
+      "explicacao": "'agora' indica tempo."
+    },
+    {
+      "id": 24,
+      "pergunta": "Assinale o advérbio de afirmação:",
+      "opcoes": [
+        "a) certamente",
+        "b) não",
+        "c) talvez",
+        "d) nunca"
+      ],
+      "correta": 0,
+      "explicacao": "'certamente' é advérbio de afirmação."
+    },
+    {
+      "id": 25,
+      "pergunta": "Em 'Ela fala francês bem', 'bem' é:",
+      "opcoes": [
+        "a) adjetivo",
+        "b) advérbio de modo",
+        "c) substantivo",
+        "d) verbo"
+      ],
+      "correta": 1,
+      "explicacao": "'bem' modifica o verbo 'fala'."
+    },
+    {
+      "id": 26,
+      "pergunta": "Qual palavra pode ser advérbio ou adjetivo?",
+      "opcoes": [
+        "a) rápido",
+        "b) felizmente",
+        "c) ontem",
+        "d) sim"
+      ],
+      "correta": 0,
+      "explicacao": "'rápido' pode ser adjetivo (carro rápido) ou advérbio (corre rápido)."
+    },
+    {
+      "id": 27,
+      "pergunta": "Na frase 'Talvez ele venha', 'talvez' expressa:",
+      "opcoes": [
+        "a) certeza",
+        "b) dúvida",
+        "c) negação",
+        "d) tempo"
+      ],
+      "correta": 1,
+      "explicacao": "Advérbio de dúvida."
+    },
+    {
+      "id": 28,
+      "pergunta": "Assinale o advérbio de tempo:",
+      "opcoes": [
+        "a) sempre",
+        "b) aqui",
+        "c) sim",
+        "d) mal"
+      ],
+      "correta": 0,
+      "explicacao": "'sempre' indica tempo."
+    },
+    {
+      "id": 29,
+      "pergunta": "Em 'Ela saiu cedo demais', 'demais' é:",
+      "opcoes": [
+        "a) advérbio de modo",
+        "b) advérbio de intensidade",
+        "c) adjetivo",
+        "d) pronome"
+      ],
+      "correta": 1,
+      "explicacao": "'demais' intensifica 'cedo'."
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual advérbio modifica um adjetivo em 'Ela é muito inteligente'?",
+      "opcoes": [
+        "a) muito",
+        "b) inteligente",
+        "c) ela",
+        "d) é"
+      ],
+      "correta": 0,
+      "explicacao": "'muito' intensifica o adjetivo 'inteligente'."
+    }
+  ]
+}
