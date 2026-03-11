@@ -1,1 +1,607 @@
-
+{
+  "materia": "Advanced Grammar",
+  "nivel": 4,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Choose the correct reported speech: 'I am tired,' she said.",
+      "opcoes": [
+        "a) She said she is tired.",
+        "b) She said she was tired.",
+        "c) She said she has been tired.",
+        "d) She said she tired."
+      ],
+      "correta": 1,
+      "explicacao": "In reported speech, present simple becomes past simple."
+    },
+    {
+      "id": 2,
+      "pergunta": "Convert to reported speech: 'I will call you,' he promised.",
+      "opcoes": [
+        "a) He promised he would call me.",
+        "b) He promised he will call me.",
+        "c) He promised he calls me.",
+        "d) He promised he called me."
+      ],
+      "correta": 0,
+      "explicacao": "'Will' becomes 'would' in reported speech."
+    },
+    {
+      "id": 3,
+      "pergunta": "Choose the correct inversion: 'I have never seen such a beautiful sunset.'",
+      "opcoes": [
+        "a) Never I have seen such a beautiful sunset.",
+        "b) Never have I seen such a beautiful sunset.",
+        "c) Never I saw such a beautiful sunset.",
+        "d) Never saw I such a beautiful sunset."
+      ],
+      "correta": 1,
+      "explicacao": "Inversion with negative adverbials: auxiliary + subject."
+    },
+    {
+      "id": 4,
+      "pergunta": "Which sentence uses inversion correctly?",
+      "opcoes": [
+        "a) Hardly had I arrived when it started to rain.",
+        "b) Hardly I had arrived when it started to rain.",
+        "c) Hardly had I arrived than it started to rain.",
+        "d) Hardly I arrived when it started to rain."
+      ],
+      "correta": 0,
+      "explicacao": "'Hardly...when' uses inversion: had + subject + past participle."
+    },
+    {
+      "id": 5,
+      "pergunta": "Complete: 'Only after finishing his work _____ leave.'",
+      "opcoes": [
+        "a) he could",
+        "b) could he",
+        "c) he can",
+        "d) can he"
+      ],
+      "correta": 1,
+      "explicacao": "'Only after' at beginning requires inversion: could he."
+    },
+    {
+      "id": 6,
+      "pergunta": "Choose the correct conditional: 'If she had studied, she _____ passed.'",
+      "opcoes": [
+        "a) would have",
+        "b) would",
+        "c) will have",
+        "d) had"
+      ],
+      "correta": 0,
+      "explicacao": "Third conditional: would have + past participle."
+    },
+    {
+      "id": 7,
+      "pergunta": "Which is an example of a mixed conditional?",
+      "opcoes": [
+        "a) If I had money, I would buy a car.",
+        "b) If I had studied, I would have passed.",
+        "c) If I had studied, I would be a doctor now.",
+        "d) If I study, I will pass."
+      ],
+      "correta": 2,
+      "explicacao": "Mixed conditional: past condition + present result."
+    },
+    {
+      "id": 8,
+      "pergunta": "Choose the correct passive: 'Someone stole my car.'",
+      "opcoes": [
+        "a) My car was stolen.",
+        "b) My car is stolen.",
+        "c) My car has been stolen.",
+        "d) My car was stole."
+      ],
+      "correta": 0,
+      "explicacao": "Simple past passive: was/were + past participle."
+    },
+    {
+      "id": 9,
+      "pergunta": "Convert to passive: 'They are building a new hospital.'",
+      "opcoes": [
+        "a) A new hospital is being built.",
+        "b) A new hospital is built.",
+        "c) A new hospital was built.",
+        "d) A new hospital has been built."
+      ],
+      "correta": 0,
+      "explicacao": "Present continuous passive: is/are + being + past participle."
+    },
+    {
+      "id": 10,
+      "pergunta": "Which sentence uses the subjunctive correctly?",
+      "opcoes": [
+        "a) I suggest that he studies harder.",
+        "b) I suggest that he study harder.",
+        "c) I suggest that he studies harder.",
+        "d) I suggest that he is studying harder."
+      ],
+      "correta": 1,
+      "explicacao": "Subjunctive: base form (study) after verbs like suggest."
+    },
+    {
+      "id": 11,
+      "pergunta": "Choose the correct form: 'It's important that she _____ on time.'",
+      "opcoes": [
+        "a) arrives",
+        "b) arrive",
+        "c) arrived",
+        "d) has arrived"
+      ],
+      "correta": 1,
+      "explicacao": "Subjunctive after adjectives like important: that + subject + base form."
+    },
+    {
+      "id": 12,
+      "pergunta": "Which sentence uses a reduced relative clause?",
+      "opcoes": [
+        "a) The man who is standing there is my brother.",
+        "b) The man standing there is my brother.",
+        "c) The man is standing there is my brother.",
+        "d) The man who standing there is my brother."
+      ],
+      "correta": 1,
+      "explicacao": "Reduced relative: omit 'who is'."
+    },
+    {
+      "id": 13,
+      "pergunta": "Choose the correct participle clause: '_____ by the view, he stopped.'",
+      "opcoes": [
+        "a) Impressed",
+        "b) Impressing",
+        "c) To impress",
+        "d) Having impressed"
+      ],
+      "correta": 0,
+      "explicacao": "Past participle (impressed) for passive meaning."
+    },
+    {
+      "id": 14,
+      "pergunta": "Complete: '_____ the book, she went to sleep.'",
+      "opcoes": [
+        "a) Finished",
+        "b) Finishing",
+        "c) Having finished",
+        "d) Being finished"
+      ],
+      "correta": 2,
+      "explicacao": "'Having finished' shows sequence (first finished, then slept)."
+    },
+    {
+      "id": 15,
+      "pergunta": "Which sentence uses a cleft sentence?",
+      "opcoes": [
+        "a) It was John who broke the window.",
+        "b) John broke the window.",
+        "c) The window was broken by John.",
+        "d) Who broke the window was John."
+      ],
+      "correta": 0,
+      "explicacao": "Cleft: 'It was ... that/who' emphasizes a part."
+    },
+    {
+      "id": 16,
+      "pergunta": "Choose the correct: 'What I need _____ a break.'",
+      "opcoes": [
+        "a) is",
+        "b) are",
+        "c) were",
+        "d) am"
+      ],
+      "correta": 0,
+      "explicacao": "Subject = 'What I need' (singular), so 'is'."
+    },
+    {
+      "id": 17,
+      "pergunta": "Complete with a causative: 'I _____ my car repaired.'",
+      "opcoes": [
+        "a) had",
+        "b) made",
+        "c) got",
+        "d) both A and C"
+      ],
+      "correta": 3,
+      "explicacao": "Causative: have/get something done."
+    },
+    {
+      "id": 18,
+      "pergunta": "Which sentence uses 'wish' correctly for the past?",
+      "opcoes": [
+        "a) I wish I studied harder.",
+        "b) I wish I had studied harder.",
+        "c) I wish I would study harder.",
+        "d) I wish I study harder."
+      ],
+      "correta": 1,
+      "explicacao": "Wish + past perfect for past regrets."
+    },
+    {
+      "id": 19,
+      "pergunta": "Choose the correct: 'If only I _____ more time.'",
+      "opcoes": [
+        "a) have",
+        "b) had",
+        "c) would have",
+        "d) will have"
+      ],
+      "correta": 1,
+      "explicacao": "'If only' + past simple for present wishes."
+    },
+    {
+      "id": 20,
+      "pergunta": "Which is a correct example of ellipsis?",
+      "opcoes": [
+        "a) She can play the piano, and he can too.",
+        "b) She can play the piano, and he can play the piano too.",
+        "c) She can play the piano, and he too.",
+        "d) She can play the piano, and he can also."
+      ],
+      "correta": 0,
+      "explicacao": "Ellipsis omits repeated words: 'and he can (play) too'."
+    },
+    {
+      "id": 21,
+      "pergunta": "Complete: 'He speaks French, and _____ .'",
+      "opcoes": [
+        "a) so does she",
+        "b) so she does",
+        "c) so she",
+        "d) so does she"
+      ],
+      "correta": 0,
+      "explicacao": "Inversion with 'so' for agreement: so + auxiliary + subject."
+    },
+    {
+      "id": 22,
+      "pergunta": "Choose the correct: 'I don't like coffee, and _____ .'",
+      "opcoes": [
+        "a) neither does she",
+        "b) neither she does",
+        "c) she doesn't too",
+        "d) she doesn't neither"
+      ],
+      "correta": 0,
+      "explicacao": "'Neither' + auxiliary + subject for negative agreement."
+    },
+    {
+      "id": 23,
+      "pergunta": "Which sentence uses 'it' as a dummy subject?",
+      "opcoes": [
+        "a) It is raining.",
+        "b) It is a book.",
+        "c) It is broken.",
+        "d) It is here."
+      ],
+      "correta": 0,
+      "explicacao": "'It' in weather expressions is dummy (no referent)."
+    },
+    {
+      "id": 24,
+      "pergunta": "Choose the correct: 'There _____ a book and two pens on the table.'",
+      "opcoes": [
+        "a) is",
+        "b) are",
+        "c) were",
+        "d) have"
+      ],
+      "correta": 0,
+      "explicacao": "'There is' + singular first item (book) is often used, though formal grammar might use 'are' for plural complement. In speech, 'is' is common."
+    },
+    {
+      "id": 25,
+      "pergunta": "Which is a correctly formed tag question?",
+      "opcoes": [
+        "a) You are tired, aren't you?",
+        "b) You are tired, are you?",
+        "c) You are tired, isn't it?",
+        "d) You are tired, don't you?"
+      ],
+      "correta": 0,
+      "explicacao": "Positive statement, negative tag: aren't you?"
+    },
+    {
+      "id": 26,
+      "pergunta": "Complete: 'Let's go, _____ ?'",
+      "opcoes": [
+        "a) shall we",
+        "b) will we",
+        "c) don't we",
+        "d) aren't we"
+      ],
+      "correta": 0,
+      "explicacao": "Tag for 'let's' is 'shall we'."
+    },
+    {
+      "id": 27,
+      "pergunta": "Choose the correct: 'I'm late, _____ ?'",
+      "opcoes": [
+        "a) am I",
+        "b) aren't I",
+        "c) am not I",
+        "d) isn't I"
+      ],
+      "correta": 1,
+      "explicacao": "'Aren't I' is the accepted tag for 'I am'."
+    },
+    {
+      "id": 28,
+      "pergunta": "Which sentence has a gerund as subject?",
+      "opcoes": [
+        "a) Swimming is good exercise.",
+        "b) To swim is good exercise.",
+        "c) He enjoys swimming.",
+        "d) Swimming every day, he stayed fit."
+      ],
+      "correta": 0,
+      "explicacao": "Gerund (swimming) as subject."
+    },
+    {
+      "id": 29,
+      "pergunta": "Choose the correct infinitive: 'She made him _____ the dishes.'",
+      "opcoes": [
+        "a) do",
+        "b) to do",
+        "c) doing",
+        "d) did"
+      ],
+      "correta": 0,
+      "explicacao": "Bare infinitive after 'make'."
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: 'He is known _____ a great artist.'",
+      "opcoes": [
+        "a) to be",
+        "b) as",
+        "c) for",
+        "d) being"
+      ],
+      "correta": 0,
+      "explicacao": "'Known to be' is correct."
+    },
+    {
+      "id": 31,
+      "pergunta": "Which sentence uses 'having + past participle' correctly?",
+      "opcoes": [
+        "a) Having finished his work, he went home.",
+        "b) Having finish his work, he went home.",
+        "c) Having been finished his work, he went home.",
+        "d) He having finished his work, went home."
+      ],
+      "correta": 0,
+      "explicacao": "Perfect participle shows completed action before main verb."
+    },
+    {
+      "id": 32,
+      "pergunta": "Choose the correct: 'Not _____ what to do, she called for help.'",
+      "opcoes": [
+        "a) known",
+        "b) knowing",
+        "c) to know",
+        "d) know"
+      ],
+      "correta": 1,
+      "explicacao": "Negative participle: Not knowing..."
+    },
+    {
+      "id": 33,
+      "pergunta": "Which is a correct example of a compound adjective?",
+      "opcoes": [
+        "a) a well-known actor",
+        "b) a well known actor",
+        "c) a well-know actor",
+        "d) a well known-actor"
+      ],
+      "correta": 0,
+      "explicacao": "Compound adjectives before nouns are hyphenated."
+    },
+    {
+      "id": 34,
+      "pergunta": "Complete: 'He is _____ to win the race.'",
+      "opcoes": [
+        "a) likely",
+        "b) probably",
+        "c) maybe",
+        "d) perhaps"
+      ],
+      "correta": 0,
+      "explicacao": "'Likely' is an adjective here, followed by infinitive."
+    },
+    {
+      "id": 35,
+      "pergunta": "Choose the correct: 'The meeting _____ postponed.'",
+      "opcoes": [
+        "a) is likely to be",
+        "b) likely to be",
+        "c) is probable to be",
+        "d) is maybe"
+      ],
+      "correta": 0,
+      "explicacao": "'Is likely to be' is correct."
+    },
+    {
+      "id": 36,
+      "pergunta": "Which sentence uses 'would rather' correctly?",
+      "opcoes": [
+        "a) I would rather stay home than go out.",
+        "b) I would rather to stay home than go out.",
+        "c) I would rather staying home than going out.",
+        "d) I would rather stay home than to go out."
+      ],
+      "correta": 0,
+      "explicacao": "'Would rather' + base form + than + base form."
+    },
+    {
+      "id": 37,
+      "pergunta": "Complete: 'It's time you _____ to bed.'",
+      "opcoes": [
+        "a) go",
+        "b) went",
+        "c) to go",
+        "d) going"
+      ],
+      "correta": 1,
+      "explicacao": "'It's time' + past subjunctive (went) for present/future meaning."
+    },
+    {
+      "id": 38,
+      "pergunta": "Choose the correct: 'She acted as if she _____ the boss.'",
+      "opcoes": [
+        "a) is",
+        "b) were",
+        "c) was",
+        "d) has been"
+      ],
+      "correta": 1,
+      "explicacao": "'As if' + past subjunctive (were) for unreal situation."
+    },
+    {
+      "id": 39,
+      "pergunta": "Which sentence uses a preposition at the end naturally?",
+      "opcoes": [
+        "a) This is the book which I was looking for.",
+        "b) This is the book for which I was looking.",
+        "c) Both are correct.",
+        "d) Neither is correct."
+      ],
+      "correta": 2,
+      "explicacao": "Both are acceptable; ending with preposition is common in informal English."
+    },
+    {
+      "id": 40,
+      "pergunta": "Complete: 'Not only _____ late, but he also forgot the documents.'",
+      "opcoes": [
+        "a) he was",
+        "b) was he",
+        "c) he is",
+        "d) is he"
+      ],
+      "correta": 1,
+      "explicacao": "'Not only' at beginning requires inversion: was he."
+    },
+    {
+      "id": 41,
+      "pergunta": "Choose the correct: '_____ in the rain, she got wet.'",
+      "opcoes": [
+        "a) Waited",
+        "b) Waiting",
+        "c) To wait",
+        "d) Having waited"
+      ],
+      "correta": 1,
+      "explicacao": "Present participle for simultaneous action."
+    },
+    {
+      "id": 42,
+      "pergunta": "Which sentence uses a reflexive pronoun correctly?",
+      "opcoes": [
+        "a) He himself did it.",
+        "b) He did it himself.",
+        "c) He did it hisself.",
+        "d) Both A and B."
+      ],
+      "correta": 3,
+      "explicacao": "Both positions are correct for emphasis."
+    },
+    {
+      "id": 43,
+      "pergunta": "Complete: 'Each of the students _____ a book.'",
+      "opcoes": [
+        "a) have",
+        "b) has",
+        "c) are having",
+        "d) were having"
+      ],
+      "correta": 1,
+      "explicacao": "'Each' takes a singular verb."
+    },
+    {
+      "id": 44,
+      "pergunta": "Choose the correct: 'The number of applicants _____ increasing.'",
+      "opcoes": [
+        "a) is",
+        "b) are",
+        "c) were",
+        "d) have"
+      ],
+      "correta": 0,
+      "explicacao": "'The number of' is singular."
+    },
+    {
+      "id": 45,
+      "pergunta": "Which sentence is correct?",
+      "opcoes": [
+        "a) A number of issues has been resolved.",
+        "b) A number of issues have been resolved.",
+        "c) The number of issues have been resolved.",
+        "d) A number of issues has been resolved."
+      ],
+      "correta": 1,
+      "explicacao": "'A number of' is plural."
+    },
+    {
+      "id": 46,
+      "pergunta": "Complete: 'Neither the teacher nor the students _____ happy.'",
+      "opcoes": [
+        "a) is",
+        "b) are",
+        "c) was",
+        "d) has been"
+      ],
+      "correta": 1,
+      "explicacao": "With 'neither...nor', verb agrees with the closest subject (students = plural)."
+    },
+    {
+      "id": 47,
+      "pergunta": "Choose the correct: 'Either you or I _____ wrong.'",
+      "opcoes": [
+        "a) am",
+        "b) is",
+        "c) are",
+        "d) be"
+      ],
+      "correta": 0,
+      "explicacao": "Verb agrees with closest subject: I (am)."
+    },
+    {
+      "id": 48,
+      "pergunta": "Which is a correct example of a participle clause?",
+      "opcoes": [
+        "a) Walking home, the rain started.",
+        "b) Walking home, I got wet.",
+        "c) Walked home, I got wet.",
+        "d) To walk home, I got wet."
+      ],
+      "correta": 1,
+      "explicacao": "The subject of the participle must match the main clause subject."
+    },
+    {
+      "id": 49,
+      "pergunta": "Complete: '_____ by the news, she burst into tears.'",
+      "opcoes": [
+        "a) Shocked",
+        "b) Shocking",
+        "c) To shock",
+        "d) Having shocked"
+      ],
+      "correta": 0,
+      "explicacao": "Past participle for passive meaning."
+    },
+    {
+      "id": 50,
+      "pergunta": "Choose the correct: 'I have never seen her again, nor _____ to.'",
+      "opcoes": [
+        "a) I want",
+        "b) do I want",
+        "c) I wanted",
+        "d) want I"
+      ],
+      "correta": 1,
+      "explicacao": "'Nor' + inversion: nor do I want."
+    }
+  ]
+}
