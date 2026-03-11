@@ -1,1 +1,127 @@
-
+{
+  "materia": "Morfologia",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Na frase 'O menino inteligente estudou para a prova', a palavra 'inteligente' é:",
+      "opcoes": [
+        "a) substantivo",
+        "b) adjetivo",
+        "c) verbo",
+        "d) advérbio"
+      ],
+      "correta": 1,
+      "explicacao": "'Inteligente' caracteriza o menino, portanto é um adjetivo."
+    },
+    {
+      "id": 2,
+      "pergunta": "Assinale a alternativa em que todas as palavras são SUBSTANTIVOS:",
+      "opcoes": [
+        "a) casa, amor, felicidade",
+        "b) bonito, grande, rápido",
+        "c) correr, pular, dormir",
+        "d) de, para, com"
+      ],
+      "correta": 0,
+      "explicacao": "Casa (objeto), amor (sentimento), felicidade (sentimento) são substantivos."
+    },
+    {
+      "id": 3,
+      "pergunta": "O plural de 'cidadão' é:",
+      "opcoes": [
+        "a) cidadãos",
+        "b) cidadões",
+        "c) cidadães",
+        "d) cidadãos e cidadães (ambas corretas)"
+      ],
+      "correta": 0,
+      "explicacao": "O plural correto de cidadão é cidadãos. Cidadães também é aceito em alguns contextos."
+    },
+    {
+      "id": 4,
+      "pergunta": "Em 'Ela canta muito bem', a palavra 'muito' é:",
+      "opcoes": [
+        "a) adjetivo",
+        "b) advérbio de intensidade",
+        "c) pronome indefinido",
+        "d) numeral"
+      ],
+      "correta": 1,
+      "explicacao": "'Muito' intensifica o advérbio 'bem', portanto é advérbio de intensidade."
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual das palavras abaixo é um numeral?",
+      "opcoes": [
+        "a) primeiro",
+        "b) algum",
+        "c) meu",
+        "d) este"
+      ],
+      "correta": 0,
+      "explicacao": "'Primeiro' indica ordem, portanto é numeral ordinal."
+    },
+    {
+      "id": 6,
+      "pergunta": "Na frase 'Comprei um livro novo', o artigo é:",
+      "opcoes": [
+        "a) Comprei",
+        "b) um",
+        "c) livro",
+        "d) novo"
+      ],
+      "correta": 1,
+      "explicacao": "'Um' é artigo indefinido, pois determina o substantivo 'livro' de forma vaga."
+    },
+    {
+      "id": 7,
+      "pergunta": "O feminino de 'ator' é:",
+      "opcoes": [
+        "a) atriz",
+        "b) atora",
+        "c) atoa",
+        "d) atris"
+      ],
+      "correta": 0,
+      "explicacao": "O feminino de ator é atriz (forma irregular)."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual palavra é um adjetivo pátrio?",
+      "opcoes": [
+        "a) brasileiro",
+        "b) grande",
+        "c) feliz",
+        "d) azul"
+      ],
+      "correta": 0,
+      "explicacao": "Brasileiro indica nacionalidade (originário do Brasil), portanto é adjetivo pátrio."
+    },
+    {
+      "id": 9,
+      "pergunta": "Em 'Muitos alunos estudaram', a palavra 'muitos' é:",
+      "opcoes": [
+        "a) adjetivo",
+        "b) pronome indefinido",
+        "c) numeral",
+        "d) advérbio"
+      ],
+      "correta": 1,
+      "explicacao": "'Muitos' é pronome indefinido, pois indica quantidade imprecisa."
+    },
+    {
+      "id": 10,
+      "pergunta": "O aumentativo de 'casa' é:",
+      "opcoes": [
+        "a) casinha",
+        "b) casarão",
+        "c) casebre",
+        "d) casota"
+      ],
+      "correta": 1,
+      "explicacao": "O aumentativo regular de casa é casarão (grande casa)."
+    }
+  ]
+}
