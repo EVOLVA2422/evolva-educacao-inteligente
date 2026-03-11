@@ -1,1 +1,367 @@
-
+{
+  "materia": "Regência",
+  "nivel": 3,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Complete com a regência correta: 'Ele assistiu _____ filme'.",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) para o",
+        "d) com o"
+      ],
+      "correta": 1,
+      "explicacao": "No sentido de ver, 'assistir' exige preposição 'a': ao filme."
+    },
+    {
+      "id": 2,
+      "pergunta": "Assinale a opção correta: 'Ele aspirava _____ cargo de diretor'.",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) para o",
+        "d) com o"
+      ],
+      "correta": 1,
+      "explicacao": "'Aspirar' no sentido de desejar exige preposição 'a'."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em 'O enfermeiro assistiu _____ doente', a regência correta é:",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) pelo",
+        "d) com o"
+      ],
+      "correta": 0,
+      "explicacao": "'Assistir' no sentido de prestar assistência é verbo transitivo direto."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete: 'Ela namora _____ João'.",
+      "opcoes": [
+        "a) com",
+        "b) para",
+        "c) ∅ (sem preposição)",
+        "d) a"
+      ],
+      "correta": 2,
+      "explicacao": "'Namorar' é verbo transitivo direto, sem preposição."
+    },
+    {
+      "id": 5,
+      "pergunta": "Assinale a opção correta: 'Obedeça _____ seus pais'.",
+      "opcoes": [
+        "a) os",
+        "b) aos",
+        "c) para os",
+        "d) com os"
+      ],
+      "correta": 1,
+      "explicacao": "'Obedecer' exige preposição 'a'."
+    },
+    {
+      "id": 6,
+      "pergunta": "Em 'Prefiro estudar _____ trabalhar', a preposição correta é:",
+      "opcoes": [
+        "a) que",
+        "b) do que",
+        "c) a",
+        "d) de"
+      ],
+      "correta": 2,
+      "explicacao": "'Preferir' exige 'a'."
+    },
+    {
+      "id": 7,
+      "pergunta": "Complete: 'Ela agradou _____ chefe com seu trabalho'.",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) para o",
+        "d) com o"
+      ],
+      "correta": 1,
+      "explicacao": "'Agradar' no sentido de satisfazer exige 'a'."
+    },
+    {
+      "id": 8,
+      "pergunta": "Assinale a opção correta: 'Perdoei _____ ofensas'.",
+      "opcoes": [
+        "a) as",
+        "b) às",
+        "c) para as",
+        "d) com as"
+      ],
+      "correta": 0,
+      "explicacao": "'Perdoar' algo é transitivo direto: perdoei as ofensas."
+    },
+    {
+      "id": 9,
+      "pergunta": "Em 'Perdoei _____ amigo', a regência é:",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) pelo",
+        "d) com o"
+      ],
+      "correta": 1,
+      "explicacao": "'Perdoar' alguém exige preposição: ao amigo."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'Ela esqueceu _____ livro'.",
+      "opcoes": [
+        "a) o",
+        "b) do",
+        "c) no",
+        "d) ao"
+      ],
+      "correta": 0,
+      "explicacao": "'Esquecer' sem pronome é transitivo direto: esqueceu o livro."
+    },
+    {
+      "id": 11,
+      "pergunta": "Assinale a opção correta: 'Ela se esqueceu _____ livro'.",
+      "opcoes": [
+        "a) o",
+        "b) do",
+        "c) no",
+        "d) ao"
+      ],
+      "correta": 1,
+      "explicacao": "Com pronome, 'esquecer-se' exige 'de'."
+    },
+    {
+      "id": 12,
+      "pergunta": "Em 'Ele implicava _____ tudo', a preposição correta é:",
+      "opcoes": [
+        "a) com",
+        "b) em",
+        "c) por",
+        "d) a"
+      ],
+      "correta": 0,
+      "explicacao": "'Implicar' no sentido de ter implicância exige 'com'."
+    },
+    {
+      "id": 13,
+      "pergunta": "Complete: 'A medida implica _____ mudanças'.",
+      "opcoes": [
+        "a) em",
+        "b) com",
+        "c) ∅",
+        "d) para"
+      ],
+      "correta": 2,
+      "explicacao": "'Implicar' no sentido de acarretar é transitivo direto."
+    },
+    {
+      "id": 14,
+      "pergunta": "Assinale a opção correta: 'Ela visava _____ uma vida melhor'.",
+      "opcoes": [
+        "a) ∅",
+        "b) a",
+        "c) para",
+        "d) com"
+      ],
+      "correta": 1,
+      "explicacao": "'Visar' no sentido de ter em vista exige 'a'."
+    },
+    {
+      "id": 15,
+      "pergunta": "Em 'Ele visou _____ cheque', a regência é:",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) no",
+        "d) pelo"
+      ],
+      "correta": 0,
+      "explicacao": "'Visar' no sentido de pôr visto é transitivo direto."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: 'Lembrou _____ amigo na despedida'.",
+      "opcoes": [
+        "a) o",
+        "b) do",
+        "c) ao",
+        "d) no"
+      ],
+      "correta": 0,
+      "explicacao": "'Lembrar' alguém é transitivo direto."
+    },
+    {
+      "id": 17,
+      "pergunta": "Assinale a opção correta: 'Ela se lembrou _____ amigo'.",
+      "opcoes": [
+        "a) o",
+        "b) do",
+        "c) ao",
+        "d) no"
+      ],
+      "correta": 1,
+      "explicacao": "Com pronome, 'lembrar-se' exige 'de'."
+    },
+    {
+      "id": 18,
+      "pergunta": "Em 'O filme agradou _____ público', a preposição correta é:",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) para o",
+        "d) com o"
+      ],
+      "correta": 1,
+      "explicacao": "'Agradar' (causar prazer) exige 'a'."
+    },
+    {
+      "id": 19,
+      "pergunta": "Complete: 'Ele custou _____ entender'.",
+      "opcoes": [
+        "a) a",
+        "b) para",
+        "c) de",
+        "d) em"
+      ],
+      "correta": 0,
+      "explicacao": "'Custar' no sentido de ser difícil exige 'a'."
+    },
+    {
+      "id": 20,
+      "pergunta": "Assinale a opção correta: 'O carro custou _____ R$ 50 mil'.",
+      "opcoes": [
+        "a) a",
+        "b) ∅",
+        "c) em",
+        "d) por"
+      ],
+      "correta": 1,
+      "explicacao": "'Custar' no sentido de ter preço é transitivo direto."
+    },
+    {
+      "id": 21,
+      "pergunta": "Em 'Ela namora _____ ele', a forma correta é:",
+      "opcoes": [
+        "a) com",
+        "b) ∅",
+        "c) para",
+        "d) a"
+      ],
+      "correta": 1,
+      "explicacao": "'Namorar' é transitivo direto, sem preposição."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'Respondeu _____ carta'.",
+      "opcoes": [
+        "a) a",
+        "b) à",
+        "c) para",
+        "d) com"
+      ],
+      "correta": 1,
+      "explicacao": "'Responder' exige preposição 'a'."
+    },
+    {
+      "id": 23,
+      "pergunta": "Assinale a opção correta: 'Ele procedeu _____ investigação'.",
+      "opcoes": [
+        "a) a",
+        "b) com",
+        "c) para",
+        "d) em"
+      ],
+      "correta": 0,
+      "explicacao": "'Proceder' no sentido de realizar exige 'a'."
+    },
+    {
+      "id": 24,
+      "pergunta": "Em 'Ele procedia _____ honestidade', a regência é:",
+      "opcoes": [
+        "a) a",
+        "b) com",
+        "c) de",
+        "d) em"
+      ],
+      "correta": 1,
+      "explicacao": "'Proceder' no sentido de agir exige 'com'."
+    },
+    {
+      "id": 25,
+      "pergunta": "Complete: 'Simpatizo _____ sua ideia'.",
+      "opcoes": [
+        "a) com",
+        "b) por",
+        "c) a",
+        "d) de"
+      ],
+      "correta": 0,
+      "explicacao": "'Simpatizar' exige 'com'."
+    },
+    {
+      "id": 26,
+      "pergunta": "Assinale a opção correta: 'Ele queria _____ mãe'.",
+      "opcoes": [
+        "a) a",
+        "b) ∅",
+        "c) para",
+        "d) com"
+      ],
+      "correta": 1,
+      "explicacao": "'Querer' no sentido de desejar é transitivo direto."
+    },
+    {
+      "id": 27,
+      "pergunta": "Em 'Ele queria muito _____ avó', no sentido de estimar, a regência é:",
+      "opcoes": [
+        "a) a",
+        "b) à",
+        "c) para",
+        "d) com"
+      ],
+      "correta": 1,
+      "explicacao": "'Querer bem' exige 'a'."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'O respeito _____ leis é fundamental'.",
+      "opcoes": [
+        "a) com",
+        "b) às",
+        "c) para as",
+        "d) das"
+      ],
+      "correta": 1,
+      "explicacao": "'Respeito' pede preposição 'a'."
+    },
+    {
+      "id": 29,
+      "pergunta": "Assinale a opção correta: 'Ele é capaz _____ tudo'.",
+      "opcoes": [
+        "a) de",
+        "b) em",
+        "c) para",
+        "d) com"
+      ],
+      "correta": 0,
+      "explicacao": "'Capaz' exige 'de'."
+    },
+    {
+      "id": 30,
+      "pergunta": "Em 'Estou apto _____ assumir o cargo', a preposição correta é:",
+      "opcoes": [
+        "a) para",
+        "b) a",
+        "c) de",
+        "d) em"
+      ],
+      "correta": 0,
+      "explicacao": "'Apto' exige 'para'."
+    }
+  ]
+}
