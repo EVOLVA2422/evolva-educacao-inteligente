@@ -1,1 +1,607 @@
-
+{
+  "materia": "Sentence Formation",
+  "nivel": 2,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) She speaks English very well.",
+        "b) She speaks very well English.",
+        "c) She very well speaks English.",
+        "d) She speaks English well very."
+      ],
+      "correta": 0,
+      "explicacao": "Correct order: Subject + verb + object + adverb (very well)."
+    },
+    {
+      "id": 2,
+      "pergunta": "Choose the correct question form:",
+      "opcoes": [
+        "a) Where you live?",
+        "b) Where do you live?",
+        "c) Where does you live?",
+        "d) Where live you?"
+      ],
+      "correta": 1,
+      "explicacao": "Question: Where + do/does + subject + verb?"
+    },
+    {
+      "id": 3,
+      "pergunta": "Choose the correct negative sentence:",
+      "opcoes": [
+        "a) He doesn't likes coffee.",
+        "b) He don't like coffee.",
+        "c) He doesn't like coffee.",
+        "d) He not like coffee."
+      ],
+      "correta": 2,
+      "explicacao": "Negative: doesn't + base form (like)."
+    },
+    {
+      "id": 4,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) Always she arrives late.",
+        "b) She arrives always late.",
+        "c) She always arrives late.",
+        "d) She arrives late always."
+      ],
+      "correta": 2,
+      "explicacao": "Adverbs of frequency come before the main verb (except 'to be')."
+    },
+    {
+      "id": 5,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) What time does the train leave?",
+        "b) What time the train leaves?",
+        "c) What time leaves the train?",
+        "d) What time does the train leaves?"
+      ],
+      "correta": 0,
+      "explicacao": "Correct: What time + does + subject + verb (base form)?"
+    },
+    {
+      "id": 6,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) I yesterday went to the cinema.",
+        "b) I went to the cinema yesterday.",
+        "c) I went yesterday to the cinema.",
+        "d) Yesterday I went to the cinema."
+      ],
+      "correta": 1,
+      "explicacao": "Time expressions usually go at the end (or beginning). Both B and D are correct, but B is more common. The test expects B."
+    },
+    {
+      "id": 7,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) She is a very intelligent girl.",
+        "b) She is a girl very intelligent.",
+        "c) She is very intelligent a girl.",
+        "d) She is a very intelligent girl."
+      ],
+      "correta": 0,
+      "explicacao": "Adjectives come before nouns: a very intelligent girl."
+    },
+    {
+      "id": 8,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) Are you from Brazil?",
+        "b) You are from Brazil?",
+        "c) Is you from Brazil?",
+        "d) Are from Brazil you?"
+      ],
+      "correta": 0,
+      "explicacao": "Yes/No questions with 'be': Are you...?"
+    },
+    {
+      "id": 9,
+      "pergunta": "Choose the correct negative:",
+      "opcoes": [
+        "a) I am not tired.",
+        "b) I not am tired.",
+        "c) I am no tired.",
+        "d) I aren't tired."
+      ],
+      "correta": 0,
+      "explicacao": "Negative of 'be': I am not."
+    },
+    {
+      "id": 10,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) He has a car blue.",
+        "b) He has a blue car.",
+        "c) He has car blue.",
+        "d) He blue has a car."
+      ],
+      "correta": 1,
+      "explicacao": "Adjective before noun: a blue car."
+    },
+    {
+      "id": 11,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) Why are you crying?",
+        "b) Why you are crying?",
+        "c) Why are crying you?",
+        "d) Why you crying?"
+      ],
+      "correta": 0,
+      "explicacao": "Question with 'be': Why + are + subject + verb-ing?"
+    },
+    {
+      "id": 12,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) They can to play tennis.",
+        "b) They can play tennis.",
+        "c) They can plays tennis.",
+        "d) They can playing tennis."
+      ],
+      "correta": 1,
+      "explicacao": "Modal verbs (can) + base form."
+    },
+    {
+      "id": 13,
+      "pergunta": "Choose the correct negative:",
+      "opcoes": [
+        "a) He cannot speak French.",
+        "b) He can not speak French.",
+        "c) He don't can speak French.",
+        "d) He can't speaks French."
+      ],
+      "correta": 0,
+      "explicacao": "Negative of can: cannot (can't) + base form."
+    },
+    {
+      "id": 14,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) They often go to the beach.",
+        "b) They go often to the beach.",
+        "c) Often they go to the beach.",
+        "d) They go to the beach often."
+      ],
+      "correta": 0,
+      "explicacao": "Adverbs of frequency before main verb: often go."
+    },
+    {
+      "id": 15,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) How much does it cost?",
+        "b) How much it costs?",
+        "c) How much costs it?",
+        "d) How much does it costs?"
+      ],
+      "correta": 0,
+      "explicacao": "Question: How much + does + subject + cost?"
+    },
+    {
+      "id": 16,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) She is more tall than her sister.",
+        "b) She is taller than her sister.",
+        "c) She is tall than her sister.",
+        "d) She is more taller than her sister."
+      ],
+      "correta": 1,
+      "explicacao": "Comparative: taller (one syllable)."
+    },
+    {
+      "id": 17,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) I have never been to London.",
+        "b) I have been never to London.",
+        "c) I never have been to London.",
+        "d) I have been to London never."
+      ],
+      "correta": 0,
+      "explicacao": "Adverbs of frequency (never) after auxiliary: have never been."
+    },
+    {
+      "id": 18,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) Who did you see?",
+        "b) Who you saw?",
+        "c) Who did you saw?",
+        "d) Who you did see?"
+      ],
+      "correta": 0,
+      "explicacao": "Question word as object: Who + did + subject + verb (base form)."
+    },
+    {
+      "id": 19,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) She told me a secret.",
+        "b) She told a secret me.",
+        "c) She me told a secret.",
+        "d) She told to me a secret."
+      ],
+      "correta": 0,
+      "explicacao": "Indirect object (me) before direct object: told me a secret."
+    },
+    {
+      "id": 20,
+      "pergunta": "Choose the correct negative:",
+      "opcoes": [
+        "a) I haven't seen him today.",
+        "b) I have not seen him today.",
+        "c) I haven't saw him today.",
+        "d) Both A and B are correct."
+      ],
+      "correta": 3,
+      "explicacao": "Present perfect negative: haven't/has not + past participle."
+    },
+    {
+      "id": 21,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) They are building a new house.",
+        "b) They are building a house new.",
+        "c) They building a new house.",
+        "d) They are build a new house."
+      ],
+      "correta": 0,
+      "explicacao": "Present continuous: are + verb-ing + object."
+    },
+    {
+      "id": 22,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) Whose car is that?",
+        "b) Whose is that car?",
+        "c) Whose car that is?",
+        "d) Both A and B are correct."
+      ],
+      "correta": 3,
+      "explicacao": "Both 'Whose car is that?' and 'Whose is that car?' are possible."
+    },
+    {
+      "id": 23,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) She likes very much chocolate.",
+        "b) She likes chocolate very much.",
+        "c) She very much likes chocolate.",
+        "d) She likes chocolate much very."
+      ],
+      "correta": 1,
+      "explicacao": "Correct: like + object + very much."
+    },
+    {
+      "id": 24,
+      "pergunta": "Choose the correct negative:",
+      "opcoes": [
+        "a) I didn't see nobody.",
+        "b) I didn't see anybody.",
+        "c) I saw nobody.",
+        "d) Both B and C are correct."
+      ],
+      "correta": 3,
+      "explicacao": "Double negatives are incorrect. 'I didn't see anybody' and 'I saw nobody' are correct."
+    },
+    {
+      "id": 25,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) He gave to me a gift.",
+        "b) He gave a gift to me.",
+        "c) He gave me a gift.",
+        "d) Both B and C are correct."
+      ],
+      "correta": 3,
+      "explicacao": "Both 'He gave a gift to me' and 'He gave me a gift' are correct."
+    },
+    {
+      "id": 26,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) How long have you been waiting?",
+        "b) How long you have been waiting?",
+        "c) How long have you been wait?",
+        "d) How long you been waiting?"
+      ],
+      "correta": 0,
+      "explicacao": "Present perfect continuous question: How long + have + subject + been + verb-ing?"
+    },
+    {
+      "id": 27,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) She works in a hospital.",
+        "b) She work in a hospital.",
+        "c) She does work in a hospital.",
+        "d) She is work in a hospital."
+      ],
+      "correta": 0,
+      "explicacao": "Simple present, 3rd person: she works."
+    },
+    {
+      "id": 28,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) I usually have breakfast at 7.",
+        "b) I have usually breakfast at 7.",
+        "c) I have breakfast usually at 7.",
+        "d) Usually I have breakfast at 7."
+      ],
+      "correta": 0,
+      "explicacao": "Adverb of frequency before main verb: usually have."
+    },
+    {
+      "id": 29,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) What are you doing?",
+        "b) What you are doing?",
+        "c) What are you do?",
+        "d) What you doing?"
+      ],
+      "correta": 0,
+      "explicacao": "Present continuous question: What + are + subject + verb-ing?"
+    },
+    {
+      "id": 30,
+      "pergunta": "Choose the correct negative:",
+      "opcoes": [
+        "a) She doesn't have any money.",
+        "b) She doesn't have no money.",
+        "c) She hasn't no money.",
+        "d) She doesn't has any money."
+      ],
+      "correta": 0,
+      "explicacao": "Negative: doesn't have + any."
+    },
+    {
+      "id": 31,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) This is the book that I bought.",
+        "b) This is the book that I bought it.",
+        "c) This is the book I bought it.",
+        "d) This is the book what I bought."
+      ],
+      "correta": 0,
+      "explicacao": "Relative clause: that I bought (no pronoun after)."
+    },
+    {
+      "id": 32,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) I don't know where she lives.",
+        "b) I don't know where does she live.",
+        "c) I don't know where she live.",
+        "d) I don't know where lives she."
+      ],
+      "correta": 0,
+      "explicacao": "Indirect question: subject + verb (no inversion)."
+    },
+    {
+      "id": 33,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) She asked me where I was going.",
+        "b) She asked me where was I going.",
+        "c) She asked me where I going.",
+        "d) She asked me where am I going."
+      ],
+      "correta": 0,
+      "explicacao": "Reported question: subject + verb (no inversion)."
+    },
+    {
+      "id": 34,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) Do you like ice cream?",
+        "b) Like you ice cream?",
+        "c) You like ice cream?",
+        "d) Does you like ice cream?"
+      ],
+      "correta": 0,
+      "explicacao": "Simple present question: Do + subject + verb?"
+    },
+    {
+      "id": 35,
+      "pergunta": "Choose the correct negative:",
+      "opcoes": [
+        "a) I haven't got a car.",
+        "b) I don't have a car.",
+        "c) I have not got a car.",
+        "d) All are correct."
+      ],
+      "correta": 3,
+      "explicacao": "All are correct: have got / have / do have negatives."
+    },
+    {
+      "id": 36,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) She is always late.",
+        "b) She always is late.",
+        "c) Always she is late.",
+        "d) She is late always."
+      ],
+      "correta": 0,
+      "explicacao": "With 'be', adverbs of frequency come after the verb: is always."
+    },
+    {
+      "id": 37,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) I want that you come.",
+        "b) I want you to come.",
+        "c) I want that you to come.",
+        "d) I want you come."
+      ],
+      "correta": 1,
+      "explicacao": "Verb + object + to-infinitive: want you to come."
+    },
+    {
+      "id": 38,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) How many people were at the party?",
+        "b) How many people was at the party?",
+        "c) How many people at the party?",
+        "d) How many people there were at the party?"
+      ],
+      "correta": 0,
+      "explicacao": "Correct: How many + plural + were?"
+    },
+    {
+      "id": 39,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) I have never seen such a beautiful sunset.",
+        "b) I never have seen such a beautiful sunset.",
+        "c) I have seen never such a beautiful sunset.",
+        "d) I have seen such a beautiful sunset never."
+      ],
+      "correta": 0,
+      "explicacao": "Adverb of frequency after auxiliary: have never seen."
+    },
+    {
+      "id": 40,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) It's too hot to go out.",
+        "b) It's too hot for go out.",
+        "c) It's too hot to going out.",
+        "d) It's too hot for going out."
+      ],
+      "correta": 0,
+      "explicacao": "Too + adjective + to-infinitive."
+    },
+    {
+      "id": 41,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) Which one do you prefer?",
+        "b) Which one you prefer?",
+        "c) Which one does you prefer?",
+        "d) Which one you do prefer?"
+      ],
+      "correta": 0,
+      "explicacao": "Question: Which + one + do + subject + verb?"
+    },
+    {
+      "id": 42,
+      "pergunta": "Choose the correct negative:",
+      "opcoes": [
+        "a) He didn't say anything.",
+        "b) He didn't say nothing.",
+        "c) He said nothing.",
+        "d) Both A and C are correct."
+      ],
+      "correta": 3,
+      "explicacao": "A and C are correct; B has double negative."
+    },
+    {
+      "id": 43,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) She speaks three languages fluently.",
+        "b) She speaks fluently three languages.",
+        "c) She fluently speaks three languages.",
+        "d) She speaks three languages fluent."
+      ],
+      "correta": 0,
+      "explicacao": "Verb + object + adverb."
+    },
+    {
+      "id": 44,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) He is enough old to drive.",
+        "b) He is old enough to drive.",
+        "c) He is old to drive enough.",
+        "d) He is enough to drive old."
+      ],
+      "correta": 1,
+      "explicacao": "Adjective + enough + to-infinitive."
+    },
+    {
+      "id": 45,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) Whom did you see?",
+        "b) Who did you see?",
+        "c) Whom you saw?",
+        "d) Both A and B are correct."
+      ],
+      "correta": 3,
+      "explicacao": "In informal English, 'who' is often used; 'whom' is formal."
+    },
+    {
+      "id": 46,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) I saw a film very interesting.",
+        "b) I saw a very interesting film.",
+        "c) I saw very interesting a film.",
+        "d) I saw a film interesting very."
+      ],
+      "correta": 1,
+      "explicacao": "Adjective before noun: a very interesting film."
+    },
+    {
+      "id": 47,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) She told that she was tired.",
+        "b) She said that she was tired.",
+        "c) She told me that she was tired.",
+        "d) Both B and C are correct."
+      ],
+      "correta": 3,
+      "explicacao": "'Say' + (that) clause; 'tell' + indirect object + clause."
+    },
+    {
+      "id": 48,
+      "pergunta": "Choose the correct question:",
+      "opcoes": [
+        "a) How far is it to the station?",
+        "b) How far it is to the station?",
+        "c) How far is to the station?",
+        "d) How far there is to the station?"
+      ],
+      "correta": 0,
+      "explicacao": "Question: How far + is + it + to..."
+    },
+    {
+      "id": 49,
+      "pergunta": "Choose the correct word order:",
+      "opcoes": [
+        "a) I'm going to buy a new car next week.",
+        "b) I'm going to buy next week a new car.",
+        "c) I'm going next week to buy a new car.",
+        "d) Next week I'm going to buy a new car."
+      ],
+      "correta": 0,
+      "explicacao": "Correct order: I'm going to buy a new car next week."
+    },
+    {
+      "id": 50,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) She is the woman who lives next door.",
+        "b) She is the woman which lives next door.",
+        "c) She is the woman whom lives next door.",
+        "d) She is the woman what lives next door."
+      ],
+      "correta": 0,
+      "explicacao": "'Who' for people as subject."
+    }
+  ]
+}
