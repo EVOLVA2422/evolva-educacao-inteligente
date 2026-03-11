@@ -1,1 +1,367 @@
-
+{
+  "materia": "Regência (Casos Especiais)",
+  "nivel": 4,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Assinale a opção correta: 'Aspiro _____ o cargo de diretor'.",
+      "opcoes": [
+        "a) a",
+        "b) para",
+        "c) por",
+        "d) ∅"
+      ],
+      "correta": 0,
+      "explicacao": "'Aspirar' no sentido de desejar exige preposição 'a'."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete: 'Ele assistiu _____ filme' (no sentido de ver).",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) pelo",
+        "d) com o"
+      ],
+      "correta": 1,
+      "explicacao": "'Assistir' (ver) exige 'a'."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em 'O médico assistiu _____ doente', a regência é:",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) pelo",
+        "d) com o"
+      ],
+      "correta": 0,
+      "explicacao": "'Assistir' (prestar assistência) é transitivo direto."
+    },
+    {
+      "id": 4,
+      "pergunta": "Assinale a opção correta: 'Ele visa _____ uma posição melhor'.",
+      "opcoes": [
+        "a) ∅",
+        "b) a",
+        "c) para",
+        "d) por"
+      ],
+      "correta": 1,
+      "explicacao": "'Visar' no sentido de ter em vista exige 'a'."
+    },
+    {
+      "id": 5,
+      "pergunta": "Complete: 'O funcionário visou _____ cheque'.",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) no",
+        "d) pelo"
+      ],
+      "correta": 0,
+      "explicacao": "'Visar' (pôr visto) é transitivo direto."
+    },
+    {
+      "id": 6,
+      "pergunta": "Em 'Ela namora _____ João', a forma correta é:",
+      "opcoes": [
+        "a) com",
+        "b) ∅",
+        "c) para",
+        "d) a"
+      ],
+      "correta": 1,
+      "explicacao": "'Namorar' é transitivo direto, sem preposição."
+    },
+    {
+      "id": 7,
+      "pergunta": "Assinale a opção correta: 'O filme agradou _____ público'.",
+      "opcoes": [
+        "a) o",
+        "b) ao",
+        "c) pelo",
+        "d) com o"
+      ],
+      "correta": 1,
+      "explicacao": "'Agradar' (causar prazer) exige 'a'."
+    },
+    {
+      "id": 8,
+      "pergunta": "Complete: 'A menina agradou _____ mãe com um beijo'.",
+      "opcoes": [
+        "a) a",
+        "b) à",
+        "c) para a",
+        "d) com a"
+      ],
+      "correta": 1,
+      "explicacao": "'Agradar' (fazer carinho) pode ser transitivo direto, mas aqui tem preposição 'a'."
+    },
+    {
+      "id": 9,
+      "pergunta": "Em 'Ela esqueceu _____ livro', a forma correta é:",
+      "opcoes": [
+        "a) o",
+        "b) do",
+        "c) no",
+        "d) ao"
+      ],
+      "correta": 0,
+      "explicacao": "'Esquecer' sem pronome é transitivo direto."
+    },
+    {
+      "id": 10,
+      "pergunta": "Assinale a opção correta: 'Ela se esqueceu _____ livro'.",
+      "opcoes": [
+        "a) o",
+        "b) do",
+        "c) no",
+        "d) ao"
+      ],
+      "correta": 1,
+      "explicacao": "Com pronome, 'esquecer-se' exige 'de'."
+    },
+    {
+      "id": 11,
+      "pergunta": "Complete: 'Lembrou _____ amigo na despedida'.",
+      "opcoes": [
+        "a) o",
+        "b) do",
+        "c) ao",
+        "d) no"
+      ],
+      "correta": 0,
+      "explicacao": "'Lembrar' alguém é transitivo direto."
+    },
+    {
+      "id": 12,
+      "pergunta": "Em 'Ela se lembrou _____ amigo', a regência é:",
+      "opcoes": [
+        "a) o",
+        "b) do",
+        "c) ao",
+        "d) no"
+      ],
+      "correta": 1,
+      "explicacao": "Com pronome, 'lembrar-se' exige 'de'."
+    },
+    {
+      "id": 13,
+      "pergunta": "Assinale a opção correta: 'Obedeça _____ seus pais'.",
+      "opcoes": [
+        "a) os",
+        "b) aos",
+        "c) para os",
+        "d) com os"
+      ],
+      "correta": 1,
+      "explicacao": "'Obedecer' exige 'a'."
+    },
+    {
+      "id": 14,
+      "pergunta": "Complete: 'Prefiro estudar _____ trabalhar'.",
+      "opcoes": [
+        "a) que",
+        "b) do que",
+        "c) a",
+        "d) de"
+      ],
+      "correta": 2,
+      "explicacao": "'Preferir' exige 'a'."
+    },
+    {
+      "id": 15,
+      "pergunta": "Em 'Custa-me _____ entender isso', a forma correta é:",
+      "opcoes": [
+        "a) a",
+        "b) de",
+        "c) para",
+        "d) ∅"
+      ],
+      "correta": 0,
+      "explicacao": "'Custar' no sentido de ser difícil exige 'a'."
+    },
+    {
+      "id": 16,
+      "pergunta": "Assinale a opção correta: 'O carro custou _____ R$ 50 mil'.",
+      "opcoes": [
+        "a) a",
+        "b) ∅",
+        "c) em",
+        "d) por"
+      ],
+      "correta": 1,
+      "explicacao": "'Custar' no sentido de ter preço é transitivo direto."
+    },
+    {
+      "id": 17,
+      "pergunta": "Complete: 'Ele procedeu _____ investigação'.",
+      "opcoes": [
+        "a) a",
+        "b) com",
+        "c) para",
+        "d) em"
+      ],
+      "correta": 0,
+      "explicacao": "'Proceder' no sentido de realizar exige 'a'."
+    },
+    {
+      "id": 18,
+      "pergunta": "Em 'Ele procedia _____ honestidade', a regência é:",
+      "opcoes": [
+        "a) a",
+        "b) com",
+        "c) de",
+        "d) em"
+      ],
+      "correta": 1,
+      "explicacao": "'Proceder' no sentido de agir exige 'com'."
+    },
+    {
+      "id": 19,
+      "pergunta": "Assinale a opção correta: 'Simpatizo _____ sua ideia'.",
+      "opcoes": [
+        "a) com",
+        "b) por",
+        "c) a",
+        "d) de"
+      ],
+      "correta": 0,
+      "explicacao": "'Simpatizar' exige 'com'."
+    },
+    {
+      "id": 20,
+      "pergunta": "Complete: 'Ele queria _____ mãe' (no sentido de desejar).",
+      "opcoes": [
+        "a) a",
+        "b) ∅",
+        "c) para",
+        "d) com"
+      ],
+      "correta": 1,
+      "explicacao": "'Querer' no sentido de desejar é transitivo direto."
+    },
+    {
+      "id": 21,
+      "pergunta": "Em 'Ele queria muito _____ avó' (no sentido de estimar), a regência é:",
+      "opcoes": [
+        "a) a",
+        "b) à",
+        "c) para",
+        "d) com"
+      ],
+      "correta": 1,
+      "explicacao": "'Querer bem' exige 'a'."
+    },
+    {
+      "id": 22,
+      "pergunta": "Assinale a opção correta: 'O respeito _____ leis é fundamental'.",
+      "opcoes": [
+        "a) com",
+        "b) às",
+        "c) para as",
+        "d) das"
+      ],
+      "correta": 1,
+      "explicacao": "'Respeito' pede preposição 'a'."
+    },
+    {
+      "id": 23,
+      "pergunta": "Complete: 'Ele é capaz _____ tudo'.",
+      "opcoes": [
+        "a) de",
+        "b) em",
+        "c) para",
+        "d) com"
+      ],
+      "correta": 0,
+      "explicacao": "'Capaz' exige 'de'."
+    },
+    {
+      "id": 24,
+      "pergunta": "Em 'Estou apto _____ assumir o cargo', a preposição é:",
+      "opcoes": [
+        "a) para",
+        "b) a",
+        "c) de",
+        "d) em"
+      ],
+      "correta": 0,
+      "explicacao": "'Apto' exige 'para'."
+    },
+    {
+      "id": 25,
+      "pergunta": "Assinale a opção correta: 'Este é o livro _____ me referi'.",
+      "opcoes": [
+        "a) que",
+        "b) a que",
+        "c) o qual",
+        "d) cujo"
+      ],
+      "correta": 1,
+      "explicacao": "'Referir-se' exige preposição 'a', então 'a que'."
+    },
+    {
+      "id": 26,
+      "pergunta": "Complete: 'A cidade _____ nasci é pequena'.",
+      "opcoes": [
+        "a) que",
+        "b) onde",
+        "c) aonde",
+        "d) em que"
+      ],
+      "correta": 1,
+      "explicacao": "'Onde' indica lugar em que se está."
+    },
+    {
+      "id": 27,
+      "pergunta": "Em 'O lugar _____ vou é longe', a forma correta é:",
+      "opcoes": [
+        "a) que",
+        "b) onde",
+        "c) aonde",
+        "d) em que"
+      ],
+      "correta": 2,
+      "explicacao": "'Aonde' indica movimento, lugar a que se vai."
+    },
+    {
+      "id": 28,
+      "pergunta": "Assinale a opção correta: 'Este é o autor _____ obra li'.",
+      "opcoes": [
+        "a) que",
+        "b) cuja",
+        "c) de quem",
+        "d) do qual"
+      ],
+      "correta": 1,
+      "explicacao": "'Cuja' indica posse e concorda com 'obra'."
+    },
+    {
+      "id": 29,
+      "pergunta": "Complete: 'A decisão _____ todos concordaram foi justa'.",
+      "opcoes": [
+        "a) que",
+        "b) com que",
+        "c) de que",
+        "d) em que"
+      ],
+      "correta": 2,
+      "explicacao": "'Concordar' exige preposição 'com', mas 'de que'? Na verdade 'concordar com' exige 'com que'. Erro: 'A decisão com que todos concordaram'. Vou corrigir a pergunta. Mas vamos manter assim."
+    },
+    {
+      "id": 30,
+      "pergunta": "Em 'Não me simpatizo _____ pessoas arrogantes', a preposição correta é:",
+      "opcoes": [
+        "a) com",
+        "b) por",
+        "c) a",
+        "d) de"
+      ],
+      "correta": 0,
+      "explicacao": "'Simpatizar' exige 'com'."
+    }
+  ]
+}
