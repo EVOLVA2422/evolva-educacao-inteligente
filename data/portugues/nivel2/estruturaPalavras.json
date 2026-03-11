@@ -1,1 +1,367 @@
-
+{
+  "materia": "Estrutura das Palavras",
+  "nivel": 2,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Em 'pedreiro', o radical é:",
+      "opcoes": [
+        "a) pedr",
+        "b) pedreir",
+        "c) eiro",
+        "d) ped"
+      ],
+      "correta": 0,
+      "explicacao": "Radical é a parte que contém o significado básico: PEDR (pedra)."
+    },
+    {
+      "id": 2,
+      "pergunta": "Na palavra 'infeliz', o elemento 'in-' é um:",
+      "opcoes": [
+        "a) sufixo",
+        "b) prefixo",
+        "c) radical",
+        "d) desinência"
+      ],
+      "correta": 1,
+      "explicacao": "'in-' é prefixo, pois vem antes do radical 'feliz'."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em 'amava-mos', a terminação '-mos' indica:",
+      "opcoes": [
+        "a) radical",
+        "b) sufixo",
+        "c) desinência número-pessoal",
+        "d) vogal temática"
+      ],
+      "correta": 2,
+      "explicacao": "'-mos' é desinência que indica 1ª pessoa do plural."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual o sufixo em 'livraria'?",
+      "opcoes": [
+        "a) livr",
+        "b) aria",
+        "c) ria",
+        "d) a"
+      ],
+      "correta": 1,
+      "explicacao": "Sufixo '-aria' indica estabelecimento comercial."
+    },
+    {
+      "id": 5,
+      "pergunta": "A palavra 'ferreiro' tem o radical:",
+      "opcoes": [
+        "a) ferr",
+        "b) ferreir",
+        "c) eiro",
+        "d) fer"
+      ],
+      "correta": 0,
+      "explicacao": "Radical FERR (relacionado a ferro)."
+    },
+    {
+      "id": 6,
+      "pergunta": "Em 'cachorrinho', '-inho' é:",
+      "opcoes": [
+        "a) prefixo",
+        "b) sufixo",
+        "c) radical",
+        "d) desinência"
+      ],
+      "correta": 1,
+      "explicacao": "Sufixo '-inho' indica diminutivo."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual palavra contém prefixo?",
+      "opcoes": [
+        "a) casa",
+        "b) refazer",
+        "c) pedra",
+        "d) livro"
+      ],
+      "correta": 1,
+      "explicacao": "'re-' é prefixo em 'refazer'."
+    },
+    {
+      "id": 8,
+      "pergunta": "O prefixo 'des-' em 'desfazer' transmite ideia de:",
+      "opcoes": [
+        "a) repetição",
+        "b) negação",
+        "c) intensidade",
+        "d) movimento"
+      ],
+      "correta": 1,
+      "explicacao": "'des-' indica ação contrária, negação."
+    },
+    {
+      "id": 9,
+      "pergunta": "A desinência '-a' em 'menina' indica:",
+      "opcoes": [
+        "a) masculino",
+        "b) feminino",
+        "c) plural",
+        "d) singular"
+      ],
+      "correta": 1,
+      "explicacao": "Desinência de gênero feminino."
+    },
+    {
+      "id": 10,
+      "pergunta": "Em 'estudávamos', a vogal temática é:",
+      "opcoes": [
+        "a) a",
+        "b) e",
+        "c) i",
+        "d) o"
+      ],
+      "correta": 0,
+      "explicacao": "Vogal temática do verbo estudar é 'a' (1ª conjugação)."
+    },
+    {
+      "id": 11,
+      "pergunta": "Na palavra 'infelizmente', quantos afixos existem?",
+      "opcoes": [
+        "a) 1",
+        "b) 2",
+        "c) 3",
+        "d) nenhum"
+      ],
+      "correta": 1,
+      "explicacao": "Dois afixos: prefixo 'in-' e sufixo '-mente'."
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual elemento é obrigatório em todas as palavras?",
+      "opcoes": [
+        "a) prefixo",
+        "b) sufixo",
+        "c) radical",
+        "d) desinência"
+      ],
+      "correta": 2,
+      "explicacao": "Radical é a base, sempre presente."
+    },
+    {
+      "id": 13,
+      "pergunta": "Em 'florzinha', o sufixo é:",
+      "opcoes": [
+        "a) flor",
+        "b) zinha",
+        "c) inha",
+        "d) z"
+      ],
+      "correta": 1,
+      "explicacao": "Sufixo '-zinha' (forma variante de '-inha')."
+    },
+    {
+      "id": 14,
+      "pergunta": "A palavra 'aguardente' é formada por:",
+      "opcoes": [
+        "a) derivação prefixal",
+        "b) derivação sufixal",
+        "c) composição",
+        "d) parassíntese"
+      ],
+      "correta": 2,
+      "explicacao": "Composição por aglutinação: água + ardente."
+    },
+    {
+      "id": 15,
+      "pergunta": "Em 'deslealdade', os afixos são:",
+      "opcoes": [
+        "a) des- e -dade",
+        "b) leal",
+        "c) des- apenas",
+        "d) -dade apenas"
+      ],
+      "correta": 0,
+      "explicacao": "Prefixos 'des-' e sufixo '-dade'."
+    },
+    {
+      "id": 16,
+      "pergunta": "A vogal temática dos verbos da 2ª conjugação é:",
+      "opcoes": [
+        "a) a",
+        "b) e",
+        "c) i",
+        "d) o"
+      ],
+      "correta": 1,
+      "explicacao": "Verbos como 'correr' têm vogal temática 'e'."
+    },
+    {
+      "id": 17,
+      "pergunta": "Em 'cantávamos', a desinência modo-temporal é:",
+      "opcoes": [
+        "a) va",
+        "b) mos",
+        "c) a",
+        "d) va+mos"
+      ],
+      "correta": 0,
+      "explicacao": "'-va-' indica pretérito imperfeito do indicativo."
+    },
+    {
+      "id": 18,
+      "pergunta": "Qual palavra apresenta apenas radical?",
+      "opcoes": [
+        "a) flor",
+        "b) flores",
+        "c) florzinha",
+        "d) floral"
+      ],
+      "correta": 0,
+      "explicacao": "'flor' é apenas o radical, sem afixos."
+    },
+    {
+      "id": 19,
+      "pergunta": "O elemento 's' em 'meninos' é:",
+      "opcoes": [
+        "a) radical",
+        "b) sufixo",
+        "c) desinência de plural",
+        "d) vogal temática"
+      ],
+      "correta": 2,
+      "explicacao": "'-s' indica plural."
+    },
+    {
+      "id": 20,
+      "pergunta": "Em 'anoitecer', temos:",
+      "opcoes": [
+        "a) derivação prefixal",
+        "b) derivação sufixal",
+        "c) derivação parassintética",
+        "d) composição"
+      ],
+      "correta": 2,
+      "explicacao": "a- (prefixo) + noite (radical) + -ecer (sufixo) simultaneamente."
+    },
+    {
+      "id": 21,
+      "pergunta": "A palavra 'planeta' tem radical:",
+      "opcoes": [
+        "a) planet",
+        "b) plan",
+        "c) eta",
+        "d) pla"
+      ],
+      "correta": 0,
+      "explicacao": "Radical 'planet'."
+    },
+    {
+      "id": 22,
+      "pergunta": "Em 'enriquecer', o processo de formação é:",
+      "opcoes": [
+        "a) prefixação",
+        "b) sufixação",
+        "c) parassíntese",
+        "d) composição"
+      ],
+      "correta": 2,
+      "explicacao": "en- + rico + -ecer (parassíntese)."
+    },
+    {
+      "id": 23,
+      "pergunta": "Na palavra 'pedreira', o sufixo é:",
+      "opcoes": [
+        "a) pedr",
+        "b) eira",
+        "c) ra",
+        "d) a"
+      ],
+      "correta": 1,
+      "explicacao": "Sufixo '-eira' indica local onde se extrai pedra."
+    },
+    {
+      "id": 24,
+      "pergunta": "O radical de 'livreiro' é:",
+      "opcoes": [
+        "a) livr",
+        "b) livre",
+        "c) eiro",
+        "d) liv"
+      ],
+      "correta": 0,
+      "explicacao": "Radical 'livr' (livro)."
+    },
+    {
+      "id": 25,
+      "pergunta": "Em 'felizmente', o elemento '-mente' é:",
+      "opcoes": [
+        "a) prefixo",
+        "b) sufixo",
+        "c) radical",
+        "d) desinência"
+      ],
+      "correta": 1,
+      "explicacao": "Sufixo formador de advérbios."
+    },
+    {
+      "id": 26,
+      "pergunta": "A palavra 'passatempo' é formada por:",
+      "opcoes": [
+        "a) derivação",
+        "b) composição por justaposição",
+        "c) composição por aglutinação",
+        "d) parassíntese"
+      ],
+      "correta": 1,
+      "explicacao": "passa + tempo (justaposição, sem perda de elementos)."
+    },
+    {
+      "id": 27,
+      "pergunta": "Em 'aguardente', há:",
+      "opcoes": [
+        "a) justaposição",
+        "b) aglutinação",
+        "c) derivação",
+        "d) parassíntese"
+      ],
+      "correta": 1,
+      "explicacao": "água + ardente -> aguardente (com perda do 'a' de água)."
+    },
+    {
+      "id": 28,
+      "pergunta": "O prefixo 'sub-' em 'submarino' indica:",
+      "opcoes": [
+        "a) acima",
+        "b) abaixo",
+        "c) junto",
+        "d) separado"
+      ],
+      "correta": 1,
+      "explicacao": "sub- = abaixo, debaixo."
+    },
+    {
+      "id": 29,
+      "pergunta": "Em 'chuviscar', temos:",
+      "opcoes": [
+        "a) derivação prefixal",
+        "b) derivação sufixal",
+        "c) derivação regressiva",
+        "d) composição"
+      ],
+      "correta": 1,
+      "explicacao": "chuva + -iscar (sufixo)."
+    },
+    {
+      "id": 30,
+      "pergunta": "A palavra 'porta-lápis' é formada por:",
+      "opcoes": [
+        "a) derivação",
+        "b) composição",
+        "c) onomatopeia",
+        "d) abreviação"
+      ],
+      "correta": 1,
+      "explicacao": "Composição por justaposição: porta + lápis."
+    }
+  ]
+}
