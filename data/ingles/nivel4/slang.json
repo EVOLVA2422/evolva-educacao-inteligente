@@ -1,1 +1,607 @@
-
+{
+  "materia": "Slang & Expressions",
+  "nivel": 4,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "What does 'broke' mean in slang?",
+      "opcoes": [
+        "a) rich",
+        "b) having no money",
+        "c) tired",
+        "d) angry"
+      ],
+      "correta": 1,
+      "explicacao": "'Broke' means having no money."
+    },
+    {
+      "id": 2,
+      "pergunta": "What does 'hang out' mean?",
+      "opcoes": [
+        "a) to spend time with friends",
+        "b) to hang clothes",
+        "c) to wait",
+        "d) to leave"
+      ],
+      "correta": 0,
+      "explicacao": "'Hang out' means to relax and spend time socially."
+    },
+    {
+      "id": 3,
+      "pergunta": "What does 'chill' mean in slang?",
+      "opcoes": [
+        "a) cold",
+        "b) relax",
+        "c) angry",
+        "d) excited"
+      ],
+      "correta": 1,
+      "explicacao": "'Chill' means to relax or calm down."
+    },
+    {
+      "id": 4,
+      "pergunta": "What does 'cool' mean?",
+      "opcoes": [
+        "a) fashionable",
+        "b) acceptable",
+        "c) calm",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Cool' has multiple meanings: stylish, good, calm."
+    },
+    {
+      "id": 5,
+      "pergunta": "What does 'dude' mean?",
+      "opcoes": [
+        "a) a friend",
+        "b) a guy",
+        "c) a term of address",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Dude' is used to refer to a man or as a friendly term of address."
+    },
+    {
+      "id": 6,
+      "pergunta": "What does 'awesome' mean?",
+      "opcoes": [
+        "a) terrible",
+        "b) amazing",
+        "c) boring",
+        "d) average"
+      ],
+      "correta": 1,
+      "explicacao": "'Awesome' means extremely good or impressive."
+    },
+    {
+      "id": 7,
+      "pergunta": "What does 'wanna' stand for?",
+      "opcoes": [
+        "a) want to",
+        "b) going to",
+        "c) have to",
+        "d) need to"
+      ],
+      "correta": 0,
+      "explicacao": "'Wanna' is a contraction of 'want to'."
+    },
+    {
+      "id": 8,
+      "pergunta": "What does 'gonna' stand for?",
+      "opcoes": [
+        "a) going to",
+        "b) want to",
+        "c) got to",
+        "d) have to"
+      ],
+      "correta": 0,
+      "explicacao": "'Gonna' is a contraction of 'going to'."
+    },
+    {
+      "id": 9,
+      "pergunta": "What does 'kinda' mean?",
+      "opcoes": [
+        "a) kind of",
+        "b) a little",
+        "c) sort of",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Kinda' means 'kind of' or 'a little'."
+    },
+    {
+      "id": 10,
+      "pergunta": "What does 'couch potato' mean?",
+      "opcoes": [
+        "a) a lazy person who watches TV",
+        "b) a healthy eater",
+        "c) an athlete",
+        "d) a gardener"
+      ],
+      "correta": 0,
+      "explicacao": "'Couch potato' refers to someone who spends a lot of time sitting and watching TV."
+    },
+    {
+      "id": 11,
+      "pergunta": "What does 'bail' mean in slang?",
+      "opcoes": [
+        "a) to leave suddenly",
+        "b) to help",
+        "c) to pay",
+        "d) to stay"
+      ],
+      "correta": 0,
+      "explicacao": "'Bail' can mean to leave or abandon a situation."
+    },
+    {
+      "id": 12,
+      "pergunta": "What does 'ghost' mean as a verb?",
+      "opcoes": [
+        "a) to disappear and stop contacting someone",
+        "b) to haunt",
+        "c) to scare",
+        "d) to appear"
+      ],
+      "correta": 0,
+      "explicacao": "To 'ghost' someone means to cut off all communication without explanation."
+    },
+    {
+      "id": 13,
+      "pergunta": "What does 'salty' mean in slang?",
+      "opcoes": [
+        "a) bitter or annoyed",
+        "b) salty taste",
+        "c) lucky",
+        "d) happy"
+      ],
+      "correta": 0,
+      "explicacao": "'Salty' means being irritated or resentful."
+    },
+    {
+      "id": 14,
+      "pergunta": "What does 'lit' mean in slang?",
+      "opcoes": [
+        "a) exciting or excellent",
+        "b) intoxicated",
+        "c) illuminated",
+        "d) both A and B"
+      ],
+      "correta": 3,
+      "explicacao": "'Lit' can mean exciting, excellent, or drunk."
+    },
+    {
+      "id": 15,
+      "pergunta": "What does 'savage' mean in slang?",
+      "opcoes": [
+        "a) fierce or harsh",
+        "b) cool",
+        "c) wild",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Savage' can describe someone who is brutally honest, cool, or fierce."
+    },
+    {
+      "id": 16,
+      "pergunta": "What does 'woke' mean?",
+      "opcoes": [
+        "a) awake",
+        "b) socially aware",
+        "c) tired",
+        "d) confused"
+      ],
+      "correta": 1,
+      "explicacao": "'Woke' means being alert to social injustice and issues."
+    },
+    {
+      "id": 17,
+      "pergunta": "What does 'FOMO' stand for?",
+      "opcoes": [
+        "a) Fear Of Missing Out",
+        "b) Fear Of Making Out",
+        "c) Feeling Of Missing Out",
+        "d) Fear Of Moving On"
+      ],
+      "correta": 0,
+      "explicacao": "FOMO is the anxiety that you might miss out on something interesting."
+    },
+    {
+      "id": 18,
+      "pergunta": "What does 'YOLO' stand for?",
+      "opcoes": [
+        "a) You Only Live Once",
+        "b) You Only Love Once",
+        "c) You Often Live Once",
+        "d) You Ought to Live Once"
+      ],
+      "correta": 0,
+      "explicacao": "YOLO is used to justify taking risks."
+    },
+    {
+      "id": 19,
+      "pergunta": "What does 'go with the flow' mean?",
+      "opcoes": [
+        "a) to be flexible",
+        "b) to resist change",
+        "c) to plan carefully",
+        "d) to swim"
+      ],
+      "correta": 0,
+      "explicacao": "'Go with the flow' means to accept things as they happen."
+    },
+    {
+      "id": 20,
+      "pergunta": "What does 'hit the sack' mean?",
+      "opcoes": [
+        "a) go to bed",
+        "b) hit a bag",
+        "c) exercise",
+        "d) leave"
+      ],
+      "correta": 0,
+      "explicacao": "'Hit the sack' means to go to sleep."
+    },
+    {
+      "id": 21,
+      "pergunta": "What does 'piece of cake' mean?",
+      "opcoes": [
+        "a) very easy",
+        "b) delicious",
+        "c) difficult",
+        "d) expensive"
+      ],
+      "correta": 0,
+      "explicacao": "'Piece of cake' means something very easy."
+    },
+    {
+      "id": 22,
+      "pergunta": "What does 'cost an arm and a leg' mean?",
+      "opcoes": [
+        "a) very expensive",
+        "b) very cheap",
+        "c) painful",
+        "d) free"
+      ],
+      "correta": 0,
+      "explicacao": "It means something costs a lot of money."
+    },
+    {
+      "id": 23,
+      "pergunta": "What does 'break a leg' mean?",
+      "opcoes": [
+        "a) good luck",
+        "b) bad luck",
+        "c) get injured",
+        "d) hurry up"
+      ],
+      "correta": 0,
+      "explicacao": "'Break a leg' is a way to wish someone good luck, especially in theater."
+    },
+    {
+      "id": 24,
+      "pergunta": "What does 'spill the beans' mean?",
+      "opcoes": [
+        "a) reveal a secret",
+        "b) make a mess",
+        "c) cook",
+        "d) eat"
+      ],
+      "correta": 0,
+      "explicacao": "'Spill the beans' means to tell a secret."
+    },
+    {
+      "id": 25,
+      "pergunta": "What does 'under the weather' mean?",
+      "opcoes": [
+        "a) feeling ill",
+        "b) feeling great",
+        "c) outdoors",
+        "d) rainy"
+      ],
+      "correta": 0,
+      "explicacao": "'Under the weather' means feeling sick."
+    },
+    {
+      "id": 26,
+      "pergunta": "What does 'hit the books' mean?",
+      "opcoes": [
+        "a) study hard",
+        "b) read for pleasure",
+        "c) destroy books",
+        "d) write"
+      ],
+      "correta": 0,
+      "explicacao": "'Hit the books' means to study diligently."
+    },
+    {
+      "id": 27,
+      "pergunta": "What does 'call it a day' mean?",
+      "opcoes": [
+        "a) stop working",
+        "b) start working",
+        "c) name the day",
+        "d) celebrate"
+      ],
+      "correta": 0,
+      "explicacao": "'Call it a day' means to stop working for the day."
+    },
+    {
+      "id": 28,
+      "pergunta": "What does 'once in a blue moon' mean?",
+      "opcoes": [
+        "a) very rarely",
+        "b) very often",
+        "c) never",
+        "d) always"
+      ],
+      "correta": 0,
+      "explicacao": "It means something happens very infrequently."
+    },
+    {
+      "id": 29,
+      "pergunta": "What does 'butterflies in my stomach' mean?",
+      "opcoes": [
+        "a) nervousness",
+        "b) hunger",
+        "c) illness",
+        "d) happiness"
+      ],
+      "correta": 0,
+      "explicacao": "It describes the feeling of nervous excitement."
+    },
+    {
+      "id": 30,
+      "pergunta": "What does 'see eye to eye' mean?",
+      "opcoes": [
+        "a) agree",
+        "b) disagree",
+        "c) meet",
+        "d) look"
+      ],
+      "correta": 0,
+      "explicacao": "To 'see eye to eye' means to agree with someone."
+    },
+    {
+      "id": 31,
+      "pergunta": "What does 'sit tight' mean?",
+      "opcoes": [
+        "a) wait patiently",
+        "b) sit comfortably",
+        "c) stand up",
+        "d) leave"
+      ],
+      "correta": 0,
+      "explicacao": "'Sit tight' means to wait patiently for something."
+    },
+    {
+      "id": 32,
+      "pergunta": "What does 'speak of the devil' mean?",
+      "opcoes": [
+        "a) someone appears when mentioned",
+        "b) talk about evil",
+        "c) curse",
+        "d) pray"
+      ],
+      "correta": 0,
+      "explicacao": "It's said when someone you were just talking about appears."
+    },
+    {
+      "id": 33,
+      "pergunta": "What does 'take it easy' mean?",
+      "opcoes": [
+        "a) relax",
+        "b) work hard",
+        "c) hurry",
+        "d) leave"
+      ],
+      "correta": 0,
+      "explicacao": "'Take it easy' means to relax and not stress."
+    },
+    {
+      "id": 34,
+      "pergunta": "What does 'the last straw' mean?",
+      "opcoes": [
+        "a) the final problem",
+        "b) the first problem",
+        "c) a drink",
+        "d) a straw"
+      ],
+      "correta": 0,
+      "explicacao": "The last straw is the final annoyance that makes you lose patience."
+    },
+    {
+      "id": 35,
+      "pergunta": "What does 'up in the air' mean?",
+      "opcoes": [
+        "a) uncertain",
+        "b) flying",
+        "c) decided",
+        "d) clear"
+      ],
+      "correta": 0,
+      "explicacao": "'Up in the air' means that plans are not yet decided."
+    },
+    {
+      "id": 36,
+      "pergunta": "What does 'bark up the wrong tree' mean?",
+      "opcoes": [
+        "a) make a wrong assumption",
+        "b) chase a cat",
+        "c) bark loudly",
+        "d) climb a tree"
+      ],
+      "correta": 0,
+      "explicacao": "It means to pursue a mistaken course of action."
+    },
+    {
+      "id": 37,
+      "pergunta": "What does 'beat around the bush' mean?",
+      "opcoes": [
+        "a) avoid the main topic",
+        "b) hunt",
+        "c) exercise",
+        "d) hurry"
+      ],
+      "correta": 0,
+      "explicacao": "It means to avoid saying what you really mean."
+    },
+    {
+      "id": 38,
+      "pergunta": "What does 'bite the bullet' mean?",
+      "opcoes": [
+        "a) face something difficult",
+        "b) eat",
+        "c) shoot",
+        "d) run"
+      ],
+      "correta": 0,
+      "explicacao": "To 'bite the bullet' means to endure a painful or unpleasant situation."
+    },
+    {
+      "id": 39,
+      "pergunta": "What does 'cut corners' mean?",
+      "opcoes": [
+        "a) do something poorly to save money/time",
+        "b) take a shortcut",
+        "c) be efficient",
+        "d) waste"
+      ],
+      "correta": 0,
+      "explicacao": "It means to do something cheaply or quickly, often sacrificing quality."
+    },
+    {
+      "id": 40,
+      "pergunta": "What does 'get out of hand' mean?",
+      "opcoes": [
+        "a) become uncontrollable",
+        "b) get free",
+        "c) start",
+        "d) finish"
+      ],
+      "correta": 0,
+      "explicacao": "When something gets out of hand, it becomes difficult to control."
+    },
+    {
+      "id": 41,
+      "pergunta": "What does 'go Dutch' mean?",
+      "opcoes": [
+        "a) share the cost",
+        "b) go to Holland",
+        "c) speak Dutch",
+        "d) pay for someone"
+      ],
+      "correta": 0,
+      "explicacao": "'Go Dutch' means each person pays for themselves."
+    },
+    {
+      "id": 42,
+      "pergunta": "What does 'hit the nail on the head' mean?",
+      "opcoes": [
+        "a) be exactly right",
+        "b) hit something",
+        "c) make a mistake",
+        "d) fix something"
+      ],
+      "correta": 0,
+      "explicacao": "It means to describe exactly what is causing a situation."
+    },
+    {
+      "id": 43,
+      "pergunta": "What does 'let the cat out of the bag' mean?",
+      "opcoes": [
+        "a) reveal a secret",
+        "b) release an animal",
+        "c) hide something",
+        "d) play with a cat"
+      ],
+      "correta": 0,
+      "explicacao": "It means to accidentally reveal a secret."
+    },
+    {
+      "id": 44,
+      "pergunta": "What does 'make a long story short' mean?",
+      "opcoes": [
+        "a) summarize",
+        "b) tell a long story",
+        "c) write",
+        "d) cut"
+      ],
+      "correta": 0,
+      "explicacao": "It means to give the main point without details."
+    },
+    {
+      "id": 45,
+      "pergunta": "What does 'once in a while' mean?",
+      "opcoes": [
+        "a) sometimes",
+        "b) always",
+        "c) never",
+        "d) often"
+      ],
+      "correta": 0,
+      "explicacao": "'Once in a while' means occasionally."
+    },
+    {
+      "id": 46,
+      "pergunta": "What does 'pull someone's leg' mean?",
+      "opcoes": [
+        "a) joke with someone",
+        "b) hurt someone",
+        "c) help someone",
+        "d) push someone"
+      ],
+      "correta": 0,
+      "explicacao": "It means to tease or play a joke on someone."
+    },
+    {
+      "id": 47,
+      "pergunta": "What does 'ring a bell' mean?",
+      "opcoes": [
+        "a) sound familiar",
+        "b) make a sound",
+        "c) call",
+        "d) remember"
+      ],
+      "correta": 0,
+      "explicacao": "If something rings a bell, it sounds familiar."
+    },
+    {
+      "id": 48,
+      "pergunta": "What does 'rule of thumb' mean?",
+      "opcoes": [
+        "a) a general principle",
+        "b) a thumb",
+        "c) a law",
+        "d) a measurement"
+      ],
+      "correta": 0,
+      "explicacao": "A rule of thumb is a broadly accurate guide based on practice."
+    },
+    {
+      "id": 49,
+      "pergunta": "What does 'steal someone's thunder' mean?",
+      "opcoes": [
+        "a) take attention away",
+        "b) steal something",
+        "c) create thunder",
+        "d) help"
+      ],
+      "correta": 0,
+      "explicacao": "It means to do something that takes attention away from someone else."
+    },
+    {
+      "id": 50,
+      "pergunta": "What does 'the best of both worlds' mean?",
+      "opcoes": [
+        "a) enjoy two different advantages",
+        "b) choose one",
+        "c) compromise",
+        "d) lose"
+      ],
+      "correta": 0,
+      "explicacao": "It means to have the benefits of two different situations."
+    }
+  ]
+}
