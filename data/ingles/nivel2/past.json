@@ -1,1 +1,607 @@
-
+{
+  "materia": "Past Tenses",
+  "nivel": 2,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Complete with the past simple: 'She _____ (go) to the cinema yesterday.'",
+      "opcoes": [
+        "a) goed",
+        "b) went",
+        "c) gone",
+        "d) goes"
+      ],
+      "correta": 1,
+      "explicacao": "'Went' is the past of 'go'."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete: 'I _____ (see) a beautiful bird this morning.'",
+      "opcoes": [
+        "a) seed",
+        "b) saw",
+        "c) see",
+        "d) seen"
+      ],
+      "correta": 1,
+      "explicacao": "'Saw' is past of 'see'."
+    },
+    {
+      "id": 3,
+      "pergunta": "Complete with the negative: 'They _____ (not/come) to the party.'",
+      "opcoes": [
+        "a) didn't come",
+        "b) not came",
+        "c) didn't came",
+        "d) don't come"
+      ],
+      "correta": 0,
+      "explicacao": "Past simple negative: didn't + base verb."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete with the question form: '_____ you _____ (see) John yesterday?'",
+      "opcoes": [
+        "a) Did / see",
+        "b) Were / see",
+        "c) Did / saw",
+        "d) Do / see"
+      ],
+      "correta": 0,
+      "explicacao": "Past simple question: Did + subject + base verb."
+    },
+    {
+      "id": 5,
+      "pergunta": "Choose the correct past continuous: 'I _____ (read) when you called.'",
+      "opcoes": [
+        "a) was reading",
+        "b) were reading",
+        "c) read",
+        "d) was read"
+      ],
+      "correta": 0,
+      "explicacao": "Past continuous: was/were + -ing."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'While they _____ (play), it started to rain.'",
+      "opcoes": [
+        "a) played",
+        "b) were playing",
+        "c) was playing",
+        "d) play"
+      ],
+      "correta": 1,
+      "explicacao": "They were playing (past continuous)."
+    },
+    {
+      "id": 7,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) When I arrived, she left.",
+        "b) When I arrived, she was leaving.",
+        "c) When I arrived, she were leaving.",
+        "d) When I arrived, she leave."
+      ],
+      "correta": 1,
+      "explicacao": "Interrupted action: past continuous."
+    },
+    {
+      "id": 8,
+      "pergunta": "Complete: 'He _____ (break) his leg last week.'",
+      "opcoes": [
+        "a) breaked",
+        "b) broke",
+        "c) broken",
+        "d) break"
+      ],
+      "correta": 1,
+      "explicacao": "Broke is past of break."
+    },
+    {
+      "id": 9,
+      "pergunta": "Complete: 'I _____ (not/sleep) well last night.'",
+      "opcoes": [
+        "a) didn't sleep",
+        "b) not slept",
+        "c) didn't slept",
+        "d) don't sleep"
+      ],
+      "correta": 0,
+      "explicacao": "Past simple negative."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: '_____ you _____ (watch) TV when I called?'",
+      "opcoes": [
+        "a) Did / watch",
+        "b) Were / watching",
+        "c) Was / watching",
+        "d) Did / watched"
+      ],
+      "correta": 1,
+      "explicacao": "Question in past continuous: Were you watching?"
+    },
+    {
+      "id": 11,
+      "pergunta": "Choose the correct past form of 'eat':",
+      "opcoes": [
+        "a) eated",
+        "b) ate",
+        "c) eaten",
+        "d) ated"
+      ],
+      "correta": 1,
+      "explicacao": "Ate is past simple."
+    },
+    {
+      "id": 12,
+      "pergunta": "Complete: 'She _____ (write) a letter to her friend yesterday.'",
+      "opcoes": [
+        "a) writed",
+        "b) wrote",
+        "c) written",
+        "d) write"
+      ],
+      "correta": 1,
+      "explicacao": "Wrote is past of write."
+    },
+    {
+      "id": 13,
+      "pergunta": "Complete: 'We _____ (have) dinner when the phone rang.'",
+      "opcoes": [
+        "a) had",
+        "b) were having",
+        "c) was having",
+        "d) have"
+      ],
+      "correta": 1,
+      "explicacao": "Past continuous for ongoing action."
+    },
+    {
+      "id": 14,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) I didn't went to school yesterday.",
+        "b) I didn't go to school yesterday.",
+        "c) I not went to school yesterday.",
+        "d) I didn't gone to school yesterday."
+      ],
+      "correta": 1,
+      "explicacao": "Past negative: didn't + base."
+    },
+    {
+      "id": 15,
+      "pergunta": "Complete: 'They _____ (buy) a new car last month.'",
+      "opcoes": [
+        "a) buyed",
+        "b) bought",
+        "c) buy",
+        "d) have bought"
+      ],
+      "correta": 1,
+      "explicacao": "Bought is past of buy."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: 'What _____ (you/do) at 8 pm last night?'",
+      "opcoes": [
+        "a) did you do",
+        "b) were you doing",
+        "c) you did",
+        "d) you were doing"
+      ],
+      "correta": 1,
+      "explicacao": "Specific time in the past: past continuous question."
+    },
+    {
+      "id": 17,
+      "pergunta": "Choose the correct past of 'drive':",
+      "opcoes": [
+        "a) drived",
+        "b) drove",
+        "c) driven",
+        "d) drive"
+      ],
+      "correta": 1,
+      "explicacao": "Drove is past."
+    },
+    {
+      "id": 18,
+      "pergunta": "Complete: 'I _____ (meet) him at the party last week.'",
+      "opcoes": [
+        "a) meeted",
+        "b) met",
+        "c) meet",
+        "d) have met"
+      ],
+      "correta": 1,
+      "explicacao": "Met is past of meet."
+    },
+    {
+      "id": 19,
+      "pergunta": "Complete: 'She _____ (not/come) because she was tired.'",
+      "opcoes": [
+        "a) didn't came",
+        "b) didn't come",
+        "c) not come",
+        "d) doesn't come"
+      ],
+      "correta": 1,
+      "explicacao": "Past negative."
+    },
+    {
+      "id": 20,
+      "pergunta": "Complete: 'While I _____ (walk) home, I saw an accident.'",
+      "opcoes": [
+        "a) walked",
+        "b) was walking",
+        "c) were walking",
+        "d) walk"
+      ],
+      "correta": 1,
+      "explicacao": "Past continuous."
+    },
+    {
+      "id": 21,
+      "pergunta": "Choose the correct question: '_____ she _____ (enjoy) the movie?'",
+      "opcoes": [
+        "a) Did / enjoy",
+        "b) Did / enjoyed",
+        "c) Was / enjoy",
+        "d) Were / enjoy"
+      ],
+      "correta": 0,
+      "explicacao": "Past simple question."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'They _____ (live) in London for five years, then moved.'",
+      "opcoes": [
+        "a) lived",
+        "b) were living",
+        "c) have lived",
+        "d) live"
+      ],
+      "correta": 0,
+      "explicacao": "Past simple for completed action."
+    },
+    {
+      "id": 23,
+      "pergunta": "Complete: 'When I _____ (arrive), they _____ (have) dinner.'",
+      "opcoes": [
+        "a) arrived / had",
+        "b) arrived / were having",
+        "c) was arriving / had",
+        "d) were arriving / were having"
+      ],
+      "correta": 1,
+      "explicacao": "Interrupted action: arrived (short) vs were having (ongoing)."
+    },
+    {
+      "id": 24,
+      "pergunta": "Choose the correct past of 'fly':",
+      "opcoes": [
+        "a) flyed",
+        "b) flew",
+        "c) flown",
+        "d) flied"
+      ],
+      "correta": 1,
+      "explicacao": "Flew is past."
+    },
+    {
+      "id": 25,
+      "pergunta": "Complete: 'I _____ (not/hear) the phone because I _____ (sleep).'",
+      "opcoes": [
+        "a) didn't hear / slept",
+        "b) didn't hear / was sleeping",
+        "c) wasn't hear / slept",
+        "d) not heard / sleeping"
+      ],
+      "correta": 1,
+      "explicacao": "Past simple negative + past continuous."
+    },
+    {
+      "id": 26,
+      "pergunta": "Complete: 'What _____ (you/do) last weekend?'",
+      "opcoes": [
+        "a) did you do",
+        "b) were you doing",
+        "c) you did",
+        "d) do you do"
+      ],
+      "correta": 0,
+      "explicacao": "Past simple question for completed actions."
+    },
+    {
+      "id": 27,
+      "pergunta": "Choose the correct past of 'swim':",
+      "opcoes": [
+        "a) swimmed",
+        "b) swam",
+        "c) swum",
+        "d) swim"
+      ],
+      "correta": 1,
+      "explicacao": "Swam is past."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'She _____ (fall) and _____ (hurt) her leg.'",
+      "opcoes": [
+        "a) falled / hurted",
+        "b) fell / hurt",
+        "c) fell / hurted",
+        "d) fall / hurt"
+      ],
+      "correta": 1,
+      "explicacao": "Fell (past of fall), hurt (past of hurt, same form)."
+    },
+    {
+      "id": 29,
+      "pergunta": "Complete: 'While we _____ (travel), we met many interesting people.'",
+      "opcoes": [
+        "a) traveled",
+        "b) were traveling",
+        "c) was traveling",
+        "d) travel"
+      ],
+      "correta": 1,
+      "explicacao": "Past continuous for background."
+    },
+    {
+      "id": 30,
+      "pergunta": "Choose the correct negative in past continuous: 'I _____ (not/sleep) when you called.'",
+      "opcoes": [
+        "a) wasn't sleep",
+        "b) wasn't sleeping",
+        "c) weren't sleeping",
+        "d) didn't sleep"
+      ],
+      "correta": 1,
+      "explicacao": "Past continuous negative: wasn't/weren't + -ing."
+    },
+    {
+      "id": 31,
+      "pergunta": "Complete: 'They _____ (already/leave) when I arrived.'",
+      "opcoes": [
+        "a) already left",
+        "b) had already left",
+        "c) already leave",
+        "d) were already leaving"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect for action before another past action."
+    },
+    {
+      "id": 32,
+      "pergunta": "Choose the correct past perfect form: 'She _____ (finish) her homework before dinner.'",
+      "opcoes": [
+        "a) finished",
+        "b) had finished",
+        "c) has finished",
+        "d) was finishing"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect: had + past participle."
+    },
+    {
+      "id": 33,
+      "pergunta": "Complete: 'I _____ (never/see) such a beautiful sunset before.'",
+      "opcoes": [
+        "a) never saw",
+        "b) had never seen",
+        "c) have never seen",
+        "d) never see"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect for experience before another past time."
+    },
+    {
+      "id": 34,
+      "pergunta": "Choose the correct sentence:",
+      "opcoes": [
+        "a) When we arrived, the movie started.",
+        "b) When we arrived, the movie had started.",
+        "c) When we arrived, the movie have started.",
+        "d) When we arrived, the movie was started."
+      ],
+      "correta": 1,
+      "explicacao": "The movie started before we arrived → past perfect."
+    },
+    {
+      "id": 35,
+      "pergunta": "Complete: 'He _____ (not/eat) anything for two days.' (before he collapsed)",
+      "opcoes": [
+        "a) didn't eat",
+        "b) hadn't eaten",
+        "c) hasn't eaten",
+        "d) wasn't eating"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect for duration before another event."
+    },
+    {
+      "id": 36,
+      "pergunta": "Choose the correct past of 'bring':",
+      "opcoes": [
+        "a) bringed",
+        "b) brought",
+        "c) brang",
+        "d) bring"
+      ],
+      "correta": 1,
+      "explicacao": "Brought is past."
+    },
+    {
+      "id": 37,
+      "pergunta": "Complete: 'They _____ (be) friends for many years before they had a fight.'",
+      "opcoes": [
+        "a) were",
+        "b) had been",
+        "c) have been",
+        "d) are"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect for duration before another past."
+    },
+    {
+      "id": 38,
+      "pergunta": "Complete: 'I _____ (already/eat) when she invited me.'",
+      "opcoes": [
+        "a) already ate",
+        "b) had already eaten",
+        "c) have already eaten",
+        "d) already eat"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect."
+    },
+    {
+      "id": 39,
+      "pergunta": "Choose the correct question in past perfect: '_____ they _____ (finish) before you left?'",
+      "opcoes": [
+        "a) Did / finish",
+        "b) Had / finished",
+        "c) Have / finished",
+        "d) Were / finishing"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect question: Had + subject + past participle."
+    },
+    {
+      "id": 40,
+      "pergunta": "Complete: 'She was tired because she _____ (not/sleep) well.'",
+      "opcoes": [
+        "a) didn't sleep",
+        "b) hadn't slept",
+        "c) hasn't slept",
+        "d) wasn't sleeping"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect for reason."
+    },
+    {
+      "id": 41,
+      "pergunta": "Choose the correct past of 'teach':",
+      "opcoes": [
+        "a) teached",
+        "b) taught",
+        "c) teach",
+        "d) tought"
+      ],
+      "correta": 1,
+      "explicacao": "Taught is past."
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: 'After she _____ (wash) the dishes, she watched TV.'",
+      "opcoes": [
+        "a) washed",
+        "b) had washed",
+        "c) has washed",
+        "d) was washing"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect optional after 'after', but emphasizes completion."
+    },
+    {
+      "id": 43,
+      "pergunta": "Complete: 'I _____ (never/be) to Paris before my trip last year.'",
+      "opcoes": [
+        "a) never was",
+        "b) had never been",
+        "c) have never been",
+        "d) never be"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect."
+    },
+    {
+      "id": 44,
+      "pergunta": "Choose the correct sentence with 'used to':",
+      "opcoes": [
+        "a) I used to play football when I was a child.",
+        "b) I use to play football.",
+        "c) I am used to play football.",
+        "d) I used to playing football."
+      ],
+      "correta": 0,
+      "explicacao": "Used to for past habits."
+    },
+    {
+      "id": 45,
+      "pergunta": "Complete: 'He _____ (smoke) but he quit last year.'",
+      "opcoes": [
+        "a) used to smoke",
+        "b) smoked",
+        "c) was smoking",
+        "d) had smoked"
+      ],
+      "correta": 0,
+      "explicacao": "Used to for past habit no longer true."
+    },
+    {
+      "id": 46,
+      "pergunta": "Choose the correct negative form of 'used to':",
+      "opcoes": [
+        "a) I didn't used to like vegetables.",
+        "b) I didn't use to like vegetables.",
+        "c) I used not to like vegetables.",
+        "d) Both b and c are correct."
+      ],
+      "correta": 3,
+      "explicacao": "Negative: didn't use to or used not to."
+    },
+    {
+      "id": 47,
+      "pergunta": "Complete: 'When I was young, I _____ (be) very shy.'",
+      "opcoes": [
+        "a) used to be",
+        "b) was",
+        "c) would be",
+        "d) all are possible"
+      ],
+      "correta": 3,
+      "explicacao": "All can express past state."
+    },
+    {
+      "id": 48,
+      "pergunta": "Choose the correct option: 'I _____ (meet) her last year.'",
+      "opcoes": [
+        "a) have met",
+        "b) met",
+        "c) was meeting",
+        "d) had met"
+      ],
+      "correta": 1,
+      "explicacao": "Specific past time: past simple."
+    },
+    {
+      "id": 49,
+      "pergunta": "Complete: 'They _____ (wait) for the bus when it started to rain.'",
+      "opcoes": [
+        "a) waited",
+        "b) were waiting",
+        "c) had waited",
+        "d) have waited"
+      ],
+      "correta": 1,
+      "explicacao": "Past continuous."
+    },
+    {
+      "id": 50,
+      "pergunta": "Complete: 'I _____ (already/see) that movie, so I didn't want to see it again.'",
+      "opcoes": [
+        "a) already saw",
+        "b) had already seen",
+        "c) have already seen",
+        "d) already see"
+      ],
+      "correta": 1,
+      "explicacao": "Past perfect for earlier past action."
+    }
+  ]
+}
