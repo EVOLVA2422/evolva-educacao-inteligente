@@ -1,1 +1,607 @@
-
+{
+  "materia": "Phrasal Verbs",
+  "nivel": 3,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "What does 'give up' mean?",
+      "opcoes": [
+        "a) start",
+        "b) continue",
+        "c) stop trying",
+        "d) enjoy"
+      ],
+      "correta": 2,
+      "explicacao": "'Give up' means to stop trying or surrender."
+    },
+    {
+      "id": 2,
+      "pergunta": "Complete: 'I need to _____ up early tomorrow.'",
+      "opcoes": [
+        "a) get",
+        "b) make",
+        "c) take",
+        "d) set"
+      ],
+      "correta": 0,
+      "explicacao": "'Get up' means to rise from bed."
+    },
+    {
+      "id": 3,
+      "pergunta": "What does 'look after' mean?",
+      "opcoes": [
+        "a) ignore",
+        "b) search for",
+        "c) take care of",
+        "d) watch"
+      ],
+      "correta": 2,
+      "explicacao": "'Look after' means to take care of someone or something."
+    },
+    {
+      "id": 4,
+      "pergunta": "Complete: 'She _____ up with a great idea.'",
+      "opcoes": [
+        "a) came",
+        "b) went",
+        "c) took",
+        "d) made"
+      ],
+      "correta": 0,
+      "explicacao": "'Come up with' means to think of or produce an idea."
+    },
+    {
+      "id": 5,
+      "pergunta": "What does 'turn down' mean?",
+      "opcoes": [
+        "a) accept",
+        "b) reject",
+        "c) lower",
+        "d) increase"
+      ],
+      "correta": 1,
+      "explicacao": "'Turn down' can mean to reject an offer, or to lower volume."
+    },
+    {
+      "id": 6,
+      "pergunta": "Complete: 'I'll _____ you at the airport.'",
+      "opcoes": [
+        "a) pick up",
+        "b) pick out",
+        "c) pick on",
+        "d) pick over"
+      ],
+      "correta": 0,
+      "explicacao": "'Pick up' means to collect someone."
+    },
+    {
+      "id": 7,
+      "pergunta": "What does 'run out of' mean?",
+      "opcoes": [
+        "a) have enough",
+        "b) exhaust supply",
+        "c) find",
+        "d) lose"
+      ],
+      "correta": 1,
+      "explicacao": "'Run out of' means to have no more left."
+    },
+    {
+      "id": 8,
+      "pergunta": "Complete: 'He _____ out the truth.'",
+      "opcoes": [
+        "a) found",
+        "b) looked",
+        "c) went",
+        "d) took"
+      ],
+      "correta": 0,
+      "explicacao": "'Find out' means to discover."
+    },
+    {
+      "id": 9,
+      "pergunta": "What does 'put off' mean?",
+      "opcoes": [
+        "a) postpone",
+        "b) cancel",
+        "c) advance",
+        "d) finish"
+      ],
+      "correta": 0,
+      "explicacao": "'Put off' means to delay or postpone."
+    },
+    {
+      "id": 10,
+      "pergunta": "Complete: 'The plane _____ off at 6 am.'",
+      "opcoes": [
+        "a) takes",
+        "b) puts",
+        "c) gets",
+        "d) goes"
+      ],
+      "correta": 0,
+      "explicacao": "'Take off' means to depart (plane) or remove clothing."
+    },
+    {
+      "id": 11,
+      "pergunta": "What does 'get along with' mean?",
+      "opcoes": [
+        "a) argue with",
+        "b) have a good relationship with",
+        "c) avoid",
+        "d) leave"
+      ],
+      "correta": 1,
+      "explicacao": "'Get along with' means to have a friendly relationship."
+    },
+    {
+      "id": 12,
+      "pergunta": "Complete: 'I'm _____ forward to the weekend.'",
+      "opcoes": [
+        "a) looking",
+        "b) seeing",
+        "c) going",
+        "d) coming"
+      ],
+      "correta": 0,
+      "explicacao": "'Look forward to' means to anticipate with pleasure."
+    },
+    {
+      "id": 13,
+      "pergunta": "What does 'break down' mean?",
+      "opcoes": [
+        "a) start working",
+        "b) stop working (machine)",
+        "c) destroy",
+        "d) separate"
+      ],
+      "correta": 1,
+      "explicacao": "'Break down' means to stop functioning (e.g., car)."
+    },
+    {
+      "id": 14,
+      "pergunta": "Complete: 'She _____ up the story to make it interesting.'",
+      "opcoes": [
+        "a) made",
+        "b) took",
+        "c) got",
+        "d) put"
+      ],
+      "correta": 0,
+      "explicacao": "'Make up' means to invent a story or excuse."
+    },
+    {
+      "id": 15,
+      "pergunta": "What does 'call off' mean?",
+      "opcoes": [
+        "a) cancel",
+        "b) postpone",
+        "c) continue",
+        "d) start"
+      ],
+      "correta": 0,
+      "explicacao": "'Call off' means to cancel."
+    },
+    {
+      "id": 16,
+      "pergunta": "Complete: 'He _____ into his old girlfriend at the mall.'",
+      "opcoes": [
+        "a) ran",
+        "b) came",
+        "c) bumped",
+        "d) went"
+      ],
+      "correta": 2,
+      "explicacao": "'Bump into' means to meet unexpectedly."
+    },
+    {
+      "id": 17,
+      "pergunta": "What does 'go on' mean?",
+      "opcoes": [
+        "a) continue",
+        "b) stop",
+        "c) start",
+        "d) leave"
+      ],
+      "correta": 0,
+      "explicacao": "'Go on' means to continue."
+    },
+    {
+      "id": 18,
+      "pergunta": "Complete: 'Please _____ off the lights when you leave.'",
+      "opcoes": [
+        "a) turn",
+        "b) take",
+        "c) get",
+        "d) put"
+      ],
+      "correta": 0,
+      "explicacao": "'Turn off' means to switch off."
+    },
+    {
+      "id": 19,
+      "pergunta": "What does 'set up' mean?",
+      "opcoes": [
+        "a) establish",
+        "b) destroy",
+        "c) remove",
+        "d) find"
+      ],
+      "correta": 0,
+      "explicacao": "'Set up' means to arrange or establish."
+    },
+    {
+      "id": 20,
+      "pergunta": "Complete: 'I need to _____ out a new hobby.'",
+      "opcoes": [
+        "a) try",
+        "b) take",
+        "c) make",
+        "d) go"
+      ],
+      "correta": 0,
+      "explicacao": "'Try out' means to test."
+    },
+    {
+      "id": 21,
+      "pergunta": "What does 'hold on' mean?",
+      "opcoes": [
+        "a) wait",
+        "b) continue",
+        "c) release",
+        "d) grab"
+      ],
+      "correta": 0,
+      "explicacao": "'Hold on' means to wait."
+    },
+    {
+      "id": 22,
+      "pergunta": "Complete: 'She _____ up the truth eventually.'",
+      "opcoes": [
+        "a) faced",
+        "b) took",
+        "c) gave",
+        "d) ended"
+      ],
+      "correta": 0,
+      "explicacao": "'Face up to' means to confront or accept."
+    },
+    {
+      "id": 23,
+      "pergunta": "What does 'carry on' mean?",
+      "opcoes": [
+        "a) continue",
+        "b) stop",
+        "c) carry",
+        "d) transport"
+      ],
+      "correta": 0,
+      "explicacao": "'Carry on' means to continue."
+    },
+    {
+      "id": 24,
+      "pergunta": "Complete: 'He _____ out of money after a week.'",
+      "opcoes": [
+        "a) ran",
+        "b) went",
+        "c) took",
+        "d) got"
+      ],
+      "correta": 0,
+      "explicacao": "'Run out of' means to have no more."
+    },
+    {
+      "id": 25,
+      "pergunta": "What does 'check in' mean?",
+      "opcoes": [
+        "a) arrive and register",
+        "b) leave",
+        "c) pay",
+        "d) confirm"
+      ],
+      "correta": 0,
+      "explicacao": "'Check in' means to register at a hotel or airport."
+    },
+    {
+      "id": 26,
+      "pergunta": "Complete: 'I'll _____ back soon.'",
+      "opcoes": [
+        "a) be",
+        "b) come",
+        "c) get",
+        "d) go"
+      ],
+      "correta": 0,
+      "explicacao": "'Be back' means to return."
+    },
+    {
+      "id": 27,
+      "pergunta": "What does 'figure out' mean?",
+      "opcoes": [
+        "a) calculate",
+        "b) understand",
+        "c) solve",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Figure out' means to understand, solve, or calculate."
+    },
+    {
+      "id": 28,
+      "pergunta": "Complete: 'She _____ up the opportunity.'",
+      "opcoes": [
+        "a) took",
+        "b) gave",
+        "c) made",
+        "d) got"
+      ],
+      "correta": 0,
+      "explicacao": "'Take up' means to start or accept an opportunity."
+    },
+    {
+      "id": 29,
+      "pergunta": "What does 'end up' mean?",
+      "opcoes": [
+        "a) start",
+        "b) finish in a certain way",
+        "c) continue",
+        "d) begin"
+      ],
+      "correta": 1,
+      "explicacao": "'End up' means to finally be in a situation."
+    },
+    {
+      "id": 30,
+      "pergunta": "Complete: 'He _____ off the meeting until Friday.'",
+      "opcoes": [
+        "a) put",
+        "b) took",
+        "c) got",
+        "d) made"
+      ],
+      "correta": 0,
+      "explicacao": "'Put off' means to postpone."
+    },
+    {
+      "id": 31,
+      "pergunta": "What does 'go through' mean?",
+      "opcoes": [
+        "a) experience",
+        "b) examine",
+        "c) both",
+        "d) avoid"
+      ],
+      "correta": 2,
+      "explicacao": "'Go through' can mean to experience or to examine."
+    },
+    {
+      "id": 32,
+      "pergunta": "Complete: 'I need to _____ over my notes before the test.'",
+      "opcoes": [
+        "a) go",
+        "b) look",
+        "c) take",
+        "d) get"
+      ],
+      "correta": 0,
+      "explicacao": "'Go over' means to review."
+    },
+    {
+      "id": 33,
+      "pergunta": "What does 'bring up' mean?",
+      "opcoes": [
+        "a) raise a topic",
+        "b) lower",
+        "c) remove",
+        "d) forget"
+      ],
+      "correta": 0,
+      "explicacao": "'Bring up' means to introduce a topic."
+    },
+    {
+      "id": 34,
+      "pergunta": "Complete: 'She _____ up in a small town.'",
+      "opcoes": [
+        "a) grew",
+        "b) took",
+        "c) made",
+        "d) got"
+      ],
+      "correta": 0,
+      "explicacao": "'Grow up' means to spend childhood."
+    },
+    {
+      "id": 35,
+      "pergunta": "What does 'show up' mean?",
+      "opcoes": [
+        "a) appear",
+        "b) disappear",
+        "c) hide",
+        "d) leave"
+      ],
+      "correta": 0,
+      "explicacao": "'Show up' means to arrive or appear."
+    },
+    {
+      "id": 36,
+      "pergunta": "Complete: 'He _____ out to be a great leader.'",
+      "opcoes": [
+        "a) turned",
+        "b) took",
+        "c) made",
+        "d) got"
+      ],
+      "correta": 0,
+      "explicacao": "'Turn out' means to result or prove to be."
+    },
+    {
+      "id": 37,
+      "pergunta": "What does 'cut down on' mean?",
+      "opcoes": [
+        "a) increase",
+        "b) reduce",
+        "c) eliminate",
+        "d) add"
+      ],
+      "correta": 1,
+      "explicacao": "'Cut down on' means to reduce consumption."
+    },
+    {
+      "id": 38,
+      "pergunta": "Complete: 'She _____ away from home for years.'",
+      "opcoes": [
+        "a) stayed",
+        "b) lived",
+        "c) was",
+        "d) kept"
+      ],
+      "correta": 2,
+      "explicacao": "Here 'be away' means to be absent. But phrasal? 'Be away' is common."
+    },
+    {
+      "id": 39,
+      "pergunta": "What does 'keep up with' mean?",
+      "opcoes": [
+        "a) maintain the same pace",
+        "b) fall behind",
+        "c) ignore",
+        "d) lose"
+      ],
+      "correta": 0,
+      "explicacao": "'Keep up with' means to stay at the same level."
+    },
+    {
+      "id": 40,
+      "pergunta": "Complete: 'He _____ into trouble for being late.'",
+      "opcoes": [
+        "a) got",
+        "b) ran",
+        "c) went",
+        "d) fell"
+      ],
+      "correta": 0,
+      "explicacao": "'Get into trouble' means to become involved in trouble."
+    },
+    {
+      "id": 41,
+      "pergunta": "What does 'drop off' mean?",
+      "opcoes": [
+        "a) leave someone somewhere",
+        "b) fall asleep",
+        "c) decrease",
+        "d) all of the above"
+      ],
+      "correta": 3,
+      "explicacao": "'Drop off' has multiple meanings."
+    },
+    {
+      "id": 42,
+      "pergunta": "Complete: 'I'll _____ you off at the station.'",
+      "opcoes": [
+        "a) drop",
+        "b) take",
+        "c) get",
+        "d) put"
+      ],
+      "correta": 0,
+      "explicacao": "'Drop off' means to give a ride to."
+    },
+    {
+      "id": 43,
+      "pergunta": "What does 'fall through' mean?",
+      "opcoes": [
+        "a) succeed",
+        "b) fail to happen",
+        "c) continue",
+        "d) improve"
+      ],
+      "correta": 1,
+      "explicacao": "'Fall through' means to fail or not happen."
+    },
+    {
+      "id": 44,
+      "pergunta": "Complete: 'We need to _____ a date for the meeting.'",
+      "opcoes": [
+        "a) set",
+        "b) put",
+        "c) take",
+        "d) make"
+      ],
+      "correta": 0,
+      "explicacao": "'Set a date' is not a phrasal verb but a collocation. 'Set up' would be phrasal. But 'set' alone is fine."
+    },
+    {
+      "id": 45,
+      "pergunta": "What does 'live up to' mean?",
+      "opcoes": [
+        "a) meet expectations",
+        "b) exceed",
+        "c) disappoint",
+        "d) ignore"
+      ],
+      "correta": 0,
+      "explicacao": "'Live up to' means to fulfill expectations."
+    },
+    {
+      "id": 46,
+      "pergunta": "Complete: 'He _____ back on his promise.'",
+      "opcoes": [
+        "a) went",
+        "b) came",
+        "c) took",
+        "d) got"
+      ],
+      "correta": 0,
+      "explicacao": "'Go back on' means to break a promise."
+    },
+    {
+      "id": 47,
+      "pergunta": "What does 'look down on' mean?",
+      "opcoes": [
+        "a) respect",
+        "b) despise",
+        "c) admire",
+        "d) ignore"
+      ],
+      "correta": 1,
+      "explicacao": "'Look down on' means to consider inferior."
+    },
+    {
+      "id": 48,
+      "pergunta": "Complete: 'I'm _____ for a new job.'",
+      "opcoes": [
+        "a) looking",
+        "b) seeing",
+        "c) searching",
+        "d) finding"
+      ],
+      "correta": 0,
+      "explicacao": "'Look for' means to search."
+    },
+    {
+      "id": 49,
+      "pergunta": "What does 'put up with' mean?",
+      "opcoes": [
+        "a) tolerate",
+        "b) enjoy",
+        "c) reject",
+        "d) accept"
+      ],
+      "correta": 0,
+      "explicacao": "'Put up with' means to tolerate."
+    },
+    {
+      "id": 50,
+      "pergunta": "Complete: 'She _____ up the mess.'",
+      "opcoes": [
+        "a) cleaned",
+        "b) took",
+        "c) made",
+        "d) got"
+      ],
+      "correta": 0,
+      "explicacao": "'Clean up' means to tidy."
+    }
+  ]
+}
