@@ -1,1 +1,367 @@
-
+{
+  "materia": "Sistema Decimal",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Quantas unidades tem o número 123?",
+      "opcoes": [
+        "a) 1",
+        "b) 2",
+        "c) 3",
+        "d) 4"
+      ],
+      "correta": 2,
+      "explicacao": "O algarismo das unidades é 3."
+    },
+    {
+      "id": 2,
+      "pergunta": "Quantas dezenas tem o número 345?",
+      "opcoes": [
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) 34"
+      ],
+      "correta": 1,
+      "explicacao": "O algarismo das dezenas é 4 (vale 40)."
+    },
+    {
+      "id": 3,
+      "pergunta": "Quantas centenas tem o número 678?",
+      "opcoes": [
+        "a) 6",
+        "b) 7",
+        "c) 8",
+        "d) 67"
+      ],
+      "correta": 0,
+      "explicacao": "O algarismo das centenas é 6 (vale 600)."
+    },
+    {
+      "id": 4,
+      "pergunta": "O valor posicional do algarismo 5 no número 253 é:",
+      "opcoes": [
+        "a) 5",
+        "b) 50",
+        "c) 500",
+        "d) 5.000"
+      ],
+      "correta": 1,
+      "explicacao": "O 5 está na casa das dezenas: vale 50."
+    },
+    {
+      "id": 5,
+      "pergunta": "O valor posicional do algarismo 7 no número 872 é:",
+      "opcoes": [
+        "a) 7",
+        "b) 70",
+        "c) 700",
+        "d) 7.000"
+      ],
+      "correta": 1,
+      "explicacao": "O 7 está na casa das dezenas: vale 70."
+    },
+    {
+      "id": 6,
+      "pergunta": "O valor posicional do algarismo 2 no número 2.345 é:",
+      "opcoes": [
+        "a) 2",
+        "b) 20",
+        "c) 200",
+        "d) 2.000"
+      ],
+      "correta": 3,
+      "explicacao": "O 2 está na casa dos milhares: vale 2.000."
+    },
+    {
+      "id": 7,
+      "pergunta": "Quantas centenas tem o número 1.234?",
+      "opcoes": [
+        "a) 1",
+        "b) 2",
+        "c) 12",
+        "d) 123"
+      ],
+      "correta": 1,
+      "explicacao": "O algarismo das centenas é 2 (vale 200)."
+    },
+    {
+      "id": 8,
+      "pergunta": "O número 357 pode ser decomposto como:",
+      "opcoes": [
+        "a) 300 + 50 + 7",
+        "b) 30 + 50 + 7",
+        "c) 300 + 5 + 7",
+        "d) 3 + 5 + 7"
+      ],
+      "correta": 0,
+      "explicacao": "357 = 300 + 50 + 7."
+    },
+    {
+      "id": 9,
+      "pergunta": "O número 4.208 pode ser decomposto como:",
+      "opcoes": [
+        "a) 4.000 + 200 + 8",
+        "b) 4.000 + 20 + 8",
+        "c) 4.000 + 200 + 80",
+        "d) 400 + 200 + 8"
+      ],
+      "correta": 0,
+      "explicacao": "4.208 = 4.000 + 200 + 8."
+    },
+    {
+      "id": 10,
+      "pergunta": "Quantas unidades há em 3 centenas?",
+      "opcoes": [
+        "a) 3",
+        "b) 30",
+        "c) 300",
+        "d) 3.000"
+      ],
+      "correta": 2,
+      "explicacao": "3 centenas = 300 unidades."
+    },
+    {
+      "id": 11,
+      "pergunta": "Quantas unidades há em 5 dezenas?",
+      "opcoes": [
+        "a) 5",
+        "b) 50",
+        "c) 500",
+        "d) 5.000"
+      ],
+      "correta": 1,
+      "explicacao": "5 dezenas = 50 unidades."
+    },
+    {
+      "id": 12,
+      "pergunta": "Quantas dezenas há em 200 unidades?",
+      "opcoes": [
+        "a) 2",
+        "b) 20",
+        "c) 200",
+        "d) 2.000"
+      ],
+      "correta": 1,
+      "explicacao": "200 ÷ 10 = 20 dezenas."
+    },
+    {
+      "id": 13,
+      "pergunta": "Quantas centenas há em 1.000 unidades?",
+      "opcoes": [
+        "a) 1",
+        "b) 10",
+        "c) 100",
+        "d) 1.000"
+      ],
+      "correta": 1,
+      "explicacao": "1.000 ÷ 100 = 10 centenas."
+    },
+    {
+      "id": 14,
+      "pergunta": "O número 7.890 tem quantas unidades de milhar?",
+      "opcoes": [
+        "a) 7",
+        "b) 78",
+        "c) 789",
+        "d) 7.890"
+      ],
+      "correta": 0,
+      "explicacao": "O algarismo 7 está na casa dos milhares: 7 unidades de milhar."
+    },
+    {
+      "id": 15,
+      "pergunta": "Qual é o valor do algarismo 9 no número 9.876?",
+      "opcoes": [
+        "a) 9",
+        "b) 90",
+        "c) 900",
+        "d) 9.000"
+      ],
+      "correta": 3,
+      "explicacao": "9 está na casa dos milhares: vale 9.000."
+    },
+    {
+      "id": 16,
+      "pergunta": "Como se escreve 3.405 por extenso?",
+      "opcoes": [
+        "a) três mil, quatrocentos e cinco",
+        "b) três mil e quarenta e cinco",
+        "c) três mil, quatrocentos e cinquenta",
+        "d) três mil e quatrocentos e cinco"
+      ],
+      "correta": 0,
+      "explicacao": "3.405 = três mil, quatrocentos e cinco."
+    },
+    {
+      "id": 17,
+      "pergunta": "Como se escreve 2.030 por extenso?",
+      "opcoes": [
+        "a) dois mil e trinta",
+        "b) dois mil e três",
+        "c) dois mil e trezentos",
+        "d) dois mil e trinta e zero"
+      ],
+      "correta": 0,
+      "explicacao": "2.030 = dois mil e trinta."
+    },
+    {
+      "id": 18,
+      "pergunta": "Quantas dezenas há em 1.000?",
+      "opcoes": [
+        "a) 10",
+        "b) 100",
+        "c) 1.000",
+        "d) 10.000"
+      ],
+      "correta": 1,
+      "explicacao": "1.000 ÷ 10 = 100 dezenas."
+    },
+    {
+      "id": 19,
+      "pergunta": "Quantas centenas há em 10.000?",
+      "opcoes": [
+        "a) 10",
+        "b) 100",
+        "c) 1.000",
+        "d) 10.000"
+      ],
+      "correta": 1,
+      "explicacao": "10.000 ÷ 100 = 100 centenas."
+    },
+    {
+      "id": 20,
+      "pergunta": "O número 5.678 tem quantas dezenas?",
+      "opcoes": [
+        "a) 5",
+        "b) 7",
+        "c) 567",
+        "d) 567,8"
+      ],
+      "correta": 2,
+      "explicacao": "5.678 ÷ 10 = 567,8 → 567 dezenas completas."
+    },
+    {
+      "id": 21,
+      "pergunta": "O número 2.345 tem quantas centenas?",
+      "opcoes": [
+        "a) 2",
+        "b) 3",
+        "c) 23",
+        "d) 234"
+      ],
+      "correta": 2,
+      "explicacao": "2.345 ÷ 100 = 23,45 → 23 centenas completas."
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual é a ordem do algarismo 4 no número 4.321?",
+      "opcoes": [
+        "a) unidades",
+        "b) dezenas",
+        "c) centenas",
+        "d) unidades de milhar"
+      ],
+      "correta": 3,
+      "explicacao": "O 4 está na casa dos milhares."
+    },
+    {
+      "id": 23,
+      "pergunta": "Qual é a ordem do algarismo 8 no número 1.876?",
+      "opcoes": [
+        "a) unidades",
+        "b) dezenas",
+        "c) centenas",
+        "d) unidades de milhar"
+      ],
+      "correta": 1,
+      "explicacao": "O 8 está na casa das dezenas."
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual é o valor de 5 centenas + 3 dezenas + 2 unidades?",
+      "opcoes": [
+        "a) 532",
+        "b) 523",
+        "c) 352",
+        "d) 253"
+      ],
+      "correta": 0,
+      "explicacao": "500 + 30 + 2 = 532."
+    },
+    {
+      "id": 25,
+      "pergunta": "Qual é o valor de 2 milhares + 4 centenas + 5 unidades?",
+      "opcoes": [
+        "a) 2.450",
+        "b) 2.405",
+        "c) 2.045",
+        "d) 2.504"
+      ],
+      "correta": 1,
+      "explicacao": "2.000 + 400 + 5 = 2.405."
+    },
+    {
+      "id": 26,
+      "pergunta": "Quantas unidades há em 4 centenas e 2 dezenas?",
+      "opcoes": [
+        "a) 42",
+        "b) 420",
+        "c) 402",
+        "d) 4.200"
+      ],
+      "correta": 1,
+      "explicacao": "400 + 20 = 420."
+    },
+    {
+      "id": 27,
+      "pergunta": "Quantas dezenas há em 2 centenas e 5 dezenas?",
+      "opcoes": [
+        "a) 25",
+        "b) 250",
+        "c) 2.050",
+        "d) 2.500"
+      ],
+      "correta": 0,
+      "explicacao": "2 centenas = 200 unidades = 20 dezenas; + 5 dezenas = 25 dezenas."
+    },
+    {
+      "id": 28,
+      "pergunta": "O número 6.789 pode ser decomposto como:",
+      "opcoes": [
+        "a) 6.000 + 700 + 80 + 9",
+        "b) 6.000 + 700 + 8 + 9",
+        "c) 600 + 70 + 80 + 9",
+        "d) 6.000 + 70 + 80 + 9"
+      ],
+      "correta": 0,
+      "explicacao": "6.789 = 6.000 + 700 + 80 + 9."
+    },
+    {
+      "id": 29,
+      "pergunta": "Qual é o valor de 7 dezenas de milhar?",
+      "opcoes": [
+        "a) 70",
+        "b) 700",
+        "c) 7.000",
+        "d) 70.000"
+      ],
+      "correta": 3,
+      "explicacao": "7 dezenas de milhar = 7 × 10.000 = 70.000."
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual é o valor de 3 centenas de milhar?",
+      "opcoes": [
+        "a) 3.000",
+        "b) 30.000",
+        "c) 300.000",
+        "d) 3.000.000"
+      ],
+      "correta": 2,
+      "explicacao": "3 centenas de milhar = 3 × 100.000 = 300.000."
+    }
+  ]
+}
