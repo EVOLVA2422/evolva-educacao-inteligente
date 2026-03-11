@@ -1,1 +1,367 @@
-
+{
+  "materia": "Semântica (Polissemia, Homonímia, Paronímia)",
+  "nivel": 4,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "A palavra 'manga' pode significar fruta ou parte da camisa. Isso é um caso de:",
+      "opcoes": [
+        "a) polissemia",
+        "b) homonímia",
+        "c) paronímia",
+        "d) sinonímia"
+      ],
+      "correta": 0,
+      "explicacao": "Polissemia: uma palavra com vários significados relacionados."
+    },
+    {
+      "id": 2,
+      "pergunta": "Assinale o par de palavras homófonas:",
+      "opcoes": [
+        "a) conserto (reparo) / concerto (espetáculo)",
+        "b) cavaleiro (cavaleiro) / cavalheiro (cavalheiro)",
+        "c) incipiente (iniciante) / insipiente (ignorante)",
+        "d) todas as acima"
+      ],
+      "correta": 0,
+      "explicacao": "'conserto' e 'concerto' têm pronúncia igual, mas grafia diferente."
+    },
+    {
+      "id": 3,
+      "pergunta": "As palavras 'cela' (prisão) e 'sela' (montaria) são:",
+      "opcoes": [
+        "a) homógrafas",
+        "b) homófonas",
+        "c) parônimas",
+        "d) sinônimas"
+      ],
+      "correta": 1,
+      "explicacao": "Homófonas: som igual, grafia diferente."
+    },
+    {
+      "id": 4,
+      "pergunta": "'Inflação' e 'infração' são palavras:",
+      "opcoes": [
+        "a) homônimas",
+        "b) parônimas",
+        "c) sinônimas",
+        "d) antônimas"
+      ],
+      "correta": 1,
+      "explicacao": "Parônimas: parecidas na grafia/pronúncia, mas diferentes."
+    },
+    {
+      "id": 5,
+      "pergunta": "Em 'Ele comprou uma pena' (punição ou pluma), temos:",
+      "opcoes": [
+        "a) polissemia",
+        "b) homonímia",
+        "c) paronímia",
+        "d) ambiguidade"
+      ],
+      "correta": 0,
+      "explicacao": "Pena tem vários sentidos (punição, pluma, dó)."
+    },
+    {
+      "id": 6,
+      "pergunta": "Assinale a opção com palavras homógrafas:",
+      "opcoes": [
+        "a) gosto (sabor) / gosto (verbo gostar)",
+        "b) acento (sinal) / assento (lugar)",
+        "c) cheque (ordem de pagamento) / xeque (no xadrez)",
+        "d) sessão (reunião) / seção (divisão)"
+      ],
+      "correta": 0,
+      "explicacao": "Homógrafas: mesma grafia, pronúncia diferente (ou igual, mas aqui são homônimas perfeitas)."
+    },
+    {
+      "id": 7,
+      "pergunta": "'Emergir' (vir à tona) e 'imergir' (mergulhar) são:",
+      "opcoes": [
+        "a) homônimas",
+        "b) parônimas",
+        "c) sinônimas",
+        "d) antônimas"
+      ],
+      "correta": 1,
+      "explicacao": "Parônimas: parecidas, mas com significados opostos."
+    },
+    {
+      "id": 8,
+      "pergunta": "A frase 'Ela foi ao banco' é ambígua devido a:",
+      "opcoes": [
+        "a) polissemia",
+        "b) homonímia",
+        "c) paronímia",
+        "d) ironia"
+      ],
+      "correta": 1,
+      "explicacao": "Banco (instituição) e banco (assento) são homônimos."
+    },
+    {
+      "id": 9,
+      "pergunta": "Assinale o par de antônimos:",
+      "opcoes": [
+        "a) claro/escuro",
+        "b) início/começo",
+        "c) rápido/veloz",
+        "d) casa/lar"
+      ],
+      "correta": 0,
+      "explicacao": "Antônimos: significados opostos."
+    },
+    {
+      "id": 10,
+      "pergunta": "Sinônimos são palavras com:",
+      "opcoes": [
+        "a) significados opostos",
+        "b) significados iguais ou semelhantes",
+        "c) sons iguais",
+        "d) grafia parecida"
+      ],
+      "correta": 1,
+      "explicacao": "Sinônimos: significados aproximados."
+    },
+    {
+      "id": 11,
+      "pergunta": "As palavras 'acender' e 'ascender' são:",
+      "opcoes": [
+        "a) homônimas",
+        "b) parônimas",
+        "c) sinônimas",
+        "d) antônimas"
+      ],
+      "correta": 1,
+      "explicacao": "Parônimas: acender (atear fogo) e ascender (subir)."
+    },
+    {
+      "id": 12,
+      "pergunta": "'Há' e 'a' são exemplos de:",
+      "opcoes": [
+        "a) homófonas",
+        "b) homógrafas",
+        "c) parônimas",
+        "d) sinônimas"
+      ],
+      "correta": 0,
+      "explicacao": "Homófonas: som igual, grafia diferente."
+    },
+    {
+      "id": 13,
+      "pergunta": "Em 'O canto do pássaro' e 'O canto da sala', a palavra 'canto' é:",
+      "opcoes": [
+        "a) homônima",
+        "b) polissêmica",
+        "c) parônima",
+        "d) ambígua"
+      ],
+      "correta": 1,
+      "explicacao": "Polissemia: mesmo termo com sentidos relacionados (canto = ação de cantar / parte de um lugar)."
+    },
+    {
+      "id": 14,
+      "pergunta": "Assinale a opção com palavras homônimas perfeitas:",
+      "opcoes": [
+        "a) são (sadio) / são (verbo ser)",
+        "b) são (sadio) / são (verbo ser) / são (santo)",
+        "c) sede (vontade de beber) / sede (local)",
+        "d) todas as acima"
+      ],
+      "correta": 3,
+      "explicacao": "Homônimos perfeitos: mesma grafia e pronúncia, significados diferentes."
+    },
+    {
+      "id": 15,
+      "pergunta": "As palavras 'descrição' (ato de descrever) e 'discrição' (qualidade de discreto) são:",
+      "opcoes": [
+        "a) homônimas",
+        "b) parônimas",
+        "c) sinônimas",
+        "d) antônimas"
+      ],
+      "correta": 1,
+      "explicacao": "Parônimas: parecidas, mas diferentes."
+    },
+    {
+      "id": 16,
+      "pergunta": "'Comprimento' (tamanho) e 'cumprimento' (saudação) são:",
+      "opcoes": [
+        "a) homófonas",
+        "b) homógrafas",
+        "c) parônimas",
+        "d) sinônimas"
+      ],
+      "correta": 2,
+      "explicacao": "Parônimas: semelhança, mas não homófonas (pronúncia diferente)."
+    },
+    {
+      "id": 17,
+      "pergunta": "A frase 'Ele apagou a luz' tem sentido:",
+      "opcoes": [
+        "a) denotativo",
+        "b) conotativo",
+        "c) figurado",
+        "d) metafórico"
+      ],
+      "correta": 0,
+      "explicacao": "Denotação: sentido literal, real."
+    },
+    {
+      "id": 18,
+      "pergunta": "Em 'Ele tem um coração de pedra', temos:",
+      "opcoes": [
+        "a) denotação",
+        "b) conotação",
+        "c) literal",
+        "d) próprio"
+      ],
+      "correta": 1,
+      "explicacao": "Conotação: sentido figurado."
+    },
+    {
+      "id": 19,
+      "pergunta": "A palavra 'velho' pode significar 'idoso' ou 'amigo' em 'meu velho'. Isso é:",
+      "opcoes": [
+        "a) polissemia",
+        "b) homonímia",
+        "c) paronímia",
+        "d) antonímia"
+      ],
+      "correta": 0,
+      "explicacao": "Polissemia: vários sentidos."
+    },
+    {
+      "id": 20,
+      "pergunta": "Assinale a opção em que a palavra tem sentido denotativo:",
+      "opcoes": [
+        "a) O céu está cinzento.",
+        "b) Ele tem um coração de ouro.",
+        "c) Ela é uma flor.",
+        "d) Aquele homem é um touro."
+      ],
+      "correta": 0,
+      "explicacao": "Literal: céu cinzento (cor real)."
+    },
+    {
+      "id": 21,
+      "pergunta": "'Amanheceu' na frase 'Amanheceu um novo dia' é:",
+      "opcoes": [
+        "a) denotativo",
+        "b) conotativo",
+        "c) figurado",
+        "d) abstrato"
+      ],
+      "correta": 0,
+      "explicacao": "Sentido literal de amanhecer."
+    },
+    {
+      "id": 22,
+      "pergunta": "Em 'Ele é um gato', a palavra 'gato' está em sentido:",
+      "opcoes": [
+        "a) denotativo",
+        "b) conotativo",
+        "c) próprio",
+        "d) literal"
+      ],
+      "correta": 1,
+      "explicacao": "Conotativo: bonito, charmoso."
+    },
+    {
+      "id": 23,
+      "pergunta": "As palavras 'estrato' (camada) e 'extrato' (parte de um todo) são:",
+      "opcoes": [
+        "a) homônimas",
+        "b) parônimas",
+        "c) sinônimas",
+        "d) antônimas"
+      ],
+      "correta": 1,
+      "explicacao": "Parônimas: parecidas, mas diferentes."
+    },
+    {
+      "id": 24,
+      "pergunta": "Assinale a opção com homônimos perfeitos:",
+      "opcoes": [
+        "a) cura (verbo) / cura (substantivo)",
+        "b) molho (caldo) / molho (verbo molhar)",
+        "c) apoio (suporte) / apoio (verbo apoiar)",
+        "d) todas as acima"
+      ],
+      "correta": 3,
+      "explicacao": "Todas têm a mesma grafia e pronúncia, mas significados diferentes."
+    },
+    {
+      "id": 25,
+      "pergunta": "'Cessão' (ato de ceder) e 'sessão' (reunião) são:",
+      "opcoes": [
+        "a) homófonas",
+        "b) homógrafas",
+        "c) parônimas",
+        "d) sinônimas"
+      ],
+      "correta": 0,
+      "explicacao": "Homófonas: som igual, grafia diferente."
+    },
+    {
+      "id": 26,
+      "pergunta": "A expressão 'boca do estômago' é um exemplo de:",
+      "opcoes": [
+        "a) denotação",
+        "b) conotação",
+        "c) homonímia",
+        "d) paronímia"
+      ],
+      "correta": 1,
+      "explicacao": "Sentido figurado (conotação)."
+    },
+    {
+      "id": 27,
+      "pergunta": "Na frase 'O banco está cheio', há ambiguidade entre:",
+      "opcoes": [
+        "a) banco (assento) e banco (instituição)",
+        "b) banco (assento) e banco (verbo)",
+        "c) banco (financeiro) e banco (de dados)",
+        "d) todas"
+      ],
+      "correta": 0,
+      "explicacao": "Homônimos: banco (assento) e banco (instituição)."
+    },
+    {
+      "id": 28,
+      "pergunta": "As palavras 'soar' (emitir som) e 'suar' (transpirar) são:",
+      "opcoes": [
+        "a) homófonas",
+        "b) homógrafas",
+        "c) parônimas",
+        "d) sinônimas"
+      ],
+      "correta": 2,
+      "explicacao": "Parônimas: parecidas, mas pronúncia diferente (sôar / suár)."
+    },
+    {
+      "id": 29,
+      "pergunta": "'Ele pegou a pena' (punição) e 'Ele pegou a pena' (pluma) são exemplos de:",
+      "opcoes": [
+        "a) polissemia",
+        "b) homonímia",
+        "c) ambiguidade",
+        "d) todas"
+      ],
+      "correta": 2,
+      "explicacao": "Ambiguidade causada por homonímia/polissemia."
+    },
+    {
+      "id": 30,
+      "pergunta": "Assinale a alternativa com palavras antônimas:",
+      "opcoes": [
+        "a) bondade/maldade",
+        "b) início/começo",
+        "c) rápido/veloz",
+        "d) casa/lar"
+      ],
+      "correta": 0,
+      "explicacao": "Antônimos: opostos."
+    }
+  ]
+}
