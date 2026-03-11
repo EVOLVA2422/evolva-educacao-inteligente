@@ -1,1 +1,367 @@
-
+{
+  "materia": "Formação de Palavras",
+  "nivel": 2,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "A palavra 'infeliz' é formada por:",
+      "opcoes": [
+        "a) derivação prefixal",
+        "b) derivação sufixal",
+        "c) derivação parassintética",
+        "d) composição"
+      ],
+      "correta": 0,
+      "explicacao": "Acréscimo do prefixo 'in-'."
+    },
+    {
+      "id": 2,
+      "pergunta": "Em 'felizmente', temos:",
+      "opcoes": [
+        "a) derivação prefixal",
+        "b) derivação sufixal",
+        "c) composição",
+        "d) derivação regressiva"
+      ],
+      "correta": 1,
+      "explicacao": "Sufixo '-mente'."
+    },
+    {
+      "id": 3,
+      "pergunta": "A palavra 'aguardente' resulta de:",
+      "opcoes": [
+        "a) justaposição",
+        "b) aglutinação",
+        "c) derivação",
+        "d) onomatopeia"
+      ],
+      "correta": 1,
+      "explicacao": "água + ardente -> aguardente (perda do 'a')."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual é o processo de formação de 'passatempo'?",
+      "opcoes": [
+        "a) aglutinação",
+        "b) justaposição",
+        "c) derivação",
+        "d) prefixação"
+      ],
+      "correta": 1,
+      "explicacao": "passa + tempo, sem perda de elementos."
+    },
+    {
+      "id": 5,
+      "pergunta": "A palavra 'envernizar' é formada por:",
+      "opcoes": [
+        "a) prefixação",
+        "b) sufixação",
+        "c) parassíntese",
+        "d) composição"
+      ],
+      "correta": 2,
+      "explicacao": "en- + verniz + -ar (prefixo e sufixo simultâneos)."
+    },
+    {
+      "id": 6,
+      "pergunta": "Em 'deslealdade', temos:",
+      "opcoes": [
+        "a) apenas prefixo",
+        "b) apenas sufixo",
+        "c) prefixo e sufixo",
+        "d) composição"
+      ],
+      "correta": 2,
+      "explicacao": "des- (prefixo) + leal + -dade (sufixo)."
+    },
+    {
+      "id": 7,
+      "pergunta": "A palavra 'porta-retratos' é formada por:",
+      "opcoes": [
+        "a) aglutinação",
+        "b) justaposição",
+        "c) derivação",
+        "d) onomatopeia"
+      ],
+      "correta": 1,
+      "explicacao": "Composição por justaposição."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual palavra é formada por derivação regressiva?",
+      "opcoes": [
+        "a) pesca (de pescar)",
+        "b) pedreiro",
+        "c) infeliz",
+        "d) guarda-chuva"
+      ],
+      "correta": 0,
+      "explicacao": "'pesca' vem de 'pescar' por redução."
+    },
+    {
+      "id": 9,
+      "pergunta": "Em 'anoitecer', o processo é:",
+      "opcoes": [
+        "a) prefixação",
+        "b) sufixação",
+        "c) parassíntese",
+        "d) composição"
+      ],
+      "correta": 2,
+      "explicacao": "a- + noite + -ecer (prefixo e sufixo simultâneos)."
+    },
+    {
+      "id": 10,
+      "pergunta": "A palavra 'planalto' é formada por:",
+      "opcoes": [
+        "a) justaposição",
+        "b) aglutinação",
+        "c) derivação",
+        "d) prefixação"
+      ],
+      "correta": 1,
+      "explicacao": "plano + alto -> planalto (perda do 'o' e do 'a')."
+    },
+    {
+      "id": 11,
+      "pergunta": "Qual palavra é uma onomatopeia?",
+      "opcoes": [
+        "a) zunido",
+        "b) tique-taque",
+        "c) risada",
+        "d) grito"
+      ],
+      "correta": 1,
+      "explicacao": "'tique-taque' imita som de relógio."
+    },
+    {
+      "id": 12,
+      "pergunta": "Em 'o jantar' (substantivo), a palavra 'jantar' sofreu:",
+      "opcoes": [
+        "a) derivação prefixal",
+        "b) derivação sufixal",
+        "c) derivação imprópria",
+        "d) composição"
+      ],
+      "correta": 2,
+      "explicacao": "Mudança de classe gramatical (verbo -> substantivo)."
+    },
+    {
+      "id": 13,
+      "pergunta": "A palavra 'embora' vem de 'em boa hora'. É um caso de:",
+      "opcoes": [
+        "a) justaposição",
+        "b) aglutinação",
+        "c) derivação",
+        "d) abreviação"
+      ],
+      "correta": 1,
+      "explicacao": "Aglutinação de palavras."
+    },
+    {
+      "id": 14,
+      "pergunta": "Qual é o processo de 'fogão' (derivado de fogo)?",
+      "opcoes": [
+        "a) prefixação",
+        "b) sufixação",
+        "c) derivação regressiva",
+        "d) parassíntese"
+      ],
+      "correta": 1,
+      "explicacao": "Sufixo '-ão'."
+    },
+    {
+      "id": 15,
+      "pergunta": "A palavra 'desfazer' é formada por:",
+      "opcoes": [
+        "a) prefixação",
+        "b) sufixação",
+        "c) parassíntese",
+        "d) composição"
+      ],
+      "correta": 0,
+      "explicacao": "Prefixação com 'des-'."
+    },
+    {
+      "id": 16,
+      "pergunta": "Em 'pé-de-moleque', temos:",
+      "opcoes": [
+        "a) aglutinação",
+        "b) justaposição com hífen",
+        "c) derivação",
+        "d) onomatopeia"
+      ],
+      "correta": 1,
+      "explicacao": "Composição por justaposição com hífen."
+    },
+    {
+      "id": 17,
+      "pergunta": "A palavra 'café' é um exemplo de:",
+      "opcoes": [
+        "a) palavra primitiva",
+        "b) palavra derivada",
+        "c) composta",
+        "d) onomatopeia"
+      ],
+      "correta": 0,
+      "explicacao": "'café' é primitiva, pode originar 'cafezal', 'cafeteira'."
+    },
+    {
+      "id": 18,
+      "pergunta": "Qual é a derivação em 'pedreira'?",
+      "opcoes": [
+        "a) prefixal",
+        "b) sufixal",
+        "c) regressiva",
+        "d) parassintética"
+      ],
+      "correta": 1,
+      "explicacao": "pedr- + -eira."
+    },
+    {
+      "id": 19,
+      "pergunta": "A palavra 'vinagre' (vinho + acre) é formada por:",
+      "opcoes": [
+        "a) justaposição",
+        "b) aglutinação",
+        "c) derivação",
+        "d) onomatopeia"
+      ],
+      "correta": 1,
+      "explicacao": "Aglutinação de vinho + acre."
+    },
+    {
+      "id": 20,
+      "pergunta": "Em 'girassol', o processo é:",
+      "opcoes": [
+        "a) aglutinação",
+        "b) justaposição",
+        "c) derivação",
+        "d) prefixação"
+      ],
+      "correta": 1,
+      "explicacao": "gira + sol, sem alteração."
+    },
+    {
+      "id": 21,
+      "pergunta": "A palavra 'choro' (substantivo derivado de chorar) é:",
+      "opcoes": [
+        "a) derivação prefixal",
+        "b) derivação sufixal",
+        "c) derivação regressiva",
+        "d) derivação imprópria"
+      ],
+      "correta": 2,
+      "explicacao": "Redução do verbo chorar."
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual palavra tem prefixo e sufixo?",
+      "opcoes": [
+        "a) infelizmente",
+        "b) felizmente",
+        "c) infeliz",
+        "d) feliz"
+      ],
+      "correta": 0,
+      "explicacao": "in- (prefixo) + feliz + -mente (sufixo)."
+    },
+    {
+      "id": 23,
+      "pergunta": "A palavra 'despedaçar' é formada por:",
+      "opcoes": [
+        "a) prefixação",
+        "b) sufixação",
+        "c) parassíntese",
+        "d) composição"
+      ],
+      "correta": 2,
+      "explicacao": "des- + pedaço + -ar (parassíntese)."
+    },
+    {
+      "id": 24,
+      "pergunta": "Em 'amor-perfeito', temos:",
+      "opcoes": [
+        "a) aglutinação",
+        "b) justaposição",
+        "c) derivação",
+        "d) onomatopeia"
+      ],
+      "correta": 1,
+      "explicacao": "Composição por justaposição com hífen."
+    },
+    {
+      "id": 25,
+      "pergunta": "A palavra 'fidalgo' (filho de algo) é:",
+      "opcoes": [
+        "a) justaposição",
+        "b) aglutinação",
+        "c) derivação",
+        "d) abreviação"
+      ],
+      "correta": 1,
+      "explicacao": "Aglutinação de filho + de + algo."
+    },
+    {
+      "id": 26,
+      "pergunta": "Qual é o processo de 'buzinasso'?",
+      "opcoes": [
+        "a) prefixação",
+        "b) sufixação",
+        "c) composição",
+        "d) derivação regressiva"
+      ],
+      "correta": 1,
+      "explicacao": "buzina + -aço (sufixo)."
+    },
+    {
+      "id": 27,
+      "pergunta": "A palavra 'vice-diretor' é formada por:",
+      "opcoes": [
+        "a) prefixação",
+        "b) sufixação",
+        "c) composição",
+        "d) parassíntese"
+      ],
+      "correta": 0,
+      "explicacao": "Prefixação com 'vice-'."
+    },
+    {
+      "id": 28,
+      "pergunta": "Em 'pré-história', o elemento 'pré-' é:",
+      "opcoes": [
+        "a) radical",
+        "b) prefixo",
+        "c) sufixo",
+        "d) desinência"
+      ],
+      "correta": 1,
+      "explicacao": "Prefixo que significa anterior."
+    },
+    {
+      "id": 29,
+      "pergunta": "A palavra 'sambódromo' é formada por:",
+      "opcoes": [
+        "a) justaposição",
+        "b) aglutinação",
+        "c) derivação sufixal",
+        "d) hibridismo"
+      ],
+      "correta": 3,
+      "explicacao": "samba (português) + -dromo (grego) -> hibridismo."
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual palavra é formada por derivação imprópria?",
+      "opcoes": [
+        "a) o olhar",
+        "b) olheiro",
+        "c) olhada",
+        "d) olho"
+      ],
+      "correta": 0,
+      "explicacao": "Verbo 'olhar' usado como substantivo."
+    }
+  ]
+}
