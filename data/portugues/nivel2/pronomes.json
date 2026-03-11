@@ -1,1 +1,367 @@
-
+{
+  "materia": "Pronomes",
+  "nivel": 2,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Na frase 'Eu te amo', o pronome 'te' é:",
+      "opcoes": [
+        "a) pessoal do caso reto",
+        "b) pessoal do caso oblíquo",
+        "c) possessivo",
+        "d) demonstrativo"
+      ],
+      "correta": 1,
+      "explicacao": "'te' é pronome oblíquo átono (objeto direto)."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual é o pronome possessivo da 1ª pessoa do plural?",
+      "opcoes": [
+        "a) meu",
+        "b) teu",
+        "c) nosso",
+        "d) vosso"
+      ],
+      "correta": 2,
+      "explicacao": "'nosso' indica posse de nós."
+    },
+    {
+      "id": 3,
+      "pergunta": "Em 'Este livro é meu', 'este' é:",
+      "opcoes": [
+        "a) pronome demonstrativo",
+        "b) pronome possessivo",
+        "c) pronome indefinido",
+        "d) artigo"
+      ],
+      "correta": 0,
+      "explicacao": "'este' indica algo próximo ao falante."
+    },
+    {
+      "id": 4,
+      "pergunta": "Assinale o pronome relativo:",
+      "opcoes": [
+        "a) que",
+        "b) este",
+        "c) algum",
+        "d) meu"
+      ],
+      "correta": 0,
+      "explicacao": "'que' pode ser pronome relativo (ex: o livro que li)."
+    },
+    {
+      "id": 5,
+      "pergunta": "Na frase 'Alguém bateu à porta', 'alguém' é:",
+      "opcoes": [
+        "a) pronome pessoal",
+        "b) pronome indefinido",
+        "c) pronome demonstrativo",
+        "d) pronome relativo"
+      ],
+      "correta": 1,
+      "explicacao": "'alguém' é pronome indefinido."
+    },
+    {
+      "id": 6,
+      "pergunta": "Em 'Ela mesma fez o bolo', 'mesma' é:",
+      "opcoes": [
+        "a) pronome pessoal",
+        "b) pronome reflexivo",
+        "c) pronome de reforço",
+        "d) adjetivo"
+      ],
+      "correta": 2,
+      "explicacao": "Reforça o sujeito 'ela'."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual é o pronome pessoal do caso reto da 3ª pessoa do singular?",
+      "opcoes": [
+        "a) ele",
+        "b) lhe",
+        "c) o",
+        "d) se"
+      ],
+      "correta": 0,
+      "explicacao": "'ele' é reto; os demais são oblíquos."
+    },
+    {
+      "id": 8,
+      "pergunta": "Na frase 'O professor a quem me referi', 'quem' é:",
+      "opcoes": [
+        "a) pronome interrogativo",
+        "b) pronome relativo",
+        "c) pronome indefinido",
+        "d) conjunção"
+      ],
+      "correta": 1,
+      "explicacao": "'quem' refere-se a 'professor'."
+    },
+    {
+      "id": 9,
+      "pergunta": "Em 'Que dia é hoje?', 'que' é:",
+      "opcoes": [
+        "a) pronome relativo",
+        "b) pronome interrogativo",
+        "c) advérbio",
+        "d) conjunção"
+      ],
+      "correta": 1,
+      "explicacao": "Introduz pergunta direta."
+    },
+    {
+      "id": 10,
+      "pergunta": "Assinale a opção com pronome demonstrativo:",
+      "opcoes": [
+        "a) meu carro",
+        "b) aquele homem",
+        "c) seu livro",
+        "d) nossa casa"
+      ],
+      "correta": 1,
+      "explicacao": "'aquele' indica algo distante."
+    },
+    {
+      "id": 11,
+      "pergunta": "Na frase 'Devolvi-lhe o livro', 'lhe' é:",
+      "opcoes": [
+        "a) objeto direto",
+        "b) objeto indireto",
+        "c) sujeito",
+        "d) adjunto"
+      ],
+      "correta": 1,
+      "explicacao": "'lhe' substitui a ele (objeto indireto)."
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual pronome pode ser usado como reflexivo?",
+      "opcoes": [
+        "a) me",
+        "b) te",
+        "c) se",
+        "d) todos os acima"
+      ],
+      "correta": 3,
+      "explicacao": "me, te, se podem ser reflexivos."
+    },
+    {
+      "id": 13,
+      "pergunta": "Em 'Cujo livro você leu?', 'cujo' é:",
+      "opcoes": [
+        "a) pronome possessivo relativo",
+        "b) pronome interrogativo",
+        "c) pronome demonstrativo",
+        "d) adjetivo"
+      ],
+      "correta": 0,
+      "explicacao": "'cujo' indica posse e é relativo."
+    },
+    {
+      "id": 14,
+      "pergunta": "Na frase 'Nada o impede', 'nada' é:",
+      "opcoes": [
+        "a) pronome indefinido",
+        "b) advérbio",
+        "c) substantivo",
+        "d) pronome pessoal"
+      ],
+      "correta": 0,
+      "explicacao": "Pronome indefinido."
+    },
+    {
+      "id": 15,
+      "pergunta": "Em 'Você viu a menina? Eu a vi', 'a' é:",
+      "opcoes": [
+        "a) artigo",
+        "b) pronome pessoal oblíquo",
+        "c) preposição",
+        "d) pronome demonstrativo"
+      ],
+      "correta": 1,
+      "explicacao": "Substitui 'a menina' (objeto direto)."
+    },
+    {
+      "id": 16,
+      "pergunta": "Qual é o pronome de tratamento para autoridades?",
+      "opcoes": [
+        "a) você",
+        "b) Vossa Excelência",
+        "c) tu",
+        "d) senhor"
+      ],
+      "correta": 1,
+      "explicacao": "Vossa Excelência é usado para altas autoridades."
+    },
+    {
+      "id": 17,
+      "pergunta": "Em 'Estes são meus primos', 'estes' é:",
+      "opcoes": [
+        "a) pronome pessoal",
+        "b) pronome demonstrativo",
+        "c) pronome possessivo",
+        "d) artigo"
+      ],
+      "correta": 1,
+      "explicacao": "Demonstrativo que retoma algo mencionado."
+    },
+    {
+      "id": 18,
+      "pergunta": "Na frase 'Dê-me um presente', 'me' é:",
+      "opcoes": [
+        "a) objeto direto",
+        "b) objeto indireto",
+        "c) sujeito",
+        "d) adjunto"
+      ],
+      "correta": 1,
+      "explicacao": "'me' é objeto indireto (a mim)."
+    },
+    {
+      "id": 19,
+      "pergunta": "Assinale o pronome interrogativo:",
+      "opcoes": [
+        "a) que",
+        "b) quem",
+        "c) qual",
+        "d) todos os acima"
+      ],
+      "correta": 3,
+      "explicacao": "Que, quem, qual podem ser interrogativos."
+    },
+    {
+      "id": 20,
+      "pergunta": "Em 'Onde você mora?', 'onde' é:",
+      "opcoes": [
+        "a) pronome relativo",
+        "b) advérbio interrogativo",
+        "c) pronome indefinido",
+        "d) conjunção"
+      ],
+      "correta": 1,
+      "explicacao": "Advérbio de lugar interrogativo."
+    },
+    {
+      "id": 21,
+      "pergunta": "Na frase 'Este problema é seu', 'seu' é:",
+      "opcoes": [
+        "a) pronome possessivo",
+        "b) pronome demonstrativo",
+        "c) pronome pessoal",
+        "d) adjetivo"
+      ],
+      "correta": 0,
+      "explicacao": "Indica posse (de você)."
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual é o pronome oblíquo tônico da 1ª pessoa do singular?",
+      "opcoes": [
+        "a) me",
+        "b) mim",
+        "c) comigo",
+        "d) b e c"
+      ],
+      "correta": 3,
+      "explicacao": "Mim e comigo são tônicos."
+    },
+    {
+      "id": 23,
+      "pergunta": "Em 'Todos se machucaram', 'se' indica:",
+      "opcoes": [
+        "a) reflexividade",
+        "b) reciprocidade",
+        "c) indeterminação",
+        "d) passividade"
+      ],
+      "correta": 1,
+      "explicacao": "Ação recíproca (um ao outro)."
+    },
+    {
+      "id": 24,
+      "pergunta": "Na frase 'Nós mesmos fizemos', 'mesmos' é:",
+      "opcoes": [
+        "a) pronome reflexivo",
+        "b) pronome de reforço",
+        "c) pronome demonstrativo",
+        "d) adjetivo"
+      ],
+      "correta": 1,
+      "explicacao": "Reforça o sujeito 'nós'."
+    },
+    {
+      "id": 25,
+      "pergunta": "Assinale a frase com pronome relativo:",
+      "opcoes": [
+        "a) O livro que li é bom",
+        "b) Que dia lindo!",
+        "c) Quem vem lá?",
+        "d) Ele me viu"
+      ],
+      "correta": 0,
+      "explicacao": "'que' retoma 'livro'."
+    },
+    {
+      "id": 26,
+      "pergunta": "Em 'Algum aluno faltou', 'algum' é:",
+      "opcoes": [
+        "a) pronome indefinido",
+        "b) adjetivo",
+        "c) numeral",
+        "d) artigo"
+      ],
+      "correta": 0,
+      "explicacao": "Pronome indefinido."
+    },
+    {
+      "id": 27,
+      "pergunta": "Qual pronome substitui corretamente 'aos alunos' em 'Entreguei o prêmio aos alunos'?",
+      "opcoes": [
+        "a) lhes",
+        "b) os",
+        "c) eles",
+        "d) nos"
+      ],
+      "correta": 0,
+      "explicacao": "'aos alunos' é objeto indireto, substituído por 'lhes'."
+    },
+    {
+      "id": 28,
+      "pergunta": "Em 'Isso é meu', 'isso' é:",
+      "opcoes": [
+        "a) pronome demonstrativo",
+        "b) pronome possessivo",
+        "c) pronome pessoal",
+        "d) advérbio"
+      ],
+      "correta": 0,
+      "explicacao": "Indica algo próximo ao ouvinte."
+    },
+    {
+      "id": 29,
+      "pergunta": "Na frase 'Ele te viu', 'te' é:",
+      "opcoes": [
+        "a) objeto direto",
+        "b) objeto indireto",
+        "c) sujeito",
+        "d) adjunto"
+      ],
+      "correta": 0,
+      "explicacao": "'te' = a ti, objeto direto."
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual é o pronome de tratamento usado para reitores?",
+      "opcoes": [
+        "a) Vossa Senhoria",
+        "b) Vossa Excelência",
+        "c) Vossa Magnificência",
+        "d) Vossa Alteza"
+      ],
+      "correta": 2,
+      "explicacao": "Vossa Magnificência é usado para reitores de universidades."
+    }
+  ]
+}
