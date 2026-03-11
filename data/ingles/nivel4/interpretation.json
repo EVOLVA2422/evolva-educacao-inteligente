@@ -1,1 +1,607 @@
-
+{
+  "materia": "Reading Interpretation",
+  "nivel": 4,
+  "totalQuestoes": 50,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Read the sentence: 'The new policy will have a significant impact on the economy.' What does 'significant' mean?",
+      "opcoes": [
+        "a) small",
+        "b) important",
+        "c) negative",
+        "d) immediate"
+      ],
+      "correta": 1,
+      "explicacao": "'Significant' means important or considerable."
+    },
+    {
+      "id": 2,
+      "pergunta": "In the text: 'Despite the rain, the event was a success.' What does 'despite' indicate?",
+      "opcoes": [
+        "a) cause",
+        "b) contrast",
+        "c) addition",
+        "d) time"
+      ],
+      "correta": 1,
+      "explicacao": "'Despite' shows contrast – it happened even though it rained."
+    },
+    {
+      "id": 3,
+      "pergunta": "Read: 'The author's latest novel has received widespread acclaim.' What does 'acclaim' mean?",
+      "opcoes": [
+        "a) criticism",
+        "b) praise",
+        "c) rejection",
+        "d) indifference"
+      ],
+      "correta": 1,
+      "explicacao": "'Acclaim' means enthusiastic approval or praise."
+    },
+    {
+      "id": 4,
+      "pergunta": "Text: 'The company's profits have soared over the last quarter.' What does 'soared' mean?",
+      "opcoes": [
+        "a) decreased",
+        "b) remained stable",
+        "c) increased sharply",
+        "d) fluctuated"
+      ],
+      "correta": 2,
+      "explicacao": "'Soared' means rose quickly and dramatically."
+    },
+    {
+      "id": 5,
+      "pergunta": "Read: 'She was ecstatic when she heard the news.' What is the best synonym for 'ecstatic'?",
+      "opcoes": [
+        "a) sad",
+        "b) calm",
+        "c) overjoyed",
+        "d) angry"
+      ],
+      "correta": 2,
+      "explicacao": "'Ecstatic' means extremely happy."
+    },
+    {
+      "id": 6,
+      "pergunta": "Text: 'The negotiations reached a stalemate after three hours.' What does 'stalemate' mean?",
+      "opcoes": [
+        "a) agreement",
+        "b) deadlock",
+        "c) breakthrough",
+        "d) discussion"
+      ],
+      "correta": 1,
+      "explicacao": "'Stalemate' means a situation where no progress is possible."
+    },
+    {
+      "id": 7,
+      "pergunta": "Read: 'The movie was a box office hit, grossing over $200 million.' What does 'hit' mean here?",
+      "opcoes": [
+        "a) failure",
+        "b) success",
+        "c) controversy",
+        "d) debut"
+      ],
+      "correta": 1,
+      "explicacao": "'Hit' means a great success."
+    },
+    {
+      "id": 8,
+      "pergunta": "Text: 'His argument was based on flawed assumptions.' What does 'flawed' mean?",
+      "opcoes": [
+        "a) correct",
+        "b) strong",
+        "c) imperfect",
+        "d) logical"
+      ],
+      "correta": 2,
+      "explicacao": "'Flawed' means having mistakes or weaknesses."
+    },
+    {
+      "id": 9,
+      "pergunta": "Read: 'She has a penchant for exotic cuisine.' What does 'penchant' mean?",
+      "opcoes": [
+        "a) dislike",
+        "b) talent",
+        "c) tendency",
+        "d) fear"
+      ],
+      "correta": 2,
+      "explicacao": "'Penchant' means a strong liking or tendency."
+    },
+    {
+      "id": 10,
+      "pergunta": "Text: 'The company decided to pull the plug on the project.' What does 'pull the plug' mean?",
+      "opcoes": [
+        "a) start",
+        "b) continue",
+        "c) terminate",
+        "d) delay"
+      ],
+      "correta": 2,
+      "explicacao": "'Pull the plug' means to stop or end something."
+    },
+    {
+      "id": 11,
+      "pergunta": "Read: 'The team worked tirelessly to meet the deadline.' What does 'tirelessly' mean?",
+      "opcoes": [
+        "a) with breaks",
+        "b) without rest",
+        "c) slowly",
+        "d) reluctantly"
+      ],
+      "correta": 1,
+      "explicacao": "'Tirelessly' means without getting tired, continuously."
+    },
+    {
+      "id": 12,
+      "pergunta": "Text: 'The evidence was scant, so the case was dismissed.' What does 'scant' mean?",
+      "opcoes": [
+        "a) abundant",
+        "b) convincing",
+        "c) insufficient",
+        "d) clear"
+      ],
+      "correta": 2,
+      "explicacao": "'Scant' means very little, not enough."
+    },
+    {
+      "id": 13,
+      "pergunta": "Read: 'He is a voracious reader, finishing several books a week.' What does 'voracious' mean?",
+      "opcoes": [
+        "a) slow",
+        "b) selective",
+        "c) eager",
+        "d) reluctant"
+      ],
+      "correta": 2,
+      "explicacao": "'Voracious' means having a great appetite for something."
+    },
+    {
+      "id": 14,
+      "pergunta": "Text: 'The speech was riddled with clichés.' What does 'riddled with' mean?",
+      "opcoes": [
+        "a) full of",
+        "b) lacking",
+        "c) free of",
+        "d) enhanced by"
+      ],
+      "correta": 0,
+      "explicacao": "'Riddled with' means full of something bad."
+    },
+    {
+      "id": 15,
+      "pergunta": "Read: 'Her alibi was corroborated by two witnesses.' What does 'corroborated' mean?",
+      "opcoes": [
+        "a) contradicted",
+        "b) confirmed",
+        "c) questioned",
+        "d) ignored"
+      ],
+      "correta": 1,
+      "explicacao": "'Corroborated' means supported with evidence."
+    },
+    {
+      "id": 16,
+      "pergunta": "Text: 'The company is on the brink of bankruptcy.' What does 'on the brink of' mean?",
+      "opcoes": [
+        "a) far from",
+        "b) in the middle of",
+        "c) very close to",
+        "d) recovering from"
+      ],
+      "correta": 2,
+      "explicacao": "'On the brink of' means about to happen."
+    },
+    {
+      "id": 17,
+      "pergunta": "Read: 'He was a man of impeccable character.' What does 'impeccable' mean?",
+      "opcoes": [
+        "a) flawed",
+        "b) perfect",
+        "c) unknown",
+        "d) questionable"
+      ],
+      "correta": 1,
+      "explicacao": "'Impeccable' means without fault, flawless."
+    },
+    {
+      "id": 18,
+      "pergunta": "Text: 'The decision was met with widespread consternation.' What does 'consternation' mean?",
+      "opcoes": [
+        "a) approval",
+        "b) anxiety",
+        "c) indifference",
+        "d) joy"
+      ],
+      "correta": 1,
+      "explicacao": "'Consternation' means feelings of anxiety or dismay."
+    },
+    {
+      "id": 19,
+      "pergunta": "Read: 'She gave a cursory glance at the report.' What does 'cursory' mean?",
+      "opcoes": [
+        "a) detailed",
+        "b) quick",
+        "c) careful",
+        "d) final"
+      ],
+      "correta": 1,
+      "explicacao": "'Cursory' means hasty and not thorough."
+    },
+    {
+      "id": 20,
+      "pergunta": "Text: 'The two theories are mutually exclusive.' What does 'mutually exclusive' mean?",
+      "opcoes": [
+        "a) can't both be true",
+        "b) are similar",
+        "c) support each other",
+        "d) are unrelated"
+      ],
+      "correta": 0,
+      "explicacao": "'Mutually exclusive' means they cannot exist together."
+    },
+    {
+      "id": 21,
+      "pergunta": "Read: 'The politician's comments were taken out of context.' What does 'taken out of context' mean?",
+      "opcoes": [
+        "a) quoted accurately",
+        "b) misinterpreted",
+        "c) praised",
+        "d) ignored"
+      ],
+      "correta": 1,
+      "explicacao": "It means the words were quoted without the surrounding explanation, changing their meaning."
+    },
+    {
+      "id": 22,
+      "pergunta": "Text: 'The experiment yielded inconclusive results.' What does 'inconclusive' mean?",
+      "opcoes": [
+        "a) definite",
+        "b) not leading to a conclusion",
+        "c) positive",
+        "d) negative"
+      ],
+      "correta": 1,
+      "explicacao": "'Inconclusive' means not providing a clear result."
+    },
+    {
+      "id": 23,
+      "pergunta": "Read: 'She has a knack for solving complex problems.' What does 'knack' mean?",
+      "opcoes": [
+        "a) fear",
+        "b) talent",
+        "c) dislike",
+        "d) habit"
+      ],
+      "correta": 1,
+      "explicacao": "'Knack' means a special skill or ability."
+    },
+    {
+      "id": 24,
+      "pergunta": "Text: 'The company's growth has been exponential.' What does 'exponential' mean?",
+      "opcoes": [
+        "a) slow and steady",
+        "b) very rapid",
+        "c) unpredictable",
+        "d) linear"
+      ],
+      "correta": 1,
+      "explicacao": "'Exponential' means increasing very rapidly."
+    },
+    {
+      "id": 25,
+      "pergunta": "Read: 'He is a staunch supporter of the movement.' What does 'staunch' mean?",
+      "opcoes": [
+        "a) weak",
+        "b) loyal",
+        "c) new",
+        "d) critical"
+      ],
+      "correta": 1,
+      "explicacao": "'Staunch' means very loyal and committed."
+    },
+    {
+      "id": 26,
+      "pergunta": "Text: 'The plan backfired, causing more problems.' What does 'backfired' mean?",
+      "opcoes": [
+        "a) succeeded",
+        "b) had the opposite effect",
+        "c) was delayed",
+        "d) was cancelled"
+      ],
+      "correta": 1,
+      "explicacao": "'Backfired' means produced an unwanted result."
+    },
+    {
+      "id": 27,
+      "pergunta": "Read: 'She is an avid collector of vintage cars.' What does 'avid' mean?",
+      "opcoes": [
+        "a) occasional",
+        "b) enthusiastic",
+        "c) reluctant",
+        "d) amateur"
+      ],
+      "correta": 1,
+      "explicacao": "'Avid' means very interested and enthusiastic."
+    },
+    {
+      "id": 28,
+      "pergunta": "Text: 'The meeting was called off at the last minute.' What does 'called off' mean?",
+      "opcoes": [
+        "a) started",
+        "b) postponed",
+        "c) cancelled",
+        "d) shortened"
+      ],
+      "correta": 2,
+      "explicacao": "'Called off' means cancelled."
+    },
+    {
+      "id": 29,
+      "pergunta": "Read: 'His explanation was convoluted and hard to follow.' What does 'convoluted' mean?",
+      "opcoes": [
+        "a) simple",
+        "b) complicated",
+        "c) clear",
+        "d) short"
+      ],
+      "correta": 1,
+      "explicacao": "'Convoluted' means extremely complex and difficult to understand."
+    },
+    {
+      "id": 30,
+      "pergunta": "Text: 'She handled the situation with aplomb.' What does 'aplomb' mean?",
+      "opcoes": [
+        "a) anxiety",
+        "b) confidence",
+        "c) anger",
+        "d) hesitation"
+      ],
+      "correta": 1,
+      "explicacao": "'Aplomb' means self-confidence and poise."
+    },
+    {
+      "id": 31,
+      "pergunta": "Read: 'The project is in its nascent stage.' What does 'nascent' mean?",
+      "opcoes": [
+        "a) final",
+        "b) beginning",
+        "c) advanced",
+        "d) failed"
+      ],
+      "correta": 1,
+      "explicacao": "'Nascent' means just coming into existence."
+    },
+    {
+      "id": 32,
+      "pergunta": "Text: 'The two countries have a tenuous relationship.' What does 'tenuous' mean?",
+      "opcoes": [
+        "a) strong",
+        "b) weak",
+        "c) friendly",
+        "d) old"
+      ],
+      "correta": 1,
+      "explicacao": "'Tenuous' means very weak or uncertain."
+    },
+    {
+      "id": 33,
+      "pergunta": "Read: 'She was nonplussed by the unexpected question.' What does 'nonplussed' mean?",
+      "opcoes": [
+        "a) pleased",
+        "b) surprised and confused",
+        "c) angry",
+        "d) prepared"
+      ],
+      "correta": 1,
+      "explicacao": "'Nonplussed' means so surprised that one doesn't know how to react."
+    },
+    {
+      "id": 34,
+      "pergunta": "Text: 'The event was a fiasco.' What does 'fiasco' mean?",
+      "opcoes": [
+        "a) success",
+        "b) failure",
+        "c) surprise",
+        "d) tradition"
+      ],
+      "correta": 1,
+      "explicacao": "'Fiasco' means a complete failure."
+    },
+    {
+      "id": 35,
+      "pergunta": "Read: 'He is a man of few words, but his silence is often deafening.' What does 'deafening silence' imply?",
+      "opcoes": [
+        "a) quiet but peaceful",
+        "b) very noticeable silence",
+        "c) silence that hurts",
+        "d) silence that is welcome"
+      ],
+      "correta": 1,
+      "explicacao": "'Deafening silence' means a silence that is very obvious and uncomfortable."
+    },
+    {
+      "id": 36,
+      "pergunta": "Text: 'The company's profits have been dwindling for years.' What does 'dwindling' mean?",
+      "opcoes": [
+        "a) increasing",
+        "b) decreasing",
+        "c) fluctuating",
+        "d) stabilizing"
+      ],
+      "correta": 1,
+      "explicacao": "'Dwindling' means gradually diminishing."
+    },
+    {
+      "id": 37,
+      "pergunta": "Read: 'Her speech was punctuated by enthusiastic applause.' What does 'punctuated by' mean?",
+      "opcoes": [
+        "a) interrupted by",
+        "b) followed by",
+        "c) accompanied by",
+        "d) preceded by"
+      ],
+      "correta": 2,
+      "explicacao": "'Punctuated by' means marked or emphasized by something happening repeatedly."
+    },
+    {
+      "id": 38,
+      "pergunta": "Text: 'He has a prodigious talent for music.' What does 'prodigious' mean?",
+      "opcoes": [
+        "a) small",
+        "b) ordinary",
+        "c) enormous",
+        "d) hidden"
+      ],
+      "correta": 2,
+      "explicacao": "'Prodigious' means impressively great in size or degree."
+    },
+    {
+      "id": 39,
+      "pergunta": "Read: 'The film was a poignant reminder of the past.' What does 'poignant' mean?",
+      "opcoes": [
+        "a) funny",
+        "b) painful",
+        "c) touching",
+        "d) boring"
+      ],
+      "correta": 2,
+      "explicacao": "'Poignant' means evoking a keen sense of sadness or regret."
+    },
+    {
+      "id": 40,
+      "pergunta": "Text: 'The negotiations reached an impasse.' What does 'impasse' mean?",
+      "opcoes": [
+        "a) agreement",
+        "b) deadlock",
+        "c) progress",
+        "d) discussion"
+      ],
+      "correta": 1,
+      "explicacao": "'Impasse' means a situation where no progress is possible."
+    },
+    {
+      "id": 41,
+      "pergunta": "Read: 'She is a person of impeccable integrity.' What does 'integrity' mean?",
+      "opcoes": [
+        "a) honesty",
+        "b) intelligence",
+        "c) wealth",
+        "d) fame"
+      ],
+      "correta": 0,
+      "explicacao": "'Integrity' means the quality of being honest and having strong moral principles."
+    },
+    {
+      "id": 42,
+      "pergunta": "Text: 'The project was shelved due to lack of funds.' What does 'shelved' mean?",
+      "opcoes": [
+        "a) completed",
+        "b) postponed",
+        "c) started",
+        "d) approved"
+      ],
+      "correta": 1,
+      "explicacao": "'Shelved' means decided not to continue with it for now."
+    },
+    {
+      "id": 43,
+      "pergunta": "Read: 'He is an intrepid explorer.' What does 'intrepid' mean?",
+      "opcoes": [
+        "a) fearful",
+        "b) adventurous",
+        "c) inexperienced",
+        "d) old"
+      ],
+      "correta": 1,
+      "explicacao": "'Intrepid' means fearless and adventurous."
+    },
+    {
+      "id": 44,
+      "pergunta": "Text: 'The company has a monopoly on the market.' What does 'monopoly' mean?",
+      "opcoes": [
+        "a) competition",
+        "b) exclusive control",
+        "c) share",
+        "d) loss"
+      ],
+      "correta": 1,
+      "explicacao": "'Monopoly' means exclusive possession or control of a market."
+    },
+    {
+      "id": 45,
+      "pergunta": "Read: 'Her explanation was lucid and easy to understand.' What does 'lucid' mean?",
+      "opcoes": [
+        "a) confusing",
+        "b) clear",
+        "c) long",
+        "d) technical"
+      ],
+      "correta": 1,
+      "explicacao": "'Lucid' means expressed clearly."
+    },
+    {
+      "id": 46,
+      "pergunta": "Text: 'The situation is fraught with danger.' What does 'fraught with' mean?",
+      "opcoes": [
+        "a) free of",
+        "b) full of",
+        "c) causing",
+        "d) avoiding"
+      ],
+      "correta": 1,
+      "explicacao": "'Fraught with' means filled with (something undesirable)."
+    },
+    {
+      "id": 47,
+      "pergunta": "Read: 'He was a man of great erudition.' What does 'erudition' mean?",
+      "opcoes": [
+        "a) wealth",
+        "b) learning",
+        "c) kindness",
+        "d) strength"
+      ],
+      "correta": 1,
+      "explicacao": "'Erudition' means extensive knowledge acquired from reading and study."
+    },
+    {
+      "id": 48,
+      "pergunta": "Text: 'The company is facing a liquidity crisis.' What does 'liquidity' mean in finance?",
+      "opcoes": [
+        "a) ability to pay debts",
+        "b) profitability",
+        "c) growth",
+        "d) market share"
+      ],
+      "correta": 0,
+      "explicacao": "'Liquidity' refers to having enough cash to meet short-term obligations."
+    },
+    {
+      "id": 49,
+      "pergunta": "Read: 'The two ideas are inextricably linked.' What does 'inextricably' mean?",
+      "opcoes": [
+        "a) loosely",
+        "b) inseparably",
+        "c) temporarily",
+        "d) clearly"
+      ],
+      "correta": 1,
+      "explicacao": "'Inextricably' means in a way that cannot be separated."
+    },
+    {
+      "id": 50,
+      "pergunta": "Text: 'He is a quintessential English gentleman.' What does 'quintessential' mean?",
+      "opcoes": [
+        "a) rare",
+        "b) typical",
+        "c) modern",
+        "d) old"
+      ],
+      "correta": 1,
+      "explicacao": "'Quintessential' means representing the most perfect example of a quality or class."
+    }
+  ]
+}
