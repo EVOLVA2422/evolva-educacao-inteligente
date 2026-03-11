@@ -1,1 +1,367 @@
-
+{
+  "materia": "Números",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Qual é o sucessor de 99?",
+      "opcoes": [
+        "a) 98",
+        "b) 99",
+        "c) 100",
+        "d) 101"
+      ],
+      "correta": 2,
+      "explicacao": "Sucessor é o número que vem depois: 99 + 1 = 100."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual é o antecessor de 1000?",
+      "opcoes": [
+        "a) 999",
+        "b) 1000",
+        "c) 1001",
+        "d) 998"
+      ],
+      "correta": 0,
+      "explicacao": "Antecessor é o número que vem antes: 1000 - 1 = 999."
+    },
+    {
+      "id": 3,
+      "pergunta": "O número 15 é:",
+      "opcoes": [
+        "a) Par",
+        "b) Ímpar",
+        "c) Primo",
+        "d) Múltiplo de 4"
+      ],
+      "correta": 1,
+      "explicacao": "15 termina em 5, portanto é ímpar."
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual é o maior número: -5, 0, 3, -10?",
+      "opcoes": [
+        "a) -5",
+        "b) 0",
+        "c) 3",
+        "d) -10"
+      ],
+      "correta": 2,
+      "explicacao": "Na reta numérica, os números positivos são maiores que zero e negativos: 3 é o maior."
+    },
+    {
+      "id": 5,
+      "pergunta": "O número 24 em ordinal é:",
+      "opcoes": [
+        "a) vigésimo quarto",
+        "b) vigésimo",
+        "c) vigésimo quarto",
+        "d) 24º"
+      ],
+      "correta": 0,
+      "explicacao": "24º = vigésimo quarto."
+    },
+    {
+      "id": 6,
+      "pergunta": "Quantas unidades tem o número 357?",
+      "opcoes": [
+        "a) 3",
+        "b) 5",
+        "c) 7",
+        "d) 357"
+      ],
+      "correta": 2,
+      "explicacao": "O algarismo das unidades é 7."
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual é o valor posicional do algarismo 5 no número 453?",
+      "opcoes": [
+        "a) 5 unidades",
+        "b) 5 dezenas",
+        "c) 5 centenas",
+        "d) 5 milhares"
+      ],
+      "correta": 1,
+      "explicacao": "O 5 está na casa das dezenas: vale 50."
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual número é maior: 123 ou 132?",
+      "opcoes": [
+        "a) 123",
+        "b) 132",
+        "c) Iguais",
+        "d) Não é possível comparar"
+      ],
+      "correta": 1,
+      "explicacao": "132 tem 3 dezenas, 123 tem 2 dezenas, então 132 é maior."
+    },
+    {
+      "id": 9,
+      "pergunta": "O número 0 é:",
+      "opcoes": [
+        "a) positivo",
+        "b) negativo",
+        "c) neutro",
+        "d) par e ímpar"
+      ],
+      "correta": 2,
+      "explicacao": "Zero é neutro, não é positivo nem negativo, mas é par."
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual é a forma ordinal de 1?",
+      "opcoes": [
+        "a) primeiro",
+        "b) primeirão",
+        "c) primeirinho",
+        "d) primeiramente"
+      ],
+      "correta": 0,
+      "explicacao": "1º = primeiro."
+    },
+    {
+      "id": 11,
+      "pergunta": "Quantas dezenas tem o número 280?",
+      "opcoes": [
+        "a) 2",
+        "b) 8",
+        "c) 28",
+        "d) 0"
+      ],
+      "correta": 2,
+      "explicacao": "280 ÷ 10 = 28 dezenas."
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual é o antecessor de 1?",
+      "opcoes": [
+        "a) 0",
+        "b) 2",
+        "c) -1",
+        "d) 1"
+      ],
+      "correta": 0,
+      "explicacao": "Antecessor de 1 é 0 (considerando números naturais)."
+    },
+    {
+      "id": 13,
+      "pergunta": "O número 100 em ordinal é:",
+      "opcoes": [
+        "a) centésimo",
+        "b) centenário",
+        "c) centavo",
+        "d) centesimal"
+      ],
+      "correta": 0,
+      "explicacao": "100º = centésimo."
+    },
+    {
+      "id": 14,
+      "pergunta": "Qual é o número natural representado por 3 centenas + 5 dezenas + 2 unidades?",
+      "opcoes": [
+        "a) 352",
+        "b) 325",
+        "c) 532",
+        "d) 253"
+      ],
+      "correta": 0,
+      "explicacao": "3 centenas = 300, 5 dezenas = 50, 2 unidades = 2 → 352."
+    },
+    {
+      "id": 15,
+      "pergunta": "Qual número está entre 50 e 60?",
+      "opcoes": [
+        "a) 49",
+        "b) 55",
+        "c) 61",
+        "d) 70"
+      ],
+      "correta": 1,
+      "explicacao": "55 está entre 50 e 60."
+    },
+    {
+      "id": 16,
+      "pergunta": "O dobro de 15 é:",
+      "opcoes": [
+        "a) 15",
+        "b) 20",
+        "c) 30",
+        "d) 45"
+      ],
+      "correta": 2,
+      "explicacao": "Dobro = 15 × 2 = 30."
+    },
+    {
+      "id": 17,
+      "pergunta": "O triplo de 12 é:",
+      "opcoes": [
+        "a) 24",
+        "b) 36",
+        "c) 48",
+        "d) 60"
+      ],
+      "correta": 1,
+      "explicacao": "Triplo = 12 × 3 = 36."
+    },
+    {
+      "id": 18,
+      "pergunta": "Qual é a metade de 50?",
+      "opcoes": [
+        "a) 10",
+        "b) 20",
+        "c) 25",
+        "d) 30"
+      ],
+      "correta": 2,
+      "explicacao": "Metade = 50 ÷ 2 = 25."
+    },
+    {
+      "id": 19,
+      "pergunta": "O número 30 em ordinal é:",
+      "opcoes": [
+        "a) trigésimo",
+        "b) tricentésimo",
+        "c) trintésimo",
+        "d) terceiro"
+      ],
+      "correta": 0,
+      "explicacao": "30º = trigésimo."
+    },
+    {
+      "id": 20,
+      "pergunta": "Qual é o valor de 5 dezenas + 3 unidades?",
+      "opcoes": [
+        "a) 35",
+        "b) 53",
+        "c) 503",
+        "d) 8"
+      ],
+      "correta": 1,
+      "explicacao": "5 dezenas = 50, + 3 = 53."
+    },
+    {
+      "id": 21,
+      "pergunta": "O número 101 é:",
+      "opcoes": [
+        "a) par",
+        "b) ímpar",
+        "c) primo",
+        "d) múltiplo de 3"
+      ],
+      "correta": 1,
+      "explicacao": "Termina em 1, portanto ímpar."
+    },
+    {
+      "id": 22,
+      "pergunta": "Quantas centenas tem o número 1.234?",
+      "opcoes": [
+        "a) 1",
+        "b) 2",
+        "c) 12",
+        "d) 123"
+      ],
+      "correta": 2,
+      "explicacao": "1.234 ÷ 100 = 12,34 → 12 centenas completas."
+    },
+    {
+      "id": 23,
+      "pergunta": "Qual é o maior número de 3 algarismos?",
+      "opcoes": [
+        "a) 999",
+        "b) 100",
+        "c) 900",
+        "d) 990"
+      ],
+      "correta": 0,
+      "explicacao": "999 é o maior número de 3 algarismos."
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual é o menor número de 3 algarismos?",
+      "opcoes": [
+        "a) 100",
+        "b) 99",
+        "c) 101",
+        "d) 111"
+      ],
+      "correta": 0,
+      "explicacao": "100 é o menor número de 3 algarismos."
+    },
+    {
+      "id": 25,
+      "pergunta": "O número 2.000 em ordinal é:",
+      "opcoes": [
+        "a) ducentésimo",
+        "b) segundo milésimo",
+        "c) dois milésimo",
+        "d) bicentenário"
+      ],
+      "correta": 2,
+      "explicacao": "2.000º = dois milésimo."
+    },
+    {
+      "id": 26,
+      "pergunta": "Qual é o sucessor de 1.999?",
+      "opcoes": [
+        "a) 1.998",
+        "b) 2.000",
+        "c) 1.990",
+        "d) 2.001"
+      ],
+      "correta": 1,
+      "explicacao": "1.999 + 1 = 2.000."
+    },
+    {
+      "id": 27,
+      "pergunta": "Qual número é par?",
+      "opcoes": [
+        "a) 33",
+        "b) 45",
+        "c) 58",
+        "d) 61"
+      ],
+      "correta": 2,
+      "explicacao": "Números pares terminam em 0,2,4,6,8: 58 termina em 8."
+    },
+    {
+      "id": 28,
+      "pergunta": "O número 0,5 representa:",
+      "opcoes": [
+        "a) meio",
+        "b) um quarto",
+        "c) um terço",
+        "d) um inteiro"
+      ],
+      "correta": 0,
+      "explicacao": "0,5 = 1/2 = meio."
+    },
+    {
+      "id": 29,
+      "pergunta": "Quantas unidades tem o número 1.234?",
+      "opcoes": [
+        "a) 1",
+        "b) 2",
+        "c) 3",
+        "d) 4"
+      ],
+      "correta": 3,
+      "explicacao": "O algarismo das unidades é 4."
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual é o valor de 8 dezenas?",
+      "opcoes": [
+        "a) 8",
+        "b) 80",
+        "c) 800",
+        "d) 8.000"
+      ],
+      "correta": 1,
+      "explicacao": "8 dezenas = 8 × 10 = 80."
+    }
+  ]
+}
