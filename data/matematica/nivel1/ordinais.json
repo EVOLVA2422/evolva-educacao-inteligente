@@ -1,1 +1,367 @@
-
+{
+  "materia": "Números Ordinais",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Como se escreve 1º por extenso?",
+      "opcoes": [
+        "a) primeiro",
+        "b) primeirão",
+        "c) primeirinho",
+        "d) primeiramente"
+      ],
+      "correta": 0,
+      "explicacao": "1º = primeiro."
+    },
+    {
+      "id": 2,
+      "pergunta": "Como se escreve 2º por extenso?",
+      "opcoes": [
+        "a) segundo",
+        "b) segundão",
+        "c) segundinho",
+        "d) segundamente"
+      ],
+      "correta": 0,
+      "explicacao": "2º = segundo."
+    },
+    {
+      "id": 3,
+      "pergunta": "Como se escreve 3º por extenso?",
+      "opcoes": [
+        "a) terceiro",
+        "b) tercinho",
+        "c) terceirão",
+        "d) terceiramente"
+      ],
+      "correta": 0,
+      "explicacao": "3º = terceiro."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como se escreve 10º por extenso?",
+      "opcoes": [
+        "a) dezésimo",
+        "b) décimo",
+        "c) dezenésimo",
+        "d) dezeno"
+      ],
+      "correta": 1,
+      "explicacao": "10º = décimo."
+    },
+    {
+      "id": 5,
+      "pergunta": "Como se escreve 20º por extenso?",
+      "opcoes": [
+        "a) vingésimo",
+        "b) vintésimo",
+        "c) vigésimo",
+        "d) vinteésimo"
+      ],
+      "correta": 2,
+      "explicacao": "20º = vigésimo."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como se escreve 30º por extenso?",
+      "opcoes": [
+        "a) trigésimo",
+        "b) trintésimo",
+        "c) tricentésimo",
+        "d) trintavo"
+      ],
+      "correta": 0,
+      "explicacao": "30º = trigésimo."
+    },
+    {
+      "id": 7,
+      "pergunta": "Como se escreve 40º por extenso?",
+      "opcoes": [
+        "a) quadragésimo",
+        "b) quarentésimo",
+        "c) quarentavo",
+        "d) quadragésimo"
+      ],
+      "correta": 0,
+      "explicacao": "40º = quadragésimo."
+    },
+    {
+      "id": 8,
+      "pergunta": "Como se escreve 50º por extenso?",
+      "opcoes": [
+        "a) quinquagésimo",
+        "b) cinquentésimo",
+        "c) cinquentavo",
+        "d) quinquagésimo"
+      ],
+      "correta": 0,
+      "explicacao": "50º = quinquagésimo."
+    },
+    {
+      "id": 9,
+      "pergunta": "Como se escreve 60º por extenso?",
+      "opcoes": [
+        "a) sexagésimo",
+        "b) sessentésimo",
+        "c) sessentavo",
+        "d) sexagésimo"
+      ],
+      "correta": 0,
+      "explicacao": "60º = sexagésimo."
+    },
+    {
+      "id": 10,
+      "pergunta": "Como se escreve 70º por extenso?",
+      "opcoes": [
+        "a) septuagésimo",
+        "b) setentésimo",
+        "c) setentavo",
+        "d) septuagésimo"
+      ],
+      "correta": 0,
+      "explicacao": "70º = septuagésimo."
+    },
+    {
+      "id": 11,
+      "pergunta": "Como se escreve 80º por extenso?",
+      "opcoes": [
+        "a) octogésimo",
+        "b) oitentésimo",
+        "c) oitentavo",
+        "d) octogésimo"
+      ],
+      "correta": 0,
+      "explicacao": "80º = octogésimo."
+    },
+    {
+      "id": 12,
+      "pergunta": "Como se escreve 90º por extenso?",
+      "opcoes": [
+        "a) nonagésimo",
+        "b) noventésimo",
+        "c) noventavo",
+        "d) nonagésimo"
+      ],
+      "correta": 0,
+      "explicacao": "90º = nonagésimo."
+    },
+    {
+      "id": 13,
+      "pergunta": "Como se escreve 100º por extenso?",
+      "opcoes": [
+        "a) centésimo",
+        "b) centenário",
+        "c) centavo",
+        "d) centesimal"
+      ],
+      "correta": 0,
+      "explicacao": "100º = centésimo."
+    },
+    {
+      "id": 14,
+      "pergunta": "Como se escreve 21º por extenso?",
+      "opcoes": [
+        "a) vigésimo primeiro",
+        "b) vinte e um",
+        "c) vinte um",
+        "d) vigésimo um"
+      ],
+      "correta": 0,
+      "explicacao": "21º = vigésimo primeiro."
+    },
+    {
+      "id": 15,
+      "pergunta": "Como se escreve 32º por extenso?",
+      "opcoes": [
+        "a) trigésimo segundo",
+        "b) trinta e dois",
+        "c) trigésimo dois",
+        "d) trinta segundo"
+      ],
+      "correta": 0,
+      "explicacao": "32º = trigésimo segundo."
+    },
+    {
+      "id": 16,
+      "pergunta": "Como se escreve 43º por extenso?",
+      "opcoes": [
+        "a) quadragésimo terceiro",
+        "b) quarenta e três",
+        "c) quadragésimo três",
+        "d) quarenta terceiro"
+      ],
+      "correta": 0,
+      "explicacao": "43º = quadragésimo terceiro."
+    },
+    {
+      "id": 17,
+      "pergunta": "Como se escreve 54º por extenso?",
+      "opcoes": [
+        "a) quinquagésimo quarto",
+        "b) cinquenta e quatro",
+        "c) quinquagésimo quatro",
+        "d) cinquenta quarto"
+      ],
+      "correta": 0,
+      "explicacao": "54º = quinquagésimo quarto."
+    },
+    {
+      "id": 18,
+      "pergunta": "Como se escreve 65º por extenso?",
+      "opcoes": [
+        "a) sexagésimo quinto",
+        "b) sessenta e cinco",
+        "c) sexagésimo cinco",
+        "d) sessenta quinto"
+      ],
+      "correta": 0,
+      "explicacao": "65º = sexagésimo quinto."
+    },
+    {
+      "id": 19,
+      "pergunta": "Como se escreve 76º por extenso?",
+      "opcoes": [
+        "a) septuagésimo sexto",
+        "b) setenta e seis",
+        "c) septuagésimo seis",
+        "d) setenta sexto"
+      ],
+      "correta": 0,
+      "explicacao": "76º = septuagésimo sexto."
+    },
+    {
+      "id": 20,
+      "pergunta": "Como se escreve 87º por extenso?",
+      "opcoes": [
+        "a) octogésimo sétimo",
+        "b) oitenta e sete",
+        "c) octogésimo sete",
+        "d) oitenta sétimo"
+      ],
+      "correta": 0,
+      "explicacao": "87º = octogésimo sétimo."
+    },
+    {
+      "id": 21,
+      "pergunta": "Como se escreve 98º por extenso?",
+      "opcoes": [
+        "a) nonagésimo oitavo",
+        "b) noventa e oito",
+        "c) nonagésimo oito",
+        "d) noventa oitavo"
+      ],
+      "correta": 0,
+      "explicacao": "98º = nonagésimo oitavo."
+    },
+    {
+      "id": 22,
+      "pergunta": "Como se escreve 100º por extenso?",
+      "opcoes": [
+        "a) centésimo",
+        "b) centésimo primeiro",
+        "c) centavo",
+        "d) centenário"
+      ],
+      "correta": 0,
+      "explicacao": "100º = centésimo."
+    },
+    {
+      "id": 23,
+      "pergunta": "Qual é o número ordinal correspondente a 15?",
+      "opcoes": [
+        "a) décimo quinto",
+        "b) décimo quinto",
+        "c) quinze",
+        "d) décimo"
+      ],
+      "correta": 0,
+      "explicacao": "15º = décimo quinto."
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual é o número ordinal correspondente a 22?",
+      "opcoes": [
+        "a) vigésimo segundo",
+        "b) vigésimo dois",
+        "c) vinte e dois",
+        "d) vinte segundo"
+      ],
+      "correta": 0,
+      "explicacao": "22º = vigésimo segundo."
+    },
+    {
+      "id": 25,
+      "pergunta": "Qual é o número ordinal correspondente a 31?",
+      "opcoes": [
+        "a) trigésimo primeiro",
+        "b) trigésimo um",
+        "c) trinta e um",
+        "d) trinta primeiro"
+      ],
+      "correta": 0,
+      "explicacao": "31º = trigésimo primeiro."
+    },
+    {
+      "id": 26,
+      "pergunta": "Qual é o número ordinal correspondente a 42?",
+      "opcoes": [
+        "a) quadragésimo segundo",
+        "b) quadragésimo dois",
+        "c) quarenta e dois",
+        "d) quarenta segundo"
+      ],
+      "correta": 0,
+      "explicacao": "42º = quadragésimo segundo."
+    },
+    {
+      "id": 27,
+      "pergunta": "Qual é o número ordinal correspondente a 53?",
+      "opcoes": [
+        "a) quinquagésimo terceiro",
+        "b) quinquagésimo três",
+        "c) cinquenta e três",
+        "d) cinquenta terceiro"
+      ],
+      "correta": 0,
+      "explicacao": "53º = quinquagésimo terceiro."
+    },
+    {
+      "id": 28,
+      "pergunta": "Qual é o número ordinal correspondente a 64?",
+      "opcoes": [
+        "a) sexagésimo quarto",
+        "b) sexagésimo quatro",
+        "c) sessenta e quatro",
+        "d) sessenta quarto"
+      ],
+      "correta": 0,
+      "explicacao": "64º = sexagésimo quarto."
+    },
+    {
+      "id": 29,
+      "pergunta": "Qual é o número ordinal correspondente a 75?",
+      "opcoes": [
+        "a) septuagésimo quinto",
+        "b) septuagésimo cinco",
+        "c) setenta e cinco",
+        "d) setenta quinto"
+      ],
+      "correta": 0,
+      "explicacao": "75º = septuagésimo quinto."
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual é o número ordinal correspondente a 86?",
+      "opcoes": [
+        "a) octogésimo sexto",
+        "b) octogésimo seis",
+        "c) oitenta e seis",
+        "d) oitenta sexto"
+      ],
+      "correta": 0,
+      "explicacao": "86º = octogésimo sexto."
+    }
+  ]
+}
