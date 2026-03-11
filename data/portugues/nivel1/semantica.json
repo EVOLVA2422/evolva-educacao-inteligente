@@ -1,1 +1,127 @@
-
+{
+  "materia": "Semântica",
+  "nivel": 1,
+  "totalQuestoes": 30,
+  "questoes": [
+    {
+      "id": 1,
+      "pergunta": "Assinale o sinônimo de 'alegre':",
+      "opcoes": [
+        "a) triste",
+        "b) feliz",
+        "c) cansado",
+        "d) zangado"
+      ],
+      "correta": 1,
+      "explicacao": "Feliz é sinônimo de alegre."
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual é o antônimo de 'quente'?",
+      "opcoes": [
+        "a) morno",
+        "b) gelado",
+        "c) frio",
+        "d) fresco"
+      ],
+      "correta": 2,
+      "explicacao": "Frio é o antônimo direto de quente."
+    },
+    {
+      "id": 3,
+      "pergunta": "Assinale o sinônimo de 'casa':",
+      "opcoes": [
+        "a) rua",
+        "b) lar",
+        "c) prédio",
+        "d) apartamento"
+      ],
+      "correta": 1,
+      "explicacao": "Lar é sinônimo de casa no sentido de moradia."
+    },
+    {
+      "id": 4,
+      "pergunta": "Antônimo de 'dia' é:",
+      "opcoes": [
+        "a) tarde",
+        "b) noite",
+        "c) manhã",
+        "d) semana"
+      ],
+      "correta": 1,
+      "explicacao": "Noite é o oposto de dia."
+    },
+    {
+      "id": 5,
+      "pergunta": "Sinônimo de 'bonito' é:",
+      "opcoes": [
+        "a) feio",
+        "b) lindo",
+        "c) grande",
+        "d) pequeno"
+      ],
+      "correta": 1,
+      "explicacao": "Lindo é sinônimo de bonito."
+    },
+    {
+      "id": 6,
+      "pergunta": "Antônimo de 'alto' é:",
+      "opcoes": [
+        "a) grande",
+        "b) baixo",
+        "c) médio",
+        "d) enorme"
+      ],
+      "correta": 1,
+      "explicacao": "Baixo é o antônimo de alto."
+    },
+    {
+      "id": 7,
+      "pergunta": "Sinônimo de 'rápido' é:",
+      "opcoes": [
+        "a) lento",
+        "b) veloz",
+        "c) devagar",
+        "d) parado"
+      ],
+      "correta": 1,
+      "explicacao": "Veloz é sinônimo de rápido."
+    },
+    {
+      "id": 8,
+      "pergunta": "Antônimo de 'amor' é:",
+      "opcoes": [
+        "a) ódio",
+        "b) carinho",
+        "c) afeição",
+        "d) paixão"
+      ],
+      "correta": 0,
+      "explicacao": "Ódio é o antônimo de amor."
+    },
+    {
+      "id": 9,
+      "pergunta": "Sinônimo de 'inteligente' é:",
+      "opcoes": [
+        "a) burro",
+        "b) esperto",
+        "c) lento",
+        "d) ignorante"
+      ],
+      "correta": 1,
+      "explicacao": "Esperto é sinônimo de inteligente."
+    },
+    {
+      "id": 10,
+      "pergunta": "Antônimo de 'cheio' é:",
+      "opcoes": [
+        "a) vazio",
+        "b) lotado",
+        "c) completo",
+        "d) repleto"
+      ],
+      "correta": 0,
+      "explicacao": "Vazio é o oposto de cheio."
+    }
+  ]
+}
